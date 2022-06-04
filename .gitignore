@@ -1,0 +1,8 @@
+.env
+*.ipynb
+*.csv
+*.npy
+.ipynb_checkpoints/
+.mypy_cache/
+.pytest_cache/
+__pycache__/
