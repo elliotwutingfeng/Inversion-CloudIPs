@@ -4,7 +4,7 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
 [![GitHub license](https://img.shields.io/badge/LICENSE-BSD--3--CLAUSE-GREEN?style=for-the-badge)](LICENSE)
-[![extractor](https://img.shields.io/github/workflow/status/elliotwutingfeng/Inversion-CloudIPs/extractor?label=SCRAPER&style=for-the-badge)](https://github.com/elliotwutingfeng/Inversion-CloudIPs/actions/workflows/update.yml)
+[![update](https://img.shields.io/github/workflow/status/elliotwutingfeng/Inversion-CloudIPs/update?label=UPDATE&style=for-the-badge)](https://github.com/elliotwutingfeng/Inversion-CloudIPs/actions/workflows/update.yml)
 <img src="https://img.shields.io/tokei/lines/github/elliotwutingfeng/Inversion-CloudIPs?label=Total%20Blocklist%20IPs&style=for-the-badge" alt="Total Blocklist IPs"/>
 
 Machine-readable `.txt` blocklist of IP addresses derived via lexical analysis of [cloud](https://en.wikipedia.org/wiki/Cloud_computing) [virtual machine](https://en.wikipedia.org/wiki/Virtual_machine) hostnames listed in the [Inversion DNSBL Blocklists](https://github.com/elliotwutingfeng/Inversion-DNSBL-Blocklists), updated every hour.
