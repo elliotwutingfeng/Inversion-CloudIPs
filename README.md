@@ -1,19 +1,32 @@
-# Inversion CloudIPs
+<div align="center">
 
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+  <h3 align="center">Inversion CloudIPs</h3>
+  <img src="images/inversion_logo.svg" alt="Logo" width="200" height="200">
 
-[![GitHub license](https://img.shields.io/badge/LICENSE-BSD--3--CLAUSE-GREEN?style=for-the-badge)](LICENSE)
-[![update](https://img.shields.io/github/workflow/status/elliotwutingfeng/Inversion-CloudIPs/update?label=UPDATE&style=for-the-badge)](https://github.com/elliotwutingfeng/Inversion-CloudIPs/actions/workflows/update.yml)
-<img src="https://img.shields.io/tokei/lines/github/elliotwutingfeng/Inversion-CloudIPs?label=Total%20Blocklist%20IPs&style=for-the-badge" alt="Total Blocklist IPs"/>
+  <p align="center">
+    Malicious IP blocklists derived via lexical analysis of <a href="https://en.wikipedia.org/wiki/Cloud_computing">cloud</a> <a href="https://en.wikipedia.org/wiki/Virtual_machine">virtual machine</a> hostnames listed in the <a href="https://github.com/elliotwutingfeng/Inversion-DNSBL-Blocklists">Inversion DNSBL Blocklists</a>, updated every hour.
+  </p>
 
-Machine-readable `.txt` blocklist of IP addresses derived via lexical analysis of [cloud](https://en.wikipedia.org/wiki/Cloud_computing) [virtual machine](https://en.wikipedia.org/wiki/Virtual_machine) hostnames listed in the [Inversion DNSBL Blocklists](https://github.com/elliotwutingfeng/Inversion-DNSBL-Blocklists), updated every hour.
+  <p align="center">
+  <a href="https://docs.netgate.com/pfsense/en/latest/packages/pfblocker.html"><img src="https://img.shields.io/badge/pfBlockerNG-212121?style=for-the-badge&logo=pfsense&logoColor=white" alt="pfBlockerNG"/></a>
+  </p>
+
+  <p align="center">
+  <img src="https://img.shields.io/tokei/lines/github/elliotwutingfeng/Inversion-CloudIPs?label=Total%20Blocklist%20IPs&style=for-the-badge" alt="Total Blocklist IPs"/>
+  <a href="https://github.com/elliotwutingfeng/Inversion-CloudIPs/commits"><img src="https://img.shields.io/github/last-commit/elliotwutingfeng/Inversion-CloudIPs?label=Last%20Updated&style=for-the-badge" alt="Last Updated"/></a>
+  <a href="https://github.com/elliotwutingfeng/Inversion-CloudIPs/actions/workflows/update.yml"><img src="https://img.shields.io/github/workflow/status/elliotwutingfeng/Inversion-CloudIPs/update?label=UPDATE&style=for-the-badge" alt="Update"/></a>
+  <a href="LICENSE"><img src="https://img.shields.io/badge/LICENSE-BSD--3--CLAUSE-GREEN?style=for-the-badge" alt="GitHub license"/></a>
+  </p>
+
+</div>
 
 **Disclaimer:** _This project is not sponsored, endorsed, or otherwise affiliated with Google._
 
 ## Blocklist download
 
-You may download the blocklist [here](ips.txt?raw=1)
+| File | Download |
+|:-:|:-:|
+| ips.txt | [:floppy_disk:](ips.txt?raw=1) |
 
 ## Requirements
 
