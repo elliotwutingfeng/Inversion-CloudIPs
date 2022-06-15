@@ -16914,6 +16914,7 @@
 35.183.236.144 # ec2-35-183-236-144.ca-central-1.compute.amazonaws.com
 35.183.70.137 # ec2-35-183-70-137.ca-central-1.compute.amazonaws.com
 35.72.14.39 # ec2-35-72-14-39.ap-northeast-1.compute.amazonaws.com
+35.72.34.17 # ec2-35-72-34-17.ap-northeast-1.compute.amazonaws.com
 35.80.10.121 # ec2-35-80-10-121.us-west-2.compute.amazonaws.com
 35.80.10.34 # ec2-35-80-10-34.us-west-2.compute.amazonaws.com
 35.80.12.155 # ec2-35-80-12-155.us-west-2.compute.amazonaws.com
@@ -19899,6 +19900,7 @@
 52.43.6.112 # ec2-52-43-6-112.us-west-2.compute.amazonaws.com
 52.43.76.67 # ec2-52-43-76-67.us-west-2.compute.amazonaws.com
 52.43.77.158 # ec2-52-43-77-158.us-west-2.compute.amazonaws.com
+52.45.30.122 # ec2-52-45-30-122.compute-1.amazonaws.com
 52.47.86.186 # ec2-52-47-86-186.eu-west-3.compute.amazonaws.com
 52.48.32.164 # ec2-52-48-32-164.eu-west-1.compute.amazonaws.com
 52.53.148.120 # ec2-52-53-148-120.us-west-1.compute.amazonaws.com
@@ -24359,7 +24361,6 @@
 75.101.253.82 # ec2-75-101-253-82.compute-1.amazonaws.com
 79.125.90.5 # ec2-79-125-90-5.eu-west-1.compute.amazonaws.com
 99.79.191.110 # ec2-99-79-191-110.ca-central-1.compute.amazonaws.com
-174.141.231.54 # fervent-hodgkin.174-141-231-54.plesk.page
 187.188.145.232 # fixed-187-188-145-232.totalplay.net
 187.188.158.253 # fixed-187-188-158-253.totalplay.net
 187.188.238.190 # fixed-187-188-238-190.totalplay.net
@@ -24376,6 +24377,7 @@
 64.225.71.214 # securepanel.64-225-71-214.plesk.page
 108.21.252.202 # static-108-21-252-202.nycmny.fios.verizon.net
 84.9.115.174 # static-84-9-115-174.vodafonexdsl.co.uk
+84.9.210.139 # static-84-9-210-139.vodafonexdsl.co.uk
 87.75.121.187 # static-87-75-121-187.vodafonexdsl.co.uk
 209.126.98.123 # static-ip-209-126-98-123.inaddr.ip-pool.com
 209.239.119.190 # static-ip-209-239-119-190.inaddr.ip-pool.com
