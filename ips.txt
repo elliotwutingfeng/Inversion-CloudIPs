@@ -24378,6 +24378,7 @@
 108.21.252.202 # static-108-21-252-202.nycmny.fios.verizon.net
 84.9.115.174 # static-84-9-115-174.vodafonexdsl.co.uk
 84.9.210.139 # static-84-9-210-139.vodafonexdsl.co.uk
+87.74.0.234 # static-87-74-0-234.vodafonexdsl.co.uk
 87.75.121.187 # static-87-75-121-187.vodafonexdsl.co.uk
 209.126.98.123 # static-ip-209-126-98-123.inaddr.ip-pool.com
 209.239.119.190 # static-ip-209-239-119-190.inaddr.ip-pool.com
