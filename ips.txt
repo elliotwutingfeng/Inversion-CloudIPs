@@ -246,6 +246,8 @@
 13.212.126.89 # ec2-13-212-126-89.ap-southeast-1.compute.amazonaws.com
 13.212.14.121 # ec2-13-212-14-121.ap-southeast-1.compute.amazonaws.com
 13.213.1.10 # ec2-13-213-1-10.ap-southeast-1.compute.amazonaws.com
+13.213.6.117 # ec2-13-213-6-117.ap-southeast-1.compute.amazonaws.com
+13.213.73.6 # ec2-13-213-73-6.ap-southeast-1.compute.amazonaws.com
 13.215.190.231 # ec2-13-215-190-231.ap-southeast-1.compute.amazonaws.com
 13.229.131.48 # ec2-13-229-131-48.ap-southeast-1.compute.amazonaws.com
 13.229.72.131 # ec2-13-229-72-131.ap-southeast-1.compute.amazonaws.com
@@ -2597,6 +2599,7 @@
 18.119.156.52 # ec2-18-119-156-52.us-east-2.compute.amazonaws.com
 18.119.156.75 # ec2-18-119-156-75.us-east-2.compute.amazonaws.com
 18.135.6.220 # ec2-18-135-6-220.eu-west-2.compute.amazonaws.com
+18.136.103.209 # ec2-18-136-103-209.ap-southeast-1.compute.amazonaws.com
 18.139.224.75 # ec2-18-139-224-75.ap-southeast-1.compute.amazonaws.com
 18.140.113.234 # ec2-18-140-113-234.ap-southeast-1.compute.amazonaws.com
 18.141.186.23 # ec2-18-141-186-23.ap-southeast-1.compute.amazonaws.com
@@ -8592,6 +8595,7 @@
 23.22.130.234 # ec2-23-22-130-234.compute-1.amazonaws.com
 23.22.99.70 # ec2-23-22-99-70.compute-1.amazonaws.com
 23.23.38.235 # ec2-23-23-38-235.compute-1.amazonaws.com
+3.1.100.0 # ec2-3-1-100-0.ap-southeast-1.compute.amazonaws.com
 3.1.51.230 # ec2-3-1-51-230.ap-southeast-1.compute.amazonaws.com
 3.10.154.227 # ec2-3-10-154-227.eu-west-2.compute.amazonaws.com
 3.10.234.40 # ec2-3-10-234-40.eu-west-2.compute.amazonaws.com
@@ -21454,6 +21458,7 @@
 54.177.93.215 # ec2-54-177-93-215.us-west-1.compute.amazonaws.com
 54.177.94.254 # ec2-54-177-94-254.us-west-1.compute.amazonaws.com
 54.177.99.62 # ec2-54-177-99-62.us-west-1.compute.amazonaws.com
+54.179.22.122 # ec2-54-179-22-122.ap-southeast-1.compute.amazonaws.com
 54.179.25.168 # ec2-54-179-25-168.ap-southeast-1.compute.amazonaws.com
 54.179.44.140 # ec2-54-179-44-140.ap-southeast-1.compute.amazonaws.com
 54.180.124.9 # ec2-54-180-124-9.ap-northeast-2.compute.amazonaws.com
