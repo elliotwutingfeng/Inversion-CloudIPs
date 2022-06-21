@@ -2602,6 +2602,7 @@
 18.135.6.220 # ec2-18-135-6-220.eu-west-2.compute.amazonaws.com
 18.136.103.209 # ec2-18-136-103-209.ap-southeast-1.compute.amazonaws.com
 18.139.224.75 # ec2-18-139-224-75.ap-southeast-1.compute.amazonaws.com
+18.139.68.76 # ec2-18-139-68-76.ap-southeast-1.compute.amazonaws.com
 18.140.113.234 # ec2-18-140-113-234.ap-southeast-1.compute.amazonaws.com
 18.141.186.23 # ec2-18-141-186-23.ap-southeast-1.compute.amazonaws.com
 18.141.199.212 # ec2-18-141-199-212.ap-southeast-1.compute.amazonaws.com
@@ -7928,6 +7929,7 @@
 18.225.9.54 # ec2-18-225-9-54.us-east-2.compute.amazonaws.com
 18.228.204.172 # ec2-18-228-204-172.sa-east-1.compute.amazonaws.com
 18.228.219.25 # ec2-18-228-219-25.sa-east-1.compute.amazonaws.com
+18.229.134.14 # ec2-18-229-134-14.sa-east-1.compute.amazonaws.com
 18.229.138.112 # ec2-18-229-138-112.sa-east-1.compute.amazonaws.com
 18.230.124.180 # ec2-18-230-124-180.sa-east-1.compute.amazonaws.com
 18.230.145.72 # ec2-18-230-145-72.sa-east-1.compute.amazonaws.com
@@ -9022,6 +9024,7 @@
 3.12.83.146 # ec2-3-12-83-146.us-east-2.compute.amazonaws.com
 3.12.84.95 # ec2-3-12-84-95.us-east-2.compute.amazonaws.com
 3.125.159.82 # ec2-3-125-159-82.eu-central-1.compute.amazonaws.com
+3.127.102.15 # ec2-3-127-102-15.eu-central-1.compute.amazonaws.com
 3.128.32.183 # ec2-3-128-32-183.us-east-2.compute.amazonaws.com
 3.128.82.223 # ec2-3-128-82-223.us-east-2.compute.amazonaws.com
 3.129.10.147 # ec2-3-129-10-147.us-east-2.compute.amazonaws.com
@@ -24378,10 +24381,12 @@
 187.189.116.213 # fixed-187-189-116-213.totalplay.net
 187.189.153.13 # fixed-187-189-153-13.totalplay.net
 187.190.96.185 # fixed-187-190-96-185.totalplay.net
+86.134.28.58 # host86-134-28-58.range86-134.btcentralplus.com
 86.147.112.81 # host86-147-112-81.range86-147.btcentralplus.com
 86.147.139.126 # host86-147-139-126.range86-147.btcentralplus.com
 86.147.151.181 # host86-147-151-181.range86-147.btcentralplus.com
 86.147.56.181 # host86-147-56-181.range86-147.btcentralplus.com
+198.46.202.103 # lucid-newton.198-46-202-103.plesk.page
 178.32.104.93 # mc-178-32-104-93.ovh.net
 93.64.20.122 # net-93-64-20-122.cust.vodafonedsl.it
 157.245.106.174 # nostalgic-davinci.157-245-106-174.plesk.page
