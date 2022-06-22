@@ -374,7 +374,6 @@
 13.238.84.91 # ec2-13-238-84-91.ap-southeast-2.compute.amazonaws.com
 13.239.28.180 # ec2-13-239-28-180.ap-southeast-2.compute.amazonaws.com
 13.239.85.218 # ec2-13-239-85-218.ap-southeast-2.compute.amazonaws.com
-13.239.9.141 # ec2-13-239-9-141.ap-southeast-2.compute.amazonaws.com
 13.250.104.110 # ec2-13-250-104-110.ap-southeast-1.compute.amazonaws.com
 13.251.81.230 # ec2-13-251-81-230.ap-southeast-1.compute.amazonaws.com
 13.38.43.99 # ec2-13-38-43-99.eu-west-3.compute.amazonaws.com
@@ -14581,6 +14580,7 @@
 3.80.207.229 # ec2-3-80-207-229.compute-1.amazonaws.com
 3.80.8.117 # ec2-3-80-8-117.compute-1.amazonaws.com
 3.80.8.237 # ec2-3-80-8-237.compute-1.amazonaws.com
+3.83.167.214 # ec2-3-83-167-214.compute-1.amazonaws.com
 3.83.21.128 # ec2-3-83-21-128.compute-1.amazonaws.com
 3.83.26.228 # ec2-3-83-26-228.compute-1.amazonaws.com
 3.83.26.68 # ec2-3-83-26-68.compute-1.amazonaws.com
@@ -24381,6 +24381,7 @@
 187.189.116.213 # fixed-187-189-116-213.totalplay.net
 187.189.153.13 # fixed-187-189-153-13.totalplay.net
 187.190.96.185 # fixed-187-190-96-185.totalplay.net
+77.39.117.2 # host-77-39-117-2.stavropol.ru
 86.134.28.58 # host86-134-28-58.range86-134.btcentralplus.com
 86.147.112.81 # host86-147-112-81.range86-147.btcentralplus.com
 86.147.139.126 # host86-147-139-126.range86-147.btcentralplus.com
