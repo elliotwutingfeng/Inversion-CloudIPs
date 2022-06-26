@@ -24384,6 +24384,7 @@
 187.189.116.213 # fixed-187-189-116-213.totalplay.net
 187.189.153.13 # fixed-187-189-153-13.totalplay.net
 187.190.96.185 # fixed-187-190-96-185.totalplay.net
+201.150.179.7 # host-201-150-179-7.supernet.com.bo
 77.39.117.2 # host-77-39-117-2.stavropol.ru
 86.134.28.58 # host86-134-28-58.range86-134.btcentralplus.com
 86.147.112.81 # host86-147-112-81.range86-147.btcentralplus.com
