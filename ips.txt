@@ -132,7 +132,6 @@
 100.24.123.86 # ec2-100-24-123-86.compute-1.amazonaws.com
 100.24.124.174 # ec2-100-24-124-174.compute-1.amazonaws.com
 100.24.97.255 # ec2-100-24-97-255.compute-1.amazonaws.com
-100.24.99.147 # ec2-100-24-99-147.compute-1.amazonaws.com
 100.24.99.212 # ec2-100-24-99-212.compute-1.amazonaws.com
 100.25.147.80 # ec2-100-25-147-80.compute-1.amazonaws.com
 100.25.246.199 # ec2-100-25-246-199.compute-1.amazonaws.com
@@ -149,13 +148,11 @@
 100.26.150.73 # ec2-100-26-150-73.compute-1.amazonaws.com
 100.26.150.95 # ec2-100-26-150-95.compute-1.amazonaws.com
 100.26.242.23 # ec2-100-26-242-23.compute-1.amazonaws.com
-100.26.245.187 # ec2-100-26-245-187.compute-1.amazonaws.com
 100.26.248.13 # ec2-100-26-248-13.compute-1.amazonaws.com
 100.26.5.133 # ec2-100-26-5-133.compute-1.amazonaws.com
 100.26.5.82 # ec2-100-26-5-82.compute-1.amazonaws.com
 100.26.5.96 # ec2-100-26-5-96.compute-1.amazonaws.com
 100.27.32.29 # ec2-100-27-32-29.compute-1.amazonaws.com
-100.27.33.207 # ec2-100-27-33-207.compute-1.amazonaws.com
 100.27.34.188 # ec2-100-27-34-188.compute-1.amazonaws.com
 100.27.34.242 # ec2-100-27-34-242.compute-1.amazonaws.com
 100.27.35.40 # ec2-100-27-35-40.compute-1.amazonaws.com
@@ -5268,7 +5265,6 @@
 18.205.6.98 # ec2-18-205-6-98.compute-1.amazonaws.com
 18.205.7.243 # ec2-18-205-7-243.compute-1.amazonaws.com
 18.206.148.223 # ec2-18-206-148-223.compute-1.amazonaws.com
-18.206.149.11 # ec2-18-206-149-11.compute-1.amazonaws.com
 18.206.149.224 # ec2-18-206-149-224.compute-1.amazonaws.com
 18.206.149.75 # ec2-18-206-149-75.compute-1.amazonaws.com
 18.206.152.18 # ec2-18-206-152-18.compute-1.amazonaws.com
@@ -5278,7 +5274,6 @@
 18.206.46.65 # ec2-18-206-46-65.compute-1.amazonaws.com
 18.206.71.95 # ec2-18-206-71-95.compute-1.amazonaws.com
 18.206.87.221 # ec2-18-206-87-221.compute-1.amazonaws.com
-18.206.87.252 # ec2-18-206-87-252.compute-1.amazonaws.com
 18.206.93.107 # ec2-18-206-93-107.compute-1.amazonaws.com
 18.207.100.139 # ec2-18-207-100-139.compute-1.amazonaws.com
 18.207.100.193 # ec2-18-207-100-193.compute-1.amazonaws.com
@@ -5290,11 +5285,7 @@
 18.207.103.245 # ec2-18-207-103-245.compute-1.amazonaws.com
 18.207.106.152 # ec2-18-207-106-152.compute-1.amazonaws.com
 18.207.109.0 # ec2-18-207-109-0.compute-1.amazonaws.com
-18.207.109.168 # ec2-18-207-109-168.compute-1.amazonaws.com
 18.207.109.179 # ec2-18-207-109-179.compute-1.amazonaws.com
-18.207.109.88 # ec2-18-207-109-88.compute-1.amazonaws.com
-18.207.110.234 # ec2-18-207-110-234.compute-1.amazonaws.com
-18.207.110.239 # ec2-18-207-110-239.compute-1.amazonaws.com
 18.207.111.176 # ec2-18-207-111-176.compute-1.amazonaws.com
 18.207.111.177 # ec2-18-207-111-177.compute-1.amazonaws.com
 18.207.138.196 # ec2-18-207-138-196.compute-1.amazonaws.com
@@ -5307,7 +5298,6 @@
 18.207.181.99 # ec2-18-207-181-99.compute-1.amazonaws.com
 18.207.182.238 # ec2-18-207-182-238.compute-1.amazonaws.com
 18.207.182.254 # ec2-18-207-182-254.compute-1.amazonaws.com
-18.207.182.6 # ec2-18-207-182-6.compute-1.amazonaws.com
 18.207.183.227 # ec2-18-207-183-227.compute-1.amazonaws.com
 18.207.183.57 # ec2-18-207-183-57.compute-1.amazonaws.com
 18.207.184.9 # ec2-18-207-184-9.compute-1.amazonaws.com
@@ -12832,6 +12822,7 @@
 3.210.203.57 # ec2-3-210-203-57.compute-1.amazonaws.com
 3.210.204.15 # ec2-3-210-204-15.compute-1.amazonaws.com
 3.210.205.96 # ec2-3-210-205-96.compute-1.amazonaws.com
+3.212.166.53 # ec2-3-212-166-53.compute-1.amazonaws.com
 3.214.144.112 # ec2-3-214-144-112.compute-1.amazonaws.com
 3.214.144.204 # ec2-3-214-144-204.compute-1.amazonaws.com
 3.214.144.220 # ec2-3-214-144-220.compute-1.amazonaws.com
@@ -24368,7 +24359,6 @@
 166.215.205.127 # mobile-166-215-205-127.mycingular.net
 93.64.20.122 # net-93-64-20-122.cust.vodafonedsl.it
 157.245.106.174 # nostalgic-davinci.157-245-106-174.plesk.page
-64.225.71.214 # securepanel.64-225-71-214.plesk.page
 108.21.252.202 # static-108-21-252-202.nycmny.fios.verizon.net
 84.9.115.174 # static-84-9-115-174.vodafonexdsl.co.uk
 84.9.210.139 # static-84-9-210-139.vodafonexdsl.co.uk
