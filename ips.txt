@@ -20077,6 +20077,9 @@
 52.66.7.33 # ec2-52-66-7-33.ap-south-1.compute.amazonaws.com
 52.66.86.156 # ec2-52-66-86-156.ap-south-1.compute.amazonaws.com
 52.67.129.95 # ec2-52-67-129-95.sa-east-1.compute.amazonaws.com
+52.67.155.217 # ec2-52-67-155-217.sa-east-1.compute.amazonaws.com
+52.67.198.9 # ec2-52-67-198-9.sa-east-1.compute.amazonaws.com
+52.67.44.42 # ec2-52-67-44-42.sa-east-1.compute.amazonaws.com
 52.70.89.88 # ec2-52-70-89-88.compute-1.amazonaws.com
 52.78.86.254 # ec2-52-78-86-254.ap-northeast-2.compute.amazonaws.com
 52.8.10.147 # ec2-52-8-10-147.us-west-1.compute.amazonaws.com
