@@ -8348,6 +8348,7 @@
 184.72.6.82 # ec2-184-72-6-82.us-west-1.compute.amazonaws.com
 184.72.8.191 # ec2-184-72-8-191.us-west-1.compute.amazonaws.com
 184.72.8.221 # ec2-184-72-8-221.us-west-1.compute.amazonaws.com
+184.73.86.133 # ec2-184-73-86-133.compute-1.amazonaws.com
 204.236.136.219 # ec2-204-236-136-219.us-west-1.compute.amazonaws.com
 204.236.138.252 # ec2-204-236-138-252.us-west-1.compute.amazonaws.com
 204.236.142.86 # ec2-204-236-142-86.us-west-1.compute.amazonaws.com
@@ -12624,15 +12625,6 @@
 3.21.92.135 # ec2-3-21-92-135.us-east-2.compute.amazonaws.com
 3.21.92.174 # ec2-3-21-92-174.us-east-2.compute.amazonaws.com
 3.212.166.53 # ec2-3-212-166-53.compute-1.amazonaws.com
-3.216.91.253 # ec2-3-216-91-253.compute-1.amazonaws.com
-3.216.95.133 # ec2-3-216-95-133.compute-1.amazonaws.com
-3.218.141.50 # ec2-3-218-141-50.compute-1.amazonaws.com
-3.218.142.152 # ec2-3-218-142-152.compute-1.amazonaws.com
-3.218.142.246 # ec2-3-218-142-246.compute-1.amazonaws.com
-3.218.143.1 # ec2-3-218-143-1.compute-1.amazonaws.com
-3.218.143.155 # ec2-3-218-143-155.compute-1.amazonaws.com
-3.218.145.236 # ec2-3-218-145-236.compute-1.amazonaws.com
-3.218.153.123 # ec2-3-218-153-123.compute-1.amazonaws.com
 3.218.164.110 # ec2-3-218-164-110.compute-1.amazonaws.com
 3.218.164.146 # ec2-3-218-164-146.compute-1.amazonaws.com
 3.218.164.44 # ec2-3-218-164-44.compute-1.amazonaws.com
@@ -16567,7 +16559,6 @@
 35.178.36.130 # ec2-35-178-36-130.eu-west-2.compute.amazonaws.com
 35.181.4.105 # ec2-35-181-4-105.eu-west-3.compute.amazonaws.com
 35.183.121.186 # ec2-35-183-121-186.ca-central-1.compute.amazonaws.com
-35.183.236.144 # ec2-35-183-236-144.ca-central-1.compute.amazonaws.com
 35.183.70.137 # ec2-35-183-70-137.ca-central-1.compute.amazonaws.com
 35.72.14.39 # ec2-35-72-14-39.ap-northeast-1.compute.amazonaws.com
 35.72.34.17 # ec2-35-72-34-17.ap-northeast-1.compute.amazonaws.com
@@ -17572,7 +17563,6 @@
 44.197.176.39 # ec2-44-197-176-39.compute-1.amazonaws.com
 44.197.176.80 # ec2-44-197-176-80.compute-1.amazonaws.com
 44.197.177.143 # ec2-44-197-177-143.compute-1.amazonaws.com
-44.197.177.166 # ec2-44-197-177-166.compute-1.amazonaws.com
 44.197.177.231 # ec2-44-197-177-231.compute-1.amazonaws.com
 44.197.177.81 # ec2-44-197-177-81.compute-1.amazonaws.com
 44.197.177.9 # ec2-44-197-177-9.compute-1.amazonaws.com
@@ -17580,10 +17570,8 @@
 44.197.179.215 # ec2-44-197-179-215.compute-1.amazonaws.com
 44.197.181.208 # ec2-44-197-181-208.compute-1.amazonaws.com
 44.197.181.217 # ec2-44-197-181-217.compute-1.amazonaws.com
-44.197.181.57 # ec2-44-197-181-57.compute-1.amazonaws.com
 44.197.181.62 # ec2-44-197-181-62.compute-1.amazonaws.com
 44.197.181.95 # ec2-44-197-181-95.compute-1.amazonaws.com
-44.197.182.105 # ec2-44-197-182-105.compute-1.amazonaws.com
 44.197.182.216 # ec2-44-197-182-216.compute-1.amazonaws.com
 44.197.182.95 # ec2-44-197-182-95.compute-1.amazonaws.com
 44.197.183.113 # ec2-44-197-183-113.compute-1.amazonaws.com
@@ -17655,13 +17643,11 @@
 44.197.248.118 # ec2-44-197-248-118.compute-1.amazonaws.com
 44.198.157.145 # ec2-44-198-157-145.compute-1.amazonaws.com
 44.198.157.173 # ec2-44-198-157-173.compute-1.amazonaws.com
-44.198.157.67 # ec2-44-198-157-67.compute-1.amazonaws.com
 44.198.157.93 # ec2-44-198-157-93.compute-1.amazonaws.com
 44.198.157.95 # ec2-44-198-157-95.compute-1.amazonaws.com
 44.198.158.202 # ec2-44-198-158-202.compute-1.amazonaws.com
 44.198.158.64 # ec2-44-198-158-64.compute-1.amazonaws.com
 44.198.158.65 # ec2-44-198-158-65.compute-1.amazonaws.com
-44.198.159.109 # ec2-44-198-159-109.compute-1.amazonaws.com
 44.198.159.172 # ec2-44-198-159-172.compute-1.amazonaws.com
 44.198.159.186 # ec2-44-198-159-186.compute-1.amazonaws.com
 44.198.159.27 # ec2-44-198-159-27.compute-1.amazonaws.com
@@ -24051,7 +24037,6 @@
 209.239.119.190 # static-ip-209-239-119-190.inaddr.ip-pool.com
 62.75.187.217 # static-ip-62-75-187-217.inaddr.ip-pool.com
 206.189.134.70 # sweet-mcnulty.206-189-134-70.plesk.page
-27.120.106.130 # v-27-120-106-130.ub-freebit.net
 157.7.133.83 # v157-7-133-83.myvps.jp
 159.65.48.143 # vibrant-mahavira.159-65-48-143.plesk.page
 165.227.76.187 # vigilant-robinson.165-227-76-187.plesk.page
