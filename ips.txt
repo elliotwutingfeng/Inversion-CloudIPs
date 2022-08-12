@@ -42,7 +42,6 @@
 133.175.8.84 # 133-175-8-84.osaka.ap.gmo-isp.jp
 138.219.100.74 # 138-219-100-74.meganetscm.net.br
 138.219.100.78 # 138-219-100-78.meganetscm.net.br
-139.59.23.231 # 139-59-23-231.plesk.page
 14.200.105.118 # 14-200-105-118.tpgi.com.au
 14.201.119.166 # 14-201-119-166.static.tpgi.com.au
 151.236.54.165 # 151-236-54-165.static.as29550.net
@@ -183,7 +182,6 @@
 89.38.99.153 # 89-38-99-153.hosted-by-worldstream.net
 89.38.99.16 # 89-38-99-16.hosted-by-worldstream.net
 89.39.105.136 # 89-39-105-136.hosted-by-worldstream.net
-91.234.99.113 # 91-234-99-113.plesk.page
 93.190.141.28 # 93-190-141-28.hosted-by-worldstream.net
 93.190.142.106 # 93-190-142-106.hosted-by-worldstream.net
 94.30.74.1 # 94-30-74-1.xdsl.murphx.net
@@ -12628,15 +12626,6 @@
 3.21.92.174 # ec2-3-21-92-174.us-east-2.compute.amazonaws.com
 3.212.166.53 # ec2-3-212-166-53.compute-1.amazonaws.com
 3.218.203.39 # ec2-3-218-203-39.compute-1.amazonaws.com
-3.219.167.225 # ec2-3-219-167-225.compute-1.amazonaws.com
-3.219.167.43 # ec2-3-219-167-43.compute-1.amazonaws.com
-3.219.231.129 # ec2-3-219-231-129.compute-1.amazonaws.com
-3.219.237.180 # ec2-3-219-237-180.compute-1.amazonaws.com
-3.219.237.246 # ec2-3-219-237-246.compute-1.amazonaws.com
-3.219.247.136 # ec2-3-219-247-136.compute-1.amazonaws.com
-3.219.29.115 # ec2-3-219-29-115.compute-1.amazonaws.com
-3.219.30.152 # ec2-3-219-30-152.compute-1.amazonaws.com
-3.219.33.9 # ec2-3-219-33-9.compute-1.amazonaws.com
 3.219.41.168 # ec2-3-219-41-168.compute-1.amazonaws.com
 3.219.45.120 # ec2-3-219-45-120.compute-1.amazonaws.com
 3.219.47.35 # ec2-3-219-47-35.compute-1.amazonaws.com
@@ -17913,7 +17902,6 @@
 44.200.0.212 # ec2-44-200-0-212.compute-1.amazonaws.com
 44.200.0.30 # ec2-44-200-0-30.compute-1.amazonaws.com
 44.200.0.63 # ec2-44-200-0-63.compute-1.amazonaws.com
-44.200.11.115 # ec2-44-200-11-115.compute-1.amazonaws.com
 44.200.11.5 # ec2-44-200-11-5.compute-1.amazonaws.com
 44.200.11.70 # ec2-44-200-11-70.compute-1.amazonaws.com
 44.200.115.107 # ec2-44-200-115-107.compute-1.amazonaws.com
@@ -17972,7 +17960,6 @@
 44.200.152.44 # ec2-44-200-152-44.compute-1.amazonaws.com
 44.200.152.8 # ec2-44-200-152-8.compute-1.amazonaws.com
 44.200.153.216 # ec2-44-200-153-216.compute-1.amazonaws.com
-44.200.153.42 # ec2-44-200-153-42.compute-1.amazonaws.com
 44.200.154.144 # ec2-44-200-154-144.compute-1.amazonaws.com
 44.200.154.54 # ec2-44-200-154-54.compute-1.amazonaws.com
 44.200.156.0 # ec2-44-200-156-0.compute-1.amazonaws.com
@@ -23253,9 +23240,11 @@
 54.219.9.103 # ec2-54-219-9-103.us-west-1.compute.amazonaws.com
 54.219.92.42 # ec2-54-219-92-42.us-west-1.compute.amazonaws.com
 54.219.97.32 # ec2-54-219-97-32.us-west-1.compute.amazonaws.com
+54.226.42.136 # ec2-54-226-42-136.compute-1.amazonaws.com
 54.226.57.63 # ec2-54-226-57-63.compute-1.amazonaws.com
 54.226.61.166 # ec2-54-226-61-166.compute-1.amazonaws.com
 54.227.26.46 # ec2-54-227-26-46.compute-1.amazonaws.com
+54.227.95.248 # ec2-54-227-95-248.compute-1.amazonaws.com
 54.232.168.177 # ec2-54-232-168-177.sa-east-1.compute.amazonaws.com
 54.232.32.2 # ec2-54-232-32-2.sa-east-1.compute.amazonaws.com
 54.232.75.37 # ec2-54-232-75-37.sa-east-1.compute.amazonaws.com
@@ -23989,7 +23978,6 @@
 75.101.253.82 # ec2-75-101-253-82.compute-1.amazonaws.com
 79.125.90.5 # ec2-79-125-90-5.eu-west-1.compute.amazonaws.com
 99.79.191.110 # ec2-99-79-191-110.ca-central-1.compute.amazonaws.com
-165.22.216.58 # epic-stonebraker.165-22-216-58.plesk.page
 187.188.145.232 # fixed-187-188-145-232.totalplay.net
 187.188.158.253 # fixed-187-188-158-253.totalplay.net
 187.188.238.190 # fixed-187-188-238-190.totalplay.net
@@ -23997,6 +23985,7 @@
 187.189.153.13 # fixed-187-189-153-13.totalplay.net
 187.190.96.185 # fixed-187-190-96-185.totalplay.net
 201.150.172.239 # host-201-150-172-239.supernet.com.bo
+201.150.172.40 # host-201-150-172-40.supernet.com.bo
 201.150.175.147 # host-201-150-175-147.supernet.com.bo
 201.150.179.7 # host-201-150-179-7.supernet.com.bo
 201.150.180.24 # host-201-150-180-24.supernet.com.bo
@@ -24020,4 +24009,5 @@
 157.7.133.83 # v157-7-133-83.myvps.jp
 159.65.48.143 # vibrant-mahavira.159-65-48-143.plesk.page
 165.227.76.187 # vigilant-robinson.165-227-76-187.plesk.page
+139.59.23.231 # wonderful-gould.139-59-23-231.plesk.page
 159.89.161.12 # zealous-euclid.159-89-161-12.plesk.page
