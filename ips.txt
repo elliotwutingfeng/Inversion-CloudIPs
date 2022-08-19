@@ -173,7 +173,6 @@
 78.141.1.163 # 78-141-1-163.xdsl.murphx.net
 78.33.169.205 # 78-33-169-205.static.enta.net
 78.33.62.13 # 78-33-62-13.static.enta.net
-84.45.172.1 # 84-45-172-1.static.enta.net
 87.127.79.89 # 87-127-79-89.static.enta.net
 89.38.96.182 # 89-38-96-182.hosted-by-worldstream.net
 89.38.97.115 # 89-38-97-115.hosted-by-worldstream.net
@@ -12779,15 +12778,6 @@
 3.22.99.88 # ec2-3-22-99-88.us-east-2.compute.amazonaws.com
 3.220.46.161 # ec2-3-220-46-161.compute-1.amazonaws.com
 3.223.135.113 # ec2-3-223-135-113.compute-1.amazonaws.com
-3.223.135.202 # ec2-3-223-135-202.compute-1.amazonaws.com
-3.223.135.97 # ec2-3-223-135-97.compute-1.amazonaws.com
-3.223.136.222 # ec2-3-223-136-222.compute-1.amazonaws.com
-3.223.141.123 # ec2-3-223-141-123.compute-1.amazonaws.com
-3.223.141.145 # ec2-3-223-141-145.compute-1.amazonaws.com
-3.223.141.57 # ec2-3-223-141-57.compute-1.amazonaws.com
-3.223.191.30 # ec2-3-223-191-30.compute-1.amazonaws.com
-3.223.192.40 # ec2-3-223-192-40.compute-1.amazonaws.com
-3.223.195.220 # ec2-3-223-195-220.compute-1.amazonaws.com
 3.223.195.45 # ec2-3-223-195-45.compute-1.amazonaws.com
 3.223.4.117 # ec2-3-223-4-117.compute-1.amazonaws.com
 3.223.4.133 # ec2-3-223-4-133.compute-1.amazonaws.com
@@ -12797,6 +12787,7 @@
 3.224.135.248 # ec2-3-224-135-248.compute-1.amazonaws.com
 3.224.135.53 # ec2-3-224-135-53.compute-1.amazonaws.com
 3.224.147.184 # ec2-3-224-147-184.compute-1.amazonaws.com
+3.224.56.216 # ec2-3-224-56-216.compute-1.amazonaws.com
 3.224.56.253 # ec2-3-224-56-253.compute-1.amazonaws.com
 3.226.125.230 # ec2-3-226-125-230.compute-1.amazonaws.com
 3.226.235.126 # ec2-3-226-235-126.compute-1.amazonaws.com
@@ -14254,7 +14245,6 @@
 3.94.22.214 # ec2-3-94-22-214.compute-1.amazonaws.com
 3.94.22.233 # ec2-3-94-22-233.compute-1.amazonaws.com
 3.96.160.239 # ec2-3-96-160-239.ca-central-1.compute.amazonaws.com
-3.98.139.220 # ec2-3-98-139-220.ca-central-1.compute.amazonaws.com
 3.98.97.118 # ec2-3-98-97-118.ca-central-1.compute.amazonaws.com
 34.192.173.62 # ec2-34-192-173-62.compute-1.amazonaws.com
 34.200.212.105 # ec2-34-200-212-105.compute-1.amazonaws.com
