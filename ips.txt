@@ -12694,15 +12694,6 @@
 3.220.46.161 # ec2-3-220-46-161.compute-1.amazonaws.com
 3.223.135.113 # ec2-3-223-135-113.compute-1.amazonaws.com
 3.224.56.216 # ec2-3-224-56-216.compute-1.amazonaws.com
-3.227.20.165 # ec2-3-227-20-165.compute-1.amazonaws.com
-3.227.21.109 # ec2-3-227-21-109.compute-1.amazonaws.com
-3.227.21.120 # ec2-3-227-21-120.compute-1.amazonaws.com
-3.227.22.187 # ec2-3-227-22-187.compute-1.amazonaws.com
-3.227.23.126 # ec2-3-227-23-126.compute-1.amazonaws.com
-3.227.23.194 # ec2-3-227-23-194.compute-1.amazonaws.com
-3.227.231.245 # ec2-3-227-231-245.compute-1.amazonaws.com
-3.227.232.109 # ec2-3-227-232-109.compute-1.amazonaws.com
-3.227.241.217 # ec2-3-227-241-217.compute-1.amazonaws.com
 3.227.243.140 # ec2-3-227-243-140.compute-1.amazonaws.com
 3.227.244.201 # ec2-3-227-244-201.compute-1.amazonaws.com
 3.227.244.223 # ec2-3-227-244-223.compute-1.amazonaws.com
@@ -23793,4 +23784,5 @@
 159.65.48.143 # vibrant-mahavira.159-65-48-143.plesk.page
 165.227.76.187 # vigilant-robinson.165-227-76-187.plesk.page
 139.59.23.231 # wonderful-gould.139-59-23-231.plesk.page
+109.228.55.117 # www.silly-yonath.109-228-55-117.plesk.page
 159.89.161.12 # zealous-euclid.159-89-161-12.plesk.page
