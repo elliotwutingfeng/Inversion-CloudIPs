@@ -703,6 +703,7 @@
 13.56.234.249 # ec2-13-56-234-249.us-west-1.compute.amazonaws.com
 13.56.234.87 # ec2-13-56-234-87.us-west-1.compute.amazonaws.com
 13.56.234.97 # ec2-13-56-234-97.us-west-1.compute.amazonaws.com
+13.56.240.227 # ec2-13-56-240-227.us-west-1.compute.amazonaws.com
 13.57.13.108 # ec2-13-57-13-108.us-west-1.compute.amazonaws.com
 13.57.13.167 # ec2-13-57-13-167.us-west-1.compute.amazonaws.com
 13.57.13.177 # ec2-13-57-13-177.us-west-1.compute.amazonaws.com
@@ -7675,6 +7676,7 @@
 18.231.149.233 # ec2-18-231-149-233.sa-east-1.compute.amazonaws.com
 18.231.171.30 # ec2-18-231-171-30.sa-east-1.compute.amazonaws.com
 18.231.34.236 # ec2-18-231-34-236.sa-east-1.compute.amazonaws.com
+18.232.150.244 # ec2-18-232-150-244.compute-1.amazonaws.com
 18.233.226.239 # ec2-18-233-226-239.compute-1.amazonaws.com
 18.234.242.188 # ec2-18-234-242-188.compute-1.amazonaws.com
 18.236.113.112 # ec2-18-236-113-112.us-west-2.compute.amazonaws.com
@@ -13954,6 +13956,7 @@
 3.36.115.37 # ec2-3-36-115-37.ap-northeast-2.compute.amazonaws.com
 3.36.131.252 # ec2-3-36-131-252.ap-northeast-2.compute.amazonaws.com
 3.36.131.58 # ec2-3-36-131-58.ap-northeast-2.compute.amazonaws.com
+3.39.255.117 # ec2-3-39-255-117.ap-northeast-2.compute.amazonaws.com
 3.6.160.128 # ec2-3-6-160-128.ap-south-1.compute.amazonaws.com
 3.6.72.255 # ec2-3-6-72-255.ap-south-1.compute.amazonaws.com
 3.65.53.55 # ec2-3-65-53-55.eu-central-1.compute.amazonaws.com
@@ -19817,6 +19820,7 @@
 52.89.85.61 # ec2-52-89-85-61.us-west-2.compute.amazonaws.com
 52.89.87.168 # ec2-52-89-87-168.us-west-2.compute.amazonaws.com
 52.89.98.164 # ec2-52-89-98-164.us-west-2.compute.amazonaws.com
+52.9.40.216 # ec2-52-9-40-216.us-west-1.compute.amazonaws.com
 52.90.155.62 # ec2-52-90-155-62.compute-1.amazonaws.com
 52.90.55.33 # ec2-52-90-55-33.compute-1.amazonaws.com
 52.91.228.183 # ec2-52-91-228-183.compute-1.amazonaws.com
@@ -20903,6 +20907,7 @@
 54.183.134.118 # ec2-54-183-134-118.us-west-1.compute.amazonaws.com
 54.183.134.5 # ec2-54-183-134-5.us-west-1.compute.amazonaws.com
 54.183.135.124 # ec2-54-183-135-124.us-west-1.compute.amazonaws.com
+54.183.135.166 # ec2-54-183-135-166.us-west-1.compute.amazonaws.com
 54.183.136.210 # ec2-54-183-136-210.us-west-1.compute.amazonaws.com
 54.183.136.94 # ec2-54-183-136-94.us-west-1.compute.amazonaws.com
 54.183.137.150 # ec2-54-183-137-150.us-west-1.compute.amazonaws.com
@@ -23784,5 +23789,4 @@
 159.65.48.143 # vibrant-mahavira.159-65-48-143.plesk.page
 165.227.76.187 # vigilant-robinson.165-227-76-187.plesk.page
 139.59.23.231 # wonderful-gould.139-59-23-231.plesk.page
-109.228.55.117 # www.silly-yonath.109-228-55-117.plesk.page
 159.89.161.12 # zealous-euclid.159-89-161-12.plesk.page
