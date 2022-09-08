@@ -69,6 +69,7 @@
 190.2.146.4 # 190-2-146-4.hosted-by-worldstream.net
 190.2.153.226 # 190-2-153-226.hosted-by-worldstream.net
 190.2.154.49 # 190-2-154-49.hosted-by-worldstream.net
+198.101.51.105 # 198-101-51-105.cust.ohiotel.net
 198.24.206.38 # 198-24-206-38.static-ip.telepacific.net
 203.219.141.232 # 203-219-141-232.static.tpgi.com.au
 206.188.64.241 # 206-188-64-241.cpe.distributel.net
@@ -4332,6 +4333,7 @@
 18.183.222.119 # ec2-18-183-222-119.ap-northeast-1.compute.amazonaws.com
 18.183.227.36 # ec2-18-183-227-36.ap-northeast-1.compute.amazonaws.com
 18.184.28.26 # ec2-18-184-28-26.eu-central-1.compute.amazonaws.com
+18.185.45.143 # ec2-18-185-45-143.eu-central-1.compute.amazonaws.com
 18.188.1.108 # ec2-18-188-1-108.us-east-2.compute.amazonaws.com
 18.188.102.245 # ec2-18-188-102-245.us-east-2.compute.amazonaws.com
 18.188.103.148 # ec2-18-188-103-148.us-east-2.compute.amazonaws.com
@@ -13864,6 +13866,7 @@
 3.66.175.51 # ec2-3-66-175-51.eu-central-1.compute.amazonaws.com
 3.67.139.164 # ec2-3-67-139-164.eu-central-1.compute.amazonaws.com
 3.67.37.202 # ec2-3-67-37-202.eu-central-1.compute.amazonaws.com
+3.67.99.218 # ec2-3-67-99-218.eu-central-1.compute.amazonaws.com
 3.7.248.76 # ec2-3-7-248-76.ap-south-1.compute.amazonaws.com
 3.7.251.221 # ec2-3-7-251-221.ap-south-1.compute.amazonaws.com
 3.7.253.5 # ec2-3-7-253-5.ap-south-1.compute.amazonaws.com
@@ -23620,6 +23623,7 @@
 65.2.142.156 # ec2-65-2-142-156.ap-south-1.compute.amazonaws.com
 65.2.142.183 # ec2-65-2-142-183.ap-south-1.compute.amazonaws.com
 65.2.145.170 # ec2-65-2-145-170.ap-south-1.compute.amazonaws.com
+65.2.149.212 # ec2-65-2-149-212.ap-south-1.compute.amazonaws.com
 65.2.153.251 # ec2-65-2-153-251.ap-south-1.compute.amazonaws.com
 65.2.153.65 # ec2-65-2-153-65.ap-south-1.compute.amazonaws.com
 65.2.161.122 # ec2-65-2-161-122.ap-south-1.compute.amazonaws.com
@@ -23678,6 +23682,7 @@
 166.215.205.127 # mobile-166-215-205-127.mycingular.net
 93.64.20.122 # net-93-64-20-122.cust.vodafonedsl.it
 157.245.106.174 # nostalgic-davinci.157-245-106-174.plesk.page
+109.71.253.24 # optimistic-feistel.109-71-253-24.plesk.page
 108.21.252.202 # static-108-21-252-202.nycmny.fios.verizon.net
 84.9.115.174 # static-84-9-115-174.vodafonexdsl.co.uk
 84.9.210.139 # static-84-9-210-139.vodafonexdsl.co.uk
