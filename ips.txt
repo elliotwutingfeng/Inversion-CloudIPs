@@ -23496,6 +23496,7 @@
 54.92.139.61 # ec2-54-92-139-61.compute-1.amazonaws.com
 54.92.243.26 # ec2-54-92-243-26.compute-1.amazonaws.com
 54.93.113.147 # ec2-54-93-113-147.eu-central-1.compute.amazonaws.com
+54.93.245.223 # ec2-54-93-245-223.eu-central-1.compute.amazonaws.com
 54.93.49.165 # ec2-54-93-49-165.eu-central-1.compute.amazonaws.com
 54.94.0.127 # ec2-54-94-0-127.sa-east-1.compute.amazonaws.com
 63.35.228.74 # ec2-63-35-228-74.eu-west-1.compute.amazonaws.com
