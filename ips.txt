@@ -10,6 +10,7 @@
 14.201.119.166 # 14-201-119-166.static.tpgi.com.au
 151.236.54.165 # 151-236-54-165.static.as29550.net
 156.155.145.212 # 156-155-145-212.ip.internet.co.za
+168.227.251.70 # 168-227-251-70.7lan.net
 176.35.106.213 # 176-35-106-213.xdsl.murphx.net
 176.35.171.230 # 176-35-171-230.xdsl.murphx.net
 176.35.205.13 # 176-35-205-13.xdsl.murphx.net
@@ -1573,6 +1574,7 @@
 15.228.202.164 # ec2-15-228-202-164.sa-east-1.compute.amazonaws.com
 15.228.224.79 # ec2-15-228-224-79.sa-east-1.compute.amazonaws.com
 15.229.12.2 # ec2-15-229-12-2.sa-east-1.compute.amazonaws.com
+15.229.15.109 # ec2-15-229-15-109.sa-east-1.compute.amazonaws.com
 15.229.26.50 # ec2-15-229-26-50.sa-east-1.compute.amazonaws.com
 15.229.43.60 # ec2-15-229-43-60.sa-east-1.compute.amazonaws.com
 16.162.109.18 # ec2-16-162-109-18.ap-east-1.compute.amazonaws.com
@@ -19536,6 +19538,7 @@
 52.67.155.217 # ec2-52-67-155-217.sa-east-1.compute.amazonaws.com
 52.67.198.9 # ec2-52-67-198-9.sa-east-1.compute.amazonaws.com
 52.67.44.42 # ec2-52-67-44-42.sa-east-1.compute.amazonaws.com
+52.67.58.208 # ec2-52-67-58-208.sa-east-1.compute.amazonaws.com
 52.78.86.254 # ec2-52-78-86-254.ap-northeast-2.compute.amazonaws.com
 52.8.10.147 # ec2-52-8-10-147.us-west-1.compute.amazonaws.com
 52.8.10.41 # ec2-52-8-10-41.us-west-1.compute.amazonaws.com
@@ -22792,6 +22795,7 @@
 54.226.61.166 # ec2-54-226-61-166.compute-1.amazonaws.com
 54.227.26.46 # ec2-54-227-26-46.compute-1.amazonaws.com
 54.227.95.248 # ec2-54-227-95-248.compute-1.amazonaws.com
+54.232.140.33 # ec2-54-232-140-33.sa-east-1.compute.amazonaws.com
 54.233.224.247 # ec2-54-233-224-247.sa-east-1.compute.amazonaws.com
 54.234.210.23 # ec2-54-234-210-23.compute-1.amazonaws.com
 54.234.47.188 # ec2-54-234-47-188.compute-1.amazonaws.com
