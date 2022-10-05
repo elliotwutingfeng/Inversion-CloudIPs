@@ -5543,7 +5543,6 @@
 18.217.221.156 # ec2-18-217-221-156.us-east-2.compute.amazonaws.com
 18.217.222.236 # ec2-18-217-222-236.us-east-2.compute.amazonaws.com
 18.217.224.146 # ec2-18-217-224-146.us-east-2.compute.amazonaws.com
-18.217.224.150 # ec2-18-217-224-150.us-east-2.compute.amazonaws.com
 18.217.224.95 # ec2-18-217-224-95.us-east-2.compute.amazonaws.com
 18.217.225.150 # ec2-18-217-225-150.us-east-2.compute.amazonaws.com
 18.217.225.182 # ec2-18-217-225-182.us-east-2.compute.amazonaws.com
@@ -12723,15 +12722,6 @@
 3.23.64.25 # ec2-3-23-64-25.us-east-2.compute.amazonaws.com
 3.23.64.35 # ec2-3-23-64-35.us-east-2.compute.amazonaws.com
 3.230.127.89 # ec2-3-230-127-89.compute-1.amazonaws.com
-3.235.235.255 # ec2-3-235-235-255.compute-1.amazonaws.com
-3.235.235.50 # ec2-3-235-235-50.compute-1.amazonaws.com
-3.235.235.87 # ec2-3-235-235-87.compute-1.amazonaws.com
-3.235.235.99 # ec2-3-235-235-99.compute-1.amazonaws.com
-3.235.237.104 # ec2-3-235-237-104.compute-1.amazonaws.com
-3.235.237.239 # ec2-3-235-237-239.compute-1.amazonaws.com
-3.235.240.132 # ec2-3-235-240-132.compute-1.amazonaws.com
-3.235.240.82 # ec2-3-235-240-82.compute-1.amazonaws.com
-3.235.247.111 # ec2-3-235-247-111.compute-1.amazonaws.com
 3.235.247.60 # ec2-3-235-247-60.compute-1.amazonaws.com
 3.235.247.83 # ec2-3-235-247-83.compute-1.amazonaws.com
 3.235.248.177 # ec2-3-235-248-177.compute-1.amazonaws.com
@@ -13427,6 +13417,7 @@
 3.239.202.145 # ec2-3-239-202-145.compute-1.amazonaws.com
 3.239.202.59 # ec2-3-239-202-59.compute-1.amazonaws.com
 3.239.203.214 # ec2-3-239-203-214.compute-1.amazonaws.com
+3.239.204.111 # ec2-3-239-204-111.compute-1.amazonaws.com
 3.239.206.9 # ec2-3-239-206-9.compute-1.amazonaws.com
 3.239.208.255 # ec2-3-239-208-255.compute-1.amazonaws.com
 3.239.208.33 # ec2-3-239-208-33.compute-1.amazonaws.com
@@ -23483,8 +23474,6 @@
 86.147.139.126 # host86-147-139-126.range86-147.btcentralplus.com
 86.147.151.181 # host86-147-151-181.range86-147.btcentralplus.com
 86.147.56.181 # host86-147-56-181.range86-147.btcentralplus.com
-166.184.153.145 # mobile-166-184-153-145.mycingular.net
-166.215.205.127 # mobile-166-215-205-127.mycingular.net
 93.64.20.122 # net-93-64-20-122.cust.vodafonedsl.it
 157.245.106.174 # nostalgic-davinci.157-245-106-174.plesk.page
 109.71.253.24 # optimistic-feistel.109-71-253-24.plesk.page
