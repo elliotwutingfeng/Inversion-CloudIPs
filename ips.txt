@@ -110,7 +110,6 @@
 93.190.142.106 # 93-190-142-106.hosted-by-worldstream.net
 94.30.74.1 # 94-30-74-1.xdsl.murphx.net
 94.30.98.5 # 94-30-98-5.xdsl.murphx.net
-96.65.119.225 # 96-65-119-225-static.hfc.comcastbusiness.net
 45.79.181.206 # eager-mccarthy.45-79-181-206.plesk.page
 100.20.101.218 # ec2-100-20-101-218.us-west-2.compute.amazonaws.com
 100.20.101.244 # ec2-100-20-101-244.us-west-2.compute.amazonaws.com
@@ -12722,15 +12721,6 @@
 3.23.64.25 # ec2-3-23-64-25.us-east-2.compute.amazonaws.com
 3.23.64.35 # ec2-3-23-64-35.us-east-2.compute.amazonaws.com
 3.230.127.89 # ec2-3-230-127-89.compute-1.amazonaws.com
-3.235.247.60 # ec2-3-235-247-60.compute-1.amazonaws.com
-3.235.247.83 # ec2-3-235-247-83.compute-1.amazonaws.com
-3.235.248.177 # ec2-3-235-248-177.compute-1.amazonaws.com
-3.235.248.6 # ec2-3-235-248-6.compute-1.amazonaws.com
-3.235.248.88 # ec2-3-235-248-88.compute-1.amazonaws.com
-3.235.249.81 # ec2-3-235-249-81.compute-1.amazonaws.com
-3.235.250.60 # ec2-3-235-250-60.compute-1.amazonaws.com
-3.235.28.125 # ec2-3-235-28-125.compute-1.amazonaws.com
-3.235.3.128 # ec2-3-235-3-128.compute-1.amazonaws.com
 3.235.3.155 # ec2-3-235-3-155.compute-1.amazonaws.com
 3.235.4.179 # ec2-3-235-4-179.compute-1.amazonaws.com
 3.235.4.85 # ec2-3-235-4-85.compute-1.amazonaws.com
@@ -13060,7 +13050,6 @@
 3.237.95.7 # ec2-3-237-95-7.compute-1.amazonaws.com
 3.237.96.1 # ec2-3-237-96-1.compute-1.amazonaws.com
 3.237.96.103 # ec2-3-237-96-103.compute-1.amazonaws.com
-3.237.97.140 # ec2-3-237-97-140.compute-1.amazonaws.com
 3.237.99.12 # ec2-3-237-99-12.compute-1.amazonaws.com
 3.237.99.212 # ec2-3-237-99-212.compute-1.amazonaws.com
 3.238.1.199 # ec2-3-238-1-199.compute-1.amazonaws.com
@@ -13417,7 +13406,6 @@
 3.239.202.145 # ec2-3-239-202-145.compute-1.amazonaws.com
 3.239.202.59 # ec2-3-239-202-59.compute-1.amazonaws.com
 3.239.203.214 # ec2-3-239-203-214.compute-1.amazonaws.com
-3.239.204.111 # ec2-3-239-204-111.compute-1.amazonaws.com
 3.239.206.9 # ec2-3-239-206-9.compute-1.amazonaws.com
 3.239.208.255 # ec2-3-239-208-255.compute-1.amazonaws.com
 3.239.208.33 # ec2-3-239-208-33.compute-1.amazonaws.com
