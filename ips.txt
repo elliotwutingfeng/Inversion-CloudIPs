@@ -74,6 +74,7 @@
 198.24.206.38 # 198-24-206-38.static-ip.telepacific.net
 203.219.141.232 # 203-219-141-232.static.tpgi.com.au
 206.188.64.241 # 206-188-64-241.cpe.distributel.net
+207.244.241.13 # 207-244-241-13.plesk.page
 212.8.248.30 # 212-8-248-30.hosted-by-worldstream.net
 212.8.250.239 # 212-8-250-239.hosted-by-worldstream.net
 217.23.1.208 # 217-23-1-208.hosted-by-worldstream.net
@@ -7460,7 +7461,6 @@
 18.224.215.54 # ec2-18-224-215-54.us-east-2.compute.amazonaws.com
 18.224.228.156 # ec2-18-224-228-156.us-east-2.compute.amazonaws.com
 18.224.228.199 # ec2-18-224-228-199.us-east-2.compute.amazonaws.com
-18.224.228.246 # ec2-18-224-228-246.us-east-2.compute.amazonaws.com
 18.224.228.247 # ec2-18-224-228-247.us-east-2.compute.amazonaws.com
 18.224.228.29 # ec2-18-224-228-29.us-east-2.compute.amazonaws.com
 18.224.228.33 # ec2-18-224-228-33.us-east-2.compute.amazonaws.com
@@ -12718,14 +12718,6 @@
 3.23.64.25 # ec2-3-23-64-25.us-east-2.compute.amazonaws.com
 3.23.64.35 # ec2-3-23-64-35.us-east-2.compute.amazonaws.com
 3.230.127.89 # ec2-3-230-127-89.compute-1.amazonaws.com
-3.235.92.124 # ec2-3-235-92-124.compute-1.amazonaws.com
-3.235.92.14 # ec2-3-235-92-14.compute-1.amazonaws.com
-3.235.93.74 # ec2-3-235-93-74.compute-1.amazonaws.com
-3.235.94.134 # ec2-3-235-94-134.compute-1.amazonaws.com
-3.235.94.193 # ec2-3-235-94-193.compute-1.amazonaws.com
-3.235.94.28 # ec2-3-235-94-28.compute-1.amazonaws.com
-3.235.98.189 # ec2-3-235-98-189.compute-1.amazonaws.com
-3.235.98.249 # ec2-3-235-98-249.compute-1.amazonaws.com
 3.235.99.164 # ec2-3-235-99-164.compute-1.amazonaws.com
 3.235.99.41 # ec2-3-235-99-41.compute-1.amazonaws.com
 3.236.127.3 # ec2-3-236-127-3.compute-1.amazonaws.com
@@ -19354,7 +19346,6 @@
 52.63.66.162 # ec2-52-63-66-162.ap-southeast-2.compute.amazonaws.com
 52.64.180.77 # ec2-52-64-180-77.ap-southeast-2.compute.amazonaws.com
 52.65.188.12 # ec2-52-65-188-12.ap-southeast-2.compute.amazonaws.com
-52.65.239.39 # ec2-52-65-239-39.ap-southeast-2.compute.amazonaws.com
 52.65.78.67 # ec2-52-65-78-67.ap-southeast-2.compute.amazonaws.com
 52.66.112.122 # ec2-52-66-112-122.ap-south-1.compute.amazonaws.com
 52.66.12.112 # ec2-52-66-12-112.ap-south-1.compute.amazonaws.com
@@ -20038,6 +20029,7 @@
 54.160.59.129 # ec2-54-160-59-129.compute-1.amazonaws.com
 54.165.171.146 # ec2-54-165-171-146.compute-1.amazonaws.com
 54.165.253.154 # ec2-54-165-253-154.compute-1.amazonaws.com
+54.165.27.11 # ec2-54-165-27-11.compute-1.amazonaws.com
 54.165.33.207 # ec2-54-165-33-207.compute-1.amazonaws.com
 54.166.138.84 # ec2-54-166-138-84.compute-1.amazonaws.com
 54.167.81.162 # ec2-54-167-81-162.compute-1.amazonaws.com
@@ -23254,11 +23246,11 @@
 54.89.138.87 # ec2-54-89-138-87.compute-1.amazonaws.com
 54.89.20.44 # ec2-54-89-20-44.compute-1.amazonaws.com
 54.90.9.224 # ec2-54-90-9-224.compute-1.amazonaws.com
+54.91.188.89 # ec2-54-91-188-89.compute-1.amazonaws.com
 54.91.38.133 # ec2-54-91-38-133.compute-1.amazonaws.com
 54.91.38.190 # ec2-54-91-38-190.compute-1.amazonaws.com
 54.91.38.44 # ec2-54-91-38-44.compute-1.amazonaws.com
 54.92.139.61 # ec2-54-92-139-61.compute-1.amazonaws.com
-54.92.243.26 # ec2-54-92-243-26.compute-1.amazonaws.com
 54.93.113.147 # ec2-54-93-113-147.eu-central-1.compute.amazonaws.com
 54.93.245.223 # ec2-54-93-245-223.eu-central-1.compute.amazonaws.com
 54.93.49.165 # ec2-54-93-49-165.eu-central-1.compute.amazonaws.com
