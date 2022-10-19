@@ -19421,7 +19421,6 @@
 52.9.40.216 # ec2-52-9-40-216.us-west-1.compute.amazonaws.com
 52.90.155.62 # ec2-52-90-155-62.compute-1.amazonaws.com
 52.90.55.33 # ec2-52-90-55-33.compute-1.amazonaws.com
-52.91.228.183 # ec2-52-91-228-183.compute-1.amazonaws.com
 54.144.161.123 # ec2-54-144-161-123.compute-1.amazonaws.com
 54.144.175.142 # ec2-54-144-175-142.compute-1.amazonaws.com
 54.145.171.24 # ec2-54-145-171-24.compute-1.amazonaws.com
@@ -23379,7 +23378,6 @@
 87.74.0.234 # static-87-74-0-234.vodafonexdsl.co.uk
 87.75.121.187 # static-87-75-121-187.vodafonexdsl.co.uk
 209.126.98.123 # static-ip-209-126-98-123.inaddr.ip-pool.com
-209.239.119.190 # static-ip-209-239-119-190.inaddr.ip-pool.com
 62.75.187.217 # static-ip-62-75-187-217.inaddr.ip-pool.com
 23.239.215.42 # stupefied-dewdney.23-239-215-42.plesk.page
 206.189.134.70 # sweet-mcnulty.206-189-134-70.plesk.page
