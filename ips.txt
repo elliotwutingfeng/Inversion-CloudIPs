@@ -81,6 +81,7 @@
 217.23.1.87 # 217-23-1-87.hosted-by-worldstream.net
 217.23.13.125 # 217-23-13-125.hosted-by-worldstream.net
 217.23.15.91 # 217-23-15-91.hosted-by-worldstream.net
+220.245.182.186 # 220-245-182-186.static.tpgi.com.au
 27.32.47.146 # 27-32-47-146.static.tpgi.com.au
 27.33.37.230 # 27-33-37-230.static.tpgi.com.au
 27.33.41.4 # 27-33-41-4.static.tpgi.com.au
@@ -12580,6 +12581,7 @@
 3.22.233.236 # ec2-3-22-233-236.us-east-2.compute.amazonaws.com
 3.22.234.114 # ec2-3-22-234-114.us-east-2.compute.amazonaws.com
 3.22.234.146 # ec2-3-22-234-146.us-east-2.compute.amazonaws.com
+3.22.234.184 # ec2-3-22-234-184.us-east-2.compute.amazonaws.com
 3.22.234.210 # ec2-3-22-234-210.us-east-2.compute.amazonaws.com
 3.22.234.218 # ec2-3-22-234-218.us-east-2.compute.amazonaws.com
 3.22.234.223 # ec2-3-22-234-223.us-east-2.compute.amazonaws.com
@@ -12701,15 +12703,6 @@
 3.23.64.25 # ec2-3-23-64-25.us-east-2.compute.amazonaws.com
 3.23.64.35 # ec2-3-23-64-35.us-east-2.compute.amazonaws.com
 3.230.127.89 # ec2-3-230-127-89.compute-1.amazonaws.com
-3.236.177.133 # ec2-3-236-177-133.compute-1.amazonaws.com
-3.236.178.109 # ec2-3-236-178-109.compute-1.amazonaws.com
-3.236.178.115 # ec2-3-236-178-115.compute-1.amazonaws.com
-3.236.178.121 # ec2-3-236-178-121.compute-1.amazonaws.com
-3.236.178.147 # ec2-3-236-178-147.compute-1.amazonaws.com
-3.236.179.116 # ec2-3-236-179-116.compute-1.amazonaws.com
-3.236.179.150 # ec2-3-236-179-150.compute-1.amazonaws.com
-3.236.179.203 # ec2-3-236-179-203.compute-1.amazonaws.com
-3.236.180.124 # ec2-3-236-180-124.compute-1.amazonaws.com
 3.236.181.130 # ec2-3-236-181-130.compute-1.amazonaws.com
 3.236.182.143 # ec2-3-236-182-143.compute-1.amazonaws.com
 3.236.183.228 # ec2-3-236-183-228.compute-1.amazonaws.com
