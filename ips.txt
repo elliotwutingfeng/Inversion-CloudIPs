@@ -73,7 +73,6 @@
 198.24.206.38 # 198-24-206-38.static-ip.telepacific.net
 203.219.141.232 # 203-219-141-232.static.tpgi.com.au
 206.188.64.241 # 206-188-64-241.cpe.distributel.net
-207.244.241.13 # 207-244-241-13.plesk.page
 212.8.248.30 # 212-8-248-30.hosted-by-worldstream.net
 212.8.250.239 # 212-8-250-239.hosted-by-worldstream.net
 217.23.1.208 # 217-23-1-208.hosted-by-worldstream.net
@@ -12695,15 +12694,7 @@
 3.23.64.25 # ec2-3-23-64-25.us-east-2.compute.amazonaws.com
 3.23.64.35 # ec2-3-23-64-35.us-east-2.compute.amazonaws.com
 3.230.127.89 # ec2-3-230-127-89.compute-1.amazonaws.com
-3.236.198.195 # ec2-3-236-198-195.compute-1.amazonaws.com
-3.236.198.32 # ec2-3-236-198-32.compute-1.amazonaws.com
-3.236.198.80 # ec2-3-236-198-80.compute-1.amazonaws.com
 3.236.202.184 # ec2-3-236-202-184.compute-1.amazonaws.com
-3.236.202.205 # ec2-3-236-202-205.compute-1.amazonaws.com
-3.236.202.225 # ec2-3-236-202-225.compute-1.amazonaws.com
-3.236.203.165 # ec2-3-236-203-165.compute-1.amazonaws.com
-3.236.203.97 # ec2-3-236-203-97.compute-1.amazonaws.com
-3.236.204.36 # ec2-3-236-204-36.compute-1.amazonaws.com
 3.236.204.84 # ec2-3-236-204-84.compute-1.amazonaws.com
 3.236.205.206 # ec2-3-236-205-206.compute-1.amazonaws.com
 3.236.29.127 # ec2-3-236-29-127.compute-1.amazonaws.com
@@ -23298,6 +23289,7 @@
 86.147.56.181 # host86-147-56-181.range86-147.btcentralplus.com
 93.64.20.122 # net-93-64-20-122.cust.vodafonedsl.it
 157.245.106.174 # nostalgic-davinci.157-245-106-174.plesk.page
+216.14.152.105 # olp-216-14-152-105.olp.net
 109.71.253.24 # optimistic-feistel.109-71-253-24.plesk.page
 108.21.252.202 # static-108-21-252-202.nycmny.fios.verizon.net
 84.9.115.174 # static-84-9-115-174.vodafonexdsl.co.uk
@@ -23306,7 +23298,6 @@
 87.75.121.187 # static-87-75-121-187.vodafonexdsl.co.uk
 209.126.98.123 # static-ip-209-126-98-123.inaddr.ip-pool.com
 62.75.187.217 # static-ip-62-75-187-217.inaddr.ip-pool.com
-23.239.215.42 # stupefied-dewdney.23-239-215-42.plesk.page
 206.189.134.70 # sweet-mcnulty.206-189-134-70.plesk.page
 157.7.133.83 # v157-7-133-83.myvps.jp
 159.65.48.143 # vibrant-mahavira.159-65-48-143.plesk.page
