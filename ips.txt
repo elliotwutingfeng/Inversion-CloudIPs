@@ -75,6 +75,7 @@
 206.188.64.241 # 206-188-64-241.cpe.distributel.net
 212.8.248.30 # 212-8-248-30.hosted-by-worldstream.net
 212.8.250.239 # 212-8-250-239.hosted-by-worldstream.net
+216.55.142.70 # 216-55-142-70.dedicated.abac.net
 217.23.1.208 # 217-23-1-208.hosted-by-worldstream.net
 217.23.1.23 # 217-23-1-23.hosted-by-worldstream.net
 217.23.1.87 # 217-23-1-87.hosted-by-worldstream.net
@@ -12693,14 +12694,6 @@
 3.23.64.25 # ec2-3-23-64-25.us-east-2.compute.amazonaws.com
 3.23.64.35 # ec2-3-23-64-35.us-east-2.compute.amazonaws.com
 3.230.127.89 # ec2-3-230-127-89.compute-1.amazonaws.com
-3.236.39.4 # ec2-3-236-39-4.compute-1.amazonaws.com
-3.236.40.115 # ec2-3-236-40-115.compute-1.amazonaws.com
-3.236.40.49 # ec2-3-236-40-49.compute-1.amazonaws.com
-3.236.41.187 # ec2-3-236-41-187.compute-1.amazonaws.com
-3.236.41.45 # ec2-3-236-41-45.compute-1.amazonaws.com
-3.236.42.190 # ec2-3-236-42-190.compute-1.amazonaws.com
-3.236.42.35 # ec2-3-236-42-35.compute-1.amazonaws.com
-3.236.43.18 # ec2-3-236-43-18.compute-1.amazonaws.com
 3.236.43.231 # ec2-3-236-43-231.compute-1.amazonaws.com
 3.236.89.183 # ec2-3-236-89-183.compute-1.amazonaws.com
 3.236.90.101 # ec2-3-236-90-101.compute-1.amazonaws.com
@@ -19908,6 +19901,7 @@
 54.160.58.194 # ec2-54-160-58-194.compute-1.amazonaws.com
 54.160.59.129 # ec2-54-160-59-129.compute-1.amazonaws.com
 54.165.171.146 # ec2-54-165-171-146.compute-1.amazonaws.com
+54.165.227.249 # ec2-54-165-227-249.compute-1.amazonaws.com
 54.165.253.154 # ec2-54-165-253-154.compute-1.amazonaws.com
 54.165.27.11 # ec2-54-165-27-11.compute-1.amazonaws.com
 54.165.33.207 # ec2-54-165-33-207.compute-1.amazonaws.com
@@ -22835,7 +22829,6 @@
 54.246.145.179 # ec2-54-246-145-179.eu-west-1.compute.amazonaws.com
 54.247.44.63 # ec2-54-247-44-63.eu-west-1.compute.amazonaws.com
 54.249.205.250 # ec2-54-249-205-250.ap-northeast-1.compute.amazonaws.com
-54.250.172.41 # ec2-54-250-172-41.ap-northeast-1.compute.amazonaws.com
 54.251.131.60 # ec2-54-251-131-60.ap-southeast-1.compute.amazonaws.com
 54.252.189.197 # ec2-54-252-189-197.ap-southeast-2.compute.amazonaws.com
 54.252.227.139 # ec2-54-252-227-139.ap-southeast-2.compute.amazonaws.com
