@@ -30,7 +30,7 @@
 
 ## Requirements
 
--   Python >= 3.9.13
+-   Python >= 3.11
 
 ## Setup instructions
 
