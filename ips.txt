@@ -18354,6 +18354,7 @@
 52.220.44.205 # ec2-52-220-44-205.ap-southeast-1.compute.amazonaws.com
 52.221.207.64 # ec2-52-221-207-64.ap-southeast-1.compute.amazonaws.com
 52.23.166.216 # ec2-52-23-166-216.compute-1.amazonaws.com
+52.23.32.94 # ec2-52-23-32-94.compute-1.amazonaws.com
 52.23.4.3 # ec2-52-23-4-3.compute-1.amazonaws.com
 52.24.100.87 # ec2-52-24-100-87.us-west-2.compute.amazonaws.com
 52.24.105.50 # ec2-52-24-105-50.us-west-2.compute.amazonaws.com
