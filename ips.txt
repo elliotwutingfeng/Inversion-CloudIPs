@@ -2748,7 +2748,6 @@
 18.144.3.255 # ec2-18-144-3-255.us-west-1.compute.amazonaws.com
 18.144.3.39 # ec2-18-144-3-39.us-west-1.compute.amazonaws.com
 18.144.3.58 # ec2-18-144-3-58.us-west-1.compute.amazonaws.com
-18.144.39.45 # ec2-18-144-39-45.us-west-1.compute.amazonaws.com
 18.144.4.125 # ec2-18-144-4-125.us-west-1.compute.amazonaws.com
 18.144.4.158 # ec2-18-144-4-158.us-west-1.compute.amazonaws.com
 18.144.4.197 # ec2-18-144-4-197.us-west-1.compute.amazonaws.com
@@ -18329,7 +18328,6 @@
 52.22.155.88 # ec2-52-22-155-88.compute-1.amazonaws.com
 52.220.44.205 # ec2-52-220-44-205.ap-southeast-1.compute.amazonaws.com
 52.221.207.64 # ec2-52-221-207-64.ap-southeast-1.compute.amazonaws.com
-52.23.166.216 # ec2-52-23-166-216.compute-1.amazonaws.com
 52.23.32.94 # ec2-52-23-32-94.compute-1.amazonaws.com
 52.23.4.3 # ec2-52-23-4-3.compute-1.amazonaws.com
 52.24.100.87 # ec2-52-24-100-87.us-west-2.compute.amazonaws.com
@@ -19415,7 +19413,6 @@
 54.151.15.214 # ec2-54-151-15-214.us-west-1.compute.amazonaws.com
 54.151.16.148 # ec2-54-151-16-148.us-west-1.compute.amazonaws.com
 54.151.16.234 # ec2-54-151-16-234.us-west-1.compute.amazonaws.com
-54.151.16.243 # ec2-54-151-16-243.us-west-1.compute.amazonaws.com
 54.151.16.255 # ec2-54-151-16-255.us-west-1.compute.amazonaws.com
 54.151.16.69 # ec2-54-151-16-69.us-west-1.compute.amazonaws.com
 54.151.19.60 # ec2-54-151-19-60.us-west-1.compute.amazonaws.com
@@ -23209,7 +23206,6 @@
 93.64.20.122 # net-93-64-20-122.cust.vodafonedsl.it
 157.245.106.174 # nostalgic-davinci.157-245-106-174.plesk.page
 216.14.152.105 # olp-216-14-152-105.olp.net
-108.21.252.202 # static-108-21-252-202.nycmny.fios.verizon.net
 84.9.115.174 # static-84-9-115-174.vodafonexdsl.co.uk
 84.9.210.139 # static-84-9-210-139.vodafonexdsl.co.uk
 87.74.0.234 # static-87-74-0-234.vodafonexdsl.co.uk
