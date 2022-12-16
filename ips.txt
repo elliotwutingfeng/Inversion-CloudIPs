@@ -91,6 +91,7 @@
 67.222.49.95 # 67-222-49-95.unifiedlayer.com
 69.195.120.169 # 69-195-120-169.unifiedlayer.com
 77.44.100.31 # 77-44-100-31.xdsl.murphx.net
+77.44.69.49 # 77-44-69-49.xdsl.murphx.net
 77.44.89.37 # 77-44-89-37.xdsl.murphx.net
 78.141.1.163 # 78-141-1-163.xdsl.murphx.net
 78.33.169.205 # 78-33-169-205.static.enta.net
@@ -13446,6 +13447,7 @@
 3.91.34.207 # ec2-3-91-34-207.compute-1.amazonaws.com
 3.91.34.233 # ec2-3-91-34-233.compute-1.amazonaws.com
 3.91.34.236 # ec2-3-91-34-236.compute-1.amazonaws.com
+3.91.40.192 # ec2-3-91-40-192.compute-1.amazonaws.com
 3.91.45.112 # ec2-3-91-45-112.compute-1.amazonaws.com
 3.91.45.186 # ec2-3-91-45-186.compute-1.amazonaws.com
 3.91.53.177 # ec2-3-91-53-177.compute-1.amazonaws.com
