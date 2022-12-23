@@ -70,7 +70,6 @@
 190.2.154.49 # 190-2-154-49.hosted-by-worldstream.net
 198.101.51.105 # 198-101-51-105.cust.ohiotel.net
 198.24.206.38 # 198-24-206-38.static-ip.telepacific.net
-203.219.141.232 # 203-219-141-232.static.tpgi.com.au
 212.8.248.30 # 212-8-248-30.hosted-by-worldstream.net
 212.8.250.239 # 212-8-250-239.hosted-by-worldstream.net
 216.55.142.70 # 216-55-142-70.dedicated.abac.net
@@ -19142,6 +19141,7 @@
 52.67.198.9 # ec2-52-67-198-9.sa-east-1.compute.amazonaws.com
 52.67.44.42 # ec2-52-67-44-42.sa-east-1.compute.amazonaws.com
 52.67.58.208 # ec2-52-67-58-208.sa-east-1.compute.amazonaws.com
+52.70.57.181 # ec2-52-70-57-181.compute-1.amazonaws.com
 52.74.45.67 # ec2-52-74-45-67.ap-southeast-1.compute.amazonaws.com
 52.78.86.254 # ec2-52-78-86-254.ap-northeast-2.compute.amazonaws.com
 52.8.10.147 # ec2-52-8-10-147.us-west-1.compute.amazonaws.com
@@ -21492,7 +21492,6 @@
 54.194.87.0 # ec2-54-194-87-0.eu-west-1.compute.amazonaws.com
 54.195.179.241 # ec2-54-195-179-241.eu-west-1.compute.amazonaws.com
 54.195.186.219 # ec2-54-195-186-219.eu-west-1.compute.amazonaws.com
-54.195.195.29 # ec2-54-195-195-29.eu-west-1.compute.amazonaws.com
 54.196.199.154 # ec2-54-196-199-154.compute-1.amazonaws.com
 54.198.231.73 # ec2-54-198-231-73.compute-1.amazonaws.com
 54.200.103.227 # ec2-54-200-103-227.us-west-2.compute.amazonaws.com
@@ -23004,6 +23003,8 @@
 54.85.196.182 # ec2-54-85-196-182.compute-1.amazonaws.com
 54.86.128.77 # ec2-54-86-128-77.compute-1.amazonaws.com
 54.86.176.35 # ec2-54-86-176-35.compute-1.amazonaws.com
+54.86.185.160 # ec2-54-86-185-160.compute-1.amazonaws.com
+54.86.21.192 # ec2-54-86-21-192.compute-1.amazonaws.com
 54.87.141.164 # ec2-54-87-141-164.compute-1.amazonaws.com
 54.87.181.141 # ec2-54-87-181-141.compute-1.amazonaws.com
 54.87.222.252 # ec2-54-87-222-252.compute-1.amazonaws.com
