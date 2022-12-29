@@ -23135,6 +23135,8 @@
 201.150.175.147 # host-201-150-175-147.supernet.com.bo
 201.150.179.7 # host-201-150-179-7.supernet.com.bo
 201.150.180.24 # host-201-150-180-24.supernet.com.bo
+80.41.155.197 # host-80-41-155-197.as13285.net
+92.28.211.234 # host-92-28-211-234.as13285.net
 86.134.28.58 # host86-134-28-58.range86-134.btcentralplus.com
 86.147.112.81 # host86-147-112-81.range86-147.btcentralplus.com
 86.147.139.126 # host86-147-139-126.range86-147.btcentralplus.com
