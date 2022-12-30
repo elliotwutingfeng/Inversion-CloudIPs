@@ -68,7 +68,6 @@
 190.2.146.4 # 190-2-146-4.hosted-by-worldstream.net
 190.2.153.226 # 190-2-153-226.hosted-by-worldstream.net
 190.2.154.49 # 190-2-154-49.hosted-by-worldstream.net
-198.101.51.105 # 198-101-51-105.cust.ohiotel.net
 198.24.206.38 # 198-24-206-38.static-ip.telepacific.net
 212.8.248.30 # 212-8-248-30.hosted-by-worldstream.net
 212.8.250.239 # 212-8-250-239.hosted-by-worldstream.net
