@@ -78,6 +78,7 @@
 217.23.13.125 # 217-23-13-125.hosted-by-worldstream.net
 217.23.15.91 # 217-23-15-91.hosted-by-worldstream.net
 220.245.182.186 # 220-245-182-186.static.tpgi.com.au
+23.29.115.162 # 23-29-115-162.static.hvvc.us
 27.32.47.146 # 27-32-47-146.static.tpgi.com.au
 27.33.37.230 # 27-33-37-230.static.tpgi.com.au
 27.33.41.4 # 27-33-41-4.static.tpgi.com.au
