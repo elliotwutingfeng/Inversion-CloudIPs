@@ -4607,6 +4607,7 @@
 18.189.1.147 # ec2-18-189-1-147.us-east-2.compute.amazonaws.com
 18.189.1.175 # ec2-18-189-1-175.us-east-2.compute.amazonaws.com
 18.189.1.42 # ec2-18-189-1-42.us-east-2.compute.amazonaws.com
+18.189.1.60 # ec2-18-189-1-60.us-east-2.compute.amazonaws.com
 18.189.1.72 # ec2-18-189-1-72.us-east-2.compute.amazonaws.com
 18.189.1.89 # ec2-18-189-1-89.us-east-2.compute.amazonaws.com
 18.189.17.130 # ec2-18-189-17-130.us-east-2.compute.amazonaws.com
@@ -7567,7 +7568,6 @@
 18.225.37.190 # ec2-18-225-37-190.us-east-2.compute.amazonaws.com
 18.225.37.195 # ec2-18-225-37-195.us-east-2.compute.amazonaws.com
 18.225.37.208 # ec2-18-225-37-208.us-east-2.compute.amazonaws.com
-18.225.37.217 # ec2-18-225-37-217.us-east-2.compute.amazonaws.com
 18.225.5.161 # ec2-18-225-5-161.us-east-2.compute.amazonaws.com
 18.225.5.169 # ec2-18-225-5-169.us-east-2.compute.amazonaws.com
 18.225.5.7 # ec2-18-225-5-7.us-east-2.compute.amazonaws.com
@@ -12686,16 +12686,6 @@
 3.230.127.89 # ec2-3-230-127-89.compute-1.amazonaws.com
 3.231.142.168 # ec2-3-231-142-168.compute-1.amazonaws.com
 3.237.46.193 # ec2-3-237-46-193.compute-1.amazonaws.com
-3.238.102.155 # ec2-3-238-102-155.compute-1.amazonaws.com
-3.238.102.233 # ec2-3-238-102-233.compute-1.amazonaws.com
-3.238.103.180 # ec2-3-238-103-180.compute-1.amazonaws.com
-3.238.103.220 # ec2-3-238-103-220.compute-1.amazonaws.com
-3.238.103.227 # ec2-3-238-103-227.compute-1.amazonaws.com
-3.238.103.232 # ec2-3-238-103-232.compute-1.amazonaws.com
-3.238.105.214 # ec2-3-238-105-214.compute-1.amazonaws.com
-3.238.107.160 # ec2-3-238-107-160.compute-1.amazonaws.com
-3.238.108.143 # ec2-3-238-108-143.compute-1.amazonaws.com
-3.238.108.255 # ec2-3-238-108-255.compute-1.amazonaws.com
 3.238.12.138 # ec2-3-238-12-138.compute-1.amazonaws.com
 3.238.128.180 # ec2-3-238-128-180.compute-1.amazonaws.com
 3.238.128.54 # ec2-3-238-128-54.compute-1.amazonaws.com
@@ -23130,7 +23120,6 @@
 86.134.28.58 # host86-134-28-58.range86-134.btcentralplus.com
 86.147.112.81 # host86-147-112-81.range86-147.btcentralplus.com
 86.147.139.126 # host86-147-139-126.range86-147.btcentralplus.com
-86.147.151.181 # host86-147-151-181.range86-147.btcentralplus.com
 86.147.56.181 # host86-147-56-181.range86-147.btcentralplus.com
 93.64.20.122 # net-93-64-20-122.cust.vodafonedsl.it
 157.245.106.174 # nostalgic-davinci.157-245-106-174.plesk.page
