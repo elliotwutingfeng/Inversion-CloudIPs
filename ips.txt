@@ -17439,6 +17439,8 @@
 44.206.255.145 # ec2-44-206-255-145.compute-1.amazonaws.com
 44.211.127.251 # ec2-44-211-127-251.compute-1.amazonaws.com
 44.211.132.255 # ec2-44-211-132-255.compute-1.amazonaws.com
+44.211.204.182 # ec2-44-211-204-182.compute-1.amazonaws.com
+44.212.55.183 # ec2-44-212-55-183.compute-1.amazonaws.com
 44.224.32.149 # ec2-44-224-32-149.us-west-2.compute.amazonaws.com
 44.226.198.44 # ec2-44-226-198-44.us-west-2.compute.amazonaws.com
 44.226.199.220 # ec2-44-226-199-220.us-west-2.compute.amazonaws.com
