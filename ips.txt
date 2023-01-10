@@ -13235,7 +13235,6 @@
 3.26.74.90 # ec2-3-26-74-90.ap-southeast-2.compute.amazonaws.com
 3.34.131.190 # ec2-3-34-131-190.ap-northeast-2.compute.amazonaws.com
 3.34.40.195 # ec2-3-34-40-195.ap-northeast-2.compute.amazonaws.com
-3.34.56.144 # ec2-3-34-56-144.ap-northeast-2.compute.amazonaws.com
 3.36.115.37 # ec2-3-36-115-37.ap-northeast-2.compute.amazonaws.com
 3.36.131.252 # ec2-3-36-131-252.ap-northeast-2.compute.amazonaws.com
 3.36.131.58 # ec2-3-36-131-58.ap-northeast-2.compute.amazonaws.com
@@ -13298,6 +13297,7 @@
 3.82.206.88 # ec2-3-82-206-88.compute-1.amazonaws.com
 3.83.167.214 # ec2-3-83-167-214.compute-1.amazonaws.com
 3.83.21.128 # ec2-3-83-21-128.compute-1.amazonaws.com
+3.83.214.14 # ec2-3-83-214-14.compute-1.amazonaws.com
 3.83.215.21 # ec2-3-83-215-21.compute-1.amazonaws.com
 3.83.219.66 # ec2-3-83-219-66.compute-1.amazonaws.com
 3.83.26.228 # ec2-3-83-26-228.compute-1.amazonaws.com
@@ -13552,6 +13552,7 @@
 34.201.24.36 # ec2-34-201-24-36.compute-1.amazonaws.com
 34.201.25.138 # ec2-34-201-25-138.compute-1.amazonaws.com
 34.201.25.175 # ec2-34-201-25-175.compute-1.amazonaws.com
+34.201.250.159 # ec2-34-201-250-159.compute-1.amazonaws.com
 34.201.26.154 # ec2-34-201-26-154.compute-1.amazonaws.com
 34.201.26.98 # ec2-34-201-26-98.compute-1.amazonaws.com
 34.201.27.28 # ec2-34-201-27-28.compute-1.amazonaws.com
@@ -23113,10 +23114,8 @@
 93.64.20.122 # net-93-64-20-122.cust.vodafonedsl.it
 157.245.106.174 # nostalgic-davinci.157-245-106-174.plesk.page
 216.14.152.105 # olp-216-14-152-105.olp.net
-84.9.115.174 # static-84-9-115-174.vodafonexdsl.co.uk
 84.9.210.139 # static-84-9-210-139.vodafonexdsl.co.uk
 87.74.0.234 # static-87-74-0-234.vodafonexdsl.co.uk
-87.75.121.187 # static-87-75-121-187.vodafonexdsl.co.uk
 90.255.245.190 # static-90-255-245-190.vodafonexdsl.co.uk
 209.126.98.123 # static-ip-209-126-98-123.inaddr.ip-pool.com
 62.75.187.217 # static-ip-62-75-187-217.inaddr.ip-pool.com
