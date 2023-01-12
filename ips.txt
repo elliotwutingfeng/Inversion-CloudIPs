@@ -2,6 +2,7 @@
 103.136.42.192 # 103-136-42-192.hosted-by-worldstream.net
 109.236.81.173 # 109-236-81-173.hosted-by-worldstream.net
 109.236.91.23 # 109-236-91-23.hosted-by-worldstream.net
+110.174.205.50 # 110-174-205-50.tpgi.com.au
 118.211.23.135 # 118-211-23-135.tpgi.com.au
 138.219.100.74 # 138-219-100-74.meganetscm.net.br
 138.219.100.78 # 138-219-100-78.meganetscm.net.br
@@ -64,7 +65,6 @@
 190.2.137.70 # 190-2-137-70.hosted-by-worldstream.net
 190.2.138.15 # 190-2-138-15.hosted-by-worldstream.net
 190.2.141.21 # 190-2-141-21.hosted-by-worldstream.net
-190.2.142.211 # 190-2-142-211.hosted-by-worldstream.net
 190.2.146.232 # 190-2-146-232.hosted-by-worldstream.net
 190.2.146.4 # 190-2-146-4.hosted-by-worldstream.net
 190.2.153.226 # 190-2-153-226.hosted-by-worldstream.net
