@@ -38,7 +38,6 @@
 185.183.32.31 # 185-183-32-31.hosted-by-worldstream.net
 185.183.32.39 # 185-183-32-39.hosted-by-worldstream.net
 185.247.21.183 # 185-247-21-183.broadband.tenet.odessa.ua
-188.39.197.2 # 188-39-197-2.static.enta.net
 190.2.130.161 # 190-2-130-161.hosted-by-worldstream.net
 190.2.130.164 # 190-2-130-164.hosted-by-worldstream.net
 190.2.130.168 # 190-2-130-168.hosted-by-worldstream.net
@@ -12688,16 +12687,6 @@
 3.230.127.89 # ec2-3-230-127-89.compute-1.amazonaws.com
 3.231.142.168 # ec2-3-231-142-168.compute-1.amazonaws.com
 3.237.46.193 # ec2-3-237-46-193.compute-1.amazonaws.com
-3.238.147.254 # ec2-3-238-147-254.compute-1.amazonaws.com
-3.238.148.189 # ec2-3-238-148-189.compute-1.amazonaws.com
-3.238.148.40 # ec2-3-238-148-40.compute-1.amazonaws.com
-3.238.149.137 # ec2-3-238-149-137.compute-1.amazonaws.com
-3.238.149.205 # ec2-3-238-149-205.compute-1.amazonaws.com
-3.238.15.166 # ec2-3-238-15-166.compute-1.amazonaws.com
-3.238.15.40 # ec2-3-238-15-40.compute-1.amazonaws.com
-3.238.150.28 # ec2-3-238-150-28.compute-1.amazonaws.com
-3.238.151.145 # ec2-3-238-151-145.compute-1.amazonaws.com
-3.238.151.189 # ec2-3-238-151-189.compute-1.amazonaws.com
 3.238.151.247 # ec2-3-238-151-247.compute-1.amazonaws.com
 3.238.152.106 # ec2-3-238-152-106.compute-1.amazonaws.com
 3.238.152.107 # ec2-3-238-152-107.compute-1.amazonaws.com
@@ -12805,7 +12794,6 @@
 3.238.40.13 # ec2-3-238-40-13.compute-1.amazonaws.com
 3.238.40.233 # ec2-3-238-40-233.compute-1.amazonaws.com
 3.238.40.30 # ec2-3-238-40-30.compute-1.amazonaws.com
-3.238.41.123 # ec2-3-238-41-123.compute-1.amazonaws.com
 3.238.42.152 # ec2-3-238-42-152.compute-1.amazonaws.com
 3.238.42.72 # ec2-3-238-42-72.compute-1.amazonaws.com
 3.238.42.74 # ec2-3-238-42-74.compute-1.amazonaws.com
