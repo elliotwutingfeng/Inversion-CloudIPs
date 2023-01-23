@@ -18,7 +18,6 @@
 176.35.207.31 # 176-35-207-31.xdsl.murphx.net
 176.35.26.221 # 176-35-26-221.xdsl.murphx.net
 185.132.132.56 # 185-132-132-56.hosted-by-worldstream.net
-185.132.134.242 # 185-132-134-242.hosted-by-worldstream.net
 185.165.240.65 # 185-165-240-65.hosted-by-worldstream.net
 185.165.241.231 # 185-165-241-231.hosted-by-worldstream.net
 185.165.242.187 # 185-165-242-187.hosted-by-worldstream.net
@@ -1497,7 +1496,6 @@
 13.59.99.249 # ec2-13-59-99-249.us-east-2.compute.amazonaws.com
 15.152.41.135 # ec2-15-152-41-135.ap-northeast-3.compute.amazonaws.com
 15.161.138.84 # ec2-15-161-138-84.eu-south-1.compute.amazonaws.com
-15.164.93.91 # ec2-15-164-93-91.ap-northeast-2.compute.amazonaws.com
 15.206.100.192 # ec2-15-206-100-192.ap-south-1.compute.amazonaws.com
 15.206.127.93 # ec2-15-206-127-93.ap-south-1.compute.amazonaws.com
 15.206.128.58 # ec2-15-206-128-58.ap-south-1.compute.amazonaws.com
@@ -17265,6 +17263,7 @@
 44.201.15.234 # ec2-44-201-15-234.compute-1.amazonaws.com
 44.201.16.219 # ec2-44-201-16-219.compute-1.amazonaws.com
 44.201.16.78 # ec2-44-201-16-78.compute-1.amazonaws.com
+44.201.163.191 # ec2-44-201-163-191.compute-1.amazonaws.com
 44.201.17.228 # ec2-44-201-17-228.compute-1.amazonaws.com
 44.201.17.63 # ec2-44-201-17-63.compute-1.amazonaws.com
 44.201.18.118 # ec2-44-201-18-118.compute-1.amazonaws.com
