@@ -4,6 +4,7 @@
 109.236.91.23 # 109-236-91-23.hosted-by-worldstream.net
 110.174.205.50 # 110-174-205-50.tpgi.com.au
 115.166.25.3 # 115-166-25-3.tpgi.com.au
+116.203.178.113 # 116.203.178.113.nip.io
 118.211.23.135 # 118-211-23-135.tpgi.com.au
 121.45.93.53 # 121-45-93-53.tpgi.com.au
 138.219.100.74 # 138-219-100-74.meganetscm.net.br
@@ -12,10 +13,12 @@
 14.201.119.166 # 14-201-119-166.static.tpgi.com.au
 14.203.48.13 # 14-203-48-13.tpgi.com.au
 151.236.54.165 # 151-236-54-165.static.as29550.net
+154.30.211.130 # 154.30.211.130.bc.googleusercontent.com
 156.155.145.212 # 156-155-145-212.ip.internet.co.za
 168.227.251.70 # 168-227-251-70.7lan.net
 173.14.189.154 # 173-14-189-154-newengland.hfc.comcastbusiness.net
 173.161.182.234 # 173-161-182-234-philadelphia.hfc.comcastbusiness.net
+173.113.145.34 # 173.113.145.34.bc.googleusercontent.com
 176.35.106.213 # 176-35-106-213.xdsl.murphx.net
 176.35.171.230 # 176-35-171-230.xdsl.murphx.net
 176.35.205.13 # 176-35-205-13.xdsl.murphx.net
@@ -70,7 +73,9 @@
 190.2.146.4 # 190-2-146-4.hosted-by-worldstream.net
 190.2.153.226 # 190-2-153-226.hosted-by-worldstream.net
 190.2.154.49 # 190-2-154-49.hosted-by-worldstream.net
+195.234.244.35 # 195.234.244.35.bc.googleusercontent.com
 198.24.206.38 # 198-24-206-38.static-ip.telepacific.net
+20.51.67.34 # 20.51.67.34.bc.googleusercontent.com
 203.213.31.31 # 203-213-31-31.tpgi.com.au
 212.8.248.30 # 212-8-248-30.hosted-by-worldstream.net
 212.8.250.239 # 212-8-250-239.hosted-by-worldstream.net
@@ -83,10 +88,13 @@
 220.244.102.218 # 220-244-102-218.tpgi.com.au
 220.245.182.186 # 220-245-182-186.static.tpgi.com.au
 23.29.115.162 # 23-29-115-162.static.hvvc.us
+232.228.65.34 # 232.228.65.34.bc.googleusercontent.com
 27.32.47.146 # 27-32-47-146.static.tpgi.com.au
 27.33.160.168 # 27-33-160-168.static.tpgi.com.au
 27.33.37.230 # 27-33-37-230.static.tpgi.com.au
 27.33.41.4 # 27-33-41-4.static.tpgi.com.au
+3.156.198.104 # 3.156.198.104.bc.googleusercontent.com
+45.227.119.102 # 45.227.119.102.virtualinternetbandalarga.com.br
 50.198.141.82 # 50-198-141-82-static.hfc.comcastbusiness.net
 50.253.158.155 # 50-253-158-155-static.hfc.comcastbusiness.net
 50.253.79.9 # 50-253-79-9-static.hfc.comcastbusiness.net
@@ -96,6 +104,7 @@
 62.112.8.195 # 62-112-8-195.hosted-by-worldstream.net
 62.112.8.208 # 62-112-8-208.hosted-by-worldstream.net
 64.139.87.105 # 64-139-87-105-hattiesburg.hfc.comcastbusiness.net
+64.157.251.23 # 64.157.251.23.bc.googleusercontent.com
 75.150.93.166 # 75-150-93-166-newengland.hfc.comcastbusiness.net
 77.44.100.31 # 77-44-100-31.xdsl.murphx.net
 77.44.69.49 # 77-44-69-49.xdsl.murphx.net
