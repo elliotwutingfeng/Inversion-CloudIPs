@@ -26,6 +26,9 @@ for url in urls:
     # Ensure extracted IP address is valid
     if match is not None:
         maybe_IP = match.group(1).strip().replace("-", ".")[::-1]
+        if "googleusercontent.com" == r.registered_domain:
+            # Special case for googleusercontent
+            maybe_IP = ".".join(maybe_IP.split(".")[::-1])
         try:
             socket.inet_aton(maybe_IP)
         except socket.error:
