@@ -3,6 +3,7 @@
 109.236.81.173 # 109-236-81-173.hosted-by-worldstream.net
 109.236.91.23 # 109-236-91-23.hosted-by-worldstream.net
 110.174.205.50 # 110-174-205-50.tpgi.com.au
+110.174.218.239 # 110-174-218-239.static.tpgi.com.au
 115.166.25.3 # 115-166-25-3.tpgi.com.au
 116.203.178.113 # 116.203.178.113.nip.io
 118.211.23.135 # 118-211-23-135.tpgi.com.au
@@ -10,7 +11,6 @@
 121.45.77.134 # 121-45-77-134.tpgi.com.au
 121.45.93.53 # 121-45-93-53.tpgi.com.au
 138.219.100.74 # 138-219-100-74.meganetscm.net.br
-138.219.100.78 # 138-219-100-78.meganetscm.net.br
 14.200.105.118 # 14-200-105-118.tpgi.com.au
 14.203.48.13 # 14-203-48-13.tpgi.com.au
 151.236.54.165 # 151-236-54-165.static.as29550.net
@@ -12728,16 +12728,6 @@
 3.236.157.144 # ec2-3-236-157-144.compute-1.amazonaws.com
 3.236.190.75 # ec2-3-236-190-75.compute-1.amazonaws.com
 3.237.46.193 # ec2-3-237-46-193.compute-1.amazonaws.com
-3.239.217.110 # ec2-3-239-217-110.compute-1.amazonaws.com
-3.239.217.9 # ec2-3-239-217-9.compute-1.amazonaws.com
-3.239.218.112 # ec2-3-239-218-112.compute-1.amazonaws.com
-3.239.218.7 # ec2-3-239-218-7.compute-1.amazonaws.com
-3.239.219.113 # ec2-3-239-219-113.compute-1.amazonaws.com
-3.239.219.252 # ec2-3-239-219-252.compute-1.amazonaws.com
-3.239.219.38 # ec2-3-239-219-38.compute-1.amazonaws.com
-3.239.22.255 # ec2-3-239-22-255.compute-1.amazonaws.com
-3.239.220.157 # ec2-3-239-220-157.compute-1.amazonaws.com
-3.239.220.85 # ec2-3-239-220-85.compute-1.amazonaws.com
 3.239.221.23 # ec2-3-239-221-23.compute-1.amazonaws.com
 3.239.221.243 # ec2-3-239-221-243.compute-1.amazonaws.com
 3.239.221.51 # ec2-3-239-221-51.compute-1.amazonaws.com
@@ -12920,7 +12910,6 @@
 3.34.131.190 # ec2-3-34-131-190.ap-northeast-2.compute.amazonaws.com
 3.35.25.180 # ec2-3-35-25-180.ap-northeast-2.compute.amazonaws.com
 3.36.115.37 # ec2-3-36-115-37.ap-northeast-2.compute.amazonaws.com
-3.36.131.252 # ec2-3-36-131-252.ap-northeast-2.compute.amazonaws.com
 3.6.126.138 # ec2-3-6-126-138.ap-south-1.compute.amazonaws.com
 3.6.160.128 # ec2-3-6-160-128.ap-south-1.compute.amazonaws.com
 3.67.37.202 # ec2-3-67-37-202.eu-central-1.compute.amazonaws.com
@@ -15858,6 +15847,7 @@
 35.88.11.22 # ec2-35-88-11-22.us-west-2.compute.amazonaws.com
 35.88.11.50 # ec2-35-88-11-50.us-west-2.compute.amazonaws.com
 35.88.12.172 # ec2-35-88-12-172.us-west-2.compute.amazonaws.com
+35.88.128.156 # ec2-35-88-128-156.us-west-2.compute.amazonaws.com
 35.88.13.101 # ec2-35-88-13-101.us-west-2.compute.amazonaws.com
 35.88.13.229 # ec2-35-88-13-229.us-west-2.compute.amazonaws.com
 35.88.14.123 # ec2-35-88-14-123.us-west-2.compute.amazonaws.com
@@ -22953,6 +22943,7 @@
 100.2.215.147 # pool-100-2-215-147.nycmny.fios.verizon.net
 100.36.18.180 # pool-100-36-18-180.washdc.fios.verizon.net
 108.29.128.3 # pool-108-29-128-3.nycmny.fios.verizon.net
+98.113.235.35 # pool-98-113-235-35.nycmny.fios.verizon.net
 70.18.212.242 # static-70-18-212-242.nycmny.fios.verizon.net
 84.9.210.139 # static-84-9-210-139.vodafonexdsl.co.uk
 87.74.0.234 # static-87-74-0-234.vodafonexdsl.co.uk
