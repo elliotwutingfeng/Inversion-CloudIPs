@@ -79,6 +79,7 @@
 190.2.146.4 # 190-2-146-4.hosted-by-worldstream.net
 190.2.153.226 # 190-2-153-226.hosted-by-worldstream.net
 190.2.154.49 # 190-2-154-49.hosted-by-worldstream.net
+193.115.125.227 # 193-115-125-227.tpgi.com.au
 35.244.234.195 # 195.234.244.35.bc.googleusercontent.com
 198.24.206.38 # 198-24-206-38.static-ip.telepacific.net
 34.67.51.20 # 20.51.67.34.bc.googleusercontent.com
@@ -110,6 +111,7 @@
 45.227.119.102 # 45.227.119.102.virtualinternetbandalarga.com.br
 50.195.155.33 # 50-195-155-33-static.hfc.comcastbusiness.net
 50.198.141.82 # 50-198-141-82-static.hfc.comcastbusiness.net
+50.240.63.18 # 50-240-63-18-static.hfc.comcastbusiness.net
 50.249.199.54 # 50-249-199-54-static.hfc.comcastbusiness.net
 50.250.110.49 # 50-250-110-49-static.hfc.comcastbusiness.net
 50.253.158.155 # 50-253-158-155-static.hfc.comcastbusiness.net
@@ -4377,6 +4379,7 @@
 18.176.223.3 # ec2-18-176-223-3.ap-northeast-1.compute.amazonaws.com
 18.177.201.162 # ec2-18-177-201-162.ap-northeast-1.compute.amazonaws.com
 18.181.203.223 # ec2-18-181-203-223.ap-northeast-1.compute.amazonaws.com
+18.183.75.130 # ec2-18-183-75-130.ap-northeast-1.compute.amazonaws.com
 18.184.28.26 # ec2-18-184-28-26.eu-central-1.compute.amazonaws.com
 18.188.1.108 # ec2-18-188-1-108.us-east-2.compute.amazonaws.com
 18.188.102.245 # ec2-18-188-102-245.us-east-2.compute.amazonaws.com
@@ -5491,6 +5494,7 @@
 18.217.106.47 # ec2-18-217-106-47.us-east-2.compute.amazonaws.com
 18.217.107.113 # ec2-18-217-107-113.us-east-2.compute.amazonaws.com
 18.217.108.128 # ec2-18-217-108-128.us-east-2.compute.amazonaws.com
+18.217.108.159 # ec2-18-217-108-159.us-east-2.compute.amazonaws.com
 18.217.108.65 # ec2-18-217-108-65.us-east-2.compute.amazonaws.com
 18.217.110.19 # ec2-18-217-110-19.us-east-2.compute.amazonaws.com
 18.217.110.203 # ec2-18-217-110-203.us-east-2.compute.amazonaws.com
@@ -10768,7 +10772,6 @@
 3.144.191.224 # ec2-3-144-191-224.us-east-2.compute.amazonaws.com
 3.144.191.232 # ec2-3-144-191-232.us-east-2.compute.amazonaws.com
 3.144.191.237 # ec2-3-144-191-237.us-east-2.compute.amazonaws.com
-3.144.191.247 # ec2-3-144-191-247.us-east-2.compute.amazonaws.com
 3.144.191.25 # ec2-3-144-191-25.us-east-2.compute.amazonaws.com
 3.144.191.27 # ec2-3-144-191-27.us-east-2.compute.amazonaws.com
 3.144.191.32 # ec2-3-144-191-32.us-east-2.compute.amazonaws.com
