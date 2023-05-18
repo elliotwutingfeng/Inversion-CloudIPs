@@ -1,5 +1,5 @@
+import ipaddress
 import re
-import socket
 from urllib.request import urlopen
 
 import tldextract
@@ -20,21 +20,35 @@ for url in urls:
     r = tldextract.extract(url)
     # Reverse subdomain before regex search
     # to prevent mixed alphanumeric leading segments from being included (e.g. "ec2-")
-    match = re.search(
-        "([0-9]{1,3}[-\.][0-9]{1,3}[-\.][0-9]{1,3}[-\.][0-9]{1,3})", r.subdomain[::-1]
+    match_dashes = re.search(
+        "([0-9]{1,3}[-][0-9]{1,3}[-][0-9]{1,3}[-][0-9]{1,3})", r.subdomain[::-1]
     )
+    match_dots = re.search(
+        "([0-9]{1,3}[\.][0-9]{1,3}[\.][0-9]{1,3}[\.][0-9]{1,3})", r.subdomain[::-1]
+    )
+    match = match_dashes if match_dashes else match_dots
     # Ensure extracted IP address is valid
     if match is not None:
         maybe_IP = match.group(1).strip().replace("-", ".")[::-1]
         if "googleusercontent.com" == r.registered_domain:
-            # Special case for googleusercontent
+            # Special case for googleusercontent; IP already reversed in hostname
             maybe_IP = ".".join(maybe_IP.split(".")[::-1])
+        ip = None
         try:
-            socket.inet_aton(maybe_IP)
-        except socket.error:
+            ip = ipaddress.ip_address(maybe_IP)
+        except ValueError:
             continue
-        if type(maybe_IP) is str:
-            rows.append((maybe_IP, url))
+        if ip is None or type(maybe_IP) is not str:
+            continue
+        if any(
+            (octet.startswith("0") and len(octet) > 1) for octet in maybe_IP.split(".")
+        ):
+            # zero-padded octets in hostname are unlikely to represent IP addresses
+            continue
+        if ip.is_private or ip.is_multicast or ip.is_reserved:
+            # Reject bogons
+            continue
+        rows.append((maybe_IP, url))
 
 if rows:
     with open("ips.txt", "w") as f:

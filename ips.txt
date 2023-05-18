@@ -3,11 +3,11 @@
 109.236.81.173 # 109-236-81-173.hosted-by-worldstream.net
 109.236.91.23 # 109-236-91-23.hosted-by-worldstream.net
 116.203.178.113 # 116.203.178.113.nip.io
-200.7.140.79 # 121-200-7-140.79c807.syd.nbn.aussiebb.net
+121.200.7.140 # 121-200-7-140.79c807.syd.nbn.aussiebb.net
 138.219.100.74 # 138-219-100-74.meganetscm.net.br
 144.91.108.8 # 144.91.108.8.nip.io
 130.211.30.154 # 154.30.211.130.bc.googleusercontent.com
-196.106.106.9 # 159-196-106-106.9fc46a.syd.nbn.aussiebb.net
+159.196.106.106 # 159-196-106-106.9fc46a.syd.nbn.aussiebb.net
 167.179.157.175 # 167-179-157-175.a7b39d.syd.nbn.aussiebb.net
 167.179.158.126 # 167-179-158-126.a7b39e.syd.nbn.aussiebb.net
 168.227.251.70 # 168-227-251-70.7lan.net
@@ -123,7 +123,7 @@
 50.78.135.157 # 50-78-135-157-static.hfc.comcastbusiness.net
 50.78.69.241 # 50-78-69-241-static.hfc.comcastbusiness.net
 50.79.145.201 # 50-79-145-201-static.hfc.comcastbusiness.net
-245.154.37.3 # 61-245-154-37.3df59a.adl.nbn.aussiebb.net
+61.245.154.37 # 61-245-154-37.3df59a.adl.nbn.aussiebb.net
 62.111.188.20 # 62-111-188-20.static.ip.netia.com.pl
 62.112.10.142 # 62-112-10-142.hosted-by-worldstream.net
 62.112.8.195 # 62-112-8-195.hosted-by-worldstream.net
@@ -22970,7 +22970,6 @@
 81.133.85.179 # host81-133-85-179.in-addr.btopenworld.com
 86.134.28.58 # host86-134-28-58.range86-134.btcentralplus.com
 86.147.112.81 # host86-147-112-81.range86-147.btcentralplus.com
-0.0.0.23 # hundredgige0-0-0-23.core1.vdc01.syd.aussiebb.net
 84.228.175.89 # igld-84-228-175-89.inter.net.il
 84.228.55.166 # igld-84-228-55-166.inter.net.il
 166.131.33.110 # mobile-166-131-33-110.mycingular.net
@@ -22989,6 +22988,4 @@
 62.75.187.217 # static-ip-62-75-187-217.inaddr.ip-pool.com
 206.189.134.70 # sweet-mcnulty.206-189-134-70.plesk.page
 165.227.76.187 # vigilant-robinson.165-227-76-187.plesk.page
-01.161.96.165 # wnpgmb0903w-ds01-161-96-165.dynamic.bellmts.net
-01.45.88.137 # wnpgmb0903w-ds01-45-88-137.dynamic.bellmts.net
 159.89.161.12 # zealous-euclid.159-89-161-12.plesk.page
