@@ -15,7 +15,8 @@
   <img src="https://tokei-rs.onrender.com/b1/github/elliotwutingfeng/Inversion-CloudIPs?label=Total%20Blocklist%20IPs&style=for-the-badge" alt="Total Blocklist IPs"/>
   <a href="https://github.com/elliotwutingfeng/Inversion-CloudIPs/commits"><img src="https://img.shields.io/github/last-commit/elliotwutingfeng/Inversion-CloudIPs?label=Last%20Updated&style=for-the-badge" alt="Last Updated"/></a>
   <a href="https://github.com/elliotwutingfeng/Inversion-CloudIPs/actions/workflows/update.yml"><img src="https://img.shields.io/github/actions/workflow/status/elliotwutingfeng/Inversion-CloudIPs/update.yml?branch=main&label=UPDATE&style=for-the-badge" alt="Update"/></a>
-  <a href="LICENSE"><img src="https://img.shields.io/badge/LICENSE-BSD--3--CLAUSE-GREEN?style=for-the-badge" alt="GitHub license"/></a>
+  <a href="LICENSE"><img src="https://img.shields.io/badge/LICENSE-BSD--3--CLAUSE-GREEN?style=for-the-badge&label=Source%20Code%20License" alt="Source Code License"/></a>
+  <a href="LICENSE-BLOCKLIST"><img src="https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-GREEN?style=for-the-badge&label=Blocklist%20License" alt="Blocklist License"/></a>
   </p>
 
 </div>
