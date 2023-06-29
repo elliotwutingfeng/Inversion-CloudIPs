@@ -21,6 +21,7 @@
 173.160.203.166 # 173-160-203-166-washington.hfc.comcastbusiness.net
 173.161.182.234 # 173-161-182-234-philadelphia.hfc.comcastbusiness.net
 173.162.69.62 # 173-162-69-62-miami.hfc.comcastbusiness.net
+173.163.219.46 # 173-163-219-46-westflorida.hfc.comcastbusiness.net
 173.166.191.6 # 173-166-191-6-washingtondc.hfc.comcastbusiness.net
 34.145.113.173 # 173.113.145.34.bc.googleusercontent.com
 176.146.114.19 # 176-146-114-19.abo.bbox.fr
@@ -123,6 +124,7 @@
 50.198.13.229 # 50-198-13-229-static.hfc.comcastbusiness.net
 50.198.141.82 # 50-198-141-82-static.hfc.comcastbusiness.net
 50.240.63.18 # 50-240-63-18-static.hfc.comcastbusiness.net
+50.243.161.62 # 50-243-161-62-static.hfc.comcastbusiness.net
 50.248.157.30 # 50-248-157-30-static.hfc.comcastbusiness.net
 50.250.110.49 # 50-250-110-49-static.hfc.comcastbusiness.net
 50.253.158.155 # 50-253-158-155-static.hfc.comcastbusiness.net
@@ -218,6 +220,7 @@
 94.30.98.5 # 94-30-98-5.xdsl.murphx.net
 95.42.214.194 # 95-42-214-194.btc-net.bg
 96.66.125.177 # 96-66-125-177-static.hfc.comcastbusiness.net
+96.68.61.126 # 96-68-61-126-static.hfc.comcastbusiness.net
 96.81.89.237 # 96-81-89-237-static.hfc.comcastbusiness.net
 96.82.90.73 # 96-82-90-73-static.hfc.comcastbusiness.net
 96.84.48.180 # 96-84-48-180-static.hfc.comcastbusiness.net
@@ -3446,6 +3449,7 @@
 18.205.71.151 # ec2-18-205-71-151.compute-1.amazonaws.com
 18.206.175.149 # ec2-18-206-175-149.compute-1.amazonaws.com
 18.206.25.236 # ec2-18-206-25-236.compute-1.amazonaws.com
+18.206.58.195 # ec2-18-206-58-195.compute-1.amazonaws.com
 18.207.173.17 # ec2-18-207-173-17.compute-1.amazonaws.com
 18.208.91.22 # ec2-18-208-91-22.compute-1.amazonaws.com
 18.209.152.116 # ec2-18-209-152-116.compute-1.amazonaws.com
@@ -8234,7 +8238,6 @@
 34.196.235.4 # ec2-34-196-235-4.compute-1.amazonaws.com
 34.198.120.58 # ec2-34-198-120-58.compute-1.amazonaws.com
 34.199.227.168 # ec2-34-199-227-168.compute-1.amazonaws.com
-34.200.213.245 # ec2-34-200-213-245.compute-1.amazonaws.com
 34.200.215.33 # ec2-34-200-215-33.compute-1.amazonaws.com
 34.200.218.233 # ec2-34-200-218-233.compute-1.amazonaws.com
 34.200.219.200 # ec2-34-200-219-200.compute-1.amazonaws.com
@@ -14139,6 +14142,7 @@
 2.102.4.111 # host-2-102-4-111.as13285.net
 2.103.100.198 # host-2-103-100-198.as13285.net
 201.150.180.198 # host-201-150-180-198.supernet.com.bo
+78.146.44.197 # host-78-146-44-197.as13285.net
 79.78.1.117 # host-79-78-1-117.static.as9105.net
 80.41.155.197 # host-80-41-155-197.as13285.net
 80.41.200.180 # host-80-41-200-180.as13285.net
@@ -14150,12 +14154,14 @@
 89.240.55.45 # host-89-240-55-45.as13285.net
 92.10.147.8 # host-92-10-147-8.as13285.net
 92.10.85.57 # host-92-10-85-57.as13285.net
+92.19.121.109 # host-92-19-121-109.as13285.net
 92.19.129.60 # host-92-19-129-60.as13285.net
 92.19.142.95 # host-92-19-142-95.as13285.net
 92.19.92.88 # host-92-19-92-88.as13285.net
 92.22.126.97 # host-92-22-126-97.as13285.net
 92.23.92.82 # host-92-23-92-82.as13285.net
 92.26.194.109 # host-92-26-194-109.as13285.net
+92.26.194.145 # host-92-26-194-145.as13285.net
 92.26.195.188 # host-92-26-195-188.as13285.net
 92.28.21.43 # host-92-28-21-43.as13285.net
 92.28.211.234 # host-92-28-211-234.as13285.net
