@@ -187,7 +187,6 @@
 85.128.24.130 # 85-128-24-130.static.ip.netia.com.pl
 85.128.77.10 # 85-128-77-10.static.ip.netia.com.pl
 85.128.86.147 # 85-128-86-147.static.ip.netia.com.pl
-87.127.79.89 # 87-127-79-89.static.enta.net
 87.204.148.206 # 87-204-148-206.static.ip.netia.com.pl
 87.204.164.58 # 87-204-164-58.static.ip.netia.com.pl
 87.204.193.185 # 87-204-193-185.static.ip.netia.com.pl
@@ -13662,6 +13661,7 @@
 54.219.88.80 # ec2-54-219-88-80.us-west-1.compute.amazonaws.com
 54.219.9.103 # ec2-54-219-9-103.us-west-1.compute.amazonaws.com
 54.219.97.32 # ec2-54-219-97-32.us-west-1.compute.amazonaws.com
+54.221.124.84 # ec2-54-221-124-84.compute-1.amazonaws.com
 54.226.57.63 # ec2-54-226-57-63.compute-1.amazonaws.com
 54.227.62.193 # ec2-54-227-62-193.compute-1.amazonaws.com
 54.227.95.248 # ec2-54-227-95-248.compute-1.amazonaws.com
