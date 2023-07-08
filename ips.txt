@@ -8238,16 +8238,6 @@
 34.196.235.4 # ec2-34-196-235-4.compute-1.amazonaws.com
 34.198.120.58 # ec2-34-198-120-58.compute-1.amazonaws.com
 34.199.227.168 # ec2-34-199-227-168.compute-1.amazonaws.com
-34.200.239.77 # ec2-34-200-239-77.compute-1.amazonaws.com
-34.200.240.153 # ec2-34-200-240-153.compute-1.amazonaws.com
-34.200.241.220 # ec2-34-200-241-220.compute-1.amazonaws.com
-34.200.243.158 # ec2-34-200-243-158.compute-1.amazonaws.com
-34.200.244.102 # ec2-34-200-244-102.compute-1.amazonaws.com
-34.200.244.156 # ec2-34-200-244-156.compute-1.amazonaws.com
-34.200.246.160 # ec2-34-200-246-160.compute-1.amazonaws.com
-34.200.246.250 # ec2-34-200-246-250.compute-1.amazonaws.com
-34.200.247.199 # ec2-34-200-247-199.compute-1.amazonaws.com
-34.200.247.77 # ec2-34-200-247-77.compute-1.amazonaws.com
 34.200.249.94 # ec2-34-200-249-94.compute-1.amazonaws.com
 34.200.250.164 # ec2-34-200-250-164.compute-1.amazonaws.com
 34.200.252.12 # ec2-34-200-252-12.compute-1.amazonaws.com
