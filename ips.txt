@@ -225,7 +225,6 @@
 93.190.141.28 # 93-190-141-28.hosted-by-worldstream.net
 93.190.142.106 # 93-190-142-106.hosted-by-worldstream.net
 94.225.82.82 # 94-225-82-82.access.telenet.be
-94.30.98.5 # 94-30-98-5.xdsl.murphx.net
 95.42.214.194 # 95-42-214-194.btc-net.bg
 96.66.125.177 # 96-66-125-177-static.hfc.comcastbusiness.net
 96.67.23.2 # 96-67-23-2-static.hfc.comcastbusiness.net
@@ -5916,6 +5915,7 @@
 3.134.118.207 # ec2-3-134-118-207.us-east-2.compute.amazonaws.com
 3.134.118.212 # ec2-3-134-118-212.us-east-2.compute.amazonaws.com
 3.134.118.76 # ec2-3-134-118-76.us-east-2.compute.amazonaws.com
+3.134.253.103 # ec2-3-134-253-103.us-east-2.compute.amazonaws.com
 3.134.76.244 # ec2-3-134-76-244.us-east-2.compute.amazonaws.com
 3.134.76.253 # ec2-3-134-76-253.us-east-2.compute.amazonaws.com
 3.134.77.122 # ec2-3-134-77-122.us-east-2.compute.amazonaws.com
@@ -8185,6 +8185,7 @@
 3.23.64.25 # ec2-3-23-64-25.us-east-2.compute.amazonaws.com
 3.23.64.35 # ec2-3-23-64-35.us-east-2.compute.amazonaws.com
 3.231.142.168 # ec2-3-231-142-168.compute-1.amazonaws.com
+3.233.207.158 # ec2-3-233-207-158.compute-1.amazonaws.com
 3.234.217.26 # ec2-3-234-217-26.compute-1.amazonaws.com
 3.236.190.75 # ec2-3-236-190-75.compute-1.amazonaws.com
 3.237.238.115 # ec2-3-237-238-115.compute-1.amazonaws.com
@@ -12320,7 +12321,6 @@
 54.183.180.247 # ec2-54-183-180-247.us-west-1.compute.amazonaws.com
 54.183.182.110 # ec2-54-183-182-110.us-west-1.compute.amazonaws.com
 54.183.182.145 # ec2-54-183-182-145.us-west-1.compute.amazonaws.com
-54.183.182.185 # ec2-54-183-182-185.us-west-1.compute.amazonaws.com
 54.183.182.194 # ec2-54-183-182-194.us-west-1.compute.amazonaws.com
 54.183.182.238 # ec2-54-183-182-238.us-west-1.compute.amazonaws.com
 54.183.183.14 # ec2-54-183-183-14.us-west-1.compute.amazonaws.com
@@ -14108,6 +14108,7 @@
 80.47.13.178 # host-80-47-13-178.as13285.net
 80.47.206.51 # host-80-47-206-51.as13285.net
 80.47.50.81 # host-80-47-50-81.as13285.net
+80.47.68.233 # host-80-47-68-233.as13285.net
 80.47.72.153 # host-80-47-72-153.as13285.net
 80.47.72.20 # host-80-47-72-20.as13285.net
 80.47.77.129 # host-80-47-77-129.as13285.net
