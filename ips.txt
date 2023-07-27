@@ -250,6 +250,7 @@
 100.26.53.39 # ec2-100-26-53-39.compute-1.amazonaws.com
 107.21.171.2 # ec2-107-21-171-2.compute-1.amazonaws.com
 107.22.65.180 # ec2-107-22-65-180.compute-1.amazonaws.com
+107.23.151.253 # ec2-107-23-151-253.compute-1.amazonaws.com
 107.23.69.63 # ec2-107-23-69-63.compute-1.amazonaws.com
 107.23.85.84 # ec2-107-23-85-84.compute-1.amazonaws.com
 108.136.60.1 # ec2-108-136-60-1.ap-southeast-3.compute.amazonaws.com
@@ -1155,6 +1156,7 @@
 15.207.54.164 # ec2-15-207-54-164.ap-south-1.compute.amazonaws.com
 15.207.55.72 # ec2-15-207-55-72.ap-south-1.compute.amazonaws.com
 15.223.119.101 # ec2-15-223-119-101.ca-central-1.compute.amazonaws.com
+15.228.13.233 # ec2-15-228-13-233.sa-east-1.compute.amazonaws.com
 15.228.21.174 # ec2-15-228-21-174.sa-east-1.compute.amazonaws.com
 15.228.244.173 # ec2-15-228-244-173.sa-east-1.compute.amazonaws.com
 15.228.48.154 # ec2-15-228-48-154.sa-east-1.compute.amazonaws.com
@@ -8083,7 +8085,6 @@
 3.22.186.33 # ec2-3-22-186-33.us-east-2.compute.amazonaws.com
 3.22.186.72 # ec2-3-22-186-72.us-east-2.compute.amazonaws.com
 3.22.186.91 # ec2-3-22-186-91.us-east-2.compute.amazonaws.com
-3.22.188.137 # ec2-3-22-188-137.us-east-2.compute.amazonaws.com
 3.22.188.220 # ec2-3-22-188-220.us-east-2.compute.amazonaws.com
 3.22.188.50 # ec2-3-22-188-50.us-east-2.compute.amazonaws.com
 3.22.216.75 # ec2-3-22-216-75.us-east-2.compute.amazonaws.com
@@ -8259,20 +8260,10 @@
 34.201.232.42 # ec2-34-201-232-42.compute-1.amazonaws.com
 34.201.250.159 # ec2-34-201-250-159.compute-1.amazonaws.com
 34.201.252.89 # ec2-34-201-252-89.compute-1.amazonaws.com
-34.201.5.189 # ec2-34-201-5-189.compute-1.amazonaws.com
-34.201.5.235 # ec2-34-201-5-235.compute-1.amazonaws.com
-34.201.55.201 # ec2-34-201-55-201.compute-1.amazonaws.com
-34.201.55.203 # ec2-34-201-55-203.compute-1.amazonaws.com
-34.201.56.15 # ec2-34-201-56-15.compute-1.amazonaws.com
-34.201.6.47 # ec2-34-201-6-47.compute-1.amazonaws.com
-34.201.7.78 # ec2-34-201-7-78.compute-1.amazonaws.com
 34.202.116.243 # ec2-34-202-116-243.compute-1.amazonaws.com
 34.202.159.251 # ec2-34-202-159-251.compute-1.amazonaws.com
 34.203.33.226 # ec2-34-203-33-226.compute-1.amazonaws.com
 34.204.91.152 # ec2-34-204-91-152.compute-1.amazonaws.com
-34.205.131.209 # ec2-34-205-131-209.compute-1.amazonaws.com
-34.205.131.234 # ec2-34-205-131-234.compute-1.amazonaws.com
-34.205.133.142 # ec2-34-205-133-142.compute-1.amazonaws.com
 34.205.133.154 # ec2-34-205-133-154.compute-1.amazonaws.com
 34.205.134.16 # ec2-34-205-134-16.compute-1.amazonaws.com
 34.205.134.25 # ec2-34-205-134-25.compute-1.amazonaws.com
@@ -9319,7 +9310,6 @@
 34.244.151.196 # ec2-34-244-151-196.eu-west-1.compute.amazonaws.com
 34.244.193.179 # ec2-34-244-193-179.eu-west-1.compute.amazonaws.com
 34.246.173.205 # ec2-34-246-173-205.eu-west-1.compute.amazonaws.com
-34.248.124.9 # ec2-34-248-124-9.eu-west-1.compute.amazonaws.com
 34.251.75.109 # ec2-34-251-75-109.eu-west-1.compute.amazonaws.com
 34.252.90.98 # ec2-34-252-90-98.eu-west-1.compute.amazonaws.com
 34.254.199.79 # ec2-34-254-199-79.eu-west-1.compute.amazonaws.com
@@ -10978,6 +10968,7 @@
 52.2.200.120 # ec2-52-2-200-120.compute-1.amazonaws.com
 52.2.213.177 # ec2-52-2-213-177.compute-1.amazonaws.com
 52.20.185.237 # ec2-52-20-185-237.compute-1.amazonaws.com
+52.200.152.214 # ec2-52-200-152-214.compute-1.amazonaws.com
 52.201.218.3 # ec2-52-201-218-3.compute-1.amazonaws.com
 52.201.248.44 # ec2-52-201-248-44.compute-1.amazonaws.com
 52.206.17.3 # ec2-52-206-17-3.compute-1.amazonaws.com
@@ -11533,6 +11524,7 @@
 52.67.198.9 # ec2-52-67-198-9.sa-east-1.compute.amazonaws.com
 52.67.39.78 # ec2-52-67-39-78.sa-east-1.compute.amazonaws.com
 52.67.59.127 # ec2-52-67-59-127.sa-east-1.compute.amazonaws.com
+52.67.72.45 # ec2-52-67-72-45.sa-east-1.compute.amazonaws.com
 52.74.45.67 # ec2-52-74-45-67.ap-southeast-1.compute.amazonaws.com
 52.78.86.254 # ec2-52-78-86-254.ap-northeast-2.compute.amazonaws.com
 52.79.71.191 # ec2-52-79-71-191.ap-northeast-2.compute.amazonaws.com
@@ -14150,6 +14142,7 @@
 71.164.80.25 # static-71-164-80-25.albyny.fios.verizon.net
 72.88.80.22 # static-72-88-80-22.bflony.fios.verizon.net
 84.9.210.139 # static-84-9-210-139.vodafonexdsl.co.uk
+84.9.40.74 # static-84-9-40-74.vodafonexdsl.co.uk
 87.74.0.234 # static-87-74-0-234.vodafonexdsl.co.uk
 87.74.68.102 # static-87-74-68-102.vodafonexdsl.co.uk
 87.75.121.187 # static-87-75-121-187.vodafonexdsl.co.uk
