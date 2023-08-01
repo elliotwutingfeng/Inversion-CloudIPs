@@ -5694,6 +5694,7 @@
 3.110.56.184 # ec2-3-110-56-184.ap-south-1.compute.amazonaws.com
 3.110.56.207 # ec2-3-110-56-207.ap-south-1.compute.amazonaws.com
 3.111.122.229 # ec2-3-111-122-229.ap-south-1.compute.amazonaws.com
+3.112.128.115 # ec2-3-112-128-115.ap-northeast-1.compute.amazonaws.com
 3.12.83.146 # ec2-3-12-83-146.us-east-2.compute.amazonaws.com
 3.128.205.211 # ec2-3-128-205-211.us-east-2.compute.amazonaws.com
 3.128.82.223 # ec2-3-128-82-223.us-east-2.compute.amazonaws.com
@@ -8123,9 +8124,7 @@
 3.22.236.210 # ec2-3-22-236-210.us-east-2.compute.amazonaws.com
 3.22.236.60 # ec2-3-22-236-60.us-east-2.compute.amazonaws.com
 3.22.57.236 # ec2-3-22-57-236.us-east-2.compute.amazonaws.com
-3.22.57.41 # ec2-3-22-57-41.us-east-2.compute.amazonaws.com
 3.22.57.47 # ec2-3-22-57-47.us-east-2.compute.amazonaws.com
-3.22.57.52 # ec2-3-22-57-52.us-east-2.compute.amazonaws.com
 3.22.60.112 # ec2-3-22-60-112.us-east-2.compute.amazonaws.com
 3.22.60.255 # ec2-3-22-60-255.us-east-2.compute.amazonaws.com
 3.22.63.133 # ec2-3-22-63-133.us-east-2.compute.amazonaws.com
@@ -8244,6 +8243,7 @@
 3.89.223.228 # ec2-3-89-223-228.compute-1.amazonaws.com
 3.90.3.238 # ec2-3-90-3-238.compute-1.amazonaws.com
 3.90.82.198 # ec2-3-90-82-198.compute-1.amazonaws.com
+3.91.160.130 # ec2-3-91-160-130.compute-1.amazonaws.com
 3.91.190.106 # ec2-3-91-190-106.compute-1.amazonaws.com
 3.95.221.172 # ec2-3-95-221-172.compute-1.amazonaws.com
 3.95.224.211 # ec2-3-95-224-211.compute-1.amazonaws.com
@@ -13583,6 +13583,7 @@
 54.219.97.32 # ec2-54-219-97-32.us-west-1.compute.amazonaws.com
 54.221.124.84 # ec2-54-221-124-84.compute-1.amazonaws.com
 54.226.57.63 # ec2-54-226-57-63.compute-1.amazonaws.com
+54.227.3.75 # ec2-54-227-3-75.compute-1.amazonaws.com
 54.227.62.193 # ec2-54-227-62-193.compute-1.amazonaws.com
 54.227.95.248 # ec2-54-227-95-248.compute-1.amazonaws.com
 54.232.140.33 # ec2-54-232-140-33.sa-east-1.compute.amazonaws.com
@@ -14067,6 +14068,7 @@
 2.102.76.90 # host-2-102-76-90.as13285.net
 2.103.100.198 # host-2-103-100-198.as13285.net
 2.103.5.111 # host-2-103-5-111.as13285.net
+201.150.175.43 # host-201-150-175-43.supernet.com.bo
 201.150.177.63 # host-201-150-177-63.supernet.com.bo
 201.150.180.198 # host-201-150-180-198.supernet.com.bo
 201.150.181.100 # host-201-150-181-100.supernet.com.bo
