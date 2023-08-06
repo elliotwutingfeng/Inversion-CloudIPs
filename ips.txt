@@ -120,6 +120,7 @@
 5.226.81.180 # 5-226-81-180.static.ip.netia.com.pl
 5.226.86.51 # 5-226-86-51.static.ip.netia.com.pl
 5.226.98.161 # 5-226-98-161.static.ip.netia.com.pl
+50.192.148.14 # 50-192-148-14-static.hfc.comcastbusiness.net
 50.194.185.213 # 50-194-185-213-static.hfc.comcastbusiness.net
 50.195.150.107 # 50-195-150-107-static.hfc.comcastbusiness.net
 50.195.155.33 # 50-195-155-33-static.hfc.comcastbusiness.net
@@ -228,6 +229,7 @@
 95.42.214.194 # 95-42-214-194.btc-net.bg
 96.64.109.210 # 96-64-109-210-static.hfc.comcastbusiness.net
 96.66.125.177 # 96-66-125-177-static.hfc.comcastbusiness.net
+96.66.3.182 # 96-66-3-182-static.hfc.comcastbusiness.net
 96.67.23.2 # 96-67-23-2-static.hfc.comcastbusiness.net
 96.68.61.126 # 96-68-61-126-static.hfc.comcastbusiness.net
 96.81.89.237 # 96-81-89-237-static.hfc.comcastbusiness.net
@@ -236,6 +238,7 @@
 96.86.49.17 # 96-86-49-17-static.hfc.comcastbusiness.net
 96.88.67.209 # 96-88-67-209-static.hfc.comcastbusiness.net
 96.91.96.226 # 96-91-96-226-static.hfc.comcastbusiness.net
+96.94.81.222 # 96-94-81-222-static.hfc.comcastbusiness.net
 176.133.66.25 # ber24-h01-176-133-66-25.dsl.sta.abo.bbox.fr
 199.191.112.178 # cm-199-191-112-178.buckeyecom.net
 45.79.181.206 # eager-mccarthy.45-79-181-206.plesk.page
@@ -1043,7 +1046,6 @@
 13.59.198.24 # ec2-13-59-198-24.us-east-2.compute.amazonaws.com
 13.59.199.143 # ec2-13-59-199-143.us-east-2.compute.amazonaws.com
 13.59.199.249 # ec2-13-59-199-249.us-east-2.compute.amazonaws.com
-13.59.199.91 # ec2-13-59-199-91.us-east-2.compute.amazonaws.com
 13.59.20.248 # ec2-13-59-20-248.us-east-2.compute.amazonaws.com
 13.59.201.133 # ec2-13-59-201-133.us-east-2.compute.amazonaws.com
 13.59.206.198 # ec2-13-59-206-198.us-east-2.compute.amazonaws.com
@@ -8270,16 +8272,6 @@
 34.203.33.226 # ec2-34-203-33-226.compute-1.amazonaws.com
 34.204.75.5 # ec2-34-204-75-5.compute-1.amazonaws.com
 34.204.91.152 # ec2-34-204-91-152.compute-1.amazonaws.com
-34.205.225.85 # ec2-34-205-225-85.compute-1.amazonaws.com
-34.205.252.82 # ec2-34-205-252-82.compute-1.amazonaws.com
-34.205.255.19 # ec2-34-205-255-19.compute-1.amazonaws.com
-34.205.27.196 # ec2-34-205-27-196.compute-1.amazonaws.com
-34.205.28.40 # ec2-34-205-28-40.compute-1.amazonaws.com
-34.205.39.174 # ec2-34-205-39-174.compute-1.amazonaws.com
-34.205.4.31 # ec2-34-205-4-31.compute-1.amazonaws.com
-34.205.45.175 # ec2-34-205-45-175.compute-1.amazonaws.com
-34.205.45.87 # ec2-34-205-45-87.compute-1.amazonaws.com
-34.205.53.16 # ec2-34-205-53-16.compute-1.amazonaws.com
 34.205.55.21 # ec2-34-205-55-21.compute-1.amazonaws.com
 34.205.8.141 # ec2-34-205-8-141.compute-1.amazonaws.com
 34.205.84.47 # ec2-34-205-84-47.compute-1.amazonaws.com
@@ -9742,7 +9734,6 @@
 35.88.55.124 # ec2-35-88-55-124.us-west-2.compute.amazonaws.com
 35.88.9.250 # ec2-35-88-9-250.us-west-2.compute.amazonaws.com
 35.91.114.58 # ec2-35-91-114-58.us-west-2.compute.amazonaws.com
-35.93.131.63 # ec2-35-93-131-63.us-west-2.compute.amazonaws.com
 43.200.4.221 # ec2-43-200-4-221.ap-northeast-2.compute.amazonaws.com
 43.201.72.163 # ec2-43-201-72-163.ap-northeast-2.compute.amazonaws.com
 43.205.37.92 # ec2-43-205-37-92.ap-south-1.compute.amazonaws.com
@@ -10756,7 +10747,6 @@
 52.14.122.193 # ec2-52-14-122-193.us-east-2.compute.amazonaws.com
 52.14.122.9 # ec2-52-14-122-9.us-east-2.compute.amazonaws.com
 52.14.125.126 # ec2-52-14-125-126.us-east-2.compute.amazonaws.com
-52.14.126.192 # ec2-52-14-126-192.us-east-2.compute.amazonaws.com
 52.14.126.73 # ec2-52-14-126-73.us-east-2.compute.amazonaws.com
 52.14.129.184 # ec2-52-14-129-184.us-east-2.compute.amazonaws.com
 52.14.133.246 # ec2-52-14-133-246.us-east-2.compute.amazonaws.com
