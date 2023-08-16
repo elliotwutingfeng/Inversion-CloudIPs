@@ -3,13 +3,22 @@
 109.236.81.173 # 109-236-81-173.hosted-by-worldstream.net
 109.236.91.23 # 109-236-91-23.hosted-by-worldstream.net
 117.20.69.71 # 117-20-69-71.751445.bne.nbn.aussiebb.net
+119.17.141.83 # 119-17-141-83.77118d.mel.nbn.aussiebb.net
 119.18.19.5 # 119-18-19-5.771213.mel.static.aussiebb.net
+119.18.24.51 # 119-18-24-51.771218.mel.nbn.aussiebb.net
+121.200.13.159 # 121-200-13-159.79c80d.mel.nbn.aussiebb.net
+121.200.15.146 # 121-200-15-146.79c80f.mel.nbn.aussiebb.net
+121.200.18.222 # 121-200-18-222.79c812.mel.nbn.aussiebb.net
+121.200.20.169 # 121-200-20-169.79c814.mel.nbn.aussiebb.net
+121.200.21.28 # 121-200-21-28.79c815.mel.nbn.aussiebb.net
 121.200.4.152 # 121-200-4-152.79c804.syd.nbn.aussiebb.net
 121.200.4.155 # 121-200-4-155.79c804.syd.nbn.aussiebb.net
 121.200.4.210 # 121-200-4-210.79c804.syd.nbn.aussiebb.net
 121.200.7.140 # 121-200-7-140.79c807.syd.nbn.aussiebb.net
 130.211.30.154 # 154.30.211.130.bc.googleusercontent.com
 159.196.106.106 # 159-196-106-106.9fc46a.syd.nbn.aussiebb.net
+167.179.135.65 # 167-179-135-65.a7b387.mel.nbn.aussiebb.net
+167.179.137.149 # 167-179-137-149.a7b389.mel.nbn.aussiebb.net
 167.179.157.175 # 167-179-157-175.a7b39d.syd.nbn.aussiebb.net
 167.179.158.126 # 167-179-158-126.a7b39e.syd.nbn.aussiebb.net
 167.179.187.103 # 167-179-187-103.a7b3bb.bne.nbn.aussiebb.net
@@ -89,6 +98,7 @@
 198.0.152.54 # 198-0-152-54-static.hfc.comcastbusiness.net
 198.24.206.38 # 198-24-206-38.static-ip.telepacific.net
 34.67.51.20 # 20.51.67.34.bc.googleusercontent.com
+202.142.138.219 # 202-142-138-219.ca8e8a.mel.nbn.aussiebb.net
 202.153.221.95 # 202-153-221-95.ca99dd.mel.static.aussiebb.net
 212.8.248.30 # 212-8-248-30.hosted-by-worldstream.net
 212.8.250.239 # 212-8-250-239.hosted-by-worldstream.net
@@ -1413,6 +1423,7 @@
 16.170.253.120 # ec2-16-170-253-120.eu-north-1.compute.amazonaws.com
 16.171.148.203 # ec2-16-171-148-203.eu-north-1.compute.amazonaws.com
 16.171.166.19 # ec2-16-171-166-19.eu-north-1.compute.amazonaws.com
+16.171.20.73 # ec2-16-171-20-73.eu-north-1.compute.amazonaws.com
 16.171.29.243 # ec2-16-171-29-243.eu-north-1.compute.amazonaws.com
 16.171.9.17 # ec2-16-171-9-17.eu-north-1.compute.amazonaws.com
 174.129.151.3 # ec2-174-129-151-3.compute-1.amazonaws.com
@@ -3472,6 +3483,7 @@
 18.206.5.210 # ec2-18-206-5-210.compute-1.amazonaws.com
 18.206.58.195 # ec2-18-206-58-195.compute-1.amazonaws.com
 18.207.117.153 # ec2-18-207-117-153.compute-1.amazonaws.com
+18.207.117.49 # ec2-18-207-117-49.compute-1.amazonaws.com
 18.207.173.17 # ec2-18-207-173-17.compute-1.amazonaws.com
 18.208.91.22 # ec2-18-208-91-22.compute-1.amazonaws.com
 18.212.13.1 # ec2-18-212-13-1.compute-1.amazonaws.com
@@ -8252,6 +8264,7 @@
 34.201.232.42 # ec2-34-201-232-42.compute-1.amazonaws.com
 34.201.250.159 # ec2-34-201-250-159.compute-1.amazonaws.com
 34.201.252.89 # ec2-34-201-252-89.compute-1.amazonaws.com
+34.202.166.213 # ec2-34-202-166-213.compute-1.amazonaws.com
 34.203.33.226 # ec2-34-203-33-226.compute-1.amazonaws.com
 34.204.75.5 # ec2-34-204-75-5.compute-1.amazonaws.com
 34.206.163.216 # ec2-34-206-163-216.compute-1.amazonaws.com
@@ -11442,6 +11455,7 @@
 52.9.40.216 # ec2-52-9-40-216.us-west-1.compute.amazonaws.com
 52.91.16.145 # ec2-52-91-16-145.compute-1.amazonaws.com
 52.91.180.202 # ec2-52-91-180-202.compute-1.amazonaws.com
+52.91.55.142 # ec2-52-91-55-142.compute-1.amazonaws.com
 54.144.0.91 # ec2-54-144-0-91.compute-1.amazonaws.com
 54.145.221.82 # ec2-54-145-221-82.compute-1.amazonaws.com
 54.145.71.122 # ec2-54-145-71-122.compute-1.amazonaws.com
@@ -11784,6 +11798,7 @@
 54.158.5.98 # ec2-54-158-5-98.compute-1.amazonaws.com
 54.160.11.227 # ec2-54-160-11-227.compute-1.amazonaws.com
 54.160.15.214 # ec2-54-160-15-214.compute-1.amazonaws.com
+54.160.164.18 # ec2-54-160-164-18.compute-1.amazonaws.com
 54.160.18.191 # ec2-54-160-18-191.compute-1.amazonaws.com
 54.160.28.183 # ec2-54-160-28-183.compute-1.amazonaws.com
 54.160.29.154 # ec2-54-160-29-154.compute-1.amazonaws.com
@@ -13984,6 +13999,7 @@
 80.41.67.241 # host-80-41-67-241.as13285.net
 80.41.69.122 # host-80-41-69-122.as13285.net
 80.41.8.137 # host-80-41-8-137.as13285.net
+80.41.94.15 # host-80-41-94-15.as13285.net
 80.43.132.118 # host-80-43-132-118.as13285.net
 80.43.146.209 # host-80-43-146-209.as13285.net
 80.43.59.186 # host-80-43-59-186.as13285.net
