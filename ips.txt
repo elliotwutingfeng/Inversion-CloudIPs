@@ -162,6 +162,7 @@
 23.251.157.64 # 64.157.251.23.bc.googleusercontent.com
 70.88.147.89 # 70-88-147-89-harpole-architects-md.hfc.comcastbusiness.net
 70.88.58.182 # 70-88-58-182-western-fl.hfc.comcastbusiness.net
+70.91.109.245 # 70-91-109-245-illinois-il.hfc.comcastbusiness.net
 74.93.128.254 # 74-93-128-254-memphis-tn.hfc.comcastbusiness.net
 74.93.145.9 # 74-93-145-9-memphis.hfc.comcastbusiness.net
 74.93.208.70 # 74-93-208-70-washingtondc.hfc.comcastbusiness.net
@@ -680,7 +681,6 @@
 13.57.205.14 # ec2-13-57-205-14.us-west-1.compute.amazonaws.com
 13.57.205.206 # ec2-13-57-205-206.us-west-1.compute.amazonaws.com
 13.57.205.209 # ec2-13-57-205-209.us-west-1.compute.amazonaws.com
-13.57.205.59 # ec2-13-57-205-59.us-west-1.compute.amazonaws.com
 13.57.205.68 # ec2-13-57-205-68.us-west-1.compute.amazonaws.com
 13.57.205.76 # ec2-13-57-205-76.us-west-1.compute.amazonaws.com
 13.57.206.123 # ec2-13-57-206-123.us-west-1.compute.amazonaws.com
@@ -3134,6 +3134,7 @@
 18.189.1.42 # ec2-18-189-1-42.us-east-2.compute.amazonaws.com
 18.189.1.60 # ec2-18-189-1-60.us-east-2.compute.amazonaws.com
 18.189.1.72 # ec2-18-189-1-72.us-east-2.compute.amazonaws.com
+18.189.143.136 # ec2-18-189-143-136.us-east-2.compute.amazonaws.com
 18.189.17.153 # ec2-18-189-17-153.us-east-2.compute.amazonaws.com
 18.189.17.172 # ec2-18-189-17-172.us-east-2.compute.amazonaws.com
 18.189.17.177 # ec2-18-189-17-177.us-east-2.compute.amazonaws.com
@@ -9617,16 +9618,7 @@
 43.204.167.217 # ec2-43-204-167-217.ap-south-1.compute.amazonaws.com
 43.204.207.230 # ec2-43-204-207-230.ap-south-1.compute.amazonaws.com
 43.205.37.92 # ec2-43-205-37-92.ap-south-1.compute.amazonaws.com
-44.192.112.17 # ec2-44-192-112-17.compute-1.amazonaws.com
-44.192.112.186 # ec2-44-192-112-186.compute-1.amazonaws.com
-44.192.113.39 # ec2-44-192-113-39.compute-1.amazonaws.com
-44.192.116.27 # ec2-44-192-116-27.compute-1.amazonaws.com
-44.192.118.170 # ec2-44-192-118-170.compute-1.amazonaws.com
-44.192.119.151 # ec2-44-192-119-151.compute-1.amazonaws.com
-44.192.120.149 # ec2-44-192-120-149.compute-1.amazonaws.com
-44.192.120.216 # ec2-44-192-120-216.compute-1.amazonaws.com
 44.192.121.25 # ec2-44-192-121-25.compute-1.amazonaws.com
-44.192.121.59 # ec2-44-192-121-59.compute-1.amazonaws.com
 44.192.122.38 # ec2-44-192-122-38.compute-1.amazonaws.com
 44.192.122.65 # ec2-44-192-122-65.compute-1.amazonaws.com
 44.192.125.16 # ec2-44-192-125-16.compute-1.amazonaws.com
@@ -14050,6 +14042,7 @@
 176.133.66.25 # static-176-133-66-25.ftth.abo.bbox.fr
 200.58.75.48 # static-200-58-75-48.supernet.com.bo
 71.164.80.25 # static-71-164-80-25.albyny.fios.verizon.net
+71.251.197.234 # static-71-251-197-234.nwrknj.fios.verizon.net
 72.88.80.22 # static-72-88-80-22.bflony.fios.verizon.net
 84.9.40.74 # static-84-9-40-74.vodafonexdsl.co.uk
 87.74.0.234 # static-87-74-0-234.vodafonexdsl.co.uk
