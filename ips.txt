@@ -92,7 +92,6 @@
 190.2.133.230 # 190-2-133-230.hosted-by-worldstream.net
 190.2.136.46 # 190-2-136-46.hosted-by-worldstream.net
 190.2.136.47 # 190-2-136-47.hosted-by-worldstream.net
-190.2.137.70 # 190-2-137-70.hosted-by-worldstream.net
 190.2.138.15 # 190-2-138-15.hosted-by-worldstream.net
 190.2.141.21 # 190-2-141-21.hosted-by-worldstream.net
 190.2.146.232 # 190-2-146-232.hosted-by-worldstream.net
@@ -145,6 +144,7 @@
 50.196.73.150 # 50-196-73-150-static.hfc.comcastbusiness.net
 50.198.13.229 # 50-198-13-229-static.hfc.comcastbusiness.net
 50.198.141.82 # 50-198-141-82-static.hfc.comcastbusiness.net
+50.198.255.225 # 50-198-255-225-static.hfc.comcastbusiness.net
 50.240.63.18 # 50-240-63-18-static.hfc.comcastbusiness.net
 50.243.161.62 # 50-243-161-62-static.hfc.comcastbusiness.net
 50.244.182.230 # 50-244-182-230-static.hfc.comcastbusiness.net
@@ -9643,16 +9643,7 @@
 43.204.71.2 # ec2-43-204-71-2.ap-south-1.compute.amazonaws.com
 43.205.192.179 # ec2-43-205-192-179.ap-south-1.compute.amazonaws.com
 44.197.121.229 # ec2-44-197-121-229.compute-1.amazonaws.com
-44.199.207.203 # ec2-44-199-207-203.compute-1.amazonaws.com
-44.199.207.243 # ec2-44-199-207-243.compute-1.amazonaws.com
-44.199.207.32 # ec2-44-199-207-32.compute-1.amazonaws.com
-44.199.208.220 # ec2-44-199-208-220.compute-1.amazonaws.com
-44.199.212.130 # ec2-44-199-212-130.compute-1.amazonaws.com
 44.199.212.131 # ec2-44-199-212-131.compute-1.amazonaws.com
-44.199.212.187 # ec2-44-199-212-187.compute-1.amazonaws.com
-44.199.212.97 # ec2-44-199-212-97.compute-1.amazonaws.com
-44.199.213.92 # ec2-44-199-213-92.compute-1.amazonaws.com
-44.199.214.196 # ec2-44-199-214-196.compute-1.amazonaws.com
 44.199.215.249 # ec2-44-199-215-249.compute-1.amazonaws.com
 44.199.215.50 # ec2-44-199-215-50.compute-1.amazonaws.com
 44.199.216.203 # ec2-44-199-216-203.compute-1.amazonaws.com
@@ -13617,6 +13608,7 @@
 201.150.177.63 # host-201-150-177-63.supernet.com.bo
 201.150.180.198 # host-201-150-180-198.supernet.com.bo
 201.150.181.100 # host-201-150-181-100.supernet.com.bo
+24.224.202.233 # host-24-224-202-233.public.eastlink.ca
 78.146.34.166 # host-78-146-34-166.as13285.net
 78.146.44.197 # host-78-146-44-197.as13285.net
 78.148.157.52 # host-78-148-157-52.as13285.net
@@ -13718,6 +13710,7 @@
 92.8.119.121 # host-92-8-119-121.as13285.net
 92.8.143.114 # host-92-8-143-114.as13285.net
 92.8.235.112 # host-92-8-235-112.as13285.net
+92.8.255.125 # host-92-8-255-125.as13285.net
 92.9.40.97 # host-92-9-40-97.as13285.net
 92.9.45.86 # host-92-9-45-86.as13285.net
 92.9.74.248 # host-92-9-74-248.as13285.net
@@ -13736,6 +13729,7 @@
 62.210.119.209 # objective-chatelet.62-210-119-209.plesk.page
 100.34.32.244 # pool-100-34-32-244.phlapa.fios.verizon.net
 98.109.184.239 # pool-98-109-184-239.nwrknj.fios.verizon.net
+98.116.192.84 # pool-98-116-192-84.nycmny.fios.verizon.net
 217.174.241.66 # server217-174-241-66.live-servers.net
 108.36.112.54 # static-108-36-112-54.phlapa.fios.verizon.net
 176.133.66.25 # static-176-133-66-25.ftth.abo.bbox.fr
