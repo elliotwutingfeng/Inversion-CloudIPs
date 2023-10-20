@@ -118,7 +118,6 @@
 217.23.15.91 # 217-23-15-91.hosted-by-worldstream.net
 23.24.70.62 # 23-24-70-62-static.hfc.comcastbusiness.net
 23.26.96.239 # 23-26-96-239.acedatacenter.com
-23.29.115.162 # 23-29-115-162.static.hvvc.us
 23.30.52.101 # 23-30-52-101-static.hfc.comcastbusiness.net
 23.31.16.58 # 23-31-16-58-static.hfc.comcastbusiness.net
 34.65.228.232 # 232.228.65.34.bc.googleusercontent.com
@@ -3586,6 +3585,7 @@
 18.216.205.37 # ec2-18-216-205-37.us-east-2.compute.amazonaws.com
 18.216.207.32 # ec2-18-216-207-32.us-east-2.compute.amazonaws.com
 18.216.208.130 # ec2-18-216-208-130.us-east-2.compute.amazonaws.com
+18.216.21.136 # ec2-18-216-21-136.us-east-2.compute.amazonaws.com
 18.216.21.83 # ec2-18-216-21-83.us-east-2.compute.amazonaws.com
 18.216.213.13 # ec2-18-216-213-13.us-east-2.compute.amazonaws.com
 18.216.215.176 # ec2-18-216-215-176.us-east-2.compute.amazonaws.com
@@ -9645,16 +9645,6 @@
 43.204.71.2 # ec2-43-204-71-2.ap-south-1.compute.amazonaws.com
 43.205.192.179 # ec2-43-205-192-179.ap-south-1.compute.amazonaws.com
 44.197.121.229 # ec2-44-197-121-229.compute-1.amazonaws.com
-44.199.226.112 # ec2-44-199-226-112.compute-1.amazonaws.com
-44.199.226.193 # ec2-44-199-226-193.compute-1.amazonaws.com
-44.199.226.25 # ec2-44-199-226-25.compute-1.amazonaws.com
-44.199.227.72 # ec2-44-199-227-72.compute-1.amazonaws.com
-44.199.228.140 # ec2-44-199-228-140.compute-1.amazonaws.com
-44.199.228.152 # ec2-44-199-228-152.compute-1.amazonaws.com
-44.199.228.206 # ec2-44-199-228-206.compute-1.amazonaws.com
-44.199.230.111 # ec2-44-199-230-111.compute-1.amazonaws.com
-44.199.230.42 # ec2-44-199-230-42.compute-1.amazonaws.com
-44.199.230.44 # ec2-44-199-230-44.compute-1.amazonaws.com
 44.199.230.78 # ec2-44-199-230-78.compute-1.amazonaws.com
 44.199.230.94 # ec2-44-199-230-94.compute-1.amazonaws.com
 44.199.232.170 # ec2-44-199-232-170.compute-1.amazonaws.com
@@ -13712,7 +13702,6 @@
 86.134.28.58 # host86-134-28-58.range86-134.btcentralplus.com
 86.147.112.81 # host86-147-112-81.range86-147.btcentralplus.com
 86.169.232.18 # host86-169-232-18.range86-169.btcentralplus.com
-84.228.175.89 # igld-84-228-175-89.inter.net.il
 84.228.55.166 # igld-84-228-55-166.inter.net.il
 102.231.15.186 # ip102-231-15-186.ct.co.cr
 166.131.33.110 # mobile-166-131-33-110.mycingular.net
