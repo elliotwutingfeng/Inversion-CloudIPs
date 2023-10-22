@@ -208,7 +208,6 @@
 78.9.186.194 # 78-9-186-194.static.ip.netia.com.pl
 78.9.191.66 # 78-9-191-66.static.ip.netia.com.pl
 81.210.118.165 # 81-210-118-165.static.ip.netia.com.pl
-81.210.45.135 # 81-210-45-135.static.ip.netia.com.pl
 83.238.144.147 # 83-238-144-147.static.ip.netia.com.pl
 83.238.160.96 # 83-238-160-96.static.ip.netia.com.pl
 83.238.162.250 # 83-238-162-250.static.ip.netia.com.pl
@@ -8282,7 +8281,6 @@
 3.89.200.215 # ec2-3-89-200-215.compute-1.amazonaws.com
 3.89.223.203 # ec2-3-89-223-203.compute-1.amazonaws.com
 3.89.223.228 # ec2-3-89-223-228.compute-1.amazonaws.com
-3.90.175.179 # ec2-3-90-175-179.compute-1.amazonaws.com
 3.90.18.230 # ec2-3-90-18-230.compute-1.amazonaws.com
 3.90.247.66 # ec2-3-90-247-66.compute-1.amazonaws.com
 3.90.3.238 # ec2-3-90-3-238.compute-1.amazonaws.com
@@ -9644,16 +9642,6 @@
 43.204.71.2 # ec2-43-204-71-2.ap-south-1.compute.amazonaws.com
 43.205.192.179 # ec2-43-205-192-179.ap-south-1.compute.amazonaws.com
 44.197.121.229 # ec2-44-197-121-229.compute-1.amazonaws.com
-44.199.230.78 # ec2-44-199-230-78.compute-1.amazonaws.com
-44.199.230.94 # ec2-44-199-230-94.compute-1.amazonaws.com
-44.199.232.170 # ec2-44-199-232-170.compute-1.amazonaws.com
-44.199.232.193 # ec2-44-199-232-193.compute-1.amazonaws.com
-44.199.232.251 # ec2-44-199-232-251.compute-1.amazonaws.com
-44.199.233.123 # ec2-44-199-233-123.compute-1.amazonaws.com
-44.199.233.153 # ec2-44-199-233-153.compute-1.amazonaws.com
-44.199.234.177 # ec2-44-199-234-177.compute-1.amazonaws.com
-44.199.234.88 # ec2-44-199-234-88.compute-1.amazonaws.com
-44.199.235.110 # ec2-44-199-235-110.compute-1.amazonaws.com
 44.199.235.124 # ec2-44-199-235-124.compute-1.amazonaws.com
 44.199.235.161 # ec2-44-199-235-161.compute-1.amazonaws.com
 44.199.235.202 # ec2-44-199-235-202.compute-1.amazonaws.com
@@ -13597,9 +13585,11 @@
 79.78.1.117 # host-79-78-1-117.static.as9105.net
 80.41.108.198 # host-80-41-108-198.as13285.net
 80.41.121.28 # host-80-41-121-28.as13285.net
+80.41.124.234 # host-80-41-124-234.as13285.net
 80.41.134.52 # host-80-41-134-52.as13285.net
 80.41.151.131 # host-80-41-151-131.as13285.net
 80.41.155.197 # host-80-41-155-197.as13285.net
+80.41.157.30 # host-80-41-157-30.as13285.net
 80.41.171.214 # host-80-41-171-214.as13285.net
 80.41.182.204 # host-80-41-182-204.as13285.net
 80.41.186.229 # host-80-41-186-229.as13285.net
@@ -13687,6 +13677,7 @@
 92.3.57.14 # host-92-3-57-14.as13285.net
 92.31.1.7 # host-92-31-1-7.as13285.net
 92.31.104.227 # host-92-31-104-227.as13285.net
+92.31.106.210 # host-92-31-106-210.as13285.net
 92.31.108.165 # host-92-31-108-165.as13285.net
 92.31.193.50 # host-92-31-193-50.as13285.net
 92.8.119.121 # host-92-8-119-121.as13285.net
@@ -13695,6 +13686,7 @@
 92.8.255.125 # host-92-8-255-125.as13285.net
 92.9.40.97 # host-92-9-40-97.as13285.net
 92.9.45.86 # host-92-9-45-86.as13285.net
+92.9.66.184 # host-92-9-66-184.as13285.net
 92.9.74.248 # host-92-9-74-248.as13285.net
 31.54.68.162 # host31-54-68-162.range31-54.btcentralplus.com
 81.133.85.179 # host81-133-85-179.in-addr.btopenworld.com
