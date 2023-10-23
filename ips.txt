@@ -9649,8 +9649,6 @@
 44.199.236.147 # ec2-44-199-236-147.compute-1.amazonaws.com
 44.199.236.232 # ec2-44-199-236-232.compute-1.amazonaws.com
 44.199.242.241 # ec2-44-199-242-241.compute-1.amazonaws.com
-44.199.242.53 # ec2-44-199-242-53.compute-1.amazonaws.com
-44.199.242.81 # ec2-44-199-242-81.compute-1.amazonaws.com
 44.199.243.185 # ec2-44-199-243-185.compute-1.amazonaws.com
 44.199.243.28 # ec2-44-199-243-28.compute-1.amazonaws.com
 44.199.243.97 # ec2-44-199-243-97.compute-1.amazonaws.com
@@ -11379,6 +11377,7 @@
 54.175.177.228 # ec2-54-175-177-228.compute-1.amazonaws.com
 54.175.20.6 # ec2-54-175-20-6.compute-1.amazonaws.com
 54.175.225.78 # ec2-54-175-225-78.compute-1.amazonaws.com
+54.175.28.31 # ec2-54-175-28-31.compute-1.amazonaws.com
 54.175.77.31 # ec2-54-175-77-31.compute-1.amazonaws.com
 54.176.10.117 # ec2-54-176-10-117.us-west-1.compute.amazonaws.com
 54.176.10.140 # ec2-54-176-10-140.us-west-1.compute.amazonaws.com
@@ -13563,6 +13562,7 @@
 2.102.76.90 # host-2-102-76-90.as13285.net
 2.102.77.166 # host-2-102-77-166.as13285.net
 2.103.100.198 # host-2-103-100-198.as13285.net
+2.103.111.172 # host-2-103-111-172.as13285.net
 2.103.3.70 # host-2-103-3-70.as13285.net
 2.103.5.111 # host-2-103-5-111.as13285.net
 2.103.6.228 # host-2-103-6-228.as13285.net
@@ -13602,6 +13602,7 @@
 80.41.239.164 # host-80-41-239-164.as13285.net
 80.41.253.33 # host-80-41-253-33.as13285.net
 80.41.254.219 # host-80-41-254-219.as13285.net
+80.41.51.192 # host-80-41-51-192.as13285.net
 80.41.51.224 # host-80-41-51-224.as13285.net
 80.41.51.50 # host-80-41-51-50.as13285.net
 80.41.62.249 # host-80-41-62-249.as13285.net
@@ -13707,6 +13708,7 @@
 108.36.112.54 # static-108-36-112-54.phlapa.fios.verizon.net
 176.133.66.25 # static-176-133-66-25.ftth.abo.bbox.fr
 200.58.75.48 # static-200-58-75-48.supernet.com.bo
+70.18.212.242 # static-70-18-212-242.nycmny.fios.verizon.net
 84.9.40.74 # static-84-9-40-74.vodafonexdsl.co.uk
 87.74.0.234 # static-87-74-0-234.vodafonexdsl.co.uk
 87.74.68.102 # static-87-74-68-102.vodafonexdsl.co.uk
