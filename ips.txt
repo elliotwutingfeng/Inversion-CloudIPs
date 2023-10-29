@@ -124,7 +124,6 @@
 34.160.80.235 # 235.80.160.34.bc.googleusercontent.com
 104.198.156.3 # 3.156.198.104.bc.googleusercontent.com
 45.184.70.100 # 45-184-70-100.canaatelecom.net.br
-45.184.71.175 # 45-184-71-175.canaatelecom.net.br
 5.226.103.179 # 5-226-103-179.static.ip.netia.com.pl
 5.226.106.74 # 5-226-106-74.static.ip.netia.com.pl
 5.226.109.132 # 5-226-109-132.static.ip.netia.com.pl
@@ -9656,16 +9655,6 @@
 43.204.71.2 # ec2-43-204-71-2.ap-south-1.compute.amazonaws.com
 43.205.192.179 # ec2-43-205-192-179.ap-south-1.compute.amazonaws.com
 44.197.121.229 # ec2-44-197-121-229.compute-1.amazonaws.com
-44.199.246.16 # ec2-44-199-246-16.compute-1.amazonaws.com
-44.199.249.95 # ec2-44-199-249-95.compute-1.amazonaws.com
-44.199.250.146 # ec2-44-199-250-146.compute-1.amazonaws.com
-44.199.250.173 # ec2-44-199-250-173.compute-1.amazonaws.com
-44.199.250.40 # ec2-44-199-250-40.compute-1.amazonaws.com
-44.199.250.73 # ec2-44-199-250-73.compute-1.amazonaws.com
-44.199.251.96 # ec2-44-199-251-96.compute-1.amazonaws.com
-44.199.255.23 # ec2-44-199-255-23.compute-1.amazonaws.com
-44.200.0.189 # ec2-44-200-0-189.compute-1.amazonaws.com
-44.200.0.212 # ec2-44-200-0-212.compute-1.amazonaws.com
 44.200.0.30 # ec2-44-200-0-30.compute-1.amazonaws.com
 44.200.0.63 # ec2-44-200-0-63.compute-1.amazonaws.com
 44.200.11.5 # ec2-44-200-11-5.compute-1.amazonaws.com
@@ -13668,6 +13657,7 @@
 92.22.126.97 # host-92-22-126-97.as13285.net
 92.23.92.82 # host-92-23-92-82.as13285.net
 92.24.137.160 # host-92-24-137-160.as13285.net
+92.24.190.104 # host-92-24-190-104.as13285.net
 92.24.65.49 # host-92-24-65-49.as13285.net
 92.26.193.163 # host-92-26-193-163.as13285.net
 92.26.194.109 # host-92-26-194-109.as13285.net
