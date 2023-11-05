@@ -189,7 +189,6 @@
 77.252.160.10 # 77-252-160-10.static.ip.netia.com.pl
 77.252.252.149 # 77-252-252-149.static.ip.netia.com.pl
 77.253.235.226 # 77-253-235-226.static.ip.netia.com.pl
-77.44.89.37 # 77-44-89-37.xdsl.murphx.net
 78.10.163.236 # 78-10-163-236.static.ip.netia.com.pl
 78.10.38.221 # 78-10-38-221.static.ip.netia.com.pl
 78.11.118.219 # 78-11-118-219.static.ip.netia.com.pl
@@ -2961,7 +2960,6 @@
 18.167.37.25 # ec2-18-167-37-25.ap-east-1.compute.amazonaws.com
 18.167.37.250 # ec2-18-167-37-250.ap-east-1.compute.amazonaws.com
 18.167.37.255 # ec2-18-167-37-255.ap-east-1.compute.amazonaws.com
-18.181.203.223 # ec2-18-181-203-223.ap-northeast-1.compute.amazonaws.com
 18.184.124.199 # ec2-18-184-124-199.eu-central-1.compute.amazonaws.com
 18.188.1.108 # ec2-18-188-1-108.us-east-2.compute.amazonaws.com
 18.188.102.245 # ec2-18-188-102-245.us-east-2.compute.amazonaws.com
@@ -9665,16 +9663,6 @@
 43.204.71.2 # ec2-43-204-71-2.ap-south-1.compute.amazonaws.com
 43.205.192.179 # ec2-43-205-192-179.ap-south-1.compute.amazonaws.com
 44.197.121.229 # ec2-44-197-121-229.compute-1.amazonaws.com
-44.200.2.154 # ec2-44-200-2-154.compute-1.amazonaws.com
-44.200.2.238 # ec2-44-200-2-238.compute-1.amazonaws.com
-44.200.201.21 # ec2-44-200-201-21.compute-1.amazonaws.com
-44.200.202.123 # ec2-44-200-202-123.compute-1.amazonaws.com
-44.200.203.132 # ec2-44-200-203-132.compute-1.amazonaws.com
-44.200.204.192 # ec2-44-200-204-192.compute-1.amazonaws.com
-44.200.207.141 # ec2-44-200-207-141.compute-1.amazonaws.com
-44.200.208.246 # ec2-44-200-208-246.compute-1.amazonaws.com
-44.200.210.130 # ec2-44-200-210-130.compute-1.amazonaws.com
-44.200.211.185 # ec2-44-200-211-185.compute-1.amazonaws.com
 44.200.211.192 # ec2-44-200-211-192.compute-1.amazonaws.com
 44.200.211.198 # ec2-44-200-211-198.compute-1.amazonaws.com
 44.200.213.78 # ec2-44-200-213-78.compute-1.amazonaws.com
@@ -10899,6 +10887,7 @@
 52.90.127.131 # ec2-52-90-127-131.compute-1.amazonaws.com
 52.90.149.63 # ec2-52-90-149-63.compute-1.amazonaws.com
 52.90.187.140 # ec2-52-90-187-140.compute-1.amazonaws.com
+52.90.201.230 # ec2-52-90-201-230.compute-1.amazonaws.com
 52.90.53.235 # ec2-52-90-53-235.compute-1.amazonaws.com
 52.90.95.214 # ec2-52-90-95-214.compute-1.amazonaws.com
 52.91.140.123 # ec2-52-91-140-123.compute-1.amazonaws.com
@@ -13640,6 +13629,7 @@
 92.28.21.43 # host-92-28-21-43.as13285.net
 92.28.211.234 # host-92-28-211-234.as13285.net
 92.28.23.247 # host-92-28-23-247.as13285.net
+92.28.235.130 # host-92-28-235-130.as13285.net
 92.28.238.19 # host-92-28-238-19.as13285.net
 92.28.42.233 # host-92-28-42-233.as13285.net
 92.29.11.40 # host-92-29-11-40.as13285.net
@@ -13689,6 +13679,7 @@
 176.133.66.25 # static-176-133-66-25.ftth.abo.bbox.fr
 200.58.75.48 # static-200-58-75-48.supernet.com.bo
 70.18.212.242 # static-70-18-212-242.nycmny.fios.verizon.net
+71.251.197.234 # static-71-251-197-234.nwrknj.fios.verizon.net
 84.9.40.74 # static-84-9-40-74.vodafonexdsl.co.uk
 87.74.0.234 # static-87-74-0-234.vodafonexdsl.co.uk
 87.74.68.102 # static-87-74-68-102.vodafonexdsl.co.uk
