@@ -151,6 +151,7 @@
 50.253.15.254 # 50-253-15-254-static.hfc.comcastbusiness.net
 50.253.158.155 # 50-253-158-155-static.hfc.comcastbusiness.net
 50.253.175.18 # 50-253-175-18-static.hfc.comcastbusiness.net
+50.254.164.225 # 50-254-164-225-static.hfc.comcastbusiness.net
 50.73.121.126 # 50-73-121-126-ip-static.hfc.comcastbusiness.net
 50.78.135.157 # 50-78-135-157-static.hfc.comcastbusiness.net
 50.78.69.241 # 50-78-69-241-static.hfc.comcastbusiness.net
@@ -266,19 +267,20 @@
 96.94.117.222 # 96-94-117-222-static.hfc.comcastbusiness.net
 96.94.17.153 # 96-94-17-153-static.hfc.comcastbusiness.net
 96.94.81.222 # 96-94-81-222-static.hfc.comcastbusiness.net
+96.95.125.122 # 96-95-125-122-static.hfc.comcastbusiness.net
 176.133.66.25 # ber24-h01-176-133-66-25.dsl.sta.abo.bbox.fr
 45.79.181.206 # eager-mccarthy.45-79-181-206.plesk.page
 100.20.101.218 # ec2-100-20-101-218.us-west-2.compute.amazonaws.com
 100.20.101.244 # ec2-100-20-101-244.us-west-2.compute.amazonaws.com
 100.20.64.61 # ec2-100-20-64-61.us-west-2.compute.amazonaws.com
 100.25.218.120 # ec2-100-25-218-120.compute-1.amazonaws.com
-100.26.105.1 # ec2-100-26-105-1.compute-1.amazonaws.com
 100.26.53.39 # ec2-100-26-53-39.compute-1.amazonaws.com
 100.27.29.95 # ec2-100-27-29-95.compute-1.amazonaws.com
 107.20.12.220 # ec2-107-20-12-220.compute-1.amazonaws.com
 107.20.120.0 # ec2-107-20-120-0.compute-1.amazonaws.com
 107.20.27.174 # ec2-107-20-27-174.compute-1.amazonaws.com
 107.20.41.251 # ec2-107-20-41-251.compute-1.amazonaws.com
+107.20.67.9 # ec2-107-20-67-9.compute-1.amazonaws.com
 107.20.85.64 # ec2-107-20-85-64.compute-1.amazonaws.com
 107.20.94.195 # ec2-107-20-94-195.compute-1.amazonaws.com
 107.21.158.8 # ec2-107-21-158-8.compute-1.amazonaws.com
@@ -1803,6 +1805,7 @@
 18.119.156.234 # ec2-18-119-156-234.us-east-2.compute.amazonaws.com
 18.119.156.32 # ec2-18-119-156-32.us-east-2.compute.amazonaws.com
 18.119.156.75 # ec2-18-119-156-75.us-east-2.compute.amazonaws.com
+18.130.223.252 # ec2-18-130-223-252.eu-west-2.compute.amazonaws.com
 18.130.255.225 # ec2-18-130-255-225.eu-west-2.compute.amazonaws.com
 18.132.214.134 # ec2-18-132-214-134.eu-west-2.compute.amazonaws.com
 18.133.95.224 # ec2-18-133-95-224.eu-west-2.compute.amazonaws.com
@@ -5461,6 +5464,7 @@
 204.236.189.145 # ec2-204-236-189-145.us-west-1.compute.amazonaws.com
 204.236.191.9 # ec2-204-236-191-9.us-west-1.compute.amazonaws.com
 204.236.194.234 # ec2-204-236-194-234.compute-1.amazonaws.com
+23.22.144.130 # ec2-23-22-144-130.compute-1.amazonaws.com
 23.22.197.220 # ec2-23-22-197-220.compute-1.amazonaws.com
 23.22.89.122 # ec2-23-22-89-122.compute-1.amazonaws.com
 3.101.12.113 # ec2-3-101-12-113.us-west-1.compute.amazonaws.com
@@ -6086,6 +6090,7 @@
 3.136.161.64 # ec2-3-136-161-64.us-east-2.compute.amazonaws.com
 3.136.161.75 # ec2-3-136-161-75.us-east-2.compute.amazonaws.com
 3.136.161.90 # ec2-3-136-161-90.us-east-2.compute.amazonaws.com
+3.136.25.134 # ec2-3-136-25-134.us-east-2.compute.amazonaws.com
 3.137.136.132 # ec2-3-137-136-132.us-east-2.compute.amazonaws.com
 3.137.136.196 # ec2-3-137-136-196.us-east-2.compute.amazonaws.com
 3.137.136.200 # ec2-3-137-136-200.us-east-2.compute.amazonaws.com
@@ -8257,6 +8262,7 @@
 3.7.69.73 # ec2-3-7-69-73.ap-south-1.compute.amazonaws.com
 3.7.71.213 # ec2-3-7-71-213.ap-south-1.compute.amazonaws.com
 3.7.73.113 # ec2-3-7-73-113.ap-south-1.compute.amazonaws.com
+3.79.189.110 # ec2-3-79-189-110.eu-central-1.compute.amazonaws.com
 3.80.104.221 # ec2-3-80-104-221.compute-1.amazonaws.com
 3.80.106.43 # ec2-3-80-106-43.compute-1.amazonaws.com
 3.80.139.15 # ec2-3-80-139-15.compute-1.amazonaws.com
@@ -8291,6 +8297,7 @@
 3.87.248.222 # ec2-3-87-248-222.compute-1.amazonaws.com
 3.87.255.43 # ec2-3-87-255-43.compute-1.amazonaws.com
 3.87.82.184 # ec2-3-87-82-184.compute-1.amazonaws.com
+3.88.100.168 # ec2-3-88-100-168.compute-1.amazonaws.com
 3.88.110.111 # ec2-3-88-110-111.compute-1.amazonaws.com
 3.88.235.52 # ec2-3-88-235-52.compute-1.amazonaws.com
 3.89.117.122 # ec2-3-89-117-122.compute-1.amazonaws.com
@@ -9264,6 +9271,7 @@
 34.228.8.154 # ec2-34-228-8-154.compute-1.amazonaws.com
 34.229.10.31 # ec2-34-229-10-31.compute-1.amazonaws.com
 34.229.121.57 # ec2-34-229-121-57.compute-1.amazonaws.com
+34.229.127.50 # ec2-34-229-127-50.compute-1.amazonaws.com
 34.229.147.48 # ec2-34-229-147-48.compute-1.amazonaws.com
 34.229.147.99 # ec2-34-229-147-99.compute-1.amazonaws.com
 34.229.150.157 # ec2-34-229-150-157.compute-1.amazonaws.com
@@ -9671,17 +9679,6 @@
 43.204.71.2 # ec2-43-204-71-2.ap-south-1.compute.amazonaws.com
 43.205.192.179 # ec2-43-205-192-179.ap-south-1.compute.amazonaws.com
 44.197.121.229 # ec2-44-197-121-229.compute-1.amazonaws.com
-44.200.221.106 # ec2-44-200-221-106.compute-1.amazonaws.com
-44.200.234.60 # ec2-44-200-234-60.compute-1.amazonaws.com
-44.200.236.20 # ec2-44-200-236-20.compute-1.amazonaws.com
-44.200.237.124 # ec2-44-200-237-124.compute-1.amazonaws.com
-44.200.237.143 # ec2-44-200-237-143.compute-1.amazonaws.com
-44.200.239.167 # ec2-44-200-239-167.compute-1.amazonaws.com
-44.200.240.74 # ec2-44-200-240-74.compute-1.amazonaws.com
-44.200.243.34 # ec2-44-200-243-34.compute-1.amazonaws.com
-44.200.244.28 # ec2-44-200-244-28.compute-1.amazonaws.com
-44.200.244.46 # ec2-44-200-244-46.compute-1.amazonaws.com
-44.200.247.145 # ec2-44-200-247-145.compute-1.amazonaws.com
 44.200.247.214 # ec2-44-200-247-214.compute-1.amazonaws.com
 44.200.250.6 # ec2-44-200-250-6.compute-1.amazonaws.com
 44.200.251.169 # ec2-44-200-251-169.compute-1.amazonaws.com
@@ -12531,6 +12528,7 @@
 54.210.167.116 # ec2-54-210-167-116.compute-1.amazonaws.com
 54.210.17.187 # ec2-54-210-17-187.compute-1.amazonaws.com
 54.210.193.159 # ec2-54-210-193-159.compute-1.amazonaws.com
+54.211.228.137 # ec2-54-211-228-137.compute-1.amazonaws.com
 54.211.8.5 # ec2-54-211-8-5.compute-1.amazonaws.com
 54.212.128.79 # ec2-54-212-128-79.us-west-2.compute.amazonaws.com
 54.212.129.194 # ec2-54-212-129-194.us-west-2.compute.amazonaws.com
@@ -13514,6 +13512,7 @@
 78.146.38.203 # host-78-146-38-203.as13285.net
 78.146.44.197 # host-78-146-44-197.as13285.net
 78.148.157.52 # host-78-148-157-52.as13285.net
+78.150.185.141 # host-78-150-185-141.as13285.net
 78.150.53.21 # host-78-150-53-21.as13285.net
 78.151.168.41 # host-78-151-168-41.as13285.net
 78.151.205.78 # host-78-151-205-78.as13285.net
@@ -13574,6 +13573,7 @@
 80.47.61.61 # host-80-47-61-61.as13285.net
 80.47.63.149 # host-80-47-63-149.as13285.net
 80.47.68.233 # host-80-47-68-233.as13285.net
+80.47.7.75 # host-80-47-7-75.as13285.net
 80.47.72.153 # host-80-47-72-153.as13285.net
 80.47.72.20 # host-80-47-72-20.as13285.net
 80.47.73.47 # host-80-47-73-47.as13285.net
