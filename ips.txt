@@ -55,7 +55,6 @@
 190.2.132.213 # 190-2-132-213.hosted-by-worldstream.net
 190.2.132.214 # 190-2-132-214.hosted-by-worldstream.net
 190.2.132.218 # 190-2-132-218.hosted-by-worldstream.net
-190.2.133.223 # 190-2-133-223.hosted-by-worldstream.net
 190.2.133.230 # 190-2-133-230.hosted-by-worldstream.net
 190.2.136.46 # 190-2-136-46.hosted-by-worldstream.net
 190.2.136.47 # 190-2-136-47.hosted-by-worldstream.net
@@ -8169,7 +8168,6 @@
 3.22.99.5 # ec2-3-22-99-5.us-east-2.compute.amazonaws.com
 3.22.99.88 # ec2-3-22-99-88.us-east-2.compute.amazonaws.com
 3.220.234.115 # ec2-3-220-234-115.compute-1.amazonaws.com
-3.220.31.73 # ec2-3-220-31-73.compute-1.amazonaws.com
 3.227.12.196 # ec2-3-227-12-196.compute-1.amazonaws.com
 3.23.100.109 # ec2-3-23-100-109.us-east-2.compute.amazonaws.com
 3.23.100.110 # ec2-3-23-100-110.us-east-2.compute.amazonaws.com
@@ -11045,24 +11043,14 @@
 54.157.250.197 # ec2-54-157-250-197.compute-1.amazonaws.com
 54.157.252.179 # ec2-54-157-252-179.compute-1.amazonaws.com
 54.157.4.63 # ec2-54-157-4-63.compute-1.amazonaws.com
-54.157.96.208 # ec2-54-157-96-208.compute-1.amazonaws.com
 54.158.222.104 # ec2-54-158-222-104.compute-1.amazonaws.com
 54.158.5.98 # ec2-54-158-5-98.compute-1.amazonaws.com
 54.158.74.227 # ec2-54-158-74-227.compute-1.amazonaws.com
 54.159.2.72 # ec2-54-159-2-72.compute-1.amazonaws.com
 54.159.21.76 # ec2-54-159-21-76.compute-1.amazonaws.com
-54.160.11.227 # ec2-54-160-11-227.compute-1.amazonaws.com
-54.160.15.214 # ec2-54-160-15-214.compute-1.amazonaws.com
 54.160.172.94 # ec2-54-160-172-94.compute-1.amazonaws.com
-54.160.18.191 # ec2-54-160-18-191.compute-1.amazonaws.com
 54.160.201.61 # ec2-54-160-201-61.compute-1.amazonaws.com
 54.160.253.43 # ec2-54-160-253-43.compute-1.amazonaws.com
-54.160.28.183 # ec2-54-160-28-183.compute-1.amazonaws.com
-54.160.29.170 # ec2-54-160-29-170.compute-1.amazonaws.com
-54.160.46.9 # ec2-54-160-46-9.compute-1.amazonaws.com
-54.160.50.151 # ec2-54-160-50-151.compute-1.amazonaws.com
-54.160.50.45 # ec2-54-160-50-45.compute-1.amazonaws.com
-54.160.59.129 # ec2-54-160-59-129.compute-1.amazonaws.com
 54.160.84.65 # ec2-54-160-84-65.compute-1.amazonaws.com
 54.161.196.223 # ec2-54-161-196-223.compute-1.amazonaws.com
 54.162.245.123 # ec2-54-162-245-123.compute-1.amazonaws.com
@@ -13371,6 +13359,7 @@
 80.41.195.33 # host-80-41-195-33.as13285.net
 80.41.197.93 # host-80-41-197-93.as13285.net
 80.41.200.180 # host-80-41-200-180.as13285.net
+80.41.203.61 # host-80-41-203-61.as13285.net
 80.41.206.98 # host-80-41-206-98.as13285.net
 80.41.216.160 # host-80-41-216-160.as13285.net
 80.41.221.87 # host-80-41-221-87.as13285.net
@@ -13412,6 +13401,7 @@
 80.47.10.84 # host-80-47-10-84.as13285.net
 80.47.110.180 # host-80-47-110-180.as13285.net
 80.47.13.178 # host-80-47-13-178.as13285.net
+80.47.15.241 # host-80-47-15-241.as13285.net
 80.47.182.98 # host-80-47-182-98.as13285.net
 80.47.199.36 # host-80-47-199-36.as13285.net
 80.47.206.51 # host-80-47-206-51.as13285.net
@@ -13465,6 +13455,7 @@
 92.19.121.109 # host-92-19-121-109.as13285.net
 92.19.129.60 # host-92-19-129-60.as13285.net
 92.19.142.95 # host-92-19-142-95.as13285.net
+92.19.160.77 # host-92-19-160-77.as13285.net
 92.19.27.78 # host-92-19-27-78.as13285.net
 92.19.87.208 # host-92-19-87-208.as13285.net
 92.19.92.88 # host-92-19-92-88.as13285.net
@@ -13485,6 +13476,7 @@
 92.28.235.130 # host-92-28-235-130.as13285.net
 92.28.237.118 # host-92-28-237-118.as13285.net
 92.28.238.19 # host-92-28-238-19.as13285.net
+92.28.242.8 # host-92-28-242-8.as13285.net
 92.28.35.219 # host-92-28-35-219.as13285.net
 92.28.42.233 # host-92-28-42-233.as13285.net
 92.29.11.40 # host-92-29-11-40.as13285.net
@@ -13543,6 +13535,7 @@
 98.116.192.84 # pool-98-116-192-84.nycmny.fios.verizon.net
 217.174.241.66 # server217-174-241-66.live-servers.net
 108.36.112.54 # static-108-36-112-54.phlapa.fios.verizon.net
+108.6.216.35 # static-108-6-216-35.nycmny.fios.verizon.net
 176.133.66.25 # static-176-133-66-25.ftth.abo.bbox.fr
 200.58.75.48 # static-200-58-75-48.supernet.com.bo
 212.158.245.125 # static-212-158-245-125.vodafonexdsl.co.uk
