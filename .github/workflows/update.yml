@@ -3,7 +3,7 @@ name: update
 on:
     workflow_dispatch:
     schedule:
-        - cron: "*/60 * * * *" # runs every hour
+        - cron: "0 * * * *" # runs every hour
 
 jobs:
     generate_list:
@@ -11,11 +11,6 @@ jobs:
         steps:
             - name: checkout repo content
               uses: actions/checkout@v4
-
-            - name: setup python
-              uses: actions/setup-python@v5
-              with:
-                  python-version: "3.12"
 
             - name: install python packages
               run: |
