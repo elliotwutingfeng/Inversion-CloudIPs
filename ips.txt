@@ -18,6 +18,7 @@
 121.200.4.155 # 121-200-4-155.79c804.syd.nbn.aussiebb.net
 121.200.4.210 # 121-200-4-210.79c804.syd.nbn.aussiebb.net
 121.200.7.140 # 121-200-7-140.79c807.syd.nbn.aussiebb.net
+122.223.74.97 # 122-223-74-97.aichi.ap.gmo-isp.jp
 130.211.30.154 # 154.30.211.130.bc.googleusercontent.com
 159.196.106.106 # 159-196-106-106.9fc46a.syd.nbn.aussiebb.net
 167.179.135.65 # 167-179-135-65.a7b387.mel.nbn.aussiebb.net
@@ -2270,15 +2271,6 @@
 15.229.43.60 # ec2-15-229-43-60.sa-east-1.compute.amazonaws.com
 15.236.55.34 # ec2-15-236-55-34.eu-west-3.compute.amazonaws.com
 16.162.22.25 # ec2-16-162-22-25.ap-east-1.compute.amazonaws.com
-16.162.22.27 # ec2-16-162-22-27.ap-east-1.compute.amazonaws.com
-16.162.22.54 # ec2-16-162-22-54.ap-east-1.compute.amazonaws.com
-16.162.22.81 # ec2-16-162-22-81.ap-east-1.compute.amazonaws.com
-16.162.22.96 # ec2-16-162-22-96.ap-east-1.compute.amazonaws.com
-16.162.220.111 # ec2-16-162-220-111.ap-east-1.compute.amazonaws.com
-16.162.220.112 # ec2-16-162-220-112.ap-east-1.compute.amazonaws.com
-16.162.220.118 # ec2-16-162-220-118.ap-east-1.compute.amazonaws.com
-16.162.220.123 # ec2-16-162-220-123.ap-east-1.compute.amazonaws.com
-16.162.220.128 # ec2-16-162-220-128.ap-east-1.compute.amazonaws.com
 16.162.220.130 # ec2-16-162-220-130.ap-east-1.compute.amazonaws.com
 16.162.220.155 # ec2-16-162-220-155.ap-east-1.compute.amazonaws.com
 16.162.220.157 # ec2-16-162-220-157.ap-east-1.compute.amazonaws.com
@@ -9282,6 +9274,7 @@
 34.204.15.12 # ec2-34-204-15-12.compute-1.amazonaws.com
 34.206.163.216 # ec2-34-206-163-216.compute-1.amazonaws.com
 34.207.111.87 # ec2-34-207-111-87.compute-1.amazonaws.com
+34.207.149.197 # ec2-34-207-149-197.compute-1.amazonaws.com
 34.207.173.228 # ec2-34-207-173-228.compute-1.amazonaws.com
 34.207.80.203 # ec2-34-207-80-203.compute-1.amazonaws.com
 34.208.101.163 # ec2-34-208-101-163.us-west-2.compute.amazonaws.com
@@ -14245,6 +14238,7 @@
 201.150.180.198 # host-201-150-180-198.supernet.com.bo
 201.150.181.100 # host-201-150-181-100.supernet.com.bo
 24.224.202.233 # host-24-224-202-233.public.eastlink.ca
+78.144.100.1 # host-78-144-100-1.as13285.net
 78.146.34.166 # host-78-146-34-166.as13285.net
 78.146.38.203 # host-78-146-38-203.as13285.net
 78.146.44.197 # host-78-146-44-197.as13285.net
@@ -14459,6 +14453,7 @@
 92.7.52.206 # host-92-7-52-206.as13285.net
 92.8.114.172 # host-92-8-114-172.as13285.net
 92.8.119.121 # host-92-8-119-121.as13285.net
+92.8.138.153 # host-92-8-138-153.as13285.net
 92.8.143.114 # host-92-8-143-114.as13285.net
 92.8.148.154 # host-92-8-148-154.as13285.net
 92.8.158.56 # host-92-8-158-56.as13285.net
