@@ -31,25 +31,27 @@
 
 ## Requirements
 
--   Python >= 3.11
+- Python 3.12+
 
 ## Setup instructions
 
 `git clone` and `cd` into the project directory, then run the following
 
 ```bash
-pip3 install tldextract
+python3 -m venv venv
+venv/bin/python3 -m pip install --upgrade pip
+venv/bin/python3 -m pip install tldextract
 ```
 
 ## Usage
 
 ```bash
-python3 update.py
+venv/bin/python3 update.py
 ```
 
 ## Libraries/Frameworks used
 
--   [tldextract](https://github.com/john-kurkowski/tldextract)
+- [tldextract](https://github.com/john-kurkowski/tldextract)
 
 &nbsp;
 
