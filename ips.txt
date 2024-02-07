@@ -109,7 +109,6 @@
 213.241.37.79 # 213-241-37-79.static.ip.netia.com.pl
 213.241.53.150 # 213-241-53-150.static.ip.netia.com.pl
 217.23.1.208 # 217-23-1-208.hosted-by-worldstream.net
-217.23.1.23 # 217-23-1-23.hosted-by-worldstream.net
 217.23.13.125 # 217-23-13-125.hosted-by-worldstream.net
 217.23.15.91 # 217-23-15-91.hosted-by-worldstream.net
 23.227.199.215 # 23-227-199-215.static.hvvc.us
@@ -2865,16 +2864,6 @@
 18.144.99.73 # ec2-18-144-99-73.us-west-1.compute.amazonaws.com
 18.156.193.57 # ec2-18-156-193-57.eu-central-1.compute.amazonaws.com
 18.162.118.41 # ec2-18-162-118-41.ap-east-1.compute.amazonaws.com
-18.163.116.64 # ec2-18-163-116-64.ap-east-1.compute.amazonaws.com
-18.163.116.9 # ec2-18-163-116-9.ap-east-1.compute.amazonaws.com
-18.163.119.1 # ec2-18-163-119-1.ap-east-1.compute.amazonaws.com
-18.163.119.113 # ec2-18-163-119-113.ap-east-1.compute.amazonaws.com
-18.163.119.137 # ec2-18-163-119-137.ap-east-1.compute.amazonaws.com
-18.163.119.14 # ec2-18-163-119-14.ap-east-1.compute.amazonaws.com
-18.163.119.143 # ec2-18-163-119-143.ap-east-1.compute.amazonaws.com
-18.163.119.144 # ec2-18-163-119-144.ap-east-1.compute.amazonaws.com
-18.163.119.153 # ec2-18-163-119-153.ap-east-1.compute.amazonaws.com
-18.163.119.181 # ec2-18-163-119-181.ap-east-1.compute.amazonaws.com
 18.163.119.210 # ec2-18-163-119-210.ap-east-1.compute.amazonaws.com
 18.163.119.231 # ec2-18-163-119-231.ap-east-1.compute.amazonaws.com
 18.163.119.232 # ec2-18-163-119-232.ap-east-1.compute.amazonaws.com
@@ -8828,6 +8817,7 @@
 3.88.224.42 # ec2-3-88-224-42.compute-1.amazonaws.com
 3.88.233.16 # ec2-3-88-233-16.compute-1.amazonaws.com
 3.88.235.52 # ec2-3-88-235-52.compute-1.amazonaws.com
+3.88.90.169 # ec2-3-88-90-169.compute-1.amazonaws.com
 3.89.120.8 # ec2-3-89-120-8.compute-1.amazonaws.com
 3.89.125.249 # ec2-3-89-125-249.compute-1.amazonaws.com
 3.89.141.88 # ec2-3-89-141-88.compute-1.amazonaws.com
@@ -11714,6 +11704,7 @@
 54.167.81.162 # ec2-54-167-81-162.compute-1.amazonaws.com
 54.171.76.196 # ec2-54-171-76-196.eu-west-1.compute.amazonaws.com
 54.172.161.35 # ec2-54-172-161-35.compute-1.amazonaws.com
+54.172.217.214 # ec2-54-172-217-214.compute-1.amazonaws.com
 54.172.41.6 # ec2-54-172-41-6.compute-1.amazonaws.com
 54.172.87.142 # ec2-54-172-87-142.compute-1.amazonaws.com
 54.172.87.164 # ec2-54-172-87-164.compute-1.amazonaws.com
