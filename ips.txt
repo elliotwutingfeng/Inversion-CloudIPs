@@ -2865,13 +2865,7 @@
 18.162.118.41 # ec2-18-162-118-41.ap-east-1.compute.amazonaws.com
 18.163.184.176 # ec2-18-163-184-176.ap-east-1.compute.amazonaws.com
 18.163.184.178 # ec2-18-163-184-178.ap-east-1.compute.amazonaws.com
-18.163.184.18 # ec2-18-163-184-18.ap-east-1.compute.amazonaws.com
-18.163.184.4 # ec2-18-163-184-4.ap-east-1.compute.amazonaws.com
-18.163.184.46 # ec2-18-163-184-46.ap-east-1.compute.amazonaws.com
-18.163.186.115 # ec2-18-163-186-115.ap-east-1.compute.amazonaws.com
 18.163.186.142 # ec2-18-163-186-142.ap-east-1.compute.amazonaws.com
-18.163.186.144 # ec2-18-163-186-144.ap-east-1.compute.amazonaws.com
-18.163.186.148 # ec2-18-163-186-148.ap-east-1.compute.amazonaws.com
 18.163.186.171 # ec2-18-163-186-171.ap-east-1.compute.amazonaws.com
 18.163.186.190 # ec2-18-163-186-190.ap-east-1.compute.amazonaws.com
 18.163.186.191 # ec2-18-163-186-191.ap-east-1.compute.amazonaws.com
@@ -14172,6 +14166,7 @@
 92.17.143.121 # host-92-17-143-121.as13285.net
 92.17.17.106 # host-92-17-17-106.as13285.net
 92.17.19.113 # host-92-17-19-113.as13285.net
+92.17.191.66 # host-92-17-191-66.as13285.net
 92.17.20.182 # host-92-17-20-182.as13285.net
 92.17.5.191 # host-92-17-5-191.as13285.net
 92.17.92.183 # host-92-17-92-183.as13285.net
