@@ -579,6 +579,7 @@
 78.3.95.113 # 78-3-95-113.adsl.net.t-com.hr
 78.3.95.197 # 78-3-95-197.adsl.net.t-com.hr
 78.3.98.82 # 78-3-98-82.adsl.net.t-com.hr
+78.56.94.66 # 78-56-94-66.static.zebra.lt
 78.9.186.194 # 78-9-186-194.static.ip.netia.com.pl
 78.9.191.66 # 78-9-191-66.static.ip.netia.com.pl
 81.210.118.165 # 81-210-118-165.static.ip.netia.com.pl
@@ -2836,16 +2837,6 @@
 18.144.99.24 # ec2-18-144-99-24.us-west-1.compute.amazonaws.com
 18.144.99.61 # ec2-18-144-99-61.us-west-1.compute.amazonaws.com
 18.144.99.73 # ec2-18-144-99-73.us-west-1.compute.amazonaws.com
-18.166.177.81 # ec2-18-166-177-81.ap-east-1.compute.amazonaws.com
-18.166.178.144 # ec2-18-166-178-144.ap-east-1.compute.amazonaws.com
-18.166.178.158 # ec2-18-166-178-158.ap-east-1.compute.amazonaws.com
-18.166.178.190 # ec2-18-166-178-190.ap-east-1.compute.amazonaws.com
-18.166.178.203 # ec2-18-166-178-203.ap-east-1.compute.amazonaws.com
-18.166.178.232 # ec2-18-166-178-232.ap-east-1.compute.amazonaws.com
-18.166.178.244 # ec2-18-166-178-244.ap-east-1.compute.amazonaws.com
-18.166.178.28 # ec2-18-166-178-28.ap-east-1.compute.amazonaws.com
-18.166.178.35 # ec2-18-166-178-35.ap-east-1.compute.amazonaws.com
-18.166.178.63 # ec2-18-166-178-63.ap-east-1.compute.amazonaws.com
 18.166.178.69 # ec2-18-166-178-69.ap-east-1.compute.amazonaws.com
 18.166.178.7 # ec2-18-166-178-7.ap-east-1.compute.amazonaws.com
 18.166.178.71 # ec2-18-166-178-71.ap-east-1.compute.amazonaws.com
