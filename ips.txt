@@ -201,7 +201,6 @@
 62.89.73.226 # 62-89-73-226.static.ip.netia.com.pl
 64.139.87.105 # 64-139-87-105-hattiesburg.hfc.comcastbusiness.net
 23.251.157.64 # 64.157.251.23.bc.googleusercontent.com
-66.165.227.178 # 66-165-227-178.static.hvvc.us
 66.165.233.186 # 66-165-233-186.static.hvvc.us
 66.165.234.57 # 66-165-234-57.static.hvvc.us
 66.165.251.145 # 66-165-251-145.static.hvvc.us
@@ -1418,16 +1417,6 @@
 13.228.76.46 # ec2-13-228-76-46.ap-southeast-1.compute.amazonaws.com
 13.229.136.83 # ec2-13-229-136-83.ap-southeast-1.compute.amazonaws.com
 13.229.154.133 # ec2-13-229-154-133.ap-southeast-1.compute.amazonaws.com
-13.233.126.158 # ec2-13-233-126-158.ap-south-1.compute.amazonaws.com
-13.233.126.16 # ec2-13-233-126-16.ap-south-1.compute.amazonaws.com
-13.233.137.134 # ec2-13-233-137-134.ap-south-1.compute.amazonaws.com
-13.233.137.92 # ec2-13-233-137-92.ap-south-1.compute.amazonaws.com
-13.233.150.235 # ec2-13-233-150-235.ap-south-1.compute.amazonaws.com
-13.233.150.26 # ec2-13-233-150-26.ap-south-1.compute.amazonaws.com
-13.233.153.252 # ec2-13-233-153-252.ap-south-1.compute.amazonaws.com
-13.233.155.79 # ec2-13-233-155-79.ap-south-1.compute.amazonaws.com
-13.233.158.208 # ec2-13-233-158-208.ap-south-1.compute.amazonaws.com
-13.233.160.127 # ec2-13-233-160-127.ap-south-1.compute.amazonaws.com
 13.233.163.101 # ec2-13-233-163-101.ap-south-1.compute.amazonaws.com
 13.233.18.108 # ec2-13-233-18-108.ap-south-1.compute.amazonaws.com
 13.233.194.197 # ec2-13-233-194-197.ap-south-1.compute.amazonaws.com
@@ -9824,6 +9813,7 @@
 52.27.4.182 # ec2-52-27-4-182.us-west-2.compute.amazonaws.com
 52.27.42.49 # ec2-52-27-42-49.us-west-2.compute.amazonaws.com
 52.27.82.161 # ec2-52-27-82-161.us-west-2.compute.amazonaws.com
+52.28.202.175 # ec2-52-28-202-175.eu-central-1.compute.amazonaws.com
 52.3.38.63 # ec2-52-3-38-63.compute-1.amazonaws.com
 52.32.100.248 # ec2-52-32-100-248.us-west-2.compute.amazonaws.com
 52.32.105.152 # ec2-52-32-105-152.us-west-2.compute.amazonaws.com
@@ -10322,6 +10312,7 @@
 52.91.244.48 # ec2-52-91-244-48.compute-1.amazonaws.com
 52.91.64.202 # ec2-52-91-64-202.compute-1.amazonaws.com
 54.144.109.163 # ec2-54-144-109-163.compute-1.amazonaws.com
+54.145.145.221 # ec2-54-145-145-221.compute-1.amazonaws.com
 54.146.166.198 # ec2-54-146-166-198.compute-1.amazonaws.com
 54.147.33.152 # ec2-54-147-33-152.compute-1.amazonaws.com
 54.148.127.51 # ec2-54-148-127-51.us-west-2.compute.amazonaws.com
@@ -13227,6 +13218,7 @@
 84.9.112.11 # static-84-9-112-11.vodafonexdsl.co.uk
 84.9.164.230 # static-84-9-164-230.vodafonexdsl.co.uk
 84.9.180.123 # static-84-9-180-123.vodafonexdsl.co.uk
+84.9.191.214 # static-84-9-191-214.vodafonexdsl.co.uk
 84.9.224.229 # static-84-9-224-229.vodafonexdsl.co.uk
 84.9.37.216 # static-84-9-37-216.vodafonexdsl.co.uk
 84.9.40.74 # static-84-9-40-74.vodafonexdsl.co.uk
