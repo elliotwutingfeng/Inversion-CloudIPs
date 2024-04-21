@@ -50,6 +50,7 @@
 176.35.138.93 # 176-35-138-93.xdsl.murphx.net
 176.35.164.230 # 176-35-164-230.xdsl.murphx.net
 176.35.200.18 # 176-35-200-18.xdsl.murphx.net
+176.35.79.46 # 176-35-79-46.xdsl.murphx.net
 176.35.94.193 # 176-35-94-193.xdsl.murphx.net
 177.52.195.113 # 177-52-195-113.nortenetbrasil.com.br
 177.52.195.50 # 177-52-195-50.nortenetbrasil.com.br
@@ -1406,6 +1407,7 @@
 100.20.101.218 # ec2-100-20-101-218.us-west-2.compute.amazonaws.com
 100.20.101.244 # ec2-100-20-101-244.us-west-2.compute.amazonaws.com
 100.20.64.61 # ec2-100-20-64-61.us-west-2.compute.amazonaws.com
+13.212.166.190 # ec2-13-212-166-190.ap-southeast-1.compute.amazonaws.com
 13.52.100.146 # ec2-13-52-100-146.us-west-1.compute.amazonaws.com
 13.52.100.166 # ec2-13-52-100-166.us-west-1.compute.amazonaws.com
 13.52.100.221 # ec2-13-52-100-221.us-west-1.compute.amazonaws.com
@@ -5325,16 +5327,6 @@
 3.101.59.199 # ec2-3-101-59-199.us-west-1.compute.amazonaws.com
 3.101.59.41 # ec2-3-101-59-41.us-west-1.compute.amazonaws.com
 3.101.59.84 # ec2-3-101-59-84.us-west-1.compute.amazonaws.com
-3.109.154.179 # ec2-3-109-154-179.ap-south-1.compute.amazonaws.com
-3.109.158.107 # ec2-3-109-158-107.ap-south-1.compute.amazonaws.com
-3.109.158.113 # ec2-3-109-158-113.ap-south-1.compute.amazonaws.com
-3.109.2.56 # ec2-3-109-2-56.ap-south-1.compute.amazonaws.com
-3.109.200.151 # ec2-3-109-200-151.ap-south-1.compute.amazonaws.com
-3.109.200.74 # ec2-3-109-200-74.ap-south-1.compute.amazonaws.com
-3.109.202.201 # ec2-3-109-202-201.ap-south-1.compute.amazonaws.com
-3.109.206.234 # ec2-3-109-206-234.ap-south-1.compute.amazonaws.com
-3.109.206.30 # ec2-3-109-206-30.ap-south-1.compute.amazonaws.com
-3.109.206.66 # ec2-3-109-206-66.ap-south-1.compute.amazonaws.com
 3.109.207.98 # ec2-3-109-207-98.ap-south-1.compute.amazonaws.com
 3.109.211.142 # ec2-3-109-211-142.ap-south-1.compute.amazonaws.com
 3.109.212.1 # ec2-3-109-212-1.ap-south-1.compute.amazonaws.com
