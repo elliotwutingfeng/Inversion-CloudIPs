@@ -1407,6 +1407,7 @@
 100.20.101.218 # ec2-100-20-101-218.us-west-2.compute.amazonaws.com
 100.20.101.244 # ec2-100-20-101-244.us-west-2.compute.amazonaws.com
 100.20.64.61 # ec2-100-20-64-61.us-west-2.compute.amazonaws.com
+13.212.115.67 # ec2-13-212-115-67.ap-southeast-1.compute.amazonaws.com
 13.212.166.190 # ec2-13-212-166-190.ap-southeast-1.compute.amazonaws.com
 13.52.100.146 # ec2-13-52-100-146.us-west-1.compute.amazonaws.com
 13.52.100.166 # ec2-13-52-100-166.us-west-1.compute.amazonaws.com
@@ -2501,6 +2502,7 @@
 18.119.156.234 # ec2-18-119-156-234.us-east-2.compute.amazonaws.com
 18.119.156.32 # ec2-18-119-156-32.us-east-2.compute.amazonaws.com
 18.119.156.75 # ec2-18-119-156-75.us-east-2.compute.amazonaws.com
+18.142.112.125 # ec2-18-142-112-125.ap-southeast-1.compute.amazonaws.com
 18.143.194.201 # ec2-18-143-194-201.ap-southeast-1.compute.amazonaws.com
 18.144.1.147 # ec2-18-144-1-147.us-west-1.compute.amazonaws.com
 18.144.1.212 # ec2-18-144-1-212.us-west-1.compute.amazonaws.com
@@ -5327,16 +5329,6 @@
 3.101.59.199 # ec2-3-101-59-199.us-west-1.compute.amazonaws.com
 3.101.59.41 # ec2-3-101-59-41.us-west-1.compute.amazonaws.com
 3.101.59.84 # ec2-3-101-59-84.us-west-1.compute.amazonaws.com
-3.109.207.98 # ec2-3-109-207-98.ap-south-1.compute.amazonaws.com
-3.109.211.142 # ec2-3-109-211-142.ap-south-1.compute.amazonaws.com
-3.109.212.1 # ec2-3-109-212-1.ap-south-1.compute.amazonaws.com
-3.109.212.157 # ec2-3-109-212-157.ap-south-1.compute.amazonaws.com
-3.109.212.199 # ec2-3-109-212-199.ap-south-1.compute.amazonaws.com
-3.109.212.238 # ec2-3-109-212-238.ap-south-1.compute.amazonaws.com
-3.109.212.8 # ec2-3-109-212-8.ap-south-1.compute.amazonaws.com
-3.109.213.130 # ec2-3-109-213-130.ap-south-1.compute.amazonaws.com
-3.109.213.132 # ec2-3-109-213-132.ap-south-1.compute.amazonaws.com
-3.109.3.172 # ec2-3-109-3-172.ap-south-1.compute.amazonaws.com
 3.109.3.20 # ec2-3-109-3-20.ap-south-1.compute.amazonaws.com
 3.109.54.222 # ec2-3-109-54-222.ap-south-1.compute.amazonaws.com
 3.109.54.83 # ec2-3-109-54-83.ap-south-1.compute.amazonaws.com
