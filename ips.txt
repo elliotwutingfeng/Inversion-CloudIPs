@@ -226,7 +226,6 @@
 69.46.4.101 # 69-46-4-101.static.hvvc.us
 70.88.227.189 # 70-88-227-189-st-margrets-elementary-school-md.hfc.comcastbusiness.net
 70.88.58.182 # 70-88-58-182-western-fl.hfc.comcastbusiness.net
-70.90.14.166 # 70-90-14-166-pa-nj-de.hfc.comcastbusiness.net
 70.91.109.245 # 70-91-109-245-illinois-il.hfc.comcastbusiness.net
 74.50.125.11 # 74-50-125-11.static.hvvc.us
 74.93.128.254 # 74-93-128-254-memphis-tn.hfc.comcastbusiness.net
@@ -7787,14 +7786,6 @@
 3.23.64.35 # ec2-3-23-64-35.us-east-2.compute.amazonaws.com
 3.250.121.163 # ec2-3-250-121-163.eu-west-1.compute.amazonaws.com
 3.250.144.98 # ec2-3-250-144-98.eu-west-1.compute.amazonaws.com
-3.7.45.114 # ec2-3-7-45-114.ap-south-1.compute.amazonaws.com
-3.7.46.55 # ec2-3-7-46-55.ap-south-1.compute.amazonaws.com
-3.7.59.17 # ec2-3-7-59-17.ap-south-1.compute.amazonaws.com
-3.7.62.136 # ec2-3-7-62-136.ap-south-1.compute.amazonaws.com
-3.7.68.74 # ec2-3-7-68-74.ap-south-1.compute.amazonaws.com
-3.7.69.73 # ec2-3-7-69-73.ap-south-1.compute.amazonaws.com
-3.7.71.213 # ec2-3-7-71-213.ap-south-1.compute.amazonaws.com
-3.7.73.113 # ec2-3-7-73-113.ap-south-1.compute.amazonaws.com
 34.208.101.163 # ec2-34-208-101-163.us-west-2.compute.amazonaws.com
 34.208.106.76 # ec2-34-208-106-76.us-west-2.compute.amazonaws.com
 34.208.107.176 # ec2-34-208-107-176.us-west-2.compute.amazonaws.com
@@ -8695,8 +8686,6 @@
 34.244.193.179 # ec2-34-244-193-179.eu-west-1.compute.amazonaws.com
 34.246.173.205 # ec2-34-246-173-205.eu-west-1.compute.amazonaws.com
 34.251.75.109 # ec2-34-251-75-109.eu-west-1.compute.amazonaws.com
-35.154.112.127 # ec2-35-154-112-127.ap-south-1.compute.amazonaws.com
-35.154.142.212 # ec2-35-154-142-212.ap-south-1.compute.amazonaws.com
 35.154.215.227 # ec2-35-154-215-227.ap-south-1.compute.amazonaws.com
 35.154.216.187 # ec2-35-154-216-187.ap-south-1.compute.amazonaws.com
 35.154.220.221 # ec2-35-154-220-221.ap-south-1.compute.amazonaws.com
@@ -12279,6 +12268,7 @@
 54.71.70.119 # ec2-54-71-70-119.us-west-2.compute.amazonaws.com
 54.71.76.108 # ec2-54-71-76-108.us-west-2.compute.amazonaws.com
 54.74.36.220 # ec2-54-74-36-220.eu-west-1.compute.amazonaws.com
+54.91.203.45 # ec2-54-91-203-45.compute-1.amazonaws.com
 65.0.108.102 # ec2-65-0-108-102.ap-south-1.compute.amazonaws.com
 65.0.109.133 # ec2-65-0-109-133.ap-south-1.compute.amazonaws.com
 65.0.109.188 # ec2-65-0-109-188.ap-south-1.compute.amazonaws.com
