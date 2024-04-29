@@ -47,6 +47,7 @@
 34.145.113.173 # 173.113.145.34.bc.googleusercontent.com
 176.146.114.19 # 176-146-114-19.abo.bbox.fr
 176.149.199.228 # 176-149-199-228.abo.bbox.fr
+176.35.135.231 # 176-35-135-231.xdsl.murphx.net
 176.35.138.93 # 176-35-138-93.xdsl.murphx.net
 176.35.164.230 # 176-35-164-230.xdsl.murphx.net
 176.35.200.18 # 176-35-200-18.xdsl.murphx.net
@@ -8686,10 +8687,6 @@
 34.244.193.179 # ec2-34-244-193-179.eu-west-1.compute.amazonaws.com
 34.246.173.205 # ec2-34-246-173-205.eu-west-1.compute.amazonaws.com
 34.251.75.109 # ec2-34-251-75-109.eu-west-1.compute.amazonaws.com
-35.154.215.227 # ec2-35-154-215-227.ap-south-1.compute.amazonaws.com
-35.154.216.187 # ec2-35-154-216-187.ap-south-1.compute.amazonaws.com
-35.154.220.221 # ec2-35-154-220-221.ap-south-1.compute.amazonaws.com
-35.154.48.126 # ec2-35-154-48-126.ap-south-1.compute.amazonaws.com
 35.155.199.17 # ec2-35-155-199-17.us-west-2.compute.amazonaws.com
 35.160.136.91 # ec2-35-160-136-91.us-west-2.compute.amazonaws.com
 35.160.194.199 # ec2-35-160-194-199.us-west-2.compute.amazonaws.com
@@ -9964,12 +9961,6 @@
 52.53.253.225 # ec2-52-53-253-225.us-west-1.compute.amazonaws.com
 52.53.254.153 # ec2-52-53-254-153.us-west-1.compute.amazonaws.com
 52.53.254.29 # ec2-52-53-254-29.us-west-1.compute.amazonaws.com
-52.66.20.245 # ec2-52-66-20-245.ap-south-1.compute.amazonaws.com
-52.66.220.231 # ec2-52-66-220-231.ap-south-1.compute.amazonaws.com
-52.66.221.109 # ec2-52-66-221-109.ap-south-1.compute.amazonaws.com
-52.66.222.223 # ec2-52-66-222-223.ap-south-1.compute.amazonaws.com
-52.66.223.117 # ec2-52-66-223-117.ap-south-1.compute.amazonaws.com
-52.66.226.155 # ec2-52-66-226-155.ap-south-1.compute.amazonaws.com
 52.66.229.221 # ec2-52-66-229-221.ap-south-1.compute.amazonaws.com
 52.66.231.76 # ec2-52-66-231-76.ap-south-1.compute.amazonaws.com
 52.66.237.82 # ec2-52-66-237-82.ap-south-1.compute.amazonaws.com
