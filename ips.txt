@@ -29,7 +29,6 @@
 162.252.86.89 # 162-252-86-89.static.hvvc.us
 162.252.87.182 # 162-252-87-182.static.hvvc.us
 162.254.147.216 # 162-254-147-216.static.hvvc.us
-166.1.190.117 # 166-1-190-117.acedatacenter.com
 167.179.135.65 # 167-179-135-65.a7b387.mel.nbn.aussiebb.net
 167.179.137.149 # 167-179-137-149.a7b389.mel.nbn.aussiebb.net
 167.179.157.175 # 167-179-157-175.a7b39d.syd.nbn.aussiebb.net
@@ -12245,16 +12244,6 @@
 54.71.76.108 # ec2-54-71-76-108.us-west-2.compute.amazonaws.com
 54.74.36.220 # ec2-54-74-36-220.eu-west-1.compute.amazonaws.com
 54.91.203.45 # ec2-54-91-203-45.compute-1.amazonaws.com
-65.0.109.133 # ec2-65-0-109-133.ap-south-1.compute.amazonaws.com
-65.0.109.188 # ec2-65-0-109-188.ap-south-1.compute.amazonaws.com
-65.0.11.17 # ec2-65-0-11-17.ap-south-1.compute.amazonaws.com
-65.0.110.128 # ec2-65-0-110-128.ap-south-1.compute.amazonaws.com
-65.0.110.174 # ec2-65-0-110-174.ap-south-1.compute.amazonaws.com
-65.0.110.69 # ec2-65-0-110-69.ap-south-1.compute.amazonaws.com
-65.0.120.28 # ec2-65-0-120-28.ap-south-1.compute.amazonaws.com
-65.0.121.19 # ec2-65-0-121-19.ap-south-1.compute.amazonaws.com
-65.0.123.240 # ec2-65-0-123-240.ap-south-1.compute.amazonaws.com
-65.0.131.136 # ec2-65-0-131-136.ap-south-1.compute.amazonaws.com
 65.0.131.146 # ec2-65-0-131-146.ap-south-1.compute.amazonaws.com
 65.0.135.213 # ec2-65-0-135-213.ap-south-1.compute.amazonaws.com
 65.0.170.237 # ec2-65-0-170-237.ap-south-1.compute.amazonaws.com
