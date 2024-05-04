@@ -64,7 +64,6 @@
 180.150.36.49 # 180-150-36-49.b49624.bne.nbn.aussiebb.net
 180.150.4.125 # 180-150-4-125.b49604.syd.nbn.aussiebb.net
 180.150.57.76 # 180-150-57-76.b49639.mel.static.aussiebb.net
-180.176.96.70 # 180-176-96-70.dynamic.kbronet.com.tw
 185.132.132.56 # 185-132-132-56.hosted-by-worldstream.net
 185.165.240.65 # 185-165-240-65.hosted-by-worldstream.net
 185.165.241.231 # 185-165-241-231.hosted-by-worldstream.net
@@ -12246,16 +12245,6 @@
 54.71.76.108 # ec2-54-71-76-108.us-west-2.compute.amazonaws.com
 54.74.36.220 # ec2-54-74-36-220.eu-west-1.compute.amazonaws.com
 54.91.203.45 # ec2-54-91-203-45.compute-1.amazonaws.com
-65.0.251.52 # ec2-65-0-251-52.ap-south-1.compute.amazonaws.com
-65.0.45.145 # ec2-65-0-45-145.ap-south-1.compute.amazonaws.com
-65.0.45.47 # ec2-65-0-45-47.ap-south-1.compute.amazonaws.com
-65.0.5.91 # ec2-65-0-5-91.ap-south-1.compute.amazonaws.com
-65.0.5.92 # ec2-65-0-5-92.ap-south-1.compute.amazonaws.com
-65.0.56.30 # ec2-65-0-56-30.ap-south-1.compute.amazonaws.com
-65.0.6.21 # ec2-65-0-6-21.ap-south-1.compute.amazonaws.com
-65.0.65.249 # ec2-65-0-65-249.ap-south-1.compute.amazonaws.com
-65.0.66.120 # ec2-65-0-66-120.ap-south-1.compute.amazonaws.com
-65.0.7.12 # ec2-65-0-7-12.ap-south-1.compute.amazonaws.com
 65.0.71.246 # ec2-65-0-71-246.ap-south-1.compute.amazonaws.com
 65.0.87.192 # ec2-65-0-87-192.ap-south-1.compute.amazonaws.com
 65.0.97.58 # ec2-65-0-97-58.ap-south-1.compute.amazonaws.com
@@ -12418,7 +12407,6 @@
 80.41.16.233 # host-80-41-16-233.as13285.net
 80.41.161.50 # host-80-41-161-50.as13285.net
 80.41.164.197 # host-80-41-164-197.as13285.net
-80.41.171.214 # host-80-41-171-214.as13285.net
 80.41.174.221 # host-80-41-174-221.as13285.net
 80.41.18.143 # host-80-41-18-143.as13285.net
 80.41.182.204 # host-80-41-182-204.as13285.net
