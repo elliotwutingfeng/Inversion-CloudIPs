@@ -12245,16 +12245,6 @@
 54.71.76.108 # ec2-54-71-76-108.us-west-2.compute.amazonaws.com
 54.74.36.220 # ec2-54-74-36-220.eu-west-1.compute.amazonaws.com
 54.91.203.45 # ec2-54-91-203-45.compute-1.amazonaws.com
-65.0.71.246 # ec2-65-0-71-246.ap-south-1.compute.amazonaws.com
-65.0.87.192 # ec2-65-0-87-192.ap-south-1.compute.amazonaws.com
-65.0.97.58 # ec2-65-0-97-58.ap-south-1.compute.amazonaws.com
-65.1.106.147 # ec2-65-1-106-147.ap-south-1.compute.amazonaws.com
-65.1.107.189 # ec2-65-1-107-189.ap-south-1.compute.amazonaws.com
-65.1.107.222 # ec2-65-1-107-222.ap-south-1.compute.amazonaws.com
-65.1.107.8 # ec2-65-1-107-8.ap-south-1.compute.amazonaws.com
-65.1.110.0 # ec2-65-1-110-0.ap-south-1.compute.amazonaws.com
-65.1.111.92 # ec2-65-1-111-92.ap-south-1.compute.amazonaws.com
-65.1.145.135 # ec2-65-1-145-135.ap-south-1.compute.amazonaws.com
 65.1.147.101 # ec2-65-1-147-101.ap-south-1.compute.amazonaws.com
 65.1.168.123 # ec2-65-1-168-123.ap-south-1.compute.amazonaws.com
 65.1.3.110 # ec2-65-1-3-110.ap-south-1.compute.amazonaws.com
@@ -12458,6 +12448,7 @@
 80.41.80.227 # host-80-41-80-227.as13285.net
 80.41.85.228 # host-80-41-85-228.as13285.net
 80.41.86.0 # host-80-41-86-0.as13285.net
+80.41.86.113 # host-80-41-86-113.as13285.net
 80.41.88.224 # host-80-41-88-224.as13285.net
 80.41.9.160 # host-80-41-9-160.as13285.net
 80.41.94.15 # host-80-41-94-15.as13285.net
@@ -12786,6 +12777,7 @@
 84.9.191.214 # static-84-9-191-214.vodafonexdsl.co.uk
 84.9.224.229 # static-84-9-224-229.vodafonexdsl.co.uk
 84.9.28.210 # static-84-9-28-210.vodafonexdsl.co.uk
+84.9.36.31 # static-84-9-36-31.vodafonexdsl.co.uk
 84.9.37.216 # static-84-9-37-216.vodafonexdsl.co.uk
 84.9.40.74 # static-84-9-40-74.vodafonexdsl.co.uk
 84.9.41.146 # static-84-9-41-146.vodafonexdsl.co.uk
