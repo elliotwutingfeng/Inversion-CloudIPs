@@ -54,7 +54,6 @@
 176.35.94.193 # 176-35-94-193.xdsl.murphx.net
 177.52.195.113 # 177-52-195-113.nortenetbrasil.com.br
 177.52.195.50 # 177-52-195-50.nortenetbrasil.com.br
-177.52.198.60 # 177-52-198-60.nortenetbrasil.com.br
 177.52.198.88 # 177-52-198-88.nortenetbrasil.com.br
 180.150.33.181 # 180-150-33-181.b49621.mel.static.aussiebb.net
 180.150.36.140 # 180-150-36-140.b49624.bne.nbn.aussiebb.net
@@ -1875,14 +1874,9 @@
 13.57.40.53 # ec2-13-57-40-53.us-west-1.compute.amazonaws.com
 13.57.40.64 # ec2-13-57-40-64.us-west-1.compute.amazonaws.com
 13.57.40.65 # ec2-13-57-40-65.us-west-1.compute.amazonaws.com
-13.58.103.214 # ec2-13-58-103-214.us-east-2.compute.amazonaws.com
-13.58.104.105 # ec2-13-58-104-105.us-east-2.compute.amazonaws.com
 13.58.104.117 # ec2-13-58-104-117.us-east-2.compute.amazonaws.com
-13.58.104.183 # ec2-13-58-104-183.us-east-2.compute.amazonaws.com
 13.58.109.16 # ec2-13-58-109-16.us-east-2.compute.amazonaws.com
-13.58.111.205 # ec2-13-58-111-205.us-east-2.compute.amazonaws.com
 13.58.114.12 # ec2-13-58-114-12.us-east-2.compute.amazonaws.com
-13.58.115.21 # ec2-13-58-115-21.us-east-2.compute.amazonaws.com
 13.58.116.135 # ec2-13-58-116-135.us-east-2.compute.amazonaws.com
 13.58.119.140 # ec2-13-58-119-140.us-east-2.compute.amazonaws.com
 13.58.123.112 # ec2-13-58-123-112.us-east-2.compute.amazonaws.com
@@ -7783,6 +7777,7 @@
 3.23.64.203 # ec2-3-23-64-203.us-east-2.compute.amazonaws.com
 3.23.64.25 # ec2-3-23-64-25.us-east-2.compute.amazonaws.com
 3.23.64.35 # ec2-3-23-64-35.us-east-2.compute.amazonaws.com
+3.81.235.104 # ec2-3-81-235-104.compute-1.amazonaws.com
 3.90.186.154 # ec2-3-90-186-154.compute-1.amazonaws.com
 34.201.44.131 # ec2-34-201-44-131.compute-1.amazonaws.com
 34.203.31.253 # ec2-34-203-31-253.compute-1.amazonaws.com
@@ -12082,7 +12077,6 @@
 54.245.70.26 # ec2-54-245-70-26.us-west-2.compute.amazonaws.com
 54.245.74.174 # ec2-54-245-74-174.us-west-2.compute.amazonaws.com
 54.245.78.215 # ec2-54-245-78-215.us-west-2.compute.amazonaws.com
-54.247.44.63 # ec2-54-247-44-63.eu-west-1.compute.amazonaws.com
 54.250.105.135 # ec2-54-250-105-135.ap-northeast-1.compute.amazonaws.com
 54.67.0.124 # ec2-54-67-0-124.us-west-1.compute.amazonaws.com
 54.67.1.84 # ec2-54-67-1-84.us-west-1.compute.amazonaws.com
