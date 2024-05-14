@@ -1874,16 +1874,6 @@
 13.57.40.53 # ec2-13-57-40-53.us-west-1.compute.amazonaws.com
 13.57.40.64 # ec2-13-57-40-64.us-west-1.compute.amazonaws.com
 13.57.40.65 # ec2-13-57-40-65.us-west-1.compute.amazonaws.com
-13.58.164.213 # ec2-13-58-164-213.us-east-2.compute.amazonaws.com
-13.58.168.75 # ec2-13-58-168-75.us-east-2.compute.amazonaws.com
-13.58.171.190 # ec2-13-58-171-190.us-east-2.compute.amazonaws.com
-13.58.171.65 # ec2-13-58-171-65.us-east-2.compute.amazonaws.com
-13.58.176.136 # ec2-13-58-176-136.us-east-2.compute.amazonaws.com
-13.58.176.152 # ec2-13-58-176-152.us-east-2.compute.amazonaws.com
-13.58.182.179 # ec2-13-58-182-179.us-east-2.compute.amazonaws.com
-13.58.185.106 # ec2-13-58-185-106.us-east-2.compute.amazonaws.com
-13.58.188.224 # ec2-13-58-188-224.us-east-2.compute.amazonaws.com
-13.58.190.110 # ec2-13-58-190-110.us-east-2.compute.amazonaws.com
 13.58.193.78 # ec2-13-58-193-78.us-east-2.compute.amazonaws.com
 13.58.194.58 # ec2-13-58-194-58.us-east-2.compute.amazonaws.com
 13.58.194.61 # ec2-13-58-194-61.us-east-2.compute.amazonaws.com
@@ -12690,7 +12680,6 @@
 81.133.85.179 # host81-133-85-179.in-addr.btopenworld.com
 81.149.92.9 # host81-149-92-9.in-addr.btopenworld.com
 86.169.232.18 # host86-169-232-18.range86-169.btcentralplus.com
-102.231.15.186 # ip102-231-15-186.ct.co.cr
 166.131.33.110 # mobile-166-131-33-110.mycingular.net
 157.245.106.174 # nostalgic-davinci.157-245-106-174.plesk.page
 62.210.119.209 # objective-chatelet.62-210-119-209.plesk.page
