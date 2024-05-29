@@ -29,6 +29,8 @@
 144.91.108.8 # 144.91.108.8.nip.io
 130.211.30.154 # 154.30.211.130.bc.googleusercontent.com
 159.196.106.106 # 159-196-106-106.9fc46a.syd.nbn.aussiebb.net
+159.196.124.221 # 159-196-124-221.9fc47c.syd.static.aussiebb.net
+159.196.125.231 # 159-196-125-231.9fc47d.syd.static.aussiebb.net
 162.220.62.21 # 162-220-62-21.static.hvvc.us
 162.250.200.218 # 162-250-200-218.static.as40244.net
 162.252.86.89 # 162-252-86-89.static.hvvc.us
@@ -68,6 +70,7 @@
 180.150.36.49 # 180-150-36-49.b49624.bne.nbn.aussiebb.net
 180.150.4.125 # 180-150-4-125.b49604.syd.nbn.aussiebb.net
 180.150.57.76 # 180-150-57-76.b49639.mel.static.aussiebb.net
+180.150.8.132 # 180-150-8-132.b49608.syd.static.aussiebb.net
 185.132.132.56 # 185-132-132-56.hosted-by-worldstream.net
 185.165.240.65 # 185-165-240-65.hosted-by-worldstream.net
 185.165.241.231 # 185-165-241-231.hosted-by-worldstream.net
@@ -1881,16 +1884,6 @@
 13.57.40.53 # ec2-13-57-40-53.us-west-1.compute.amazonaws.com
 13.57.40.64 # ec2-13-57-40-64.us-west-1.compute.amazonaws.com
 13.57.40.65 # ec2-13-57-40-65.us-west-1.compute.amazonaws.com
-13.59.166.25 # ec2-13-59-166-25.us-east-2.compute.amazonaws.com
-13.59.167.160 # ec2-13-59-167-160.us-east-2.compute.amazonaws.com
-13.59.167.248 # ec2-13-59-167-248.us-east-2.compute.amazonaws.com
-13.59.167.67 # ec2-13-59-167-67.us-east-2.compute.amazonaws.com
-13.59.168.15 # ec2-13-59-168-15.us-east-2.compute.amazonaws.com
-13.59.169.55 # ec2-13-59-169-55.us-east-2.compute.amazonaws.com
-13.59.17.26 # ec2-13-59-17-26.us-east-2.compute.amazonaws.com
-13.59.170.167 # ec2-13-59-170-167.us-east-2.compute.amazonaws.com
-13.59.170.25 # ec2-13-59-170-25.us-east-2.compute.amazonaws.com
-13.59.171.54 # ec2-13-59-171-54.us-east-2.compute.amazonaws.com
 13.59.174.231 # ec2-13-59-174-231.us-east-2.compute.amazonaws.com
 13.59.175.78 # ec2-13-59-175-78.us-east-2.compute.amazonaws.com
 13.59.176.243 # ec2-13-59-176-243.us-east-2.compute.amazonaws.com
