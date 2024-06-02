@@ -1882,16 +1882,6 @@
 13.57.40.53 # ec2-13-57-40-53.us-west-1.compute.amazonaws.com
 13.57.40.64 # ec2-13-57-40-64.us-west-1.compute.amazonaws.com
 13.57.40.65 # ec2-13-57-40-65.us-west-1.compute.amazonaws.com
-13.59.226.10 # ec2-13-59-226-10.us-east-2.compute.amazonaws.com
-13.59.226.199 # ec2-13-59-226-199.us-east-2.compute.amazonaws.com
-13.59.233.143 # ec2-13-59-233-143.us-east-2.compute.amazonaws.com
-13.59.233.168 # ec2-13-59-233-168.us-east-2.compute.amazonaws.com
-13.59.233.181 # ec2-13-59-233-181.us-east-2.compute.amazonaws.com
-13.59.236.171 # ec2-13-59-236-171.us-east-2.compute.amazonaws.com
-13.59.24.175 # ec2-13-59-24-175.us-east-2.compute.amazonaws.com
-13.59.24.37 # ec2-13-59-24-37.us-east-2.compute.amazonaws.com
-13.59.24.68 # ec2-13-59-24-68.us-east-2.compute.amazonaws.com
-13.59.241.2 # ec2-13-59-241-2.us-east-2.compute.amazonaws.com
 13.59.244.87 # ec2-13-59-244-87.us-east-2.compute.amazonaws.com
 13.59.248.236 # ec2-13-59-248-236.us-east-2.compute.amazonaws.com
 13.59.249.163 # ec2-13-59-249-163.us-east-2.compute.amazonaws.com
@@ -12557,7 +12547,6 @@
 84.9.30.190 # static-84-9-30-190.vodafonexdsl.co.uk
 84.9.36.31 # static-84-9-36-31.vodafonexdsl.co.uk
 84.9.37.216 # static-84-9-37-216.vodafonexdsl.co.uk
-84.9.40.74 # static-84-9-40-74.vodafonexdsl.co.uk
 84.9.41.146 # static-84-9-41-146.vodafonexdsl.co.uk
 84.9.45.145 # static-84-9-45-145.vodafonexdsl.co.uk
 84.9.45.3 # static-84-9-45-3.vodafonexdsl.co.uk
