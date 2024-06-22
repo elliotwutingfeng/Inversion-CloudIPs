@@ -497,6 +497,7 @@
 78.131.105.240 # 78-131-105-240.pool.digikabel.hu
 78.131.71.185 # 78-131-71-185.pool.digikabel.hu
 78.131.90.152 # 78-131-90-152.pool.digikabel.hu
+78.141.1.69 # 78-141-1-69.xdsl.murphx.net
 78.2.130.142 # 78-2-130-142.adsl.net.t-com.hr
 78.2.160.172 # 78-2-160-172.adsl.net.t-com.hr
 78.2.160.95 # 78-2-160-95.adsl.net.t-com.hr
@@ -1946,17 +1947,8 @@
 13.57.40.53 # ec2-13-57-40-53.us-west-1.compute.amazonaws.com
 13.57.40.64 # ec2-13-57-40-64.us-west-1.compute.amazonaws.com
 13.57.40.65 # ec2-13-57-40-65.us-west-1.compute.amazonaws.com
+15.236.158.5 # ec2-15-236-158-5.eu-west-3.compute.amazonaws.com
 16.171.25.219 # ec2-16-171-25-219.eu-north-1.compute.amazonaws.com
-18.117.217.149 # ec2-18-117-217-149.us-east-2.compute.amazonaws.com
-18.117.217.225 # ec2-18-117-217-225.us-east-2.compute.amazonaws.com
-18.117.217.240 # ec2-18-117-217-240.us-east-2.compute.amazonaws.com
-18.117.218.141 # ec2-18-117-218-141.us-east-2.compute.amazonaws.com
-18.117.218.94 # ec2-18-117-218-94.us-east-2.compute.amazonaws.com
-18.117.219.18 # ec2-18-117-219-18.us-east-2.compute.amazonaws.com
-18.117.219.195 # ec2-18-117-219-195.us-east-2.compute.amazonaws.com
-18.117.219.201 # ec2-18-117-219-201.us-east-2.compute.amazonaws.com
-18.117.219.216 # ec2-18-117-219-216.us-east-2.compute.amazonaws.com
-18.117.220.210 # ec2-18-117-220-210.us-east-2.compute.amazonaws.com
 18.117.220.23 # ec2-18-117-220-23.us-east-2.compute.amazonaws.com
 18.117.220.61 # ec2-18-117-220-61.us-east-2.compute.amazonaws.com
 18.117.220.78 # ec2-18-117-220-78.us-east-2.compute.amazonaws.com
@@ -9639,6 +9631,7 @@
 52.62.7.172 # ec2-52-62-7-172.ap-southeast-2.compute.amazonaws.com
 52.71.241.76 # ec2-52-71-241-76.compute-1.amazonaws.com
 52.72.210.57 # ec2-52-72-210-57.compute-1.amazonaws.com
+52.74.209.124 # ec2-52-74-209-124.ap-southeast-1.compute.amazonaws.com
 52.8.10.147 # ec2-52-8-10-147.us-west-1.compute.amazonaws.com
 52.8.103.248 # ec2-52-8-103-248.us-west-1.compute.amazonaws.com
 52.8.112.160 # ec2-52-8-112-160.us-west-1.compute.amazonaws.com
