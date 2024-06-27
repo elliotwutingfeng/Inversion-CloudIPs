@@ -12,7 +12,6 @@
 119.17.141.83 # 119-17-141-83.77118d.mel.nbn.aussiebb.net
 119.18.1.242 # 119-18-1-242.771201.syd.nbn.aussiebb.net
 119.18.1.28 # 119-18-1-28.771201.syd.nbn.aussiebb.net
-119.18.19.5 # 119-18-19-5.771213.mel.static.aussiebb.net
 119.18.24.51 # 119-18-24-51.771218.mel.nbn.aussiebb.net
 121.200.13.159 # 121-200-13-159.79c80d.mel.nbn.aussiebb.net
 121.200.15.146 # 121-200-15-146.79c80f.mel.nbn.aussiebb.net
@@ -1946,17 +1945,6 @@
 13.57.40.65 # ec2-13-57-40-65.us-west-1.compute.amazonaws.com
 15.236.158.5 # ec2-15-236-158-5.eu-west-3.compute.amazonaws.com
 16.171.25.219 # ec2-16-171-25-219.eu-north-1.compute.amazonaws.com
-18.118.131.142 # ec2-18-118-131-142.us-east-2.compute.amazonaws.com
-18.118.132.219 # ec2-18-118-132-219.us-east-2.compute.amazonaws.com
-18.118.132.79 # ec2-18-118-132-79.us-east-2.compute.amazonaws.com
-18.118.132.97 # ec2-18-118-132-97.us-east-2.compute.amazonaws.com
-18.118.133.102 # ec2-18-118-133-102.us-east-2.compute.amazonaws.com
-18.118.133.187 # ec2-18-118-133-187.us-east-2.compute.amazonaws.com
-18.118.133.193 # ec2-18-118-133-193.us-east-2.compute.amazonaws.com
-18.118.133.204 # ec2-18-118-133-204.us-east-2.compute.amazonaws.com
-18.118.133.86 # ec2-18-118-133-86.us-east-2.compute.amazonaws.com
-18.118.134.203 # ec2-18-118-134-203.us-east-2.compute.amazonaws.com
-18.118.134.207 # ec2-18-118-134-207.us-east-2.compute.amazonaws.com
 18.118.134.208 # ec2-18-118-134-208.us-east-2.compute.amazonaws.com
 18.118.134.249 # ec2-18-118-134-249.us-east-2.compute.amazonaws.com
 18.118.135.0 # ec2-18-118-135-0.us-east-2.compute.amazonaws.com
@@ -12131,6 +12119,7 @@
 80.47.73.47 # host-80-47-73-47.as13285.net
 80.47.76.92 # host-80-47-76-92.as13285.net
 80.47.77.129 # host-80-47-77-129.as13285.net
+80.47.78.152 # host-80-47-78-152.as13285.net
 80.47.84.96 # host-80-47-84-96.as13285.net
 80.47.86.145 # host-80-47-86-145.as13285.net
 80.47.90.47 # host-80-47-90-47.as13285.net
@@ -12231,6 +12220,7 @@
 92.21.135.171 # host-92-21-135-171.as13285.net
 92.22.115.85 # host-92-22-115-85.as13285.net
 92.22.126.97 # host-92-22-126-97.as13285.net
+92.23.103.49 # host-92-23-103-49.as13285.net
 92.23.194.198 # host-92-23-194-198.as13285.net
 92.23.92.82 # host-92-23-92-82.as13285.net
 92.24.137.160 # host-92-24-137-160.as13285.net
