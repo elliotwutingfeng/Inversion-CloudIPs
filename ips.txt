@@ -502,7 +502,6 @@
 78.2.87.108 # 78-2-87-108.adsl.net.t-com.hr
 78.2.88.201 # 78-2-88-201.adsl.net.t-com.hr
 78.2.95.23 # 78-2-95-23.adsl.net.t-com.hr
-78.20.96.154 # 78-20-96-154.access.telenet.be
 78.3.100.241 # 78-3-100-241.adsl.net.t-com.hr
 78.3.112.229 # 78-3-112-229.adsl.net.t-com.hr
 78.3.117.4 # 78-3-117-4.adsl.net.t-com.hr
@@ -2109,17 +2108,7 @@
 18.144.99.24 # ec2-18-144-99-24.us-west-1.compute.amazonaws.com
 18.144.99.61 # ec2-18-144-99-61.us-west-1.compute.amazonaws.com
 18.144.99.73 # ec2-18-144-99-73.us-west-1.compute.amazonaws.com
-18.188.153.24 # ec2-18-188-153-24.us-east-2.compute.amazonaws.com
-18.188.162.207 # ec2-18-188-162-207.us-east-2.compute.amazonaws.com
 18.188.162.220 # ec2-18-188-162-220.us-east-2.compute.amazonaws.com
-18.188.162.90 # ec2-18-188-162-90.us-east-2.compute.amazonaws.com
-18.188.164.45 # ec2-18-188-164-45.us-east-2.compute.amazonaws.com
-18.188.167.165 # ec2-18-188-167-165.us-east-2.compute.amazonaws.com
-18.188.167.169 # ec2-18-188-167-169.us-east-2.compute.amazonaws.com
-18.188.168.48 # ec2-18-188-168-48.us-east-2.compute.amazonaws.com
-18.188.169.147 # ec2-18-188-169-147.us-east-2.compute.amazonaws.com
-18.188.17.31 # ec2-18-188-17-31.us-east-2.compute.amazonaws.com
-18.188.171.92 # ec2-18-188-171-92.us-east-2.compute.amazonaws.com
 18.188.173.243 # ec2-18-188-173-243.us-east-2.compute.amazonaws.com
 18.188.173.75 # ec2-18-188-173-75.us-east-2.compute.amazonaws.com
 18.188.173.82 # ec2-18-188-173-82.us-east-2.compute.amazonaws.com
