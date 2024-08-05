@@ -186,7 +186,6 @@
 50.247.102.170 # 50-247-102-170-static.hfc.comcastbusiness.net
 50.248.133.249 # 50-248-133-249-static.hfc.comcastbusiness.net
 50.248.157.30 # 50-248-157-30-static.hfc.comcastbusiness.net
-50.250.110.49 # 50-250-110-49-static.hfc.comcastbusiness.net
 50.253.158.155 # 50-253-158-155-static.hfc.comcastbusiness.net
 50.254.164.225 # 50-254-164-225-static.hfc.comcastbusiness.net
 50.73.121.126 # 50-73-121-126-ip-static.hfc.comcastbusiness.net
@@ -2110,16 +2109,6 @@
 18.144.99.61 # ec2-18-144-99-61.us-west-1.compute.amazonaws.com
 18.144.99.73 # ec2-18-144-99-73.us-west-1.compute.amazonaws.com
 18.153.98.227 # ec2-18-153-98-227.eu-central-1.compute.amazonaws.com
-18.190.159.54 # ec2-18-190-159-54.us-east-2.compute.amazonaws.com
-18.190.159.71 # ec2-18-190-159-71.us-east-2.compute.amazonaws.com
-18.191.0.21 # ec2-18-191-0-21.us-east-2.compute.amazonaws.com
-18.191.104.17 # ec2-18-191-104-17.us-east-2.compute.amazonaws.com
-18.191.104.190 # ec2-18-191-104-190.us-east-2.compute.amazonaws.com
-18.191.104.204 # ec2-18-191-104-204.us-east-2.compute.amazonaws.com
-18.191.105.19 # ec2-18-191-105-19.us-east-2.compute.amazonaws.com
-18.191.106.211 # ec2-18-191-106-211.us-east-2.compute.amazonaws.com
-18.191.107.144 # ec2-18-191-107-144.us-east-2.compute.amazonaws.com
-18.191.107.23 # ec2-18-191-107-23.us-east-2.compute.amazonaws.com
 18.191.110.143 # ec2-18-191-110-143.us-east-2.compute.amazonaws.com
 18.191.110.190 # ec2-18-191-110-190.us-east-2.compute.amazonaws.com
 18.191.111.35 # ec2-18-191-111-35.us-east-2.compute.amazonaws.com
