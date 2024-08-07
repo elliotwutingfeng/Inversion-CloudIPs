@@ -1880,10 +1880,12 @@
 13.57.40.53 # ec2-13-57-40-53.us-west-1.compute.amazonaws.com
 13.57.40.64 # ec2-13-57-40-64.us-west-1.compute.amazonaws.com
 13.57.40.65 # ec2-13-57-40-65.us-west-1.compute.amazonaws.com
+13.60.85.121 # ec2-13-60-85-121.eu-north-1.compute.amazonaws.com
 15.236.158.5 # ec2-15-236-158-5.eu-west-3.compute.amazonaws.com
 15.236.2.215 # ec2-15-236-2-215.eu-west-3.compute.amazonaws.com
 16.171.25.219 # ec2-16-171-25-219.eu-north-1.compute.amazonaws.com
 18.130.190.69 # ec2-18-130-190-69.eu-west-2.compute.amazonaws.com
+18.141.168.37 # ec2-18-141-168-37.ap-southeast-1.compute.amazonaws.com
 18.141.206.255 # ec2-18-141-206-255.ap-southeast-1.compute.amazonaws.com
 18.141.3.67 # ec2-18-141-3-67.ap-southeast-1.compute.amazonaws.com
 18.142.112.125 # ec2-18-142-112-125.ap-southeast-1.compute.amazonaws.com
@@ -2109,16 +2111,6 @@
 18.144.99.61 # ec2-18-144-99-61.us-west-1.compute.amazonaws.com
 18.144.99.73 # ec2-18-144-99-73.us-west-1.compute.amazonaws.com
 18.153.98.227 # ec2-18-153-98-227.eu-central-1.compute.amazonaws.com
-18.191.110.143 # ec2-18-191-110-143.us-east-2.compute.amazonaws.com
-18.191.110.190 # ec2-18-191-110-190.us-east-2.compute.amazonaws.com
-18.191.111.35 # ec2-18-191-111-35.us-east-2.compute.amazonaws.com
-18.191.114.117 # ec2-18-191-114-117.us-east-2.compute.amazonaws.com
-18.191.115.219 # ec2-18-191-115-219.us-east-2.compute.amazonaws.com
-18.191.117.129 # ec2-18-191-117-129.us-east-2.compute.amazonaws.com
-18.191.117.183 # ec2-18-191-117-183.us-east-2.compute.amazonaws.com
-18.191.119.184 # ec2-18-191-119-184.us-east-2.compute.amazonaws.com
-18.191.121.247 # ec2-18-191-121-247.us-east-2.compute.amazonaws.com
-18.191.122.129 # ec2-18-191-122-129.us-east-2.compute.amazonaws.com
 18.191.123.255 # ec2-18-191-123-255.us-east-2.compute.amazonaws.com
 18.191.124.141 # ec2-18-191-124-141.us-east-2.compute.amazonaws.com
 18.191.124.30 # ec2-18-191-124-30.us-east-2.compute.amazonaws.com
@@ -11738,6 +11730,7 @@
 89.242.184.241 # host-89-242-184-241.as13285.net
 89.242.187.90 # host-89-242-187-90.as13285.net
 89.242.24.85 # host-89-242-24-85.as13285.net
+89.243.10.190 # host-89-243-10-190.as13285.net
 89.243.10.244 # host-89-243-10-244.as13285.net
 89.243.11.103 # host-89-243-11-103.as13285.net
 89.243.210.16 # host-89-243-210-16.as13285.net
@@ -11933,6 +11926,7 @@
 92.8.64.57 # host-92-8-64-57.as13285.net
 92.9.128.115 # host-92-9-128-115.as13285.net
 92.9.18.250 # host-92-9-18-250.as13285.net
+92.9.4.26 # host-92-9-4-26.as13285.net
 92.9.40.97 # host-92-9-40-97.as13285.net
 92.9.45.86 # host-92-9-45-86.as13285.net
 92.9.66.184 # host-92-9-66-184.as13285.net
@@ -11948,6 +11942,7 @@
 100.8.136.217 # pool-100-8-136-217.nwrknj.fios.verizon.net
 108.20.212.166 # pool-108-20-212-166.bstnma.fios.verizon.net
 108.5.238.139 # pool-108-5-238-139.nwrknj.fios.verizon.net
+108.52.133.244 # pool-108-52-133-244.phlapa.fios.verizon.net
 71.179.12.210 # pool-71-179-12-210.bltmmd.fios.verizon.net
 98.109.184.239 # pool-98-109-184-239.nwrknj.fios.verizon.net
 98.116.192.84 # pool-98-116-192-84.nycmny.fios.verizon.net
