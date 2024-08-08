@@ -21,6 +21,9 @@
 121.200.4.152 # 121-200-4-152.79c804.syd.nbn.aussiebb.net
 121.200.4.155 # 121-200-4-155.79c804.syd.nbn.aussiebb.net
 121.200.4.210 # 121-200-4-210.79c804.syd.nbn.aussiebb.net
+121.200.6.160 # 121-200-6-160.79c806.syd.nbn.aussiebb.net
+121.200.6.197 # 121-200-6-197.79c806.syd.nbn.aussiebb.net
+121.200.6.209 # 121-200-6-209.79c806.syd.nbn.aussiebb.net
 121.200.7.140 # 121-200-7-140.79c807.syd.nbn.aussiebb.net
 121.74.232.40 # 121-74-232-40.telstraclear.net
 122.223.74.97 # 122-223-74-97.aichi.ap.gmo-isp.jp
@@ -1411,6 +1414,7 @@
 13.215.214.112 # ec2-13-215-214-112.ap-southeast-1.compute.amazonaws.com
 13.251.43.212 # ec2-13-251-43-212.ap-southeast-1.compute.amazonaws.com
 13.42.41.67 # ec2-13-42-41-67.eu-west-2.compute.amazonaws.com
+13.48.57.106 # ec2-13-48-57-106.eu-north-1.compute.amazonaws.com
 13.52.100.146 # ec2-13-52-100-146.us-west-1.compute.amazonaws.com
 13.52.100.166 # ec2-13-52-100-166.us-west-1.compute.amazonaws.com
 13.52.100.221 # ec2-13-52-100-221.us-west-1.compute.amazonaws.com
@@ -2111,16 +2115,6 @@
 18.144.99.61 # ec2-18-144-99-61.us-west-1.compute.amazonaws.com
 18.144.99.73 # ec2-18-144-99-73.us-west-1.compute.amazonaws.com
 18.153.98.227 # ec2-18-153-98-227.eu-central-1.compute.amazonaws.com
-18.191.123.255 # ec2-18-191-123-255.us-east-2.compute.amazonaws.com
-18.191.124.141 # ec2-18-191-124-141.us-east-2.compute.amazonaws.com
-18.191.124.30 # ec2-18-191-124-30.us-east-2.compute.amazonaws.com
-18.191.125.226 # ec2-18-191-125-226.us-east-2.compute.amazonaws.com
-18.191.125.45 # ec2-18-191-125-45.us-east-2.compute.amazonaws.com
-18.191.125.51 # ec2-18-191-125-51.us-east-2.compute.amazonaws.com
-18.191.125.68 # ec2-18-191-125-68.us-east-2.compute.amazonaws.com
-18.191.129.245 # ec2-18-191-129-245.us-east-2.compute.amazonaws.com
-18.191.129.254 # ec2-18-191-129-254.us-east-2.compute.amazonaws.com
-18.191.129.74 # ec2-18-191-129-74.us-east-2.compute.amazonaws.com
 18.191.13.106 # ec2-18-191-13-106.us-east-2.compute.amazonaws.com
 18.191.13.133 # ec2-18-191-13-133.us-east-2.compute.amazonaws.com
 18.191.13.211 # ec2-18-191-13-211.us-east-2.compute.amazonaws.com
@@ -11531,6 +11525,7 @@
 80.41.107.69 # host-80-41-107-69.as13285.net
 80.41.108.198 # host-80-41-108-198.as13285.net
 80.41.108.79 # host-80-41-108-79.as13285.net
+80.41.109.160 # host-80-41-109-160.as13285.net
 80.41.11.138 # host-80-41-11-138.as13285.net
 80.41.111.25 # host-80-41-111-25.as13285.net
 80.41.111.252 # host-80-41-111-252.as13285.net
@@ -11594,6 +11589,7 @@
 80.41.51.50 # host-80-41-51-50.as13285.net
 80.41.51.98 # host-80-41-51-98.as13285.net
 80.41.52.169 # host-80-41-52-169.as13285.net
+80.41.54.199 # host-80-41-54-199.as13285.net
 80.41.55.124 # host-80-41-55-124.as13285.net
 80.41.59.3 # host-80-41-59-3.as13285.net
 80.41.6.229 # host-80-41-6-229.as13285.net
