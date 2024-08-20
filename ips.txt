@@ -86,7 +86,6 @@
 185.132.132.56 # 185-132-132-56.hosted-by-worldstream.net
 185.165.240.65 # 185-165-240-65.hosted-by-worldstream.net
 185.165.241.231 # 185-165-241-231.hosted-by-worldstream.net
-185.165.242.187 # 185-165-242-187.hosted-by-worldstream.net
 185.177.124.100 # 185-177-124-100.hosted-by-worldstream.net
 185.177.124.12 # 185-177-124-12.hosted-by-worldstream.net
 185.177.124.208 # 185-177-124-208.hosted-by-worldstream.net
@@ -142,7 +141,6 @@
 198.178.124.50 # 198-178-124-50.static.hvvc.us
 198.178.126.25 # 198-178-126-25.static.hvvc.us
 198.178.127.39 # 198-178-127-39.static.hvvc.us
-199.167.148.11 # 199-167-148-11.static.hvvc.us
 199.231.163.76 # 199-231-163-76.static.hvvc.us
 199.231.163.77 # 199-231-163-77.static.hvvc.us
 199.91.66.171 # 199-91-66-171.static.hvvc.us
@@ -2177,17 +2175,6 @@
 18.144.99.61 # ec2-18-144-99-61.us-west-1.compute.amazonaws.com
 18.144.99.73 # ec2-18-144-99-73.us-west-1.compute.amazonaws.com
 18.153.98.227 # ec2-18-153-98-227.eu-central-1.compute.amazonaws.com
-18.191.209.161 # ec2-18-191-209-161.us-east-2.compute.amazonaws.com
-18.191.209.203 # ec2-18-191-209-203.us-east-2.compute.amazonaws.com
-18.191.209.250 # ec2-18-191-209-250.us-east-2.compute.amazonaws.com
-18.191.209.27 # ec2-18-191-209-27.us-east-2.compute.amazonaws.com
-18.191.209.66 # ec2-18-191-209-66.us-east-2.compute.amazonaws.com
-18.191.209.86 # ec2-18-191-209-86.us-east-2.compute.amazonaws.com
-18.191.21.59 # ec2-18-191-21-59.us-east-2.compute.amazonaws.com
-18.191.213.32 # ec2-18-191-213-32.us-east-2.compute.amazonaws.com
-18.191.216.163 # ec2-18-191-216-163.us-east-2.compute.amazonaws.com
-18.191.216.212 # ec2-18-191-216-212.us-east-2.compute.amazonaws.com
-18.191.216.224 # ec2-18-191-216-224.us-east-2.compute.amazonaws.com
 18.191.216.71 # ec2-18-191-216-71.us-east-2.compute.amazonaws.com
 18.191.216.75 # ec2-18-191-216-75.us-east-2.compute.amazonaws.com
 18.191.216.84 # ec2-18-191-216-84.us-east-2.compute.amazonaws.com
