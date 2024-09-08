@@ -4,8 +4,6 @@
 104.156.53.22 # 104-156-53-22.static.hvvc.us
 104.156.63.78 # 104-156-63-78.static.hvvc.us
 104.254.129.3 # 104-254-129-3.static.hvvc.us
-109.236.81.173 # 109-236-81-173.hosted-by-worldstream.net
-109.236.91.23 # 109-236-91-23.hosted-by-worldstream.net
 117.20.68.121 # 117-20-68-121.751444.bne.nbn.aussiebb.net
 117.20.68.167 # 117-20-68-167.751444.bne.nbn.aussiebb.net
 117.20.69.71 # 117-20-69-71.751445.bne.nbn.aussiebb.net
@@ -89,14 +87,11 @@
 185.177.124.212 # 185-177-124-212.hosted-by-worldstream.net
 185.177.125.173 # 185-177-125-173.hosted-by-worldstream.net
 185.177.125.181 # 185-177-125-181.hosted-by-worldstream.net
-185.177.125.212 # 185-177-125-212.hosted-by-worldstream.net
 185.177.127.244 # 185-177-127-244.hosted-by-worldstream.net
-185.177.127.59 # 185-177-127-59.hosted-by-worldstream.net
 185.180.222.88 # 185-180-222-88.hosted-by-worldstream.net
 185.182.193.32 # 185-182-193-32.hosted-by-worldstream.net
 185.182.193.75 # 185-182-193-75.hosted-by-worldstream.net
 185.183.32.31 # 185-183-32-31.hosted-by-worldstream.net
-185.183.32.39 # 185-183-32-39.hosted-by-worldstream.net
 185.62.129.150 # 185-62-129-150.pool.digikabel.hu
 185.62.130.200 # 185-62-130-200.pool.digikabel.hu
 188.143.3.220 # 188-143-3-220.pool.digikabel.hu
@@ -106,7 +101,6 @@
 190.2.130.168 # 190-2-130-168.hosted-by-worldstream.net
 190.2.131.17 # 190-2-131-17.hosted-by-worldstream.net
 190.2.131.175 # 190-2-131-175.hosted-by-worldstream.net
-190.2.131.198 # 190-2-131-198.hosted-by-worldstream.net
 190.2.131.200 # 190-2-131-200.hosted-by-worldstream.net
 190.2.131.202 # 190-2-131-202.hosted-by-worldstream.net
 190.2.131.204 # 190-2-131-204.hosted-by-worldstream.net
@@ -121,7 +115,6 @@
 190.2.136.46 # 190-2-136-46.hosted-by-worldstream.net
 190.2.136.47 # 190-2-136-47.hosted-by-worldstream.net
 190.2.138.15 # 190-2-138-15.hosted-by-worldstream.net
-190.2.141.21 # 190-2-141-21.hosted-by-worldstream.net
 190.2.146.232 # 190-2-146-232.hosted-by-worldstream.net
 190.2.146.4 # 190-2-146-4.hosted-by-worldstream.net
 190.2.154.49 # 190-2-154-49.hosted-by-worldstream.net
@@ -157,7 +150,6 @@
 217.197.188.253 # 217-197-188-253.pool.digikabel.hu
 217.23.1.208 # 217-23-1-208.hosted-by-worldstream.net
 217.23.13.125 # 217-23-13-125.hosted-by-worldstream.net
-217.23.15.91 # 217-23-15-91.hosted-by-worldstream.net
 217.79.245.247 # 217-79-245-247.static.hvvc.us
 23.111.153.194 # 23-111-153-194.static.hvvc.us
 23.111.165.18 # 23-111-165-18.static.hvvc.us
@@ -2177,16 +2169,6 @@
 18.153.98.227 # ec2-18-153-98-227.eu-central-1.compute.amazonaws.com
 18.208.215.164 # ec2-18-208-215-164.compute-1.amazonaws.com
 18.209.45.163 # ec2-18-209-45-163.compute-1.amazonaws.com
-18.216.178.214 # ec2-18-216-178-214.us-east-2.compute.amazonaws.com
-18.216.178.250 # ec2-18-216-178-250.us-east-2.compute.amazonaws.com
-18.216.181.70 # ec2-18-216-181-70.us-east-2.compute.amazonaws.com
-18.216.188.232 # ec2-18-216-188-232.us-east-2.compute.amazonaws.com
-18.216.191.172 # ec2-18-216-191-172.us-east-2.compute.amazonaws.com
-18.216.193.19 # ec2-18-216-193-19.us-east-2.compute.amazonaws.com
-18.216.194.230 # ec2-18-216-194-230.us-east-2.compute.amazonaws.com
-18.216.194.86 # ec2-18-216-194-86.us-east-2.compute.amazonaws.com
-18.216.196.103 # ec2-18-216-196-103.us-east-2.compute.amazonaws.com
-18.216.198.1 # ec2-18-216-198-1.us-east-2.compute.amazonaws.com
 18.216.198.206 # ec2-18-216-198-206.us-east-2.compute.amazonaws.com
 18.216.198.243 # ec2-18-216-198-243.us-east-2.compute.amazonaws.com
 18.216.199.125 # ec2-18-216-199-125.us-east-2.compute.amazonaws.com
