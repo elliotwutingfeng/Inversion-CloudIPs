@@ -1,4 +1,3 @@
-103.136.42.153 # 103-136-42-153.hosted-by-worldstream.net
 103.136.42.192 # 103-136-42-192.hosted-by-worldstream.net
 104.156.49.185 # 104-156-49-185.static.hvvc.us
 104.156.53.22 # 104-156-53-22.static.hvvc.us
@@ -799,7 +798,6 @@
 89.172.87.79 # 89-172-87-79.adsl.net.t-com.hr
 89.172.97.174 # 89-172-97-174.adsl.net.t-com.hr
 89.38.98.236 # 89-38-98-236.hosted-by-worldstream.net
-89.38.99.153 # 89-38-99-153.hosted-by-worldstream.net
 89.38.99.16 # 89-38-99-16.hosted-by-worldstream.net
 91.82.179.235 # 91-82-179-235.pool.digikabel.hu
 91.83.192.102 # 91-83-192-102.pool.digikabel.hu
@@ -2144,18 +2142,11 @@
 18.153.98.227 # ec2-18-153-98-227.eu-central-1.compute.amazonaws.com
 18.208.215.164 # ec2-18-208-215-164.compute-1.amazonaws.com
 18.209.45.163 # ec2-18-209-45-163.compute-1.amazonaws.com
-18.216.252.184 # ec2-18-216-252-184.us-east-2.compute.amazonaws.com
-18.216.255.145 # ec2-18-216-255-145.us-east-2.compute.amazonaws.com
 18.216.27.37 # ec2-18-216-27-37.us-east-2.compute.amazonaws.com
-18.216.3.72 # ec2-18-216-3-72.us-east-2.compute.amazonaws.com
 18.216.31.12 # ec2-18-216-31-12.us-east-2.compute.amazonaws.com
 18.216.33.194 # ec2-18-216-33-194.us-east-2.compute.amazonaws.com
 18.216.34.1 # ec2-18-216-34-1.us-east-2.compute.amazonaws.com
 18.216.34.202 # ec2-18-216-34-202.us-east-2.compute.amazonaws.com
-18.216.35.121 # ec2-18-216-35-121.us-east-2.compute.amazonaws.com
-18.216.35.233 # ec2-18-216-35-233.us-east-2.compute.amazonaws.com
-18.216.40.18 # ec2-18-216-40-18.us-east-2.compute.amazonaws.com
-18.216.48.135 # ec2-18-216-48-135.us-east-2.compute.amazonaws.com
 18.216.49.77 # ec2-18-216-49-77.us-east-2.compute.amazonaws.com
 18.216.5.241 # ec2-18-216-5-241.us-east-2.compute.amazonaws.com
 18.216.52.87 # ec2-18-216-52-87.us-east-2.compute.amazonaws.com
