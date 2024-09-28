@@ -74,7 +74,6 @@
 180.150.4.125 # 180-150-4-125.b49604.syd.nbn.aussiebb.net
 180.150.57.76 # 180-150-57-76.b49639.mel.static.aussiebb.net
 180.150.8.132 # 180-150-8-132.b49608.syd.static.aussiebb.net
-185.177.124.12 # 185-177-124-12.hosted-by-worldstream.net
 185.62.129.150 # 185-62-129-150.pool.digikabel.hu
 185.62.130.200 # 185-62-130-200.pool.digikabel.hu
 188.143.3.220 # 188-143-3-220.pool.digikabel.hu
@@ -2114,17 +2113,9 @@
 18.153.98.227 # ec2-18-153-98-227.eu-central-1.compute.amazonaws.com
 18.208.215.164 # ec2-18-208-215-164.compute-1.amazonaws.com
 18.209.45.163 # ec2-18-209-45-163.compute-1.amazonaws.com
-18.217.249.35 # ec2-18-217-249-35.us-east-2.compute.amazonaws.com
-18.217.3.234 # ec2-18-217-3-234.us-east-2.compute.amazonaws.com
 18.217.3.255 # ec2-18-217-3-255.us-east-2.compute.amazonaws.com
-18.217.31.128 # ec2-18-217-31-128.us-east-2.compute.amazonaws.com
 18.217.33.225 # ec2-18-217-33-225.us-east-2.compute.amazonaws.com
-18.217.33.44 # ec2-18-217-33-44.us-east-2.compute.amazonaws.com
-18.217.33.60 # ec2-18-217-33-60.us-east-2.compute.amazonaws.com
-18.217.35.165 # ec2-18-217-35-165.us-east-2.compute.amazonaws.com
 18.217.38.78 # ec2-18-217-38-78.us-east-2.compute.amazonaws.com
-18.217.39.169 # ec2-18-217-39-169.us-east-2.compute.amazonaws.com
-18.217.4.89 # ec2-18-217-4-89.us-east-2.compute.amazonaws.com
 18.217.44.147 # ec2-18-217-44-147.us-east-2.compute.amazonaws.com
 18.217.48.157 # ec2-18-217-48-157.us-east-2.compute.amazonaws.com
 18.217.50.147 # ec2-18-217-50-147.us-east-2.compute.amazonaws.com
@@ -11069,6 +11060,7 @@
 80.41.161.50 # host-80-41-161-50.as13285.net
 80.41.164.197 # host-80-41-164-197.as13285.net
 80.41.174.221 # host-80-41-174-221.as13285.net
+80.41.175.170 # host-80-41-175-170.as13285.net
 80.41.178.224 # host-80-41-178-224.as13285.net
 80.41.18.143 # host-80-41-18-143.as13285.net
 80.41.180.43 # host-80-41-180-43.as13285.net
@@ -11232,6 +11224,7 @@
 80.47.85.61 # host-80-47-85-61.as13285.net
 80.47.86.145 # host-80-47-86-145.as13285.net
 80.47.90.47 # host-80-47-90-47.as13285.net
+80.47.95.155 # host-80-47-95-155.as13285.net
 80.47.95.53 # host-80-47-95-53.as13285.net
 80.47.99.254 # host-80-47-99-254.as13285.net
 81.86.205.90 # host-81-86-205-90.static.as9105.net
