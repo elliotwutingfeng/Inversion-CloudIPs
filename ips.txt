@@ -2113,19 +2113,7 @@
 18.153.98.227 # ec2-18-153-98-227.eu-central-1.compute.amazonaws.com
 18.208.215.164 # ec2-18-208-215-164.compute-1.amazonaws.com
 18.209.45.163 # ec2-18-209-45-163.compute-1.amazonaws.com
-18.217.3.255 # ec2-18-217-3-255.us-east-2.compute.amazonaws.com
-18.217.33.225 # ec2-18-217-33-225.us-east-2.compute.amazonaws.com
-18.217.38.78 # ec2-18-217-38-78.us-east-2.compute.amazonaws.com
-18.217.44.147 # ec2-18-217-44-147.us-east-2.compute.amazonaws.com
-18.217.48.157 # ec2-18-217-48-157.us-east-2.compute.amazonaws.com
-18.217.50.147 # ec2-18-217-50-147.us-east-2.compute.amazonaws.com
-18.217.50.91 # ec2-18-217-50-91.us-east-2.compute.amazonaws.com
-18.217.52.93 # ec2-18-217-52-93.us-east-2.compute.amazonaws.com
-18.217.61.100 # ec2-18-217-61-100.us-east-2.compute.amazonaws.com
 18.217.63.14 # ec2-18-217-63-14.us-east-2.compute.amazonaws.com
-18.217.66.25 # ec2-18-217-66-25.us-east-2.compute.amazonaws.com
-18.217.67.5 # ec2-18-217-67-5.us-east-2.compute.amazonaws.com
-18.217.68.28 # ec2-18-217-68-28.us-east-2.compute.amazonaws.com
 18.217.68.7 # ec2-18-217-68-7.us-east-2.compute.amazonaws.com
 18.217.7.244 # ec2-18-217-7-244.us-east-2.compute.amazonaws.com
 18.217.71.104 # ec2-18-217-71-104.us-east-2.compute.amazonaws.com
@@ -11242,6 +11230,7 @@
 89.240.60.63 # host-89-240-60-63.as13285.net
 89.240.66.236 # host-89-240-66-236.as13285.net
 89.241.112.177 # host-89-241-112-177.as13285.net
+89.241.117.181 # host-89-241-117-181.as13285.net
 89.241.118.153 # host-89-241-118-153.as13285.net
 89.241.128.50 # host-89-241-128-50.as13285.net
 89.241.220.210 # host-89-241-220-210.as13285.net
@@ -11426,6 +11415,7 @@
 92.31.193.50 # host-92-31-193-50.as13285.net
 92.31.243.135 # host-92-31-243-135.as13285.net
 92.31.243.238 # host-92-31-243-238.as13285.net
+92.31.243.253 # host-92-31-243-253.as13285.net
 92.31.243.43 # host-92-31-243-43.as13285.net
 92.31.244.153 # host-92-31-244-153.as13285.net
 92.6.135.29 # host-92-6-135-29.as13285.net
@@ -11468,6 +11458,7 @@
 81.133.85.179 # host81-133-85-179.in-addr.btopenworld.com
 86.154.101.70 # host86-154-101-70.range86-154.btcentralplus.com
 86.169.232.18 # host86-169-232-18.range86-169.btcentralplus.com
+130.25.212.245 # net-130-25-212-245.cust.vodafonedsl.it
 157.245.106.174 # nostalgic-davinci.157-245-106-174.plesk.page
 62.210.119.209 # objective-chatelet.62-210-119-209.plesk.page
 100.0.62.116 # pool-100-0-62-116.bstnma.fios.verizon.net
