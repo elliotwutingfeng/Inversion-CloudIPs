@@ -56,7 +56,6 @@
 176.35.138.93 # 176-35-138-93.xdsl.murphx.net
 176.35.164.230 # 176-35-164-230.xdsl.murphx.net
 176.35.79.46 # 176-35-79-46.xdsl.murphx.net
-177.52.195.50 # 177-52-195-50.nortenetbrasil.com.br
 177.52.198.88 # 177-52-198-88.nortenetbrasil.com.br
 178.164.143.35 # 178-164-143-35.pool.digikabel.hu
 178.164.201.224 # 178-164-201-224.pool.digikabel.hu
@@ -2112,17 +2111,6 @@
 18.153.98.227 # ec2-18-153-98-227.eu-central-1.compute.amazonaws.com
 18.208.215.164 # ec2-18-208-215-164.compute-1.amazonaws.com
 18.209.45.163 # ec2-18-209-45-163.compute-1.amazonaws.com
-18.218.148.195 # ec2-18-218-148-195.us-east-2.compute.amazonaws.com
-18.218.15.33 # ec2-18-218-15-33.us-east-2.compute.amazonaws.com
-18.218.155.110 # ec2-18-218-155-110.us-east-2.compute.amazonaws.com
-18.218.156.225 # ec2-18-218-156-225.us-east-2.compute.amazonaws.com
-18.218.157.10 # ec2-18-218-157-10.us-east-2.compute.amazonaws.com
-18.218.157.187 # ec2-18-218-157-187.us-east-2.compute.amazonaws.com
-18.218.159.132 # ec2-18-218-159-132.us-east-2.compute.amazonaws.com
-18.218.160.198 # ec2-18-218-160-198.us-east-2.compute.amazonaws.com
-18.218.160.233 # ec2-18-218-160-233.us-east-2.compute.amazonaws.com
-18.218.164.86 # ec2-18-218-164-86.us-east-2.compute.amazonaws.com
-18.218.167.214 # ec2-18-218-167-214.us-east-2.compute.amazonaws.com
 18.218.167.72 # ec2-18-218-167-72.us-east-2.compute.amazonaws.com
 18.218.168.237 # ec2-18-218-168-237.us-east-2.compute.amazonaws.com
 18.218.169.226 # ec2-18-218-169-226.us-east-2.compute.amazonaws.com
@@ -5947,6 +5935,7 @@
 3.18.223.64 # ec2-3-18-223-64.us-east-2.compute.amazonaws.com
 3.18.225.170 # ec2-3-18-225-170.us-east-2.compute.amazonaws.com
 3.18.225.192 # ec2-3-18-225-192.us-east-2.compute.amazonaws.com
+3.18.70.33 # ec2-3-18-70-33.us-east-2.compute.amazonaws.com
 3.19.14.131 # ec2-3-19-14-131.us-east-2.compute.amazonaws.com
 3.19.14.14 # ec2-3-19-14-14.us-east-2.compute.amazonaws.com
 3.19.14.229 # ec2-3-19-14-229.us-east-2.compute.amazonaws.com
@@ -11370,6 +11359,7 @@
 92.31.243.253 # host-92-31-243-253.as13285.net
 92.31.243.43 # host-92-31-243-43.as13285.net
 92.31.244.153 # host-92-31-244-153.as13285.net
+92.31.246.107 # host-92-31-246-107.as13285.net
 92.6.135.29 # host-92-6-135-29.as13285.net
 92.6.205.137 # host-92-6-205-137.as13285.net
 92.6.215.238 # host-92-6-215-238.as13285.net
