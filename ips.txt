@@ -2113,18 +2113,7 @@
 18.196.105.68 # ec2-18-196-105-68.eu-central-1.compute.amazonaws.com
 18.208.215.164 # ec2-18-208-215-164.compute-1.amazonaws.com
 18.209.45.163 # ec2-18-209-45-163.compute-1.amazonaws.com
-18.218.253.225 # ec2-18-218-253-225.us-east-2.compute.amazonaws.com
-18.218.255.102 # ec2-18-218-255-102.us-east-2.compute.amazonaws.com
-18.218.3.23 # ec2-18-218-3-23.us-east-2.compute.amazonaws.com
-18.218.3.44 # ec2-18-218-3-44.us-east-2.compute.amazonaws.com
-18.218.33.57 # ec2-18-218-33-57.us-east-2.compute.amazonaws.com
-18.218.34.166 # ec2-18-218-34-166.us-east-2.compute.amazonaws.com
-18.218.34.80 # ec2-18-218-34-80.us-east-2.compute.amazonaws.com
-18.218.35.42 # ec2-18-218-35-42.us-east-2.compute.amazonaws.com
-18.218.38.228 # ec2-18-218-38-228.us-east-2.compute.amazonaws.com
 18.218.39.66 # ec2-18-218-39-66.us-east-2.compute.amazonaws.com
-18.218.40.158 # ec2-18-218-40-158.us-east-2.compute.amazonaws.com
-18.218.40.245 # ec2-18-218-40-245.us-east-2.compute.amazonaws.com
 18.218.42.12 # ec2-18-218-42-12.us-east-2.compute.amazonaws.com
 18.218.42.227 # ec2-18-218-42-227.us-east-2.compute.amazonaws.com
 18.218.42.40 # ec2-18-218-42-40.us-east-2.compute.amazonaws.com
@@ -11340,6 +11329,7 @@
 81.133.85.179 # host81-133-85-179.in-addr.btopenworld.com
 86.154.101.70 # host86-154-101-70.range86-154.btcentralplus.com
 86.169.232.18 # host86-169-232-18.range86-169.btcentralplus.com
+103.155.93.158 # naughty-newton.103-155-93-158.plesk.page
 130.25.212.245 # net-130-25-212-245.cust.vodafonedsl.it
 157.245.106.174 # nostalgic-davinci.157-245-106-174.plesk.page
 62.210.119.209 # objective-chatelet.62-210-119-209.plesk.page
