@@ -2113,17 +2113,8 @@
 18.196.105.68 # ec2-18-196-105-68.eu-central-1.compute.amazonaws.com
 18.208.215.164 # ec2-18-208-215-164.compute-1.amazonaws.com
 18.209.45.163 # ec2-18-209-45-163.compute-1.amazonaws.com
-18.218.39.66 # ec2-18-218-39-66.us-east-2.compute.amazonaws.com
-18.218.42.12 # ec2-18-218-42-12.us-east-2.compute.amazonaws.com
-18.218.42.227 # ec2-18-218-42-227.us-east-2.compute.amazonaws.com
-18.218.42.40 # ec2-18-218-42-40.us-east-2.compute.amazonaws.com
 18.218.43.161 # ec2-18-218-43-161.us-east-2.compute.amazonaws.com
-18.218.44.159 # ec2-18-218-44-159.us-east-2.compute.amazonaws.com
-18.218.46.64 # ec2-18-218-46-64.us-east-2.compute.amazonaws.com
-18.218.47.112 # ec2-18-218-47-112.us-east-2.compute.amazonaws.com
-18.218.47.244 # ec2-18-218-47-244.us-east-2.compute.amazonaws.com
 18.218.48.40 # ec2-18-218-48-40.us-east-2.compute.amazonaws.com
-18.218.49.125 # ec2-18-218-49-125.us-east-2.compute.amazonaws.com
 18.218.49.56 # ec2-18-218-49-56.us-east-2.compute.amazonaws.com
 18.218.50.45 # ec2-18-218-50-45.us-east-2.compute.amazonaws.com
 18.218.51.122 # ec2-18-218-51-122.us-east-2.compute.amazonaws.com
@@ -7620,6 +7611,7 @@
 44.242.173.35 # ec2-44-242-173-35.us-west-2.compute.amazonaws.com
 44.242.175.201 # ec2-44-242-175-201.us-west-2.compute.amazonaws.com
 44.242.175.230 # ec2-44-242-175-230.us-west-2.compute.amazonaws.com
+47.128.67.112 # ec2-47-128-67-112.ap-southeast-1.compute.amazonaws.com
 47.129.11.148 # ec2-47-129-11-148.ap-southeast-1.compute.amazonaws.com
 50.112.12.7 # ec2-50-112-12-7.us-west-2.compute.amazonaws.com
 50.112.45.235 # ec2-50-112-45-235.us-west-2.compute.amazonaws.com
@@ -11383,6 +11375,7 @@
 87.75.112.238 # static-87-75-112-238.vodafonexdsl.co.uk
 87.75.114.61 # static-87-75-114-61.vodafonexdsl.co.uk
 87.75.118.38 # static-87-75-118-38.vodafonexdsl.co.uk
+87.75.123.96 # static-87-75-123-96.vodafonexdsl.co.uk
 87.75.158.196 # static-87-75-158-196.vodafonexdsl.co.uk
 87.75.158.22 # static-87-75-158-22.vodafonexdsl.co.uk
 87.75.188.162 # static-87-75-188-162.vodafonexdsl.co.uk
