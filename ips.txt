@@ -1877,6 +1877,7 @@
 13.57.40.53 # ec2-13-57-40-53.us-west-1.compute.amazonaws.com
 13.57.40.64 # ec2-13-57-40-64.us-west-1.compute.amazonaws.com
 13.57.40.65 # ec2-13-57-40-65.us-west-1.compute.amazonaws.com
+13.60.80.110 # ec2-13-60-80-110.eu-north-1.compute.amazonaws.com
 15.164.103.179 # ec2-15-164-103-179.ap-northeast-2.compute.amazonaws.com
 15.236.158.5 # ec2-15-236-158-5.eu-west-3.compute.amazonaws.com
 15.236.2.215 # ec2-15-236-2-215.eu-west-3.compute.amazonaws.com
@@ -2117,17 +2118,9 @@
 18.208.215.164 # ec2-18-208-215-164.compute-1.amazonaws.com
 18.209.45.163 # ec2-18-209-45-163.compute-1.amazonaws.com
 18.217.164.56 # ec2-18-217-164-56.us-east-2.compute.amazonaws.com
-18.219.75.200 # ec2-18-219-75-200.us-east-2.compute.amazonaws.com
-18.219.76.240 # ec2-18-219-76-240.us-east-2.compute.amazonaws.com
-18.219.77.197 # ec2-18-219-77-197.us-east-2.compute.amazonaws.com
-18.219.77.216 # ec2-18-219-77-216.us-east-2.compute.amazonaws.com
 18.219.78.198 # ec2-18-219-78-198.us-east-2.compute.amazonaws.com
 18.219.79.64 # ec2-18-219-79-64.us-east-2.compute.amazonaws.com
-18.219.81.190 # ec2-18-219-81-190.us-east-2.compute.amazonaws.com
-18.219.83.252 # ec2-18-219-83-252.us-east-2.compute.amazonaws.com
 18.219.84.135 # ec2-18-219-84-135.us-east-2.compute.amazonaws.com
-18.219.84.226 # ec2-18-219-84-226.us-east-2.compute.amazonaws.com
-18.219.86.114 # ec2-18-219-86-114.us-east-2.compute.amazonaws.com
 18.219.9.225 # ec2-18-219-9-225.us-east-2.compute.amazonaws.com
 18.219.92.198 # ec2-18-219-92-198.us-east-2.compute.amazonaws.com
 18.219.93.215 # ec2-18-219-93-215.us-east-2.compute.amazonaws.com
@@ -11189,6 +11182,7 @@
 212.158.245.125 # static-212-158-245-125.vodafonexdsl.co.uk
 70.18.212.242 # static-70-18-212-242.nycmny.fios.verizon.net
 71.251.197.234 # static-71-251-197-234.nwrknj.fios.verizon.net
+83.146.10.206 # static-83-146-10-206.vodafonexdsl.co.uk
 83.146.11.124 # static-83-146-11-124.vodafonexdsl.co.uk
 83.146.9.49 # static-83-146-9-49.vodafonexdsl.co.uk
 84.9.112.11 # static-84-9-112-11.vodafonexdsl.co.uk
@@ -11209,6 +11203,7 @@
 84.9.29.211 # static-84-9-29-211.vodafonexdsl.co.uk
 84.9.30.190 # static-84-9-30-190.vodafonexdsl.co.uk
 84.9.32.53 # static-84-9-32-53.vodafonexdsl.co.uk
+84.9.33.203 # static-84-9-33-203.vodafonexdsl.co.uk
 84.9.36.31 # static-84-9-36-31.vodafonexdsl.co.uk
 84.9.37.216 # static-84-9-37-216.vodafonexdsl.co.uk
 84.9.38.207 # static-84-9-38-207.vodafonexdsl.co.uk
