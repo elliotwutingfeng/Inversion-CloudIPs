@@ -2118,15 +2118,6 @@
 18.209.45.163 # ec2-18-209-45-163.compute-1.amazonaws.com
 18.217.164.56 # ec2-18-217-164-56.us-east-2.compute.amazonaws.com
 18.220.106.231 # ec2-18-220-106-231.us-east-2.compute.amazonaws.com
-18.220.106.238 # ec2-18-220-106-238.us-east-2.compute.amazonaws.com
-18.220.110.170 # ec2-18-220-110-170.us-east-2.compute.amazonaws.com
-18.220.111.24 # ec2-18-220-111-24.us-east-2.compute.amazonaws.com
-18.220.112.250 # ec2-18-220-112-250.us-east-2.compute.amazonaws.com
-18.220.113.225 # ec2-18-220-113-225.us-east-2.compute.amazonaws.com
-18.220.115.77 # ec2-18-220-115-77.us-east-2.compute.amazonaws.com
-18.220.117.87 # ec2-18-220-117-87.us-east-2.compute.amazonaws.com
-18.220.119.60 # ec2-18-220-119-60.us-east-2.compute.amazonaws.com
-18.220.120.155 # ec2-18-220-120-155.us-east-2.compute.amazonaws.com
 18.220.121.216 # ec2-18-220-121-216.us-east-2.compute.amazonaws.com
 18.220.123.138 # ec2-18-220-123-138.us-east-2.compute.amazonaws.com
 18.220.129.72 # ec2-18-220-129-72.us-east-2.compute.amazonaws.com
@@ -6086,6 +6077,7 @@
 3.96.212.139 # ec2-3-96-212-139.ca-central-1.compute.amazonaws.com
 34.199.141.183 # ec2-34-199-141-183.compute-1.amazonaws.com
 34.201.137.47 # ec2-34-201-137-47.compute-1.amazonaws.com
+34.203.240.223 # ec2-34-203-240-223.compute-1.amazonaws.com
 34.203.31.253 # ec2-34-203-31-253.compute-1.amazonaws.com
 34.205.225.154 # ec2-34-205-225-154.compute-1.amazonaws.com
 34.207.116.203 # ec2-34-207-116-203.compute-1.amazonaws.com
@@ -10654,7 +10646,6 @@
 2.96.11.23 # host-2-96-11-23.as13285.net
 2.96.12.41 # host-2-96-12-41.as13285.net
 2.96.12.92 # host-2-96-12-92.as13285.net
-2.96.14.41 # host-2-96-14-41.as13285.net
 2.96.8.68 # host-2-96-8-68.as13285.net
 2.97.97.194 # host-2-97-97-194.as13285.net
 2.99.115.153 # host-2-99-115-153.as13285.net
@@ -11145,7 +11136,6 @@
 92.9.66.184 # host-92-9-66-184.as13285.net
 92.9.74.248 # host-92-9-74-248.as13285.net
 81.130.204.110 # host81-130-204-110.in-addr.btopenworld.com
-81.133.85.179 # host81-133-85-179.in-addr.btopenworld.com
 86.154.101.70 # host86-154-101-70.range86-154.btcentralplus.com
 86.169.232.18 # host86-169-232-18.range86-169.btcentralplus.com
 103.155.93.158 # naughty-newton.103-155-93-158.plesk.page
@@ -11159,7 +11149,6 @@
 108.5.238.139 # pool-108-5-238-139.nwrknj.fios.verizon.net
 108.52.133.244 # pool-108-52-133-244.phlapa.fios.verizon.net
 72.74.52.71 # pool-72-74-52-71.bstnma.fios.verizon.net
-98.109.184.239 # pool-98-109-184-239.nwrknj.fios.verizon.net
 98.116.192.84 # pool-98-116-192-84.nycmny.fios.verizon.net
 98.116.55.114 # pool-98-116-55-114.nycmny.fios.verizon.net
 217.174.241.66 # server217-174-241-66.live-servers.net
