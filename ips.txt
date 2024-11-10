@@ -94,7 +94,6 @@
 199.231.163.77 # 199-231-163-77.static.hvvc.us
 199.91.66.171 # 199-91-66-171.static.hvvc.us
 34.67.51.20 # 20.51.67.34.bc.googleusercontent.com
-201.71.140.109 # 201-71-140-109.static.younet.com.br
 202.142.138.219 # 202-142-138-219.ca8e8a.mel.nbn.aussiebb.net
 202.153.221.95 # 202-153-221-95.ca99dd.mel.static.aussiebb.net
 209.133.221.114 # 209-133-221-114.static.hvvc.us
@@ -2118,16 +2117,6 @@
 18.208.215.164 # ec2-18-208-215-164.compute-1.amazonaws.com
 18.209.45.163 # ec2-18-209-45-163.compute-1.amazonaws.com
 18.217.164.56 # ec2-18-217-164-56.us-east-2.compute.amazonaws.com
-18.220.192.228 # ec2-18-220-192-228.us-east-2.compute.amazonaws.com
-18.220.193.9 # ec2-18-220-193-9.us-east-2.compute.amazonaws.com
-18.220.194.104 # ec2-18-220-194-104.us-east-2.compute.amazonaws.com
-18.220.195.67 # ec2-18-220-195-67.us-east-2.compute.amazonaws.com
-18.220.197.91 # ec2-18-220-197-91.us-east-2.compute.amazonaws.com
-18.220.199.255 # ec2-18-220-199-255.us-east-2.compute.amazonaws.com
-18.220.21.174 # ec2-18-220-21-174.us-east-2.compute.amazonaws.com
-18.220.210.197 # ec2-18-220-210-197.us-east-2.compute.amazonaws.com
-18.220.212.165 # ec2-18-220-212-165.us-east-2.compute.amazonaws.com
-18.220.214.0 # ec2-18-220-214-0.us-east-2.compute.amazonaws.com
 18.220.215.167 # ec2-18-220-215-167.us-east-2.compute.amazonaws.com
 18.220.215.172 # ec2-18-220-215-172.us-east-2.compute.amazonaws.com
 18.220.215.211 # ec2-18-220-215-211.us-east-2.compute.amazonaws.com
