@@ -197,7 +197,6 @@
 74.93.145.9 # 74-93-145-9-memphis.hfc.comcastbusiness.net
 74.93.208.70 # 74-93-208-70-washingtondc.hfc.comcastbusiness.net
 74.95.174.238 # 74-95-174-238-philadelphia.hfc.comcastbusiness.net
-74.95.213.129 # 74-95-213-129-houston.hfc.comcastbusiness.net
 74.95.82.70 # 74-95-82-70-washingtondc.hfc.comcastbusiness.net
 74.95.89.93 # 74-95-89-93-washingtondc.hfc.comcastbusiness.net
 75.146.127.53 # 75-146-127-53-illinnois.hfc.comcastbusiness.net
@@ -2120,17 +2119,7 @@
 18.208.215.164 # ec2-18-208-215-164.compute-1.amazonaws.com
 18.209.45.163 # ec2-18-209-45-163.compute-1.amazonaws.com
 18.217.164.56 # ec2-18-217-164-56.us-east-2.compute.amazonaws.com
-18.220.83.251 # ec2-18-220-83-251.us-east-2.compute.amazonaws.com
-18.220.93.124 # ec2-18-220-93-124.us-east-2.compute.amazonaws.com
-18.220.94.247 # ec2-18-220-94-247.us-east-2.compute.amazonaws.com
-18.221.101.244 # ec2-18-221-101-244.us-east-2.compute.amazonaws.com
-18.221.102.39 # ec2-18-221-102-39.us-east-2.compute.amazonaws.com
-18.221.105.46 # ec2-18-221-105-46.us-east-2.compute.amazonaws.com
-18.221.106.52 # ec2-18-221-106-52.us-east-2.compute.amazonaws.com
 18.221.106.62 # ec2-18-221-106-62.us-east-2.compute.amazonaws.com
-18.221.109.20 # ec2-18-221-109-20.us-east-2.compute.amazonaws.com
-18.221.109.240 # ec2-18-221-109-240.us-east-2.compute.amazonaws.com
-18.221.11.225 # ec2-18-221-11-225.us-east-2.compute.amazonaws.com
 18.221.112.215 # ec2-18-221-112-215.us-east-2.compute.amazonaws.com
 18.221.113.21 # ec2-18-221-113-21.us-east-2.compute.amazonaws.com
 18.221.114.141 # ec2-18-221-114-141.us-east-2.compute.amazonaws.com
