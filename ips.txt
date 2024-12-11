@@ -3,6 +3,7 @@
 104.156.63.78 # 104-156-63-78.static.hvvc.us
 104.254.129.3 # 104-254-129-3.static.hvvc.us
 109.170.138.65 # 109-170-138-65.xdsl.murphx.net
+109.170.159.19 # 109-170-159-19.xdsl.murphx.net
 117.20.68.121 # 117-20-68-121.751444.bne.nbn.aussiebb.net
 117.20.68.167 # 117-20-68-167.751444.bne.nbn.aussiebb.net
 117.20.69.71 # 117-20-69-71.751445.bne.nbn.aussiebb.net
@@ -2127,18 +2128,6 @@
 18.208.215.164 # ec2-18-208-215-164.compute-1.amazonaws.com
 18.209.45.163 # ec2-18-209-45-163.compute-1.amazonaws.com
 18.217.164.56 # ec2-18-217-164-56.us-east-2.compute.amazonaws.com
-18.222.158.130 # ec2-18-222-158-130.us-east-2.compute.amazonaws.com
-18.222.158.4 # ec2-18-222-158-4.us-east-2.compute.amazonaws.com
-18.222.165.131 # ec2-18-222-165-131.us-east-2.compute.amazonaws.com
-18.222.165.179 # ec2-18-222-165-179.us-east-2.compute.amazonaws.com
-18.222.165.206 # ec2-18-222-165-206.us-east-2.compute.amazonaws.com
-18.222.165.80 # ec2-18-222-165-80.us-east-2.compute.amazonaws.com
-18.222.169.111 # ec2-18-222-169-111.us-east-2.compute.amazonaws.com
-18.222.169.134 # ec2-18-222-169-134.us-east-2.compute.amazonaws.com
-18.222.169.14 # ec2-18-222-169-14.us-east-2.compute.amazonaws.com
-18.222.169.170 # ec2-18-222-169-170.us-east-2.compute.amazonaws.com
-18.222.169.189 # ec2-18-222-169-189.us-east-2.compute.amazonaws.com
-18.222.169.238 # ec2-18-222-169-238.us-east-2.compute.amazonaws.com
 18.222.169.37 # ec2-18-222-169-37.us-east-2.compute.amazonaws.com
 18.222.169.94 # ec2-18-222-169-94.us-east-2.compute.amazonaws.com
 18.222.170.181 # ec2-18-222-170-181.us-east-2.compute.amazonaws.com
