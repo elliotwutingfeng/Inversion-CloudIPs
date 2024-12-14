@@ -8,6 +8,7 @@
 117.20.68.167 # 117-20-68-167.751444.bne.nbn.aussiebb.net
 117.20.69.71 # 117-20-69-71.751445.bne.nbn.aussiebb.net
 119.17.141.83 # 119-17-141-83.77118d.mel.nbn.aussiebb.net
+119.18.0.237 # 119-18-0-237.771200.syd.nbn.aussiebb.net
 119.18.1.242 # 119-18-1-242.771201.syd.nbn.aussiebb.net
 119.18.1.28 # 119-18-1-28.771201.syd.nbn.aussiebb.net
 119.18.24.51 # 119-18-24-51.771218.mel.nbn.aussiebb.net
@@ -25,8 +26,6 @@
 121.200.7.140 # 121-200-7-140.79c807.syd.nbn.aussiebb.net
 121.74.232.40 # 121-74-232-40.telstraclear.net
 122.223.74.97 # 122-223-74-97.aichi.ap.gmo-isp.jp
-138.0.4.23 # 138-0-4-23.static.lrfconections.com.br
-138.0.6.131 # 138-0-6-131.static.lrfconections.com.br
 144.91.108.8 # 144.91.108.8.nip.io
 130.211.30.154 # 154.30.211.130.bc.googleusercontent.com
 159.196.106.106 # 159-196-106-106.9fc46a.syd.nbn.aussiebb.net
@@ -2129,16 +2128,6 @@
 18.208.215.164 # ec2-18-208-215-164.compute-1.amazonaws.com
 18.209.45.163 # ec2-18-209-45-163.compute-1.amazonaws.com
 18.217.164.56 # ec2-18-217-164-56.us-east-2.compute.amazonaws.com
-18.222.185.108 # ec2-18-222-185-108.us-east-2.compute.amazonaws.com
-18.222.185.189 # ec2-18-222-185-189.us-east-2.compute.amazonaws.com
-18.222.185.199 # ec2-18-222-185-199.us-east-2.compute.amazonaws.com
-18.222.185.22 # ec2-18-222-185-22.us-east-2.compute.amazonaws.com
-18.222.185.38 # ec2-18-222-185-38.us-east-2.compute.amazonaws.com
-18.222.185.52 # ec2-18-222-185-52.us-east-2.compute.amazonaws.com
-18.222.186.148 # ec2-18-222-186-148.us-east-2.compute.amazonaws.com
-18.222.186.155 # ec2-18-222-186-155.us-east-2.compute.amazonaws.com
-18.222.186.234 # ec2-18-222-186-234.us-east-2.compute.amazonaws.com
-18.222.186.68 # ec2-18-222-186-68.us-east-2.compute.amazonaws.com
 18.222.187.150 # ec2-18-222-187-150.us-east-2.compute.amazonaws.com
 18.222.187.50 # ec2-18-222-187-50.us-east-2.compute.amazonaws.com
 18.222.188.108 # ec2-18-222-188-108.us-east-2.compute.amazonaws.com
