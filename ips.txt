@@ -36,6 +36,7 @@
 162.252.86.89 # 162-252-86-89.static.hvvc.us
 162.252.87.182 # 162-252-87-182.static.hvvc.us
 162.254.147.216 # 162-254-147-216.static.hvvc.us
+163.182.168.146 # 163-182-168-146.static.as40244.net
 167.179.135.65 # 167-179-135-65.a7b387.mel.nbn.aussiebb.net
 167.179.137.149 # 167-179-137-149.a7b389.mel.nbn.aussiebb.net
 167.179.157.175 # 167-179-157-175.a7b39d.syd.nbn.aussiebb.net
@@ -616,7 +617,6 @@
 87.97.7.61 # 87-97-7-61.pool.digikabel.hu
 87.97.85.191 # 87-97-85-191.pool.digikabel.hu
 88.110.91.74 # 88-110-91-74.dynamic.dsl.as9105.com
-88.111.201.69 # 88-111-201-69.dynamic.dsl.as9105.com
 89.147.119.173 # 89-147-119-173.pool.digikabel.hu
 89.147.77.188 # 89-147-77-188.pool.digikabel.hu
 89.171.119.134 # 89-171-119-134.static.ip.netia.com.pl
@@ -2127,19 +2127,9 @@
 18.208.215.164 # ec2-18-208-215-164.compute-1.amazonaws.com
 18.209.45.163 # ec2-18-209-45-163.compute-1.amazonaws.com
 18.217.164.56 # ec2-18-217-164-56.us-east-2.compute.amazonaws.com
-18.222.187.50 # ec2-18-222-187-50.us-east-2.compute.amazonaws.com
-18.222.188.108 # ec2-18-222-188-108.us-east-2.compute.amazonaws.com
-18.222.188.59 # ec2-18-222-188-59.us-east-2.compute.amazonaws.com
-18.222.19.139 # ec2-18-222-19-139.us-east-2.compute.amazonaws.com
 18.222.19.145 # ec2-18-222-19-145.us-east-2.compute.amazonaws.com
-18.222.190.0 # ec2-18-222-190-0.us-east-2.compute.amazonaws.com
-18.222.190.76 # ec2-18-222-190-76.us-east-2.compute.amazonaws.com
-18.222.191.101 # ec2-18-222-191-101.us-east-2.compute.amazonaws.com
-18.222.191.129 # ec2-18-222-191-129.us-east-2.compute.amazonaws.com
-18.222.191.149 # ec2-18-222-191-149.us-east-2.compute.amazonaws.com
 18.222.191.236 # ec2-18-222-191-236.us-east-2.compute.amazonaws.com
 18.222.192.113 # ec2-18-222-192-113.us-east-2.compute.amazonaws.com
-18.222.192.172 # ec2-18-222-192-172.us-east-2.compute.amazonaws.com
 18.222.192.28 # ec2-18-222-192-28.us-east-2.compute.amazonaws.com
 18.222.192.41 # ec2-18-222-192-41.us-east-2.compute.amazonaws.com
 18.222.192.98 # ec2-18-222-192-98.us-east-2.compute.amazonaws.com
