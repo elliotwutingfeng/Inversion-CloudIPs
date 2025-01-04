@@ -58,7 +58,6 @@
 176.241.49.134 # 176-241-49-134.pool.digikabel.hu
 176.241.49.17 # 176-241-49-17.pool.digikabel.hu
 176.35.135.231 # 176-35-135-231.xdsl.murphx.net
-176.35.138.93 # 176-35-138-93.xdsl.murphx.net
 176.35.164.230 # 176-35-164-230.xdsl.murphx.net
 177.52.198.88 # 177-52-198-88.nortenetbrasil.com.br
 178.164.143.35 # 178-164-143-35.pool.digikabel.hu
@@ -2140,18 +2139,7 @@
 18.209.168.198 # ec2-18-209-168-198.compute-1.amazonaws.com
 18.209.45.163 # ec2-18-209-45-163.compute-1.amazonaws.com
 18.217.164.56 # ec2-18-217-164-56.us-east-2.compute.amazonaws.com
-18.223.113.99 # ec2-18-223-113-99.us-east-2.compute.amazonaws.com
-18.223.114.43 # ec2-18-223-114-43.us-east-2.compute.amazonaws.com
 18.223.114.7 # ec2-18-223-114-7.us-east-2.compute.amazonaws.com
-18.223.115.1 # ec2-18-223-115-1.us-east-2.compute.amazonaws.com
-18.223.115.139 # ec2-18-223-115-139.us-east-2.compute.amazonaws.com
-18.223.115.192 # ec2-18-223-115-192.us-east-2.compute.amazonaws.com
-18.223.115.195 # ec2-18-223-115-195.us-east-2.compute.amazonaws.com
-18.223.115.231 # ec2-18-223-115-231.us-east-2.compute.amazonaws.com
-18.223.116.250 # ec2-18-223-116-250.us-east-2.compute.amazonaws.com
-18.223.117.107 # ec2-18-223-117-107.us-east-2.compute.amazonaws.com
-18.223.117.155 # ec2-18-223-117-155.us-east-2.compute.amazonaws.com
-18.223.117.52 # ec2-18-223-117-52.us-east-2.compute.amazonaws.com
 18.223.118.164 # ec2-18-223-118-164.us-east-2.compute.amazonaws.com
 18.223.118.193 # ec2-18-223-118-193.us-east-2.compute.amazonaws.com
 18.223.118.197 # ec2-18-223-118-197.us-east-2.compute.amazonaws.com
@@ -10616,6 +10604,7 @@
 84.9.191.157 # static-84-9-191-157.vodafonexdsl.co.uk
 84.9.191.214 # static-84-9-191-214.vodafonexdsl.co.uk
 84.9.209.123 # static-84-9-209-123.vodafonexdsl.co.uk
+84.9.211.146 # static-84-9-211-146.vodafonexdsl.co.uk
 84.9.213.104 # static-84-9-213-104.vodafonexdsl.co.uk
 84.9.22.190 # static-84-9-22-190.vodafonexdsl.co.uk
 84.9.222.2 # static-84-9-222-2.vodafonexdsl.co.uk
