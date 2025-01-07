@@ -161,6 +161,7 @@
 50.78.135.157 # 50-78-135-157-static.hfc.comcastbusiness.net
 50.78.69.241 # 50-78-69-241-static.hfc.comcastbusiness.net
 50.79.145.201 # 50-79-145-201-static.hfc.comcastbusiness.net
+60.242.75.145 # 60-242-75-145.tpgi.com.au
 61.245.144.154 # 61-245-144-154.3df590.adl.static.aussiebb.net
 61.245.154.37 # 61-245-154-37.3df59a.adl.nbn.aussiebb.net
 62.111.188.20 # 62-111-188-20.static.ip.netia.com.pl
@@ -1893,6 +1894,7 @@
 15.236.158.5 # ec2-15-236-158-5.eu-west-3.compute.amazonaws.com
 15.236.2.215 # ec2-15-236-2-215.eu-west-3.compute.amazonaws.com
 16.170.204.24 # ec2-16-170-204-24.eu-north-1.compute.amazonaws.com
+16.170.248.139 # ec2-16-170-248-139.eu-north-1.compute.amazonaws.com
 16.171.132.190 # ec2-16-171-132-190.eu-north-1.compute.amazonaws.com
 16.171.154.173 # ec2-16-171-154-173.eu-north-1.compute.amazonaws.com
 16.171.170.128 # ec2-16-171-170-128.eu-north-1.compute.amazonaws.com
@@ -2144,16 +2146,7 @@
 18.209.168.198 # ec2-18-209-168-198.compute-1.amazonaws.com
 18.209.45.163 # ec2-18-209-45-163.compute-1.amazonaws.com
 18.217.164.56 # ec2-18-217-164-56.us-east-2.compute.amazonaws.com
-18.223.121.175 # ec2-18-223-121-175.us-east-2.compute.amazonaws.com
-18.223.121.197 # ec2-18-223-121-197.us-east-2.compute.amazonaws.com
-18.223.121.46 # ec2-18-223-121-46.us-east-2.compute.amazonaws.com
-18.223.122.124 # ec2-18-223-122-124.us-east-2.compute.amazonaws.com
-18.223.122.192 # ec2-18-223-122-192.us-east-2.compute.amazonaws.com
-18.223.122.32 # ec2-18-223-122-32.us-east-2.compute.amazonaws.com
-18.223.122.5 # ec2-18-223-122-5.us-east-2.compute.amazonaws.com
 18.223.122.55 # ec2-18-223-122-55.us-east-2.compute.amazonaws.com
-18.223.123.137 # ec2-18-223-123-137.us-east-2.compute.amazonaws.com
-18.223.123.156 # ec2-18-223-123-156.us-east-2.compute.amazonaws.com
 18.223.123.62 # ec2-18-223-123-62.us-east-2.compute.amazonaws.com
 18.223.123.66 # ec2-18-223-123-66.us-east-2.compute.amazonaws.com
 18.223.124.0 # ec2-18-223-124-0.us-east-2.compute.amazonaws.com
