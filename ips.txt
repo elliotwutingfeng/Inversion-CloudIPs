@@ -1890,6 +1890,7 @@
 13.60.80.110 # ec2-13-60-80-110.eu-north-1.compute.amazonaws.com
 13.61.136.230 # ec2-13-61-136-230.eu-north-1.compute.amazonaws.com
 13.61.21.80 # ec2-13-61-21-80.eu-north-1.compute.amazonaws.com
+13.61.35.47 # ec2-13-61-35-47.eu-north-1.compute.amazonaws.com
 15.164.103.179 # ec2-15-164-103-179.ap-northeast-2.compute.amazonaws.com
 15.188.58.208 # ec2-15-188-58-208.eu-west-3.compute.amazonaws.com
 15.236.158.5 # ec2-15-236-158-5.eu-west-3.compute.amazonaws.com
@@ -2147,17 +2148,7 @@
 18.209.168.198 # ec2-18-209-168-198.compute-1.amazonaws.com
 18.209.45.163 # ec2-18-209-45-163.compute-1.amazonaws.com
 18.217.164.56 # ec2-18-217-164-56.us-east-2.compute.amazonaws.com
-18.223.133.183 # ec2-18-223-133-183.us-east-2.compute.amazonaws.com
-18.223.134.50 # ec2-18-223-134-50.us-east-2.compute.amazonaws.com
 18.223.135.106 # ec2-18-223-135-106.us-east-2.compute.amazonaws.com
-18.223.135.12 # ec2-18-223-135-12.us-east-2.compute.amazonaws.com
-18.223.135.140 # ec2-18-223-135-140.us-east-2.compute.amazonaws.com
-18.223.135.147 # ec2-18-223-135-147.us-east-2.compute.amazonaws.com
-18.223.135.248 # ec2-18-223-135-248.us-east-2.compute.amazonaws.com
-18.223.135.48 # ec2-18-223-135-48.us-east-2.compute.amazonaws.com
-18.223.135.68 # ec2-18-223-135-68.us-east-2.compute.amazonaws.com
-18.223.135.80 # ec2-18-223-135-80.us-east-2.compute.amazonaws.com
-18.223.136.101 # ec2-18-223-136-101.us-east-2.compute.amazonaws.com
 18.223.136.121 # ec2-18-223-136-121.us-east-2.compute.amazonaws.com
 18.223.136.156 # ec2-18-223-136-156.us-east-2.compute.amazonaws.com
 18.223.143.104 # ec2-18-223-143-104.us-east-2.compute.amazonaws.com
@@ -5427,6 +5418,7 @@
 3.23.64.203 # ec2-3-23-64-203.us-east-2.compute.amazonaws.com
 3.23.64.25 # ec2-3-23-64-25.us-east-2.compute.amazonaws.com
 3.23.64.35 # ec2-3-23-64-35.us-east-2.compute.amazonaws.com
+3.235.154.124 # ec2-3-235-154-124.compute-1.amazonaws.com
 3.236.127.96 # ec2-3-236-127-96.compute-1.amazonaws.com
 3.237.57.223 # ec2-3-237-57-223.compute-1.amazonaws.com
 3.36.132.137 # ec2-3-36-132-137.ap-northeast-2.compute.amazonaws.com
