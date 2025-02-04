@@ -805,7 +805,6 @@
 84.236.11.82 # 84-236-11-82.pool.digikabel.hu
 84.236.40.241 # 84-236-40-241.pool.digikabel.hu
 84.236.49.214 # 84-236-49-214.pool.digikabel.hu
-84.236.53.40 # 84-236-53-40.pool.digikabel.hu
 84.236.8.46 # 84-236-8-46.pool.digikabel.hu
 84.236.87.90 # 84-236-87-90.pool.digikabel.hu
 85.128.24.130 # 85-128-24-130.static.ip.netia.com.pl
@@ -1104,7 +1103,6 @@
 88.110.41.61 # 88-110-41-61.dynamic.dsl.as9105.com
 88.110.43.46 # 88-110-43-46.dynamic.dsl.as9105.com
 88.110.48.50 # 88-110-48-50.dynamic.dsl.as9105.com
-88.110.49.96 # 88-110-49-96.dynamic.dsl.as9105.com
 88.110.57.110 # 88-110-57-110.dynamic.dsl.as9105.com
 88.110.63.160 # 88-110-63-160.dynamic.dsl.as9105.com
 88.110.71.176 # 88-110-71-176.dynamic.dsl.as9105.com
@@ -1167,7 +1165,6 @@
 88.111.217.191 # 88-111-217-191.dynamic.dsl.as9105.com
 88.111.217.204 # 88-111-217-204.dynamic.dsl.as9105.com
 88.111.222.140 # 88-111-222-140.dynamic.dsl.as9105.com
-88.111.232.26 # 88-111-232-26.dynamic.dsl.as9105.com
 88.111.234.197 # 88-111-234-197.dynamic.dsl.as9105.com
 88.111.235.183 # 88-111-235-183.dynamic.dsl.as9105.com
 88.111.235.85 # 88-111-235-85.dynamic.dsl.as9105.com
@@ -3326,16 +3323,9 @@
 3.113.155.68 # ec2-3-113-155-68.ap-northeast-1.compute.amazonaws.com
 3.120.189.200 # ec2-3-120-189-200.eu-central-1.compute.amazonaws.com
 3.128.180.220 # ec2-3-128-180-220.us-east-2.compute.amazonaws.com
-3.129.15.187 # ec2-3-129-15-187.us-east-2.compute.amazonaws.com
 3.129.15.194 # ec2-3-129-15-194.us-east-2.compute.amazonaws.com
-3.129.15.234 # ec2-3-129-15-234.us-east-2.compute.amazonaws.com
 3.129.15.248 # ec2-3-129-15-248.us-east-2.compute.amazonaws.com
-3.129.15.36 # ec2-3-129-15-36.us-east-2.compute.amazonaws.com
-3.129.15.57 # ec2-3-129-15-57.us-east-2.compute.amazonaws.com
 3.129.17.12 # ec2-3-129-17-12.us-east-2.compute.amazonaws.com
-3.129.17.199 # ec2-3-129-17-199.us-east-2.compute.amazonaws.com
-3.129.17.61 # ec2-3-129-17-61.us-east-2.compute.amazonaws.com
-3.129.17.82 # ec2-3-129-17-82.us-east-2.compute.amazonaws.com
 3.129.17.94 # ec2-3-129-17-94.us-east-2.compute.amazonaws.com
 3.129.18.138 # ec2-3-129-18-138.us-east-2.compute.amazonaws.com
 3.129.18.141 # ec2-3-129-18-141.us-east-2.compute.amazonaws.com
