@@ -170,7 +170,6 @@
 50.78.69.241 # 50-78-69-241-static.hfc.comcastbusiness.net
 50.79.145.201 # 50-79-145-201-static.hfc.comcastbusiness.net
 60.242.75.145 # 60-242-75-145.tpgi.com.au
-61.245.144.154 # 61-245-144-154.3df590.adl.static.aussiebb.net
 61.245.154.37 # 61-245-154-37.3df59a.adl.nbn.aussiebb.net
 62.111.188.20 # 62-111-188-20.static.ip.netia.com.pl
 62.165.219.172 # 62-165-219-172.pool.digikabel.hu
@@ -3324,17 +3323,9 @@
 3.113.155.68 # ec2-3-113-155-68.ap-northeast-1.compute.amazonaws.com
 3.120.189.200 # ec2-3-120-189-200.eu-central-1.compute.amazonaws.com
 3.128.180.220 # ec2-3-128-180-220.us-east-2.compute.amazonaws.com
-3.131.141.54 # ec2-3-131-141-54.us-east-2.compute.amazonaws.com
-3.131.158.149 # ec2-3-131-158-149.us-east-2.compute.amazonaws.com
-3.131.158.155 # ec2-3-131-158-155.us-east-2.compute.amazonaws.com
-3.131.158.158 # ec2-3-131-158-158.us-east-2.compute.amazonaws.com
-3.131.158.248 # ec2-3-131-158-248.us-east-2.compute.amazonaws.com
 3.131.159.149 # ec2-3-131-159-149.us-east-2.compute.amazonaws.com
-3.131.159.180 # ec2-3-131-159-180.us-east-2.compute.amazonaws.com
 3.131.159.182 # ec2-3-131-159-182.us-east-2.compute.amazonaws.com
 3.131.160.129 # ec2-3-131-160-129.us-east-2.compute.amazonaws.com
-3.131.160.222 # ec2-3-131-160-222.us-east-2.compute.amazonaws.com
-3.131.160.34 # ec2-3-131-160-34.us-east-2.compute.amazonaws.com
 3.131.160.65 # ec2-3-131-160-65.us-east-2.compute.amazonaws.com
 3.131.169.111 # ec2-3-131-169-111.us-east-2.compute.amazonaws.com
 3.131.169.116 # ec2-3-131-169-116.us-east-2.compute.amazonaws.com
@@ -6806,6 +6797,7 @@
 35.178.129.89 # ec2-35-178-129-89.eu-west-2.compute.amazonaws.com
 35.178.154.138 # ec2-35-178-154-138.eu-west-2.compute.amazonaws.com
 35.181.26.81 # ec2-35-181-26-81.eu-west-3.compute.amazonaws.com
+35.183.43.244 # ec2-35-183-43-244.ca-central-1.compute.amazonaws.com
 35.78.188.167 # ec2-35-78-188-167.ap-northeast-1.compute.amazonaws.com
 35.80.14.22 # ec2-35-80-14-22.us-west-2.compute.amazonaws.com
 35.80.17.25 # ec2-35-80-17-25.us-west-2.compute.amazonaws.com
