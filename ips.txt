@@ -139,7 +139,6 @@
 23.24.70.62 # 23-24-70-62-static.hfc.comcastbusiness.net
 23.92.75.170 # 23-92-75-170.static.hvvc.us
 34.65.228.232 # 232.228.65.34.bc.googleusercontent.com
-34.160.80.235 # 235.80.160.34.bc.googleusercontent.com
 104.198.156.3 # 3.156.198.104.bc.googleusercontent.com
 46.10.12.56 # 46-10-12-56.ip.btc-net.bg
 46.10.9.2 # 46-10-9-2.ip.btc-net.bg
@@ -1963,7 +1962,6 @@
 96.95.125.122 # 96-95-125-122-static.hfc.comcastbusiness.net
 176.133.66.25 # ber24-h01-176-133-66-25.dsl.sta.abo.bbox.fr
 45.88.108.231 # condescending-kilby.45-88-108-231.plesk.page
-45.79.181.206 # eager-mccarthy.45-79-181-206.plesk.page
 100.20.101.218 # ec2-100-20-101-218.us-west-2.compute.amazonaws.com
 100.20.101.244 # ec2-100-20-101-244.us-west-2.compute.amazonaws.com
 100.20.64.61 # ec2-100-20-64-61.us-west-2.compute.amazonaws.com
@@ -3324,16 +3322,7 @@
 3.113.155.68 # ec2-3-113-155-68.ap-northeast-1.compute.amazonaws.com
 3.120.189.200 # ec2-3-120-189-200.eu-central-1.compute.amazonaws.com
 3.128.180.220 # ec2-3-128-180-220.us-east-2.compute.amazonaws.com
-3.134.104.253 # ec2-3-134-104-253.us-east-2.compute.amazonaws.com
-3.134.104.76 # ec2-3-134-104-76.us-east-2.compute.amazonaws.com
-3.134.106.34 # ec2-3-134-106-34.us-east-2.compute.amazonaws.com
-3.134.106.93 # ec2-3-134-106-93.us-east-2.compute.amazonaws.com
-3.134.107.104 # ec2-3-134-107-104.us-east-2.compute.amazonaws.com
-3.134.107.120 # ec2-3-134-107-120.us-east-2.compute.amazonaws.com
-3.134.107.174 # ec2-3-134-107-174.us-east-2.compute.amazonaws.com
 3.134.107.178 # ec2-3-134-107-178.us-east-2.compute.amazonaws.com
-3.134.107.198 # ec2-3-134-107-198.us-east-2.compute.amazonaws.com
-3.134.107.45 # ec2-3-134-107-45.us-east-2.compute.amazonaws.com
 3.134.107.90 # ec2-3-134-107-90.us-east-2.compute.amazonaws.com
 3.134.108.181 # ec2-3-134-108-181.us-east-2.compute.amazonaws.com
 3.134.108.29 # ec2-3-134-108-29.us-east-2.compute.amazonaws.com
@@ -7386,6 +7375,7 @@
 52.24.74.129 # ec2-52-24-74-129.us-west-2.compute.amazonaws.com
 52.24.80.203 # ec2-52-24-80-203.us-west-2.compute.amazonaws.com
 52.25.115.28 # ec2-52-25-115-28.us-west-2.compute.amazonaws.com
+52.25.12.57 # ec2-52-25-12-57.us-west-2.compute.amazonaws.com
 52.25.14.98 # ec2-52-25-14-98.us-west-2.compute.amazonaws.com
 52.25.158.157 # ec2-52-25-158-157.us-west-2.compute.amazonaws.com
 52.25.173.135 # ec2-52-25-173-135.us-west-2.compute.amazonaws.com
@@ -10730,7 +10720,6 @@
 103.155.93.158 # naughty-newton.103-155-93-158.plesk.page
 130.25.212.245 # net-130-25-212-245.cust.vodafonedsl.it
 2.36.9.149 # net-2-36-9-149.cust.vodafonedsl.it
-157.245.106.174 # nostalgic-davinci.157-245-106-174.plesk.page
 100.0.62.116 # pool-100-0-62-116.bstnma.fios.verizon.net
 100.34.32.244 # pool-100-34-32-244.phlapa.fios.verizon.net
 108.20.212.166 # pool-108-20-212-166.bstnma.fios.verizon.net
@@ -10749,6 +10738,7 @@
 83.146.9.49 # static-83-146-9-49.vodafonexdsl.co.uk
 84.9.112.11 # static-84-9-112-11.vodafonexdsl.co.uk
 84.9.112.123 # static-84-9-112-123.vodafonexdsl.co.uk
+84.9.114.141 # static-84-9-114-141.vodafonexdsl.co.uk
 84.9.164.230 # static-84-9-164-230.vodafonexdsl.co.uk
 84.9.167.146 # static-84-9-167-146.vodafonexdsl.co.uk
 84.9.180.123 # static-84-9-180-123.vodafonexdsl.co.uk
@@ -10784,13 +10774,9 @@
 87.75.114.61 # static-87-75-114-61.vodafonexdsl.co.uk
 87.75.118.38 # static-87-75-118-38.vodafonexdsl.co.uk
 87.75.123.96 # static-87-75-123-96.vodafonexdsl.co.uk
-87.75.158.196 # static-87-75-158-196.vodafonexdsl.co.uk
 87.75.158.22 # static-87-75-158-22.vodafonexdsl.co.uk
 87.75.188.162 # static-87-75-188-162.vodafonexdsl.co.uk
 87.75.97.119 # static-87-75-97-119.vodafonexdsl.co.uk
 90.255.245.190 # static-90-255-245-190.vodafonexdsl.co.uk
 96.231.174.160 # static-96-231-174-160.washdc.fios.verizon.net
-206.189.134.70 # sweet-mcnulty.206-189-134-70.plesk.page
 157.7.137.239 # v157-7-137-239.myvps.jp
-165.227.76.187 # vigilant-robinson.165-227-76-187.plesk.page
-159.89.161.12 # zealous-euclid.159-89-161-12.plesk.page
