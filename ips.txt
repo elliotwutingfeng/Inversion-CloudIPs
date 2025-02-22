@@ -86,7 +86,6 @@
 195.38.102.197 # 195-38-102-197.pool.digikabel.hu
 195.38.102.97 # 195-38-102-97.pool.digikabel.hu
 195.38.116.12 # 195-38-116-12.pool.digikabel.hu
-35.244.234.195 # 195.234.244.35.bc.googleusercontent.com
 198.0.152.54 # 198-0-152-54-static.hfc.comcastbusiness.net
 198.178.124.50 # 198-178-124-50.static.hvvc.us
 198.178.126.25 # 198-178-126-25.static.hvvc.us
@@ -3316,18 +3315,8 @@
 3.113.155.68 # ec2-3-113-155-68.ap-northeast-1.compute.amazonaws.com
 3.120.189.200 # ec2-3-120-189-200.eu-central-1.compute.amazonaws.com
 3.128.180.220 # ec2-3-128-180-220.us-east-2.compute.amazonaws.com
-3.134.108.181 # ec2-3-134-108-181.us-east-2.compute.amazonaws.com
-3.134.110.100 # ec2-3-134-110-100.us-east-2.compute.amazonaws.com
-3.134.110.241 # ec2-3-134-110-241.us-east-2.compute.amazonaws.com
-3.134.110.49 # ec2-3-134-110-49.us-east-2.compute.amazonaws.com
-3.134.110.56 # ec2-3-134-110-56.us-east-2.compute.amazonaws.com
 3.134.112.161 # ec2-3-134-112-161.us-east-2.compute.amazonaws.com
 3.134.112.3 # ec2-3-134-112-3.us-east-2.compute.amazonaws.com
-3.134.113.240 # ec2-3-134-113-240.us-east-2.compute.amazonaws.com
-3.134.114.103 # ec2-3-134-114-103.us-east-2.compute.amazonaws.com
-3.134.114.131 # ec2-3-134-114-131.us-east-2.compute.amazonaws.com
-3.134.114.185 # ec2-3-134-114-185.us-east-2.compute.amazonaws.com
-3.134.114.201 # ec2-3-134-114-201.us-east-2.compute.amazonaws.com
 3.134.114.63 # ec2-3-134-114-63.us-east-2.compute.amazonaws.com
 3.134.115.108 # ec2-3-134-115-108.us-east-2.compute.amazonaws.com
 3.134.115.123 # ec2-3-134-115-123.us-east-2.compute.amazonaws.com
@@ -7347,6 +7336,7 @@
 52.15.87.211 # ec2-52-15-87-211.us-east-2.compute.amazonaws.com
 52.15.87.217 # ec2-52-15-87-217.us-east-2.compute.amazonaws.com
 52.15.97.130 # ec2-52-15-97-130.us-east-2.compute.amazonaws.com
+52.195.215.173 # ec2-52-195-215-173.ap-northeast-1.compute.amazonaws.com
 52.211.1.218 # ec2-52-211-1-218.eu-west-1.compute.amazonaws.com
 52.24.100.87 # ec2-52-24-100-87.us-west-2.compute.amazonaws.com
 52.24.105.50 # ec2-52-24-105-50.us-west-2.compute.amazonaws.com
@@ -10762,6 +10752,5 @@
 87.75.158.22 # static-87-75-158-22.vodafonexdsl.co.uk
 87.75.188.162 # static-87-75-188-162.vodafonexdsl.co.uk
 87.75.97.119 # static-87-75-97-119.vodafonexdsl.co.uk
-90.255.245.190 # static-90-255-245-190.vodafonexdsl.co.uk
 96.231.174.160 # static-96-231-174-160.washdc.fios.verizon.net
 157.7.137.239 # v157-7-137-239.myvps.jp
