@@ -123,7 +123,6 @@
 23.227.174.52 # 23-227-174-52.static.hvvc.us
 23.227.198.206 # 23-227-198-206.static.hvvc.us
 23.227.198.253 # 23-227-198-253.static.hvvc.us
-23.227.202.129 # 23-227-202-129.static.hvvc.us
 23.227.203.94 # 23-227-203-94.static.hvvc.us
 23.24.70.62 # 23-24-70-62-static.hfc.comcastbusiness.net
 23.92.75.170 # 23-92-75-170.static.hvvc.us
@@ -3309,18 +3308,10 @@
 3.113.155.68 # ec2-3-113-155-68.ap-northeast-1.compute.amazonaws.com
 3.120.189.200 # ec2-3-120-189-200.eu-central-1.compute.amazonaws.com
 3.128.180.220 # ec2-3-128-180-220.us-east-2.compute.amazonaws.com
-3.134.77.122 # ec2-3-134-77-122.us-east-2.compute.amazonaws.com
-3.134.77.91 # ec2-3-134-77-91.us-east-2.compute.amazonaws.com
 3.134.79.53 # ec2-3-134-79-53.us-east-2.compute.amazonaws.com
-3.134.79.71 # ec2-3-134-79-71.us-east-2.compute.amazonaws.com
-3.134.79.86 # ec2-3-134-79-86.us-east-2.compute.amazonaws.com
 3.134.80.106 # ec2-3-134-80-106.us-east-2.compute.amazonaws.com
-3.134.80.123 # ec2-3-134-80-123.us-east-2.compute.amazonaws.com
 3.134.80.156 # ec2-3-134-80-156.us-east-2.compute.amazonaws.com
-3.134.80.66 # ec2-3-134-80-66.us-east-2.compute.amazonaws.com
-3.134.80.72 # ec2-3-134-80-72.us-east-2.compute.amazonaws.com
 3.134.81.160 # ec2-3-134-81-160.us-east-2.compute.amazonaws.com
-3.134.81.240 # ec2-3-134-81-240.us-east-2.compute.amazonaws.com
 3.134.81.43 # ec2-3-134-81-43.us-east-2.compute.amazonaws.com
 3.134.81.56 # ec2-3-134-81-56.us-east-2.compute.amazonaws.com
 3.134.81.8 # ec2-3-134-81-8.us-east-2.compute.amazonaws.com
