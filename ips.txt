@@ -2464,7 +2464,6 @@
 13.61.35.47 # ec2-13-61-35-47.eu-north-1.compute.amazonaws.com
 15.164.103.179 # ec2-15-164-103-179.ap-northeast-2.compute.amazonaws.com
 15.188.58.208 # ec2-15-188-58-208.eu-west-3.compute.amazonaws.com
-15.223.170.0 # ec2-15-223-170-0.ca-central-1.compute.amazonaws.com
 15.236.158.5 # ec2-15-236-158-5.eu-west-3.compute.amazonaws.com
 15.236.2.215 # ec2-15-236-2-215.eu-west-3.compute.amazonaws.com
 16.170.204.24 # ec2-16-170-204-24.eu-north-1.compute.amazonaws.com
@@ -2717,6 +2716,7 @@
 18.153.98.227 # ec2-18-153-98-227.eu-central-1.compute.amazonaws.com
 18.159.41.48 # ec2-18-159-41-48.eu-central-1.compute.amazonaws.com
 18.183.176.73 # ec2-18-183-176-73.ap-northeast-1.compute.amazonaws.com
+18.188.115.80 # ec2-18-188-115-80.us-east-2.compute.amazonaws.com
 18.195.218.34 # ec2-18-195-218-34.eu-central-1.compute.amazonaws.com
 18.196.105.68 # ec2-18-196-105-68.eu-central-1.compute.amazonaws.com
 18.207.173.155 # ec2-18-207-173-155.compute-1.amazonaws.com
@@ -3309,17 +3309,6 @@
 3.113.155.68 # ec2-3-113-155-68.ap-northeast-1.compute.amazonaws.com
 3.120.189.200 # ec2-3-120-189-200.eu-central-1.compute.amazonaws.com
 3.128.180.220 # ec2-3-128-180-220.us-east-2.compute.amazonaws.com
-3.134.83.84 # ec2-3-134-83-84.us-east-2.compute.amazonaws.com
-3.134.84.31 # ec2-3-134-84-31.us-east-2.compute.amazonaws.com
-3.134.84.99 # ec2-3-134-84-99.us-east-2.compute.amazonaws.com
-3.134.85.211 # ec2-3-134-85-211.us-east-2.compute.amazonaws.com
-3.134.85.59 # ec2-3-134-85-59.us-east-2.compute.amazonaws.com
-3.134.85.63 # ec2-3-134-85-63.us-east-2.compute.amazonaws.com
-3.134.86.176 # ec2-3-134-86-176.us-east-2.compute.amazonaws.com
-3.134.86.178 # ec2-3-134-86-178.us-east-2.compute.amazonaws.com
-3.134.86.193 # ec2-3-134-86-193.us-east-2.compute.amazonaws.com
-3.134.86.227 # ec2-3-134-86-227.us-east-2.compute.amazonaws.com
-3.134.86.248 # ec2-3-134-86-248.us-east-2.compute.amazonaws.com
 3.134.87.10 # ec2-3-134-87-10.us-east-2.compute.amazonaws.com
 3.134.87.195 # ec2-3-134-87-195.us-east-2.compute.amazonaws.com
 3.134.87.234 # ec2-3-134-87-234.us-east-2.compute.amazonaws.com
