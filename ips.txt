@@ -3128,6 +3128,7 @@
 204.236.183.204 # ec2-204-236-183-204.us-west-1.compute.amazonaws.com
 204.236.189.145 # ec2-204-236-189-145.us-west-1.compute.amazonaws.com
 204.236.191.9 # ec2-204-236-191-9.us-west-1.compute.amazonaws.com
+23.22.223.57 # ec2-23-22-223-57.compute-1.amazonaws.com
 3.1.2.243 # ec2-3-1-2-243.ap-southeast-1.compute.amazonaws.com
 3.101.12.113 # ec2-3-101-12-113.us-west-1.compute.amazonaws.com
 3.101.12.149 # ec2-3-101-12-149.us-west-1.compute.amazonaws.com
@@ -3309,18 +3310,8 @@
 3.113.155.68 # ec2-3-113-155-68.ap-northeast-1.compute.amazonaws.com
 3.120.189.200 # ec2-3-120-189-200.eu-central-1.compute.amazonaws.com
 3.128.180.220 # ec2-3-128-180-220.us-east-2.compute.amazonaws.com
-3.134.98.180 # ec2-3-134-98-180.us-east-2.compute.amazonaws.com
-3.134.98.188 # ec2-3-134-98-188.us-east-2.compute.amazonaws.com
-3.134.98.44 # ec2-3-134-98-44.us-east-2.compute.amazonaws.com
-3.134.99.15 # ec2-3-134-99-15.us-east-2.compute.amazonaws.com
-3.134.99.158 # ec2-3-134-99-158.us-east-2.compute.amazonaws.com
 3.135.227.39 # ec2-3-135-227-39.us-east-2.compute.amazonaws.com
 3.135.63.212 # ec2-3-135-63-212.us-east-2.compute.amazonaws.com
-3.136.154.104 # ec2-3-136-154-104.us-east-2.compute.amazonaws.com
-3.136.154.244 # ec2-3-136-154-244.us-east-2.compute.amazonaws.com
-3.136.154.246 # ec2-3-136-154-246.us-east-2.compute.amazonaws.com
-3.136.154.65 # ec2-3-136-154-65.us-east-2.compute.amazonaws.com
-3.136.155.155 # ec2-3-136-155-155.us-east-2.compute.amazonaws.com
 3.136.155.195 # ec2-3-136-155-195.us-east-2.compute.amazonaws.com
 3.136.156.10 # ec2-3-136-156-10.us-east-2.compute.amazonaws.com
 3.136.156.122 # ec2-3-136-156-122.us-east-2.compute.amazonaws.com
@@ -10617,7 +10608,6 @@
 84.9.22.190 # static-84-9-22-190.vodafonexdsl.co.uk
 84.9.222.2 # static-84-9-222-2.vodafonexdsl.co.uk
 84.9.224.229 # static-84-9-224-229.vodafonexdsl.co.uk
-84.9.28.210 # static-84-9-28-210.vodafonexdsl.co.uk
 84.9.28.215 # static-84-9-28-215.vodafonexdsl.co.uk
 84.9.29.211 # static-84-9-29-211.vodafonexdsl.co.uk
 84.9.30.190 # static-84-9-30-190.vodafonexdsl.co.uk
