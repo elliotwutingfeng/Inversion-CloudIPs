@@ -1332,7 +1332,6 @@
 92.249.139.80 # 92-249-139-80.pool.digikabel.hu
 92.249.179.47 # 92-249-179-47.pool.digikabel.hu
 92.249.224.228 # 92-249-224-228.pool.digikabel.hu
-92.249.249.72 # 92-249-249-72.pool.digikabel.hu
 93.136.112.179 # 93-136-112-179.adsl.net.t-com.hr
 93.136.112.235 # 93-136-112-235.adsl.net.t-com.hr
 93.136.118.61 # 93-136-118-61.adsl.net.t-com.hr
@@ -3313,16 +3312,8 @@
 3.128.180.220 # ec2-3-128-180-220.us-east-2.compute.amazonaws.com
 3.135.227.39 # ec2-3-135-227-39.us-east-2.compute.amazonaws.com
 3.135.63.212 # ec2-3-135-63-212.us-east-2.compute.amazonaws.com
-3.137.136.99 # ec2-3-137-136-99.us-east-2.compute.amazonaws.com
-3.137.137.103 # ec2-3-137-137-103.us-east-2.compute.amazonaws.com
-3.137.137.159 # ec2-3-137-137-159.us-east-2.compute.amazonaws.com
 3.137.137.21 # ec2-3-137-137-21.us-east-2.compute.amazonaws.com
-3.137.137.59 # ec2-3-137-137-59.us-east-2.compute.amazonaws.com
 3.137.137.64 # ec2-3-137-137-64.us-east-2.compute.amazonaws.com
-3.137.137.9 # ec2-3-137-137-9.us-east-2.compute.amazonaws.com
-3.137.138.101 # ec2-3-137-138-101.us-east-2.compute.amazonaws.com
-3.137.138.170 # ec2-3-137-138-170.us-east-2.compute.amazonaws.com
-3.137.141.17 # ec2-3-137-141-17.us-east-2.compute.amazonaws.com
 3.137.141.216 # ec2-3-137-141-216.us-east-2.compute.amazonaws.com
 3.137.142.143 # ec2-3-137-142-143.us-east-2.compute.amazonaws.com
 3.137.142.235 # ec2-3-137-142-235.us-east-2.compute.amazonaws.com
