@@ -3312,19 +3312,9 @@
 3.128.180.220 # ec2-3-128-180-220.us-east-2.compute.amazonaws.com
 3.135.227.39 # ec2-3-135-227-39.us-east-2.compute.amazonaws.com
 3.135.63.212 # ec2-3-135-63-212.us-east-2.compute.amazonaws.com
-3.137.141.216 # ec2-3-137-141-216.us-east-2.compute.amazonaws.com
-3.137.142.143 # ec2-3-137-142-143.us-east-2.compute.amazonaws.com
-3.137.143.157 # ec2-3-137-143-157.us-east-2.compute.amazonaws.com
 3.137.144.123 # ec2-3-137-144-123.us-east-2.compute.amazonaws.com
-3.137.144.185 # ec2-3-137-144-185.us-east-2.compute.amazonaws.com
-3.137.144.190 # ec2-3-137-144-190.us-east-2.compute.amazonaws.com
-3.137.144.208 # ec2-3-137-144-208.us-east-2.compute.amazonaws.com
-3.137.144.253 # ec2-3-137-144-253.us-east-2.compute.amazonaws.com
 3.137.144.3 # ec2-3-137-144-3.us-east-2.compute.amazonaws.com
-3.137.144.5 # ec2-3-137-144-5.us-east-2.compute.amazonaws.com
 3.137.144.66 # ec2-3-137-144-66.us-east-2.compute.amazonaws.com
-3.137.144.68 # ec2-3-137-144-68.us-east-2.compute.amazonaws.com
-3.137.145.179 # ec2-3-137-145-179.us-east-2.compute.amazonaws.com
 3.137.145.221 # ec2-3-137-145-221.us-east-2.compute.amazonaws.com
 3.137.146.18 # ec2-3-137-146-18.us-east-2.compute.amazonaws.com
 3.137.146.217 # ec2-3-137-146-217.us-east-2.compute.amazonaws.com
@@ -10526,7 +10516,6 @@
 92.9.66.184 # host-92-9-66-184.as13285.net
 92.9.74.248 # host-92-9-74-248.as13285.net
 81.130.204.110 # host81-130-204-110.in-addr.btopenworld.com
-86.154.101.70 # host86-154-101-70.range86-154.btcentralplus.com
 103.155.93.158 # naughty-newton.103-155-93-158.plesk.page
 130.25.212.245 # net-130-25-212-245.cust.vodafonedsl.it
 2.36.9.149 # net-2-36-9-149.cust.vodafonedsl.it
