@@ -1099,7 +1099,6 @@
 88.111.128.182 # 88-111-128-182.dynamic.dsl.as9105.com
 88.111.137.176 # 88-111-137-176.dynamic.dsl.as9105.com
 88.111.137.42 # 88-111-137-42.dynamic.dsl.as9105.com
-88.111.137.86 # 88-111-137-86.dynamic.dsl.as9105.com
 88.111.140.69 # 88-111-140-69.dynamic.dsl.as9105.com
 88.111.141.26 # 88-111-141-26.dynamic.dsl.as9105.com
 88.111.143.234 # 88-111-143-234.dynamic.dsl.as9105.com
@@ -3310,16 +3309,7 @@
 3.139.101.170 # ec2-3-139-101-170.us-east-2.compute.amazonaws.com
 3.139.57.79 # ec2-3-139-57-79.us-east-2.compute.amazonaws.com
 3.14.10.28 # ec2-3-14-10-28.us-east-2.compute.amazonaws.com
-3.14.3.152 # ec2-3-14-3-152.us-east-2.compute.amazonaws.com
-3.14.3.180 # ec2-3-14-3-180.us-east-2.compute.amazonaws.com
-3.14.3.96 # ec2-3-14-3-96.us-east-2.compute.amazonaws.com
-3.14.4.192 # ec2-3-14-4-192.us-east-2.compute.amazonaws.com
 3.14.69.233 # ec2-3-14-69-233.us-east-2.compute.amazonaws.com
-3.14.69.69 # ec2-3-14-69-69.us-east-2.compute.amazonaws.com
-3.14.70.167 # ec2-3-14-70-167.us-east-2.compute.amazonaws.com
-3.14.70.88 # ec2-3-14-70-88.us-east-2.compute.amazonaws.com
-3.14.71.114 # ec2-3-14-71-114.us-east-2.compute.amazonaws.com
-3.14.71.159 # ec2-3-14-71-159.us-east-2.compute.amazonaws.com
 3.14.71.255 # ec2-3-14-71-255.us-east-2.compute.amazonaws.com
 3.14.72.118 # ec2-3-14-72-118.us-east-2.compute.amazonaws.com
 3.14.72.175 # ec2-3-14-72-175.us-east-2.compute.amazonaws.com
@@ -5190,6 +5180,7 @@
 3.236.127.96 # ec2-3-236-127-96.compute-1.amazonaws.com
 3.237.57.223 # ec2-3-237-57-223.compute-1.amazonaws.com
 3.26.114.115 # ec2-3-26-114-115.ap-southeast-2.compute.amazonaws.com
+3.35.156.220 # ec2-3-35-156-220.ap-northeast-2.compute.amazonaws.com
 3.36.132.137 # ec2-3-36-132-137.ap-northeast-2.compute.amazonaws.com
 3.80.35.96 # ec2-3-80-35-96.compute-1.amazonaws.com
 3.81.174.191 # ec2-3-81-174-191.compute-1.amazonaws.com
@@ -10296,7 +10287,6 @@
 92.9.45.86 # host-92-9-45-86.as13285.net
 92.9.66.184 # host-92-9-66-184.as13285.net
 92.9.74.248 # host-92-9-74-248.as13285.net
-81.130.204.110 # host81-130-204-110.in-addr.btopenworld.com
 103.155.93.158 # naughty-newton.103-155-93-158.plesk.page
 130.25.212.245 # net-130-25-212-245.cust.vodafonedsl.it
 2.36.9.149 # net-2-36-9-149.cust.vodafonedsl.it
