@@ -32,7 +32,6 @@
 172.86.114.70 # 172-86-114-70.chi.priv.octovpn.net
 173.12.226.146 # 173-12-226-146-memphis.hfc.comcastbusiness.net
 173.160.203.166 # 173-160-203-166-washington.hfc.comcastbusiness.net
-173.161.182.234 # 173-161-182-234-philadelphia.hfc.comcastbusiness.net
 173.162.119.146 # 173-162-119-146-miami.hfc.comcastbusiness.net
 173.162.69.62 # 173-162-69-62-miami.hfc.comcastbusiness.net
 173.166.191.6 # 173-166-191-6-washingtondc.hfc.comcastbusiness.net
@@ -3304,16 +3303,7 @@
 3.14.10.28 # ec2-3-14-10-28.us-east-2.compute.amazonaws.com
 3.140.209.56 # ec2-3-140-209-56.us-east-2.compute.amazonaws.com
 3.141.169.105 # ec2-3-141-169-105.us-east-2.compute.amazonaws.com
-3.142.68.14 # ec2-3-142-68-14.us-east-2.compute.amazonaws.com
-3.142.68.169 # ec2-3-142-68-169.us-east-2.compute.amazonaws.com
-3.142.68.174 # ec2-3-142-68-174.us-east-2.compute.amazonaws.com
-3.142.68.189 # ec2-3-142-68-189.us-east-2.compute.amazonaws.com
 3.142.68.200 # ec2-3-142-68-200.us-east-2.compute.amazonaws.com
-3.142.69.101 # ec2-3-142-69-101.us-east-2.compute.amazonaws.com
-3.142.69.107 # ec2-3-142-69-107.us-east-2.compute.amazonaws.com
-3.142.69.188 # ec2-3-142-69-188.us-east-2.compute.amazonaws.com
-3.142.69.198 # ec2-3-142-69-198.us-east-2.compute.amazonaws.com
-3.142.69.21 # ec2-3-142-69-21.us-east-2.compute.amazonaws.com
 3.142.69.215 # ec2-3-142-69-215.us-east-2.compute.amazonaws.com
 3.142.70.187 # ec2-3-142-70-187.us-east-2.compute.amazonaws.com
 3.142.73.212 # ec2-3-142-73-212.us-east-2.compute.amazonaws.com
@@ -9395,7 +9385,6 @@
 54.245.70.26 # ec2-54-245-70-26.us-west-2.compute.amazonaws.com
 54.245.74.174 # ec2-54-245-74-174.us-west-2.compute.amazonaws.com
 54.245.78.215 # ec2-54-245-78-215.us-west-2.compute.amazonaws.com
-54.250.105.135 # ec2-54-250-105-135.ap-northeast-1.compute.amazonaws.com
 54.250.242.244 # ec2-54-250-242-244.ap-northeast-1.compute.amazonaws.com
 54.254.190.252 # ec2-54-254-190-252.ap-southeast-1.compute.amazonaws.com
 54.67.0.124 # ec2-54-67-0-124.us-west-1.compute.amazonaws.com
