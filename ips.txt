@@ -3303,18 +3303,7 @@
 3.140.209.56 # ec2-3-140-209-56.us-east-2.compute.amazonaws.com
 3.141.169.105 # ec2-3-141-169-105.us-east-2.compute.amazonaws.com
 3.142.74.139 # ec2-3-142-74-139.us-east-2.compute.amazonaws.com
-3.142.97.93 # ec2-3-142-97-93.us-east-2.compute.amazonaws.com
-3.142.99.33 # ec2-3-142-99-33.us-east-2.compute.amazonaws.com
 3.143.216.183 # ec2-3-143-216-183.us-east-2.compute.amazonaws.com
-3.143.216.188 # ec2-3-143-216-188.us-east-2.compute.amazonaws.com
-3.143.216.192 # ec2-3-143-216-192.us-east-2.compute.amazonaws.com
-3.143.216.196 # ec2-3-143-216-196.us-east-2.compute.amazonaws.com
-3.143.216.210 # ec2-3-143-216-210.us-east-2.compute.amazonaws.com
-3.143.216.45 # ec2-3-143-216-45.us-east-2.compute.amazonaws.com
-3.143.216.58 # ec2-3-143-216-58.us-east-2.compute.amazonaws.com
-3.143.216.72 # ec2-3-143-216-72.us-east-2.compute.amazonaws.com
-3.143.219.113 # ec2-3-143-219-113.us-east-2.compute.amazonaws.com
-3.143.219.117 # ec2-3-143-219-117.us-east-2.compute.amazonaws.com
 3.143.219.124 # ec2-3-143-219-124.us-east-2.compute.amazonaws.com
 3.143.219.238 # ec2-3-143-219-238.us-east-2.compute.amazonaws.com
 3.143.219.248 # ec2-3-143-219-248.us-east-2.compute.amazonaws.com
@@ -10048,7 +10037,6 @@
 130.25.212.245 # net-130-25-212-245.cust.vodafonedsl.it
 2.36.9.149 # net-2-36-9-149.cust.vodafonedsl.it
 100.0.62.116 # pool-100-0-62-116.bstnma.fios.verizon.net
-100.34.32.244 # pool-100-34-32-244.phlapa.fios.verizon.net
 108.20.212.166 # pool-108-20-212-166.bstnma.fios.verizon.net
 108.5.238.139 # pool-108-5-238-139.nwrknj.fios.verizon.net
 72.74.52.71 # pool-72-74-52-71.bstnma.fios.verizon.net
