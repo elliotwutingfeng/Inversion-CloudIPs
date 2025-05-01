@@ -61,6 +61,7 @@
 180.177.76.148 # 180-177-76-148.dynamic.kbronet.com.tw
 185.62.129.150 # 185-62-129-150.pool.digikabel.hu
 185.62.130.200 # 185-62-130-200.pool.digikabel.hu
+185.70.196.222 # 185-70-196-222.pl-waw1.upcloud.host
 188.143.3.220 # 188-143-3-220.pool.digikabel.hu
 190.102.110.184 # 190-102-110-184.static.hvvc.us
 193.226.232.68 # 193-226-232-68.pool.digikabel.hu
@@ -1903,6 +1904,7 @@
 94.21.56.77 # 94-21-56-77.pool.digikabel.hu
 94.21.80.248 # 94-21-80-248.pool.digikabel.hu
 94.21.83.74 # 94-21-83-74.pool.digikabel.hu
+94.237.32.237 # 94-237-32-237.fi-hel1.upcloud.host
 96.31.74.178 # 96-31-74-178.static.hvvc.us
 96.64.109.210 # 96-64-109-210-static.hfc.comcastbusiness.net
 96.65.177.117 # 96-65-177-117-static.hfc.comcastbusiness.net
@@ -3303,19 +3305,10 @@
 3.140.209.56 # ec2-3-140-209-56.us-east-2.compute.amazonaws.com
 3.141.169.105 # ec2-3-141-169-105.us-east-2.compute.amazonaws.com
 3.142.74.139 # ec2-3-142-74-139.us-east-2.compute.amazonaws.com
-3.143.228.79 # ec2-3-143-228-79.us-east-2.compute.amazonaws.com
-3.143.243.180 # ec2-3-143-243-180.us-east-2.compute.amazonaws.com
-3.143.243.190 # ec2-3-143-243-190.us-east-2.compute.amazonaws.com
-3.143.248.156 # ec2-3-143-248-156.us-east-2.compute.amazonaws.com
 3.143.248.173 # ec2-3-143-248-173.us-east-2.compute.amazonaws.com
 3.143.248.188 # ec2-3-143-248-188.us-east-2.compute.amazonaws.com
-3.143.248.215 # ec2-3-143-248-215.us-east-2.compute.amazonaws.com
 3.143.248.253 # ec2-3-143-248-253.us-east-2.compute.amazonaws.com
-3.143.248.37 # ec2-3-143-248-37.us-east-2.compute.amazonaws.com
-3.143.248.63 # ec2-3-143-248-63.us-east-2.compute.amazonaws.com
 3.143.248.77 # ec2-3-143-248-77.us-east-2.compute.amazonaws.com
-3.143.248.90 # ec2-3-143-248-90.us-east-2.compute.amazonaws.com
-3.143.249.116 # ec2-3-143-249-116.us-east-2.compute.amazonaws.com
 3.143.249.117 # ec2-3-143-249-117.us-east-2.compute.amazonaws.com
 3.143.249.84 # ec2-3-143-249-84.us-east-2.compute.amazonaws.com
 3.143.250.176 # ec2-3-143-250-176.us-east-2.compute.amazonaws.com
@@ -10049,7 +10042,6 @@
 84.9.28.215 # static-84-9-28-215.vodafonexdsl.co.uk
 84.9.29.211 # static-84-9-29-211.vodafonexdsl.co.uk
 84.9.30.190 # static-84-9-30-190.vodafonexdsl.co.uk
-84.9.32.53 # static-84-9-32-53.vodafonexdsl.co.uk
 84.9.33.203 # static-84-9-33-203.vodafonexdsl.co.uk
 84.9.35.200 # static-84-9-35-200.vodafonexdsl.co.uk
 84.9.37.216 # static-84-9-37-216.vodafonexdsl.co.uk
