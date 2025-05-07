@@ -79,6 +79,7 @@
 199.231.163.76 # 199-231-163-76.static.hvvc.us
 199.231.163.77 # 199-231-163-77.static.hvvc.us
 199.91.66.171 # 199-91-66-171.static.hvvc.us
+200.98.137.109 # 200-98-137-109.clouduol.com.br
 209.133.221.114 # 209-133-221-114.static.hvvc.us
 212.1.151.243 # 212-1-151-243.dynamic.dsl.as9105.com
 212.139.184.55 # 212-139-184-55.dynamic.dsl.as9105.com
@@ -3306,16 +3307,6 @@
 3.140.209.56 # ec2-3-140-209-56.us-east-2.compute.amazonaws.com
 3.141.169.105 # ec2-3-141-169-105.us-east-2.compute.amazonaws.com
 3.142.74.139 # ec2-3-142-74-139.us-east-2.compute.amazonaws.com
-3.144.128.166 # ec2-3-144-128-166.us-east-2.compute.amazonaws.com
-3.144.129.114 # ec2-3-144-129-114.us-east-2.compute.amazonaws.com
-3.144.129.135 # ec2-3-144-129-135.us-east-2.compute.amazonaws.com
-3.144.129.252 # ec2-3-144-129-252.us-east-2.compute.amazonaws.com
-3.144.129.43 # ec2-3-144-129-43.us-east-2.compute.amazonaws.com
-3.144.129.7 # ec2-3-144-129-7.us-east-2.compute.amazonaws.com
-3.144.130.148 # ec2-3-144-130-148.us-east-2.compute.amazonaws.com
-3.144.130.191 # ec2-3-144-130-191.us-east-2.compute.amazonaws.com
-3.144.130.225 # ec2-3-144-130-225.us-east-2.compute.amazonaws.com
-3.144.131.146 # ec2-3-144-131-146.us-east-2.compute.amazonaws.com
 3.144.131.177 # ec2-3-144-131-177.us-east-2.compute.amazonaws.com
 3.144.131.192 # ec2-3-144-131-192.us-east-2.compute.amazonaws.com
 3.144.131.221 # ec2-3-144-131-221.us-east-2.compute.amazonaws.com
