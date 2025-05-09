@@ -135,7 +135,6 @@
 50.248.157.30 # 50-248-157-30-static.hfc.comcastbusiness.net
 50.254.164.225 # 50-254-164-225-static.hfc.comcastbusiness.net
 50.73.121.126 # 50-73-121-126-ip-static.hfc.comcastbusiness.net
-50.78.135.157 # 50-78-135-157-static.hfc.comcastbusiness.net
 50.79.145.201 # 50-79-145-201-static.hfc.comcastbusiness.net
 60.242.75.145 # 60-242-75-145.tpgi.com.au
 61.245.154.37 # 61-245-154-37.3df59a.adl.nbn.aussiebb.net
@@ -3307,17 +3306,7 @@
 3.140.209.56 # ec2-3-140-209-56.us-east-2.compute.amazonaws.com
 3.141.169.105 # ec2-3-141-169-105.us-east-2.compute.amazonaws.com
 3.142.74.139 # ec2-3-142-74-139.us-east-2.compute.amazonaws.com
-3.144.131.192 # ec2-3-144-131-192.us-east-2.compute.amazonaws.com
-3.144.134.151 # ec2-3-144-134-151.us-east-2.compute.amazonaws.com
-3.144.134.153 # ec2-3-144-134-153.us-east-2.compute.amazonaws.com
-3.144.134.158 # ec2-3-144-134-158.us-east-2.compute.amazonaws.com
 3.144.134.184 # ec2-3-144-134-184.us-east-2.compute.amazonaws.com
-3.144.134.2 # ec2-3-144-134-2.us-east-2.compute.amazonaws.com
-3.144.134.245 # ec2-3-144-134-245.us-east-2.compute.amazonaws.com
-3.144.134.31 # ec2-3-144-134-31.us-east-2.compute.amazonaws.com
-3.144.134.67 # ec2-3-144-134-67.us-east-2.compute.amazonaws.com
-3.144.134.96 # ec2-3-144-134-96.us-east-2.compute.amazonaws.com
-3.144.134.98 # ec2-3-144-134-98.us-east-2.compute.amazonaws.com
 3.144.135.144 # ec2-3-144-135-144.us-east-2.compute.amazonaws.com
 3.144.135.154 # ec2-3-144-135-154.us-east-2.compute.amazonaws.com
 3.144.135.198 # ec2-3-144-135-198.us-east-2.compute.amazonaws.com
@@ -9988,7 +9977,6 @@
 87.75.118.38 # static-87-75-118-38.vodafonexdsl.co.uk
 87.75.123.96 # static-87-75-123-96.vodafonexdsl.co.uk
 87.75.158.22 # static-87-75-158-22.vodafonexdsl.co.uk
-87.75.188.162 # static-87-75-188-162.vodafonexdsl.co.uk
 87.75.97.119 # static-87-75-97-119.vodafonexdsl.co.uk
 96.231.174.160 # static-96-231-174-160.washdc.fios.verizon.net
 157.7.137.239 # v157-7-137-239.myvps.jp
