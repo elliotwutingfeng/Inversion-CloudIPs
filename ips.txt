@@ -30,7 +30,6 @@
 167.179.157.175 # 167-179-157-175.a7b39d.syd.nbn.aussiebb.net
 167.179.187.103 # 167-179-187-103.a7b3bb.bne.nbn.aussiebb.net
 172.86.114.70 # 172-86-114-70.chi.priv.octovpn.net
-173.12.226.146 # 173-12-226-146-memphis.hfc.comcastbusiness.net
 173.160.203.166 # 173-160-203-166-washington.hfc.comcastbusiness.net
 173.162.119.146 # 173-162-119-146-miami.hfc.comcastbusiness.net
 173.162.69.62 # 173-162-69-62-miami.hfc.comcastbusiness.net
@@ -175,7 +174,6 @@
 75.149.47.242 # 75-149-47-242-sfba.hfc.comcastbusiness.net
 75.149.90.94 # 75-149-90-94-illinois.hfc.comcastbusiness.net
 75.150.151.97 # 75-150-151-97-philadelphia.hfc.comcastbusiness.net
-75.151.226.45 # 75-151-226-45-pennsylvania.hfc.comcastbusiness.net
 77.234.65.115 # 77-234-65-115.pool.digikabel.hu
 77.234.65.126 # 77-234-65-126.pool.digikabel.hu
 77.252.104.75 # 77-252-104-75.static.ip.netia.com.pl
@@ -3306,17 +3304,8 @@
 3.140.209.56 # ec2-3-140-209-56.us-east-2.compute.amazonaws.com
 3.141.169.105 # ec2-3-141-169-105.us-east-2.compute.amazonaws.com
 3.142.74.139 # ec2-3-142-74-139.us-east-2.compute.amazonaws.com
-3.144.134.184 # ec2-3-144-134-184.us-east-2.compute.amazonaws.com
-3.144.135.144 # ec2-3-144-135-144.us-east-2.compute.amazonaws.com
 3.144.135.154 # ec2-3-144-135-154.us-east-2.compute.amazonaws.com
-3.144.135.198 # ec2-3-144-135-198.us-east-2.compute.amazonaws.com
-3.144.135.216 # ec2-3-144-135-216.us-east-2.compute.amazonaws.com
-3.144.135.24 # ec2-3-144-135-24.us-east-2.compute.amazonaws.com
 3.144.135.43 # ec2-3-144-135-43.us-east-2.compute.amazonaws.com
-3.144.135.47 # ec2-3-144-135-47.us-east-2.compute.amazonaws.com
-3.144.135.52 # ec2-3-144-135-52.us-east-2.compute.amazonaws.com
-3.144.136.112 # ec2-3-144-136-112.us-east-2.compute.amazonaws.com
-3.144.136.133 # ec2-3-144-136-133.us-east-2.compute.amazonaws.com
 3.144.136.180 # ec2-3-144-136-180.us-east-2.compute.amazonaws.com
 3.144.136.206 # ec2-3-144-136-206.us-east-2.compute.amazonaws.com
 3.144.136.213 # ec2-3-144-136-213.us-east-2.compute.amazonaws.com
