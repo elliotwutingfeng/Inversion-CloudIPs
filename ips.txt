@@ -758,7 +758,6 @@
 83.238.160.96 # 83-238-160-96.static.ip.netia.com.pl
 83.238.162.250 # 83-238-162-250.static.ip.netia.com.pl
 83.238.175.100 # 83-238-175-100.static.ip.netia.com.pl
-83.238.73.51 # 83-238-73-51.static.ip.netia.com.pl
 83.238.76.4 # 83-238-76-4.static.ip.netia.com.pl
 84.236.11.82 # 84-236-11-82.pool.digikabel.hu
 84.236.40.241 # 84-236-40-241.pool.digikabel.hu
@@ -3304,18 +3303,8 @@
 3.140.209.56 # ec2-3-140-209-56.us-east-2.compute.amazonaws.com
 3.141.169.105 # ec2-3-141-169-105.us-east-2.compute.amazonaws.com
 3.142.74.139 # ec2-3-142-74-139.us-east-2.compute.amazonaws.com
-3.144.135.154 # ec2-3-144-135-154.us-east-2.compute.amazonaws.com
-3.144.135.43 # ec2-3-144-135-43.us-east-2.compute.amazonaws.com
 3.144.136.180 # ec2-3-144-136-180.us-east-2.compute.amazonaws.com
-3.144.136.206 # ec2-3-144-136-206.us-east-2.compute.amazonaws.com
-3.144.136.213 # ec2-3-144-136-213.us-east-2.compute.amazonaws.com
 3.144.136.3 # ec2-3-144-136-3.us-east-2.compute.amazonaws.com
-3.144.136.42 # ec2-3-144-136-42.us-east-2.compute.amazonaws.com
-3.144.136.55 # ec2-3-144-136-55.us-east-2.compute.amazonaws.com
-3.144.136.64 # ec2-3-144-136-64.us-east-2.compute.amazonaws.com
-3.144.136.74 # ec2-3-144-136-74.us-east-2.compute.amazonaws.com
-3.144.136.94 # ec2-3-144-136-94.us-east-2.compute.amazonaws.com
-3.144.137.125 # ec2-3-144-137-125.us-east-2.compute.amazonaws.com
 3.144.137.201 # ec2-3-144-137-201.us-east-2.compute.amazonaws.com
 3.144.137.210 # ec2-3-144-137-210.us-east-2.compute.amazonaws.com
 3.144.137.22 # ec2-3-144-137-22.us-east-2.compute.amazonaws.com
