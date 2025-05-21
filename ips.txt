@@ -668,9 +668,7 @@
 80.44.185.175 # 80-44-185-175.dynamic.dsl.as9105.com
 80.44.187.197 # 80-44-187-197.dynamic.dsl.as9105.com
 80.44.19.208 # 80-44-19-208.dynamic.dsl.as9105.com
-80.44.192.12 # 80-44-192-12.dynamic.dsl.as9105.com
 80.44.193.238 # 80-44-193-238.dynamic.dsl.as9105.com
-80.44.196.88 # 80-44-196-88.dynamic.dsl.as9105.com
 80.44.198.220 # 80-44-198-220.dynamic.dsl.as9105.com
 80.44.202.75 # 80-44-202-75.dynamic.dsl.as9105.com
 80.44.208.113 # 80-44-208-113.dynamic.dsl.as9105.com
@@ -788,7 +786,6 @@
 88.104.232.12 # 88-104-232-12.dynamic.dsl.as9105.com
 88.104.242.142 # 88-104-242-142.dynamic.dsl.as9105.com
 88.105.113.9 # 88-105-113-9.dynamic.dsl.as9105.com
-88.105.119.74 # 88-105-119-74.dynamic.dsl.as9105.com
 88.105.131.219 # 88-105-131-219.dynamic.dsl.as9105.com
 88.105.183.15 # 88-105-183-15.dynamic.dsl.as9105.com
 88.105.190.199 # 88-105-190-199.dynamic.dsl.as9105.com
@@ -833,7 +830,6 @@
 88.106.9.92 # 88-106-9-92.dynamic.dsl.as9105.com
 88.106.90.82 # 88-106-90-82.dynamic.dsl.as9105.com
 88.106.94.62 # 88-106-94-62.dynamic.dsl.as9105.com
-88.106.95.73 # 88-106-95-73.dynamic.dsl.as9105.com
 88.106.99.31 # 88-106-99-31.dynamic.dsl.as9105.com
 88.107.10.166 # 88-107-10-166.dynamic.dsl.as9105.com
 88.107.10.240 # 88-107-10-240.dynamic.dsl.as9105.com
@@ -1911,7 +1907,6 @@
 96.81.89.237 # 96-81-89-237-static.hfc.comcastbusiness.net
 96.84.48.78 # 96-84-48-78-static.hfc.comcastbusiness.net
 96.84.53.106 # 96-84-53-106-static.hfc.comcastbusiness.net
-96.88.67.209 # 96-88-67-209-static.hfc.comcastbusiness.net
 96.91.96.226 # 96-91-96-226-static.hfc.comcastbusiness.net
 96.94.117.222 # 96-94-117-222-static.hfc.comcastbusiness.net
 96.95.125.122 # 96-95-125-122-static.hfc.comcastbusiness.net
@@ -3305,15 +3300,6 @@
 3.140.209.56 # ec2-3-140-209-56.us-east-2.compute.amazonaws.com
 3.141.169.105 # ec2-3-141-169-105.us-east-2.compute.amazonaws.com
 3.142.74.139 # ec2-3-142-74-139.us-east-2.compute.amazonaws.com
-3.144.149.89 # ec2-3-144-149-89.us-east-2.compute.amazonaws.com
-3.144.150.196 # ec2-3-144-150-196.us-east-2.compute.amazonaws.com
-3.144.150.205 # ec2-3-144-150-205.us-east-2.compute.amazonaws.com
-3.144.150.233 # ec2-3-144-150-233.us-east-2.compute.amazonaws.com
-3.144.150.240 # ec2-3-144-150-240.us-east-2.compute.amazonaws.com
-3.144.150.251 # ec2-3-144-150-251.us-east-2.compute.amazonaws.com
-3.144.150.80 # ec2-3-144-150-80.us-east-2.compute.amazonaws.com
-3.144.150.85 # ec2-3-144-150-85.us-east-2.compute.amazonaws.com
-3.144.150.97 # ec2-3-144-150-97.us-east-2.compute.amazonaws.com
 3.144.151.124 # ec2-3-144-151-124.us-east-2.compute.amazonaws.com
 3.144.151.198 # ec2-3-144-151-198.us-east-2.compute.amazonaws.com
 3.144.151.199 # ec2-3-144-151-199.us-east-2.compute.amazonaws.com
