@@ -4,13 +4,11 @@
 104.254.129.3 # 104-254-129-3.static.hvvc.us
 109.170.138.65 # 109-170-138-65.xdsl.murphx.net
 109.170.159.19 # 109-170-159-19.xdsl.murphx.net
-117.20.68.167 # 117-20-68-167.751444.bne.nbn.aussiebb.net
 117.20.69.71 # 117-20-69-71.751445.bne.nbn.aussiebb.net
 119.18.0.237 # 119-18-0-237.771200.syd.nbn.aussiebb.net
 119.18.1.242 # 119-18-1-242.771201.syd.nbn.aussiebb.net
 119.18.1.28 # 119-18-1-28.771201.syd.nbn.aussiebb.net
 121.200.15.146 # 121-200-15-146.79c80f.mel.nbn.aussiebb.net
-121.200.20.169 # 121-200-20-169.79c814.mel.nbn.aussiebb.net
 121.200.21.28 # 121-200-21-28.79c815.mel.nbn.aussiebb.net
 121.200.4.152 # 121-200-4-152.79c804.syd.nbn.aussiebb.net
 121.200.4.155 # 121-200-4-155.79c804.syd.nbn.aussiebb.net
@@ -32,7 +30,6 @@
 167.179.135.65 # 167-179-135-65.a7b387.mel.nbn.aussiebb.net
 167.179.137.149 # 167-179-137-149.a7b389.mel.nbn.aussiebb.net
 167.179.157.175 # 167-179-157-175.a7b39d.syd.nbn.aussiebb.net
-167.179.187.103 # 167-179-187-103.a7b3bb.bne.nbn.aussiebb.net
 172.86.114.70 # 172-86-114-70.chi.priv.octovpn.net
 173.160.203.166 # 173-160-203-166-washington.hfc.comcastbusiness.net
 173.162.119.146 # 173-162-119-146-miami.hfc.comcastbusiness.net
@@ -57,9 +54,7 @@
 178.164.233.33 # 178-164-233-33.pool.digikabel.hu
 178.164.236.143 # 178-164-236-143.pool.digikabel.hu
 180.150.36.159 # 180-150-36-159.b49624.bne.nbn.aussiebb.net
-180.150.36.235 # 180-150-36-235.b49624.bne.nbn.aussiebb.net
 180.150.37.196 # 180-150-37-196.b49625.bne.nbn.aussiebb.net
-180.150.37.93 # 180-150-37-93.b49625.bne.nbn.aussiebb.net
 180.150.38.207 # 180-150-38-207.b49626.bne.nbn.aussiebb.net
 180.150.38.67 # 180-150-38-67.b49626.bne.nbn.aussiebb.net
 180.150.4.125 # 180-150-4-125.b49604.syd.nbn.aussiebb.net
@@ -1287,7 +1282,6 @@
 89.172.87.79 # 89-172-87-79.adsl.net.t-com.hr
 89.172.97.174 # 89-172-97-174.adsl.net.t-com.hr
 91.83.192.102 # 91-83-192-102.pool.digikabel.hu
-92.249.139.80 # 92-249-139-80.pool.digikabel.hu
 92.249.179.47 # 92-249-179-47.pool.digikabel.hu
 92.249.224.228 # 92-249-224-228.pool.digikabel.hu
 93.136.112.179 # 93-136-112-179.adsl.net.t-com.hr
@@ -3287,16 +3281,7 @@
 3.140.209.56 # ec2-3-140-209-56.us-east-2.compute.amazonaws.com
 3.141.169.105 # ec2-3-141-169-105.us-east-2.compute.amazonaws.com
 3.142.74.139 # ec2-3-142-74-139.us-east-2.compute.amazonaws.com
-3.144.167.52 # ec2-3-144-167-52.us-east-2.compute.amazonaws.com
-3.144.173.10 # ec2-3-144-173-10.us-east-2.compute.amazonaws.com
-3.144.173.11 # ec2-3-144-173-11.us-east-2.compute.amazonaws.com
-3.144.173.12 # ec2-3-144-173-12.us-east-2.compute.amazonaws.com
-3.144.173.170 # ec2-3-144-173-170.us-east-2.compute.amazonaws.com
-3.144.173.23 # ec2-3-144-173-23.us-east-2.compute.amazonaws.com
 3.144.173.33 # ec2-3-144-173-33.us-east-2.compute.amazonaws.com
-3.144.173.70 # ec2-3-144-173-70.us-east-2.compute.amazonaws.com
-3.144.173.95 # ec2-3-144-173-95.us-east-2.compute.amazonaws.com
-3.144.174.122 # ec2-3-144-174-122.us-east-2.compute.amazonaws.com
 3.144.174.16 # ec2-3-144-174-16.us-east-2.compute.amazonaws.com
 3.144.174.164 # ec2-3-144-174-164.us-east-2.compute.amazonaws.com
 3.144.174.168 # ec2-3-144-174-168.us-east-2.compute.amazonaws.com
