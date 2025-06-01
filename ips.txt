@@ -8,8 +8,6 @@
 119.18.0.237 # 119-18-0-237.771200.syd.nbn.aussiebb.net
 119.18.1.242 # 119-18-1-242.771201.syd.nbn.aussiebb.net
 119.18.1.28 # 119-18-1-28.771201.syd.nbn.aussiebb.net
-121.200.15.146 # 121-200-15-146.79c80f.mel.nbn.aussiebb.net
-121.200.21.28 # 121-200-21-28.79c815.mel.nbn.aussiebb.net
 121.200.4.152 # 121-200-4-152.79c804.syd.nbn.aussiebb.net
 121.200.4.155 # 121-200-4-155.79c804.syd.nbn.aussiebb.net
 121.200.4.210 # 121-200-4-210.79c804.syd.nbn.aussiebb.net
@@ -3281,17 +3279,7 @@
 3.140.209.56 # ec2-3-140-209-56.us-east-2.compute.amazonaws.com
 3.141.169.105 # ec2-3-141-169-105.us-east-2.compute.amazonaws.com
 3.142.74.139 # ec2-3-142-74-139.us-east-2.compute.amazonaws.com
-3.144.173.33 # ec2-3-144-173-33.us-east-2.compute.amazonaws.com
-3.144.174.16 # ec2-3-144-174-16.us-east-2.compute.amazonaws.com
-3.144.174.164 # ec2-3-144-174-164.us-east-2.compute.amazonaws.com
-3.144.174.168 # ec2-3-144-174-168.us-east-2.compute.amazonaws.com
-3.144.174.183 # ec2-3-144-174-183.us-east-2.compute.amazonaws.com
-3.144.174.247 # ec2-3-144-174-247.us-east-2.compute.amazonaws.com
-3.144.174.250 # ec2-3-144-174-250.us-east-2.compute.amazonaws.com
-3.144.174.28 # ec2-3-144-174-28.us-east-2.compute.amazonaws.com
 3.144.174.32 # ec2-3-144-174-32.us-east-2.compute.amazonaws.com
-3.144.174.91 # ec2-3-144-174-91.us-east-2.compute.amazonaws.com
-3.144.175.100 # ec2-3-144-175-100.us-east-2.compute.amazonaws.com
 3.144.175.112 # ec2-3-144-175-112.us-east-2.compute.amazonaws.com
 3.144.175.12 # ec2-3-144-175-12.us-east-2.compute.amazonaws.com
 3.144.175.144 # ec2-3-144-175-144.us-east-2.compute.amazonaws.com
