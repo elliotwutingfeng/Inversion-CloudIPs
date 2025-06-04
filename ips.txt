@@ -4,9 +4,6 @@
 104.254.129.3 # 104-254-129-3.static.hvvc.us
 109.170.138.65 # 109-170-138-65.xdsl.murphx.net
 109.170.159.19 # 109-170-159-19.xdsl.murphx.net
-119.18.0.237 # 119-18-0-237.771200.syd.nbn.aussiebb.net
-119.18.1.242 # 119-18-1-242.771201.syd.nbn.aussiebb.net
-119.18.1.28 # 119-18-1-28.771201.syd.nbn.aussiebb.net
 121.200.4.152 # 121-200-4-152.79c804.syd.nbn.aussiebb.net
 121.200.4.155 # 121-200-4-155.79c804.syd.nbn.aussiebb.net
 121.200.4.210 # 121-200-4-210.79c804.syd.nbn.aussiebb.net
@@ -48,7 +45,6 @@
 178.164.226.253 # 178-164-226-253.pool.digikabel.hu
 178.164.233.33 # 178-164-233-33.pool.digikabel.hu
 178.164.236.143 # 178-164-236-143.pool.digikabel.hu
-180.150.38.67 # 180-150-38-67.b49626.bne.nbn.aussiebb.net
 180.150.4.125 # 180-150-4-125.b49604.syd.nbn.aussiebb.net
 180.177.76.148 # 180-177-76-148.dynamic.kbronet.com.tw
 185.62.129.150 # 185-62-129-150.pool.digikabel.hu
@@ -71,7 +67,6 @@
 199.231.163.77 # 199-231-163-77.static.hvvc.us
 199.91.66.171 # 199-91-66-171.static.hvvc.us
 200.98.137.109 # 200-98-137-109.clouduol.com.br
-202.142.138.219 # 202-142-138-219.ca8e8a.mel.nbn.aussiebb.net
 209.133.221.114 # 209-133-221-114.static.hvvc.us
 212.1.151.243 # 212-1-151-243.dynamic.dsl.as9105.com
 212.139.184.55 # 212-139-184-55.dynamic.dsl.as9105.com
@@ -3272,16 +3267,6 @@
 3.140.209.56 # ec2-3-140-209-56.us-east-2.compute.amazonaws.com
 3.141.169.105 # ec2-3-141-169-105.us-east-2.compute.amazonaws.com
 3.142.74.139 # ec2-3-142-74-139.us-east-2.compute.amazonaws.com
-3.144.176.159 # ec2-3-144-176-159.us-east-2.compute.amazonaws.com
-3.144.176.165 # ec2-3-144-176-165.us-east-2.compute.amazonaws.com
-3.144.176.221 # ec2-3-144-176-221.us-east-2.compute.amazonaws.com
-3.144.176.234 # ec2-3-144-176-234.us-east-2.compute.amazonaws.com
-3.144.176.253 # ec2-3-144-176-253.us-east-2.compute.amazonaws.com
-3.144.176.37 # ec2-3-144-176-37.us-east-2.compute.amazonaws.com
-3.144.176.6 # ec2-3-144-176-6.us-east-2.compute.amazonaws.com
-3.144.176.69 # ec2-3-144-176-69.us-east-2.compute.amazonaws.com
-3.144.176.72 # ec2-3-144-176-72.us-east-2.compute.amazonaws.com
-3.144.176.98 # ec2-3-144-176-98.us-east-2.compute.amazonaws.com
 3.144.178.108 # ec2-3-144-178-108.us-east-2.compute.amazonaws.com
 3.144.178.142 # ec2-3-144-178-142.us-east-2.compute.amazonaws.com
 3.144.178.166 # ec2-3-144-178-166.us-east-2.compute.amazonaws.com
