@@ -6,6 +6,8 @@
 109.170.159.19 # 109-170-159-19.xdsl.murphx.net
 122.223.74.97 # 122-223-74-97.aichi.ap.gmo-isp.jp
 144.91.108.8 # 144.91.108.8.nip.io
+159.196.124.221 # 159-196-124-221.9fc47c.syd.static.aussiebb.net
+159.196.125.231 # 159-196-125-231.9fc47d.syd.static.aussiebb.net
 162.220.62.21 # 162-220-62-21.static.hvvc.us
 162.250.200.218 # 162-250-200-218.static.as40244.net
 162.252.86.89 # 162-252-86-89.static.hvvc.us
@@ -36,6 +38,8 @@
 178.164.226.253 # 178-164-226-253.pool.digikabel.hu
 178.164.233.33 # 178-164-233-33.pool.digikabel.hu
 178.164.236.143 # 178-164-236-143.pool.digikabel.hu
+180.150.57.76 # 180-150-57-76.b49639.mel.static.aussiebb.net
+180.150.8.132 # 180-150-8-132.b49608.syd.static.aussiebb.net
 180.177.76.148 # 180-177-76-148.dynamic.kbronet.com.tw
 185.62.129.150 # 185-62-129-150.pool.digikabel.hu
 185.62.130.200 # 185-62-130-200.pool.digikabel.hu
@@ -57,6 +61,7 @@
 199.231.163.77 # 199-231-163-77.static.hvvc.us
 199.91.66.171 # 199-91-66-171.static.hvvc.us
 200.98.137.109 # 200-98-137-109.clouduol.com.br
+202.153.221.95 # 202-153-221-95.ca99dd.mel.static.aussiebb.net
 209.133.221.114 # 209-133-221-114.static.hvvc.us
 212.1.151.243 # 212-1-151-243.dynamic.dsl.as9105.com
 212.139.184.55 # 212-139-184-55.dynamic.dsl.as9105.com
@@ -69,7 +74,6 @@
 212.139.64.106 # 212-139-64-106.dynamic.dsl.as9105.com
 212.139.71.87 # 212-139-71-87.dynamic.dsl.as9105.com
 212.139.87.67 # 212-139-87-67.dynamic.dsl.as9105.com
-213.216.84.11 # 213-216-84-11.static.ip.netia.com.pl
 213.216.91.163 # 213-216-91-163.static.ip.netia.com.pl
 213.241.37.71 # 213-241-37-71.static.ip.netia.com.pl
 213.241.37.79 # 213-241-37-79.static.ip.netia.com.pl
@@ -138,7 +142,6 @@
 70.91.109.245 # 70-91-109-245-illinois-il.hfc.comcastbusiness.net
 74.50.125.11 # 74-50-125-11.static.hvvc.us
 74.93.128.254 # 74-93-128-254-memphis-tn.hfc.comcastbusiness.net
-74.93.145.9 # 74-93-145-9-memphis.hfc.comcastbusiness.net
 74.95.174.238 # 74-95-174-238-philadelphia.hfc.comcastbusiness.net
 74.95.82.70 # 74-95-82-70-washingtondc.hfc.comcastbusiness.net
 74.95.89.93 # 74-95-89-93-washingtondc.hfc.comcastbusiness.net
@@ -687,7 +690,6 @@
 80.44.93.87 # 80-44-93-87.dynamic.dsl.as9105.com
 80.44.94.239 # 80-44-94-239.dynamic.dsl.as9105.com
 80.95.64.162 # 80-95-64-162.pool.digikabel.hu
-81.210.118.165 # 81-210-118-165.static.ip.netia.com.pl
 83.131.180.0 # 83-131-180-0.adsl.net.t-com.hr
 83.131.182.194 # 83-131-182-194.adsl.net.t-com.hr
 83.131.184.4 # 83-131-184-4.adsl.net.t-com.hr
@@ -736,7 +738,6 @@
 85.238.95.225 # 85-238-95-225.pool.digikabel.hu
 87.204.148.206 # 87-204-148-206.static.ip.netia.com.pl
 87.204.164.58 # 87-204-164-58.static.ip.netia.com.pl
-87.204.193.185 # 87-204-193-185.static.ip.netia.com.pl
 87.204.58.147 # 87-204-58-147.static.ip.netia.com.pl
 87.205.123.63 # 87-205-123-63.static.ip.netia.com.pl
 87.205.3.50 # 87-205-3-50.static.ip.netia.com.pl
@@ -3255,16 +3256,6 @@
 3.140.209.56 # ec2-3-140-209-56.us-east-2.compute.amazonaws.com
 3.141.169.105 # ec2-3-141-169-105.us-east-2.compute.amazonaws.com
 3.142.74.139 # ec2-3-142-74-139.us-east-2.compute.amazonaws.com
-3.144.189.157 # ec2-3-144-189-157.us-east-2.compute.amazonaws.com
-3.144.189.173 # ec2-3-144-189-173.us-east-2.compute.amazonaws.com
-3.144.189.178 # ec2-3-144-189-178.us-east-2.compute.amazonaws.com
-3.144.189.182 # ec2-3-144-189-182.us-east-2.compute.amazonaws.com
-3.144.189.219 # ec2-3-144-189-219.us-east-2.compute.amazonaws.com
-3.144.189.225 # ec2-3-144-189-225.us-east-2.compute.amazonaws.com
-3.144.189.228 # ec2-3-144-189-228.us-east-2.compute.amazonaws.com
-3.144.189.232 # ec2-3-144-189-232.us-east-2.compute.amazonaws.com
-3.144.189.253 # ec2-3-144-189-253.us-east-2.compute.amazonaws.com
-3.144.189.32 # ec2-3-144-189-32.us-east-2.compute.amazonaws.com
 3.144.189.62 # ec2-3-144-189-62.us-east-2.compute.amazonaws.com
 3.144.189.69 # ec2-3-144-189-69.us-east-2.compute.amazonaws.com
 3.144.190.104 # ec2-3-144-190-104.us-east-2.compute.amazonaws.com
@@ -9367,7 +9358,6 @@
 89.240.252.35 # host-89-240-252-35.as13285.net
 89.240.55.45 # host-89-240-55-45.as13285.net
 89.240.56.20 # host-89-240-56-20.as13285.net
-89.240.60.63 # host-89-240-60-63.as13285.net
 89.240.66.236 # host-89-240-66-236.as13285.net
 89.241.112.177 # host-89-241-112-177.as13285.net
 89.241.117.181 # host-89-241-117-181.as13285.net
