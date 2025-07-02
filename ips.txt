@@ -70,7 +70,6 @@
 212.139.71.87 # 212-139-71-87.dynamic.dsl.as9105.com
 212.139.87.67 # 212-139-87-67.dynamic.dsl.as9105.com
 213.241.37.71 # 213-241-37-71.static.ip.netia.com.pl
-213.241.37.79 # 213-241-37-79.static.ip.netia.com.pl
 213.241.53.150 # 213-241-53-150.static.ip.netia.com.pl
 217.197.181.202 # 217-197-181-202.pool.digikabel.hu
 217.197.188.253 # 217-197-188-253.pool.digikabel.hu
@@ -687,8 +686,6 @@
 83.131.91.100 # 83-131-91-100.adsl.net.t-com.hr
 83.131.91.166 # 83-131-91-166.adsl.net.t-com.hr
 83.131.92.179 # 83-131-92-179.adsl.net.t-com.hr
-83.238.162.250 # 83-238-162-250.static.ip.netia.com.pl
-83.238.76.4 # 83-238-76-4.static.ip.netia.com.pl
 84.236.11.82 # 84-236-11-82.pool.digikabel.hu
 84.236.40.241 # 84-236-40-241.pool.digikabel.hu
 84.236.49.214 # 84-236-49-214.pool.digikabel.hu
@@ -697,7 +694,6 @@
 85.238.74.28 # 85-238-74-28.pool.digikabel.hu
 85.238.95.225 # 85-238-95-225.pool.digikabel.hu
 87.204.164.58 # 87-204-164-58.static.ip.netia.com.pl
-87.205.123.63 # 87-205-123-63.static.ip.netia.com.pl
 87.97.16.125 # 87-97-16-125.pool.digikabel.hu
 87.97.7.61 # 87-97-7-61.pool.digikabel.hu
 87.97.85.191 # 87-97-85-191.pool.digikabel.hu
@@ -1066,9 +1062,7 @@
 89.168.116.159 # 89-168-116-159.dynamic.dsl.as9105.com
 89.168.124.89 # 89-168-124-89.dynamic.dsl.as9105.com
 89.168.81.20 # 89-168-81-20.dynamic.dsl.as9105.com
-89.171.119.134 # 89-171-119-134.static.ip.netia.com.pl
 89.171.120.11 # 89-171-120-11.static.ip.netia.com.pl
-89.171.120.13 # 89-171-120-13.static.ip.netia.com.pl
 89.172.104.27 # 89-172-104-27.adsl.net.t-com.hr
 89.172.105.168 # 89-172-105-168.adsl.net.t-com.hr
 89.172.105.236 # 89-172-105-236.adsl.net.t-com.hr
@@ -1829,7 +1823,6 @@
 13.212.115.67 # ec2-13-212-115-67.ap-southeast-1.compute.amazonaws.com
 13.212.166.190 # ec2-13-212-166-190.ap-southeast-1.compute.amazonaws.com
 13.212.168.32 # ec2-13-212-168-32.ap-southeast-1.compute.amazonaws.com
-13.213.65.201 # ec2-13-213-65-201.ap-southeast-1.compute.amazonaws.com
 13.214.154.89 # ec2-13-214-154-89.ap-southeast-1.compute.amazonaws.com
 13.214.176.151 # ec2-13-214-176-151.ap-southeast-1.compute.amazonaws.com
 13.214.178.100 # ec2-13-214-178-100.ap-southeast-1.compute.amazonaws.com
@@ -1956,6 +1949,7 @@
 3.16.27.138 # ec2-3-16-27-138.us-east-2.compute.amazonaws.com
 3.18.70.33 # ec2-3-18-70-33.us-east-2.compute.amazonaws.com
 3.21.28.197 # ec2-3-21-28-197.us-east-2.compute.amazonaws.com
+3.23.153.27 # ec2-3-23-153-27.us-east-2.compute.amazonaws.com
 3.235.154.124 # ec2-3-235-154-124.compute-1.amazonaws.com
 3.236.127.96 # ec2-3-236-127-96.compute-1.amazonaws.com
 3.237.57.223 # ec2-3-237-57-223.compute-1.amazonaws.com
@@ -2073,6 +2067,7 @@
 54.173.247.145 # ec2-54-173-247-145.compute-1.amazonaws.com
 54.174.89.94 # ec2-54-174-89-94.compute-1.amazonaws.com
 54.175.195.41 # ec2-54-175-195-41.compute-1.amazonaws.com
+54.175.225.42 # ec2-54-175-225-42.compute-1.amazonaws.com
 54.177.68.99 # ec2-54-177-68-99.us-west-1.compute.amazonaws.com
 54.179.88.148 # ec2-54-179-88-148.ap-southeast-1.compute.amazonaws.com
 54.180.13.230 # ec2-54-180-13-230.ap-northeast-2.compute.amazonaws.com
@@ -2656,7 +2651,6 @@
 84.9.167.146 # static-84-9-167-146.vodafonexdsl.co.uk
 84.9.180.123 # static-84-9-180-123.vodafonexdsl.co.uk
 84.9.191.157 # static-84-9-191-157.vodafonexdsl.co.uk
-84.9.191.214 # static-84-9-191-214.vodafonexdsl.co.uk
 84.9.209.123 # static-84-9-209-123.vodafonexdsl.co.uk
 84.9.211.146 # static-84-9-211-146.vodafonexdsl.co.uk
 84.9.213.104 # static-84-9-213-104.vodafonexdsl.co.uk
