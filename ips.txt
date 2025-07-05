@@ -113,7 +113,6 @@
 66.206.3.30 # 66-206-3-30.static.hvvc.us
 66.232.105.93 # 66-232-105-93.static.hvvc.us
 68.233.224.81 # 68-233-224-81.static.hvvc.us
-68.233.242.45 # 68-233-242-45.static.hvvc.us
 69.46.0.70 # 69-46-0-70.static.hvvc.us
 69.46.1.37 # 69-46-1-37.static.hvvc.us
 69.46.1.39 # 69-46-1-39.static.hvvc.us
@@ -133,7 +132,6 @@
 75.150.151.97 # 75-150-151-97-philadelphia.hfc.comcastbusiness.net
 77.234.65.115 # 77-234-65-115.pool.digikabel.hu
 77.234.65.126 # 77-234-65-126.pool.digikabel.hu
-77.252.160.10 # 77-252-160-10.static.ip.netia.com.pl
 78.0.102.15 # 78-0-102-15.adsl.net.t-com.hr
 78.0.108.174 # 78-0-108-174.adsl.net.t-com.hr
 78.0.108.177 # 78-0-108-177.adsl.net.t-com.hr
@@ -580,7 +578,6 @@
 80.44.124.190 # 80-44-124-190.dynamic.dsl.as9105.com
 80.44.127.57 # 80-44-127-57.dynamic.dsl.as9105.com
 80.44.128.136 # 80-44-128-136.dynamic.dsl.as9105.com
-80.44.14.173 # 80-44-14-173.dynamic.dsl.as9105.com
 80.44.144.16 # 80-44-144-16.dynamic.dsl.as9105.com
 80.44.145.113 # 80-44-145-113.dynamic.dsl.as9105.com
 80.44.149.55 # 80-44-149-55.dynamic.dsl.as9105.com
@@ -691,7 +688,6 @@
 84.236.87.90 # 84-236-87-90.pool.digikabel.hu
 85.238.74.28 # 85-238-74-28.pool.digikabel.hu
 85.238.95.225 # 85-238-95-225.pool.digikabel.hu
-87.204.164.58 # 87-204-164-58.static.ip.netia.com.pl
 87.97.16.125 # 87-97-16-125.pool.digikabel.hu
 87.97.7.61 # 87-97-7-61.pool.digikabel.hu
 87.97.85.191 # 87-97-85-191.pool.digikabel.hu
@@ -2094,6 +2090,7 @@
 54.91.20.65 # ec2-54-91-20-65.compute-1.amazonaws.com
 54.91.203.45 # ec2-54-91-203-45.compute-1.amazonaws.com
 54.92.173.125 # ec2-54-92-173-125.compute-1.amazonaws.com
+63.177.197.126 # ec2-63-177-197-126.eu-central-1.compute.amazonaws.com
 63.177.34.244 # ec2-63-177-34-244.eu-central-1.compute.amazonaws.com
 63.35.95.189 # ec2-63-35-95-189.eu-west-1.compute.amazonaws.com
 65.0.241.134 # ec2-65-0-241-134.ap-south-1.compute.amazonaws.com
