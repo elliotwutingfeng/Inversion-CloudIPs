@@ -1115,7 +1115,6 @@
 89.172.230.142 # 89-172-230-142.adsl.net.t-com.hr
 89.172.231.66 # 89-172-231-66.adsl.net.t-com.hr
 89.172.233.252 # 89-172-233-252.adsl.net.t-com.hr
-89.172.235.130 # 89-172-235-130.adsl.net.t-com.hr
 89.172.236.184 # 89-172-236-184.adsl.net.t-com.hr
 89.172.239.106 # 89-172-239-106.adsl.net.t-com.hr
 89.172.239.185 # 89-172-239-185.adsl.net.t-com.hr
@@ -2475,7 +2474,6 @@
 92.19.160.77 # host-92-19-160-77.as13285.net
 92.19.173.68 # host-92-19-173-68.as13285.net
 92.19.26.140 # host-92-19-26-140.as13285.net
-92.19.27.78 # host-92-19-27-78.as13285.net
 92.19.80.141 # host-92-19-80-141.as13285.net
 92.19.81.4 # host-92-19-81-4.as13285.net
 92.19.85.231 # host-92-19-85-231.as13285.net
@@ -2620,6 +2618,7 @@
 92.9.45.86 # host-92-9-45-86.as13285.net
 92.9.66.184 # host-92-9-66-184.as13285.net
 92.9.74.248 # host-92-9-74-248.as13285.net
+81.134.44.37 # host81-134-44-37.in-addr.btopenworld.com
 103.155.93.158 # naughty-newton.103-155-93-158.plesk.page
 130.25.212.245 # net-130-25-212-245.cust.vodafonedsl.it
 2.36.9.149 # net-2-36-9-149.cust.vodafonedsl.it
@@ -2642,6 +2641,7 @@
 84.9.114.141 # static-84-9-114-141.vodafonexdsl.co.uk
 84.9.167.146 # static-84-9-167-146.vodafonexdsl.co.uk
 84.9.180.123 # static-84-9-180-123.vodafonexdsl.co.uk
+84.9.185.58 # static-84-9-185-58.vodafonexdsl.co.uk
 84.9.191.157 # static-84-9-191-157.vodafonexdsl.co.uk
 84.9.209.123 # static-84-9-209-123.vodafonexdsl.co.uk
 84.9.211.146 # static-84-9-211-146.vodafonexdsl.co.uk
