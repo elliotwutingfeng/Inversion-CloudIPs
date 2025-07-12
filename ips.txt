@@ -1795,7 +1795,6 @@
 96.91.96.226 # 96-91-96-226-static.hfc.comcastbusiness.net
 96.94.117.222 # 96-94-117-222-static.hfc.comcastbusiness.net
 96.95.125.122 # 96-95-125-122-static.hfc.comcastbusiness.net
-176.133.66.25 # ber24-h01-176-133-66-25.dsl.sta.abo.bbox.fr
 134.228.20.43 # cm-134-228-20-43.buckeyecom.net
 45.88.108.231 # condescending-kilby.45-88-108-231.plesk.page
 100.26.200.250 # ec2-100-26-200-250.compute-1.amazonaws.com
