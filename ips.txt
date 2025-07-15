@@ -1837,7 +1837,6 @@
 13.53.134.100 # ec2-13-53-134-100.eu-north-1.compute.amazonaws.com
 13.53.193.158 # ec2-13-53-193-158.eu-north-1.compute.amazonaws.com
 13.53.212.206 # ec2-13-53-212-206.eu-north-1.compute.amazonaws.com
-13.56.159.24 # ec2-13-56-159-24.us-west-1.compute.amazonaws.com
 13.58.84.166 # ec2-13-58-84-166.us-east-2.compute.amazonaws.com
 13.60.12.169 # ec2-13-60-12-169.eu-north-1.compute.amazonaws.com
 13.60.168.52 # ec2-13-60-168-52.eu-north-1.compute.amazonaws.com
