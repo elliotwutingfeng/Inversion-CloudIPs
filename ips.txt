@@ -2635,7 +2635,6 @@
 71.251.197.234 # static-71-251-197-234.nwrknj.fios.verizon.net
 83.146.10.206 # static-83-146-10-206.vodafonexdsl.co.uk
 83.146.9.49 # static-83-146-9-49.vodafonexdsl.co.uk
-84.9.112.11 # static-84-9-112-11.vodafonexdsl.co.uk
 84.9.112.123 # static-84-9-112-123.vodafonexdsl.co.uk
 84.9.114.141 # static-84-9-114-141.vodafonexdsl.co.uk
 84.9.167.146 # static-84-9-167-146.vodafonexdsl.co.uk
