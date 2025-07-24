@@ -58,7 +58,6 @@
 199.91.66.171 # 199-91-66-171.static.hvvc.us
 200.98.137.109 # 200-98-137-109.clouduol.com.br
 209.133.221.114 # 209-133-221-114.static.hvvc.us
-212.1.151.243 # 212-1-151-243.dynamic.dsl.as9105.com
 212.139.184.55 # 212-139-184-55.dynamic.dsl.as9105.com
 212.139.186.81 # 212-139-186-81.dynamic.dsl.as9105.com
 212.139.188.250 # 212-139-188-250.dynamic.dsl.as9105.com
@@ -84,6 +83,7 @@
 23.92.75.170 # 23-92-75-170.static.hvvc.us
 46.10.12.56 # 46-10-12-56.ip.btc-net.bg
 46.10.6.99 # 46-10-6-99.ip.btc-net.bg
+35.199.79.49 # 49.79.199.35.bc.googleusercontent.com
 50.192.148.14 # 50-192-148-14-static.hfc.comcastbusiness.net
 50.194.185.213 # 50-194-185-213-static.hfc.comcastbusiness.net
 50.195.150.107 # 50-195-150-107-static.hfc.comcastbusiness.net
@@ -531,7 +531,6 @@
 80.42.154.212 # 80-42-154-212.dynamic.dsl.as9105.com
 80.42.155.109 # 80-42-155-109.dynamic.dsl.as9105.com
 80.42.155.156 # 80-42-155-156.dynamic.dsl.as9105.com
-80.42.157.241 # 80-42-157-241.dynamic.dsl.as9105.com
 80.42.157.99 # 80-42-157-99.dynamic.dsl.as9105.com
 80.42.159.37 # 80-42-159-37.dynamic.dsl.as9105.com
 80.42.167.26 # 80-42-167-26.dynamic.dsl.as9105.com
@@ -576,7 +575,6 @@
 80.44.124.190 # 80-44-124-190.dynamic.dsl.as9105.com
 80.44.127.57 # 80-44-127-57.dynamic.dsl.as9105.com
 80.44.128.136 # 80-44-128-136.dynamic.dsl.as9105.com
-80.44.144.16 # 80-44-144-16.dynamic.dsl.as9105.com
 80.44.145.113 # 80-44-145-113.dynamic.dsl.as9105.com
 80.44.149.55 # 80-44-149-55.dynamic.dsl.as9105.com
 80.44.154.186 # 80-44-154-186.dynamic.dsl.as9105.com
@@ -586,7 +584,6 @@
 80.44.173.161 # 80-44-173-161.dynamic.dsl.as9105.com
 80.44.174.170 # 80-44-174-170.dynamic.dsl.as9105.com
 80.44.175.182 # 80-44-175-182.dynamic.dsl.as9105.com
-80.44.178.17 # 80-44-178-17.dynamic.dsl.as9105.com
 80.44.179.60 # 80-44-179-60.dynamic.dsl.as9105.com
 80.44.180.217 # 80-44-180-217.dynamic.dsl.as9105.com
 80.44.185.175 # 80-44-185-175.dynamic.dsl.as9105.com
@@ -699,7 +696,6 @@
 88.105.190.199 # 88-105-190-199.dynamic.dsl.as9105.com
 88.105.217.223 # 88-105-217-223.dynamic.dsl.as9105.com
 88.105.7.33 # 88-105-7-33.dynamic.dsl.as9105.com
-88.105.99.68 # 88-105-99-68.dynamic.dsl.as9105.com
 88.106.0.12 # 88-106-0-12.dynamic.dsl.as9105.com
 88.106.1.153 # 88-106-1-153.dynamic.dsl.as9105.com
 88.106.100.130 # 88-106-100-130.dynamic.dsl.as9105.com
@@ -779,7 +775,6 @@
 88.107.215.69 # 88-107-215-69.dynamic.dsl.as9105.com
 88.107.22.138 # 88-107-22-138.dynamic.dsl.as9105.com
 88.107.222.184 # 88-107-222-184.dynamic.dsl.as9105.com
-88.107.224.212 # 88-107-224-212.dynamic.dsl.as9105.com
 88.107.225.51 # 88-107-225-51.dynamic.dsl.as9105.com
 88.107.225.88 # 88-107-225-88.dynamic.dsl.as9105.com
 88.107.25.180 # 88-107-25-180.dynamic.dsl.as9105.com
@@ -841,9 +836,7 @@
 88.108.87.28 # 88-108-87-28.dynamic.dsl.as9105.com
 88.108.90.145 # 88-108-90-145.dynamic.dsl.as9105.com
 88.109.100.173 # 88-109-100-173.dynamic.dsl.as9105.com
-88.109.101.114 # 88-109-101-114.dynamic.dsl.as9105.com
 88.109.110.139 # 88-109-110-139.dynamic.dsl.as9105.com
-88.109.112.40 # 88-109-112-40.dynamic.dsl.as9105.com
 88.109.125.28 # 88-109-125-28.dynamic.dsl.as9105.com
 88.109.128.147 # 88-109-128-147.dynamic.dsl.as9105.com
 88.109.134.119 # 88-109-134-119.dynamic.dsl.as9105.com
@@ -1011,9 +1004,7 @@
 88.111.196.116 # 88-111-196-116.dynamic.dsl.as9105.com
 88.111.196.211 # 88-111-196-211.dynamic.dsl.as9105.com
 88.111.201.69 # 88-111-201-69.dynamic.dsl.as9105.com
-88.111.202.48 # 88-111-202-48.dynamic.dsl.as9105.com
 88.111.209.201 # 88-111-209-201.dynamic.dsl.as9105.com
-88.111.215.219 # 88-111-215-219.dynamic.dsl.as9105.com
 88.111.217.191 # 88-111-217-191.dynamic.dsl.as9105.com
 88.111.217.204 # 88-111-217-204.dynamic.dsl.as9105.com
 88.111.222.140 # 88-111-222-140.dynamic.dsl.as9105.com
@@ -2045,6 +2036,7 @@
 54.145.208.105 # ec2-54-145-208-105.compute-1.amazonaws.com
 54.146.224.147 # ec2-54-146-224-147.compute-1.amazonaws.com
 54.147.144.77 # ec2-54-147-144-77.compute-1.amazonaws.com
+54.152.170.66 # ec2-54-152-170-66.compute-1.amazonaws.com
 54.152.226.39 # ec2-54-152-226-39.compute-1.amazonaws.com
 54.159.200.192 # ec2-54-159-200-192.compute-1.amazonaws.com
 54.160.124.92 # ec2-54-160-124-92.compute-1.amazonaws.com
