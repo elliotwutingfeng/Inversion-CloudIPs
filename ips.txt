@@ -451,7 +451,6 @@
 79.66.119.123 # 79-66-119-123.dynamic.dsl.as9105.com
 79.66.181.255 # 79-66-181-255.dynamic.dsl.as9105.com
 79.67.111.219 # 79-67-111-219.dynamic.dsl.as9105.com
-79.68.125.82 # 79-68-125-82.dynamic.dsl.as9105.com
 79.68.255.35 # 79-68-255-35.dynamic.dsl.as9105.com
 79.68.51.60 # 79-68-51-60.dynamic.dsl.as9105.com
 79.68.78.201 # 79-68-78-201.dynamic.dsl.as9105.com
@@ -476,7 +475,6 @@
 79.76.131.191 # 79-76-131-191.dynamic.dsl.as9105.com
 79.76.132.90 # 79-76-132-90.dynamic.dsl.as9105.com
 79.76.133.175 # 79-76-133-175.dynamic.dsl.as9105.com
-79.76.141.169 # 79-76-141-169.dynamic.dsl.as9105.com
 79.76.155.225 # 79-76-155-225.dynamic.dsl.as9105.com
 79.76.156.56 # 79-76-156-56.dynamic.dsl.as9105.com
 79.76.178.250 # 79-76-178-250.dynamic.dsl.as9105.com
@@ -977,7 +975,6 @@
 88.111.140.69 # 88-111-140-69.dynamic.dsl.as9105.com
 88.111.141.26 # 88-111-141-26.dynamic.dsl.as9105.com
 88.111.143.234 # 88-111-143-234.dynamic.dsl.as9105.com
-88.111.143.235 # 88-111-143-235.dynamic.dsl.as9105.com
 88.111.143.46 # 88-111-143-46.dynamic.dsl.as9105.com
 88.111.144.201 # 88-111-144-201.dynamic.dsl.as9105.com
 88.111.146.88 # 88-111-146-88.dynamic.dsl.as9105.com
@@ -1773,7 +1770,6 @@
 94.21.80.248 # 94-21-80-248.pool.digikabel.hu
 94.21.83.74 # 94-21-83-74.pool.digikabel.hu
 96.31.74.178 # 96-31-74-178.static.hvvc.us
-96.64.109.210 # 96-64-109-210-static.hfc.comcastbusiness.net
 96.65.177.117 # 96-65-177-117-static.hfc.comcastbusiness.net
 96.68.61.126 # 96-68-61-126-static.hfc.comcastbusiness.net
 96.81.89.237 # 96-81-89-237-static.hfc.comcastbusiness.net
