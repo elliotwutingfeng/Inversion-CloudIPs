@@ -86,7 +86,6 @@
 35.199.79.49 # 49.79.199.35.bc.googleusercontent.com
 50.192.148.14 # 50-192-148-14-static.hfc.comcastbusiness.net
 50.194.185.213 # 50-194-185-213-static.hfc.comcastbusiness.net
-50.195.150.107 # 50-195-150-107-static.hfc.comcastbusiness.net
 50.196.73.150 # 50-196-73-150-static.hfc.comcastbusiness.net
 50.198.118.45 # 50-198-118-45-static.hfc.comcastbusiness.net
 50.198.13.229 # 50-198-13-229-static.hfc.comcastbusiness.net
@@ -734,7 +733,6 @@
 88.107.114.106 # 88-107-114-106.dynamic.dsl.as9105.com
 88.107.117.76 # 88-107-117-76.dynamic.dsl.as9105.com
 88.107.118.172 # 88-107-118-172.dynamic.dsl.as9105.com
-88.107.12.216 # 88-107-12-216.dynamic.dsl.as9105.com
 88.107.150.202 # 88-107-150-202.dynamic.dsl.as9105.com
 88.107.153.227 # 88-107-153-227.dynamic.dsl.as9105.com
 88.107.161.129 # 88-107-161-129.dynamic.dsl.as9105.com
@@ -906,7 +904,6 @@
 88.110.156.163 # 88-110-156-163.dynamic.dsl.as9105.com
 88.110.157.251 # 88-110-157-251.dynamic.dsl.as9105.com
 88.110.17.132 # 88-110-17-132.dynamic.dsl.as9105.com
-88.110.17.182 # 88-110-17-182.dynamic.dsl.as9105.com
 88.110.176.191 # 88-110-176-191.dynamic.dsl.as9105.com
 88.110.178.103 # 88-110-178-103.dynamic.dsl.as9105.com
 88.110.180.120 # 88-110-180-120.dynamic.dsl.as9105.com
@@ -973,7 +970,6 @@
 88.111.152.124 # 88-111-152-124.dynamic.dsl.as9105.com
 88.111.152.19 # 88-111-152-19.dynamic.dsl.as9105.com
 88.111.153.198 # 88-111-153-198.dynamic.dsl.as9105.com
-88.111.153.78 # 88-111-153-78.dynamic.dsl.as9105.com
 88.111.158.19 # 88-111-158-19.dynamic.dsl.as9105.com
 88.111.164.151 # 88-111-164-151.dynamic.dsl.as9105.com
 88.111.180.96 # 88-111-180-96.dynamic.dsl.as9105.com
@@ -1777,6 +1773,7 @@
 13.127.143.230 # ec2-13-127-143-230.ap-south-1.compute.amazonaws.com
 13.127.44.255 # ec2-13-127-44-255.ap-south-1.compute.amazonaws.com
 13.201.18.130 # ec2-13-201-18-130.ap-south-1.compute.amazonaws.com
+13.202.239.221 # ec2-13-202-239-221.ap-south-1.compute.amazonaws.com
 13.203.188.70 # ec2-13-203-188-70.ap-south-1.compute.amazonaws.com
 13.208.141.78 # ec2-13-208-141-78.ap-northeast-3.compute.amazonaws.com
 13.208.166.144 # ec2-13-208-166-144.ap-northeast-3.compute.amazonaws.com
@@ -2549,7 +2546,6 @@
 92.31.193.50 # host-92-31-193-50.as13285.net
 92.31.243.135 # host-92-31-243-135.as13285.net
 92.31.243.238 # host-92-31-243-238.as13285.net
-92.31.243.253 # host-92-31-243-253.as13285.net
 92.31.243.43 # host-92-31-243-43.as13285.net
 92.31.244.153 # host-92-31-244-153.as13285.net
 92.31.246.107 # host-92-31-246-107.as13285.net
