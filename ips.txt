@@ -5,6 +5,7 @@
 109.170.138.65 # 109-170-138-65.xdsl.murphx.net
 109.170.159.19 # 109-170-159-19.xdsl.murphx.net
 122.223.74.97 # 122-223-74-97.aichi.ap.gmo-isp.jp
+138.0.4.23 # 138-0-4-23.static.lrfconections.com.br
 144.91.108.8 # 144.91.108.8.nip.io
 152.44.38.226 # 152-44-38-226.us-chi1.upcloud.host
 162.220.62.21 # 162-220-62-21.static.hvvc.us
@@ -119,7 +120,6 @@
 74.93.128.254 # 74-93-128-254-memphis-tn.hfc.comcastbusiness.net
 74.95.174.238 # 74-95-174-238-philadelphia.hfc.comcastbusiness.net
 74.95.82.70 # 74-95-82-70-washingtondc.hfc.comcastbusiness.net
-74.95.89.93 # 74-95-89-93-washingtondc.hfc.comcastbusiness.net
 74.211.107.214 # 74.211.107.214.16clouds.com
 75.146.127.53 # 75-146-127-53-illinnois.hfc.comcastbusiness.net
 75.146.187.90 # 75-146-187-90-minnesota.hfc.comcastbusiness.net
@@ -450,7 +450,6 @@
 79.68.255.35 # 79-68-255-35.dynamic.dsl.as9105.com
 79.68.51.60 # 79-68-51-60.dynamic.dsl.as9105.com
 79.68.78.201 # 79-68-78-201.dynamic.dsl.as9105.com
-79.69.138.84 # 79-69-138-84.dynamic.dsl.as9105.com
 79.69.94.155 # 79-69-94-155.dynamic.dsl.as9105.com
 79.70.100.113 # 79-70-100-113.dynamic.dsl.as9105.com
 79.70.157.130 # 79-70-157-130.dynamic.dsl.as9105.com
@@ -865,7 +864,6 @@
 88.109.79.175 # 88-109-79-175.dynamic.dsl.as9105.com
 88.109.84.62 # 88-109-84-62.dynamic.dsl.as9105.com
 88.109.87.4 # 88-109-87-4.dynamic.dsl.as9105.com
-88.109.94.192 # 88-109-94-192.dynamic.dsl.as9105.com
 88.109.94.79 # 88-109-94-79.dynamic.dsl.as9105.com
 88.110.106.146 # 88-110-106-146.dynamic.dsl.as9105.com
 88.110.11.244 # 88-110-11-244.dynamic.dsl.as9105.com
@@ -1169,7 +1167,6 @@
 93.136.184.201 # 93-136-184-201.adsl.net.t-com.hr
 93.136.186.50 # 93-136-186-50.adsl.net.t-com.hr
 93.136.196.207 # 93-136-196-207.adsl.net.t-com.hr
-93.136.202.130 # 93-136-202-130.adsl.net.t-com.hr
 93.136.206.1 # 93-136-206-1.adsl.net.t-com.hr
 93.136.228.33 # 93-136-228-33.adsl.net.t-com.hr
 93.136.229.156 # 93-136-229-156.adsl.net.t-com.hr
@@ -2593,9 +2590,9 @@
 84.9.213.142 # static-84-9-213-142.vodafonexdsl.co.uk
 84.9.222.2 # static-84-9-222-2.vodafonexdsl.co.uk
 84.9.226.10 # static-84-9-226-10.vodafonexdsl.co.uk
+84.9.226.77 # static-84-9-226-77.vodafonexdsl.co.uk
 84.9.28.215 # static-84-9-28-215.vodafonexdsl.co.uk
 84.9.29.211 # static-84-9-29-211.vodafonexdsl.co.uk
-84.9.30.190 # static-84-9-30-190.vodafonexdsl.co.uk
 84.9.33.203 # static-84-9-33-203.vodafonexdsl.co.uk
 84.9.35.200 # static-84-9-35-200.vodafonexdsl.co.uk
 84.9.37.216 # static-84-9-37-216.vodafonexdsl.co.uk
