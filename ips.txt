@@ -6,7 +6,6 @@
 109.170.159.19 # 109-170-159-19.xdsl.murphx.net
 122.223.74.97 # 122-223-74-97.aichi.ap.gmo-isp.jp
 138.0.4.23 # 138-0-4-23.static.lrfconections.com.br
-144.91.108.8 # 144.91.108.8.nip.io
 152.44.38.226 # 152-44-38-226.us-chi1.upcloud.host
 162.220.62.21 # 162-220-62-21.static.hvvc.us
 162.250.200.218 # 162-250-200-218.static.as40244.net
@@ -48,7 +47,6 @@
 195.38.102.197 # 195-38-102-197.pool.digikabel.hu
 195.38.102.97 # 195-38-102-97.pool.digikabel.hu
 195.38.116.12 # 195-38-116-12.pool.digikabel.hu
-198.0.152.54 # 198-0-152-54-static.hfc.comcastbusiness.net
 198.178.124.50 # 198-178-124-50.static.hvvc.us
 198.178.126.25 # 198-178-126-25.static.hvvc.us
 198.178.127.39 # 198-178-127-39.static.hvvc.us
@@ -92,7 +90,6 @@
 50.247.102.170 # 50-247-102-170-static.hfc.comcastbusiness.net
 50.248.133.249 # 50-248-133-249-static.hfc.comcastbusiness.net
 50.254.164.225 # 50-254-164-225-static.hfc.comcastbusiness.net
-50.73.121.126 # 50-73-121-126-ip-static.hfc.comcastbusiness.net
 60.242.75.145 # 60-242-75-145.tpgi.com.au
 62.165.219.172 # 62-165-219-172.pool.digikabel.hu
 62.165.244.156 # 62-165-244-156.pool.digikabel.hu
@@ -460,7 +457,6 @@
 79.73.139.192 # 79-73-139-192.dynamic.dsl.as9105.com
 79.73.192.115 # 79-73-192-115.dynamic.dsl.as9105.com
 79.73.195.174 # 79-73-195-174.dynamic.dsl.as9105.com
-79.73.211.40 # 79-73-211-40.dynamic.dsl.as9105.com
 79.73.3.200 # 79-73-3-200.dynamic.dsl.as9105.com
 79.73.97.244 # 79-73-97-244.dynamic.dsl.as9105.com
 79.76.128.155 # 79-76-128-155.dynamic.dsl.as9105.com
@@ -510,7 +506,6 @@
 80.42.137.145 # 80-42-137-145.dynamic.dsl.as9105.com
 80.42.137.33 # 80-42-137-33.dynamic.dsl.as9105.com
 80.42.139.189 # 80-42-139-189.dynamic.dsl.as9105.com
-80.42.140.189 # 80-42-140-189.dynamic.dsl.as9105.com
 80.42.142.112 # 80-42-142-112.dynamic.dsl.as9105.com
 80.42.142.140 # 80-42-142-140.dynamic.dsl.as9105.com
 80.42.146.62 # 80-42-146-62.dynamic.dsl.as9105.com
@@ -976,7 +971,6 @@
 88.111.34.81 # 88-111-34-81.dynamic.dsl.as9105.com
 88.111.39.83 # 88-111-39-83.dynamic.dsl.as9105.com
 88.111.50.78 # 88-111-50-78.dynamic.dsl.as9105.com
-88.111.58.217 # 88-111-58-217.dynamic.dsl.as9105.com
 88.111.63.245 # 88-111-63-245.dynamic.dsl.as9105.com
 88.111.65.189 # 88-111-65-189.dynamic.dsl.as9105.com
 88.111.67.110 # 88-111-67-110.dynamic.dsl.as9105.com
@@ -1739,6 +1733,7 @@
 96.91.96.226 # 96-91-96-226-static.hfc.comcastbusiness.net
 96.94.117.222 # 96-94-117-222-static.hfc.comcastbusiness.net
 96.95.125.122 # 96-95-125-122-static.hfc.comcastbusiness.net
+84.227.29.70 # adsl-84-227-29-70.adslplus.ch
 134.228.20.43 # cm-134-228-20-43.buckeyecom.net
 45.88.108.231 # condescending-kilby.45-88-108-231.plesk.page
 100.26.200.250 # ec2-100-26-200-250.compute-1.amazonaws.com
@@ -1839,6 +1834,7 @@
 18.191.212.190 # ec2-18-191-212-190.us-east-2.compute.amazonaws.com
 18.191.40.153 # ec2-18-191-40-153.us-east-2.compute.amazonaws.com
 18.196.105.68 # ec2-18-196-105-68.eu-central-1.compute.amazonaws.com
+18.196.229.47 # ec2-18-196-229-47.eu-central-1.compute.amazonaws.com
 18.207.173.155 # ec2-18-207-173-155.compute-1.amazonaws.com
 18.208.215.164 # ec2-18-208-215-164.compute-1.amazonaws.com
 18.209.168.198 # ec2-18-209-168-198.compute-1.amazonaws.com
