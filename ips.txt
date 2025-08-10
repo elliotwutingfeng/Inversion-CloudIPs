@@ -85,7 +85,6 @@
 50.194.185.213 # 50-194-185-213-static.hfc.comcastbusiness.net
 50.196.73.150 # 50-196-73-150-static.hfc.comcastbusiness.net
 50.198.118.45 # 50-198-118-45-static.hfc.comcastbusiness.net
-50.198.13.229 # 50-198-13-229-static.hfc.comcastbusiness.net
 50.198.255.225 # 50-198-255-225-static.hfc.comcastbusiness.net
 50.247.102.170 # 50-247-102-170-static.hfc.comcastbusiness.net
 50.248.133.249 # 50-248-133-249-static.hfc.comcastbusiness.net
@@ -454,7 +453,6 @@
 79.72.27.31 # 79-72-27-31.dynamic.dsl.as9105.com
 79.73.102.6 # 79-73-102-6.dynamic.dsl.as9105.com
 79.73.132.224 # 79-73-132-224.dynamic.dsl.as9105.com
-79.73.139.192 # 79-73-139-192.dynamic.dsl.as9105.com
 79.73.192.115 # 79-73-192-115.dynamic.dsl.as9105.com
 79.73.195.174 # 79-73-195-174.dynamic.dsl.as9105.com
 79.73.3.200 # 79-73-3-200.dynamic.dsl.as9105.com
@@ -767,7 +765,6 @@
 88.108.14.203 # 88-108-14-203.dynamic.dsl.as9105.com
 88.108.16.31 # 88-108-16-31.dynamic.dsl.as9105.com
 88.108.160.10 # 88-108-160-10.dynamic.dsl.as9105.com
-88.108.160.232 # 88-108-160-232.dynamic.dsl.as9105.com
 88.108.162.172 # 88-108-162-172.dynamic.dsl.as9105.com
 88.108.164.6 # 88-108-164-6.dynamic.dsl.as9105.com
 88.108.169.122 # 88-108-169-122.dynamic.dsl.as9105.com
@@ -895,7 +892,6 @@
 88.110.227.0 # 88-110-227-0.dynamic.dsl.as9105.com
 88.110.228.55 # 88-110-228-55.dynamic.dsl.as9105.com
 88.110.233.128 # 88-110-233-128.dynamic.dsl.as9105.com
-88.110.240.221 # 88-110-240-221.dynamic.dsl.as9105.com
 88.110.244.13 # 88-110-244-13.dynamic.dsl.as9105.com
 88.110.245.48 # 88-110-245-48.dynamic.dsl.as9105.com
 88.110.247.248 # 88-110-247-248.dynamic.dsl.as9105.com
