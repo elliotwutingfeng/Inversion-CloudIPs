@@ -953,14 +953,12 @@
 88.111.34.81 # 88-111-34-81.dynamic.dsl.as9105.com
 88.111.39.83 # 88-111-39-83.dynamic.dsl.as9105.com
 88.111.50.78 # 88-111-50-78.dynamic.dsl.as9105.com
-88.111.63.245 # 88-111-63-245.dynamic.dsl.as9105.com
 88.111.65.189 # 88-111-65-189.dynamic.dsl.as9105.com
 88.111.67.110 # 88-111-67-110.dynamic.dsl.as9105.com
 88.111.7.112 # 88-111-7-112.dynamic.dsl.as9105.com
 88.111.8.122 # 88-111-8-122.dynamic.dsl.as9105.com
 88.111.8.31 # 88-111-8-31.dynamic.dsl.as9105.com
 88.111.81.118 # 88-111-81-118.dynamic.dsl.as9105.com
-88.111.84.115 # 88-111-84-115.dynamic.dsl.as9105.com
 88.111.84.123 # 88-111-84-123.dynamic.dsl.as9105.com
 88.111.84.15 # 88-111-84-15.dynamic.dsl.as9105.com
 88.111.89.137 # 88-111-89-137.dynamic.dsl.as9105.com
@@ -1808,6 +1806,7 @@
 18.143.194.201 # ec2-18-143-194-201.ap-southeast-1.compute.amazonaws.com
 18.153.98.227 # ec2-18-153-98-227.eu-central-1.compute.amazonaws.com
 18.159.41.48 # ec2-18-159-41-48.eu-central-1.compute.amazonaws.com
+18.166.255.115 # ec2-18-166-255-115.ap-east-1.compute.amazonaws.com
 18.183.176.73 # ec2-18-183-176-73.ap-northeast-1.compute.amazonaws.com
 18.188.115.80 # ec2-18-188-115-80.us-east-2.compute.amazonaws.com
 18.188.141.16 # ec2-18-188-141-16.us-east-2.compute.amazonaws.com
