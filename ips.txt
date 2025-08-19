@@ -1870,6 +1870,7 @@
 3.92.27.68 # ec2-3-92-27-68.compute-1.amazonaws.com
 3.93.180.32 # ec2-3-93-180-32.compute-1.amazonaws.com
 3.94.194.195 # ec2-3-94-194-195.compute-1.amazonaws.com
+3.95.244.158 # ec2-3-95-244-158.compute-1.amazonaws.com
 3.95.80.3 # ec2-3-95-80-3.compute-1.amazonaws.com
 3.96.149.79 # ec2-3-96-149-79.ca-central-1.compute.amazonaws.com
 3.96.179.99 # ec2-3-96-179-99.ca-central-1.compute.amazonaws.com
