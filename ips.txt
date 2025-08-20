@@ -1699,7 +1699,6 @@
 96.65.177.117 # 96-65-177-117-static.hfc.comcastbusiness.net
 96.68.61.126 # 96-68-61-126-static.hfc.comcastbusiness.net
 96.84.48.78 # 96-84-48-78-static.hfc.comcastbusiness.net
-96.91.96.226 # 96-91-96-226-static.hfc.comcastbusiness.net
 96.94.117.222 # 96-94-117-222-static.hfc.comcastbusiness.net
 96.95.125.122 # 96-95-125-122-static.hfc.comcastbusiness.net
 84.227.29.70 # adsl-84-227-29-70.adslplus.ch
