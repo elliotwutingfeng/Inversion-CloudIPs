@@ -1840,6 +1840,7 @@
 3.36.132.137 # ec2-3-36-132-137.ap-northeast-2.compute.amazonaws.com
 3.64.11.111 # ec2-3-64-11-111.eu-central-1.compute.amazonaws.com
 3.80.35.96 # ec2-3-80-35-96.compute-1.amazonaws.com
+3.80.74.72 # ec2-3-80-74-72.compute-1.amazonaws.com
 3.81.174.191 # ec2-3-81-174-191.compute-1.amazonaws.com
 3.81.235.104 # ec2-3-81-235-104.compute-1.amazonaws.com
 3.81.5.220 # ec2-3-81-5-220.compute-1.amazonaws.com
