@@ -1850,6 +1850,7 @@
 3.88.191.13 # ec2-3-88-191-13.compute-1.amazonaws.com
 3.89.68.246 # ec2-3-89-68-246.compute-1.amazonaws.com
 3.90.186.154 # ec2-3-90-186-154.compute-1.amazonaws.com
+3.92.20.66 # ec2-3-92-20-66.compute-1.amazonaws.com
 3.92.27.68 # ec2-3-92-27-68.compute-1.amazonaws.com
 3.93.180.32 # ec2-3-93-180-32.compute-1.amazonaws.com
 3.94.134.19 # ec2-3-94-134-19.compute-1.amazonaws.com
@@ -2526,7 +2527,6 @@
 108.6.216.35 # static-108-6-216-35.nycmny.fios.verizon.net
 212.158.245.125 # static-212-158-245-125.vodafonexdsl.co.uk
 212.158.247.218 # static-212-158-247-218.vodafonexdsl.co.uk
-70.18.212.242 # static-70-18-212-242.nycmny.fios.verizon.net
 71.251.197.234 # static-71-251-197-234.nwrknj.fios.verizon.net
 83.146.10.206 # static-83-146-10-206.vodafonexdsl.co.uk
 83.146.9.49 # static-83-146-9-49.vodafonexdsl.co.uk
