@@ -5,7 +5,6 @@
 109.170.138.65 # 109-170-138-65.xdsl.murphx.net
 109.170.159.19 # 109-170-159-19.xdsl.murphx.net
 122.223.74.97 # 122-223-74-97.aichi.ap.gmo-isp.jp
-138.0.4.23 # 138-0-4-23.static.lrfconections.com.br
 152.44.38.226 # 152-44-38-226.us-chi1.upcloud.host
 162.220.62.21 # 162-220-62-21.static.hvvc.us
 162.250.200.218 # 162-250-200-218.static.as40244.net
@@ -1675,7 +1674,6 @@
 94.21.83.74 # 94-21-83-74.pool.digikabel.hu
 96.31.74.178 # 96-31-74-178.static.hvvc.us
 96.65.177.117 # 96-65-177-117-static.hfc.comcastbusiness.net
-96.68.61.126 # 96-68-61-126-static.hfc.comcastbusiness.net
 96.84.48.78 # 96-84-48-78-static.hfc.comcastbusiness.net
 96.94.117.222 # 96-94-117-222-static.hfc.comcastbusiness.net
 96.95.125.122 # 96-95-125-122-static.hfc.comcastbusiness.net
@@ -2021,7 +2019,6 @@
 2.102.81.205 # host-2-102-81-205.as13285.net
 2.102.88.115 # host-2-102-88-115.as13285.net
 2.103.1.145 # host-2-103-1-145.as13285.net
-2.103.100.198 # host-2-103-100-198.as13285.net
 2.103.111.172 # host-2-103-111-172.as13285.net
 2.103.112.198 # host-2-103-112-198.as13285.net
 2.103.117.184 # host-2-103-117-184.as13285.net
