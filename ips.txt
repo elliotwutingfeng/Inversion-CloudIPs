@@ -79,7 +79,6 @@
 50.192.148.14 # 50-192-148-14-static.hfc.comcastbusiness.net
 50.196.73.150 # 50-196-73-150-static.hfc.comcastbusiness.net
 50.198.255.225 # 50-198-255-225-static.hfc.comcastbusiness.net
-50.247.102.170 # 50-247-102-170-static.hfc.comcastbusiness.net
 50.248.133.249 # 50-248-133-249-static.hfc.comcastbusiness.net
 60.242.75.145 # 60-242-75-145.tpgi.com.au
 62.165.219.172 # 62-165-219-172.pool.digikabel.hu
