@@ -646,7 +646,6 @@
 88.106.146.105 # 88-106-146-105.dynamic.dsl.as9105.com
 88.106.146.91 # 88-106-146-91.dynamic.dsl.as9105.com
 88.106.161.90 # 88-106-161-90.dynamic.dsl.as9105.com
-88.106.162.88 # 88-106-162-88.dynamic.dsl.as9105.com
 88.106.166.75 # 88-106-166-75.dynamic.dsl.as9105.com
 88.106.174.20 # 88-106-174-20.dynamic.dsl.as9105.com
 88.106.185.46 # 88-106-185-46.dynamic.dsl.as9105.com
@@ -728,7 +727,6 @@
 88.108.137.69 # 88-108-137-69.dynamic.dsl.as9105.com
 88.108.16.31 # 88-108-16-31.dynamic.dsl.as9105.com
 88.108.160.10 # 88-108-160-10.dynamic.dsl.as9105.com
-88.108.162.172 # 88-108-162-172.dynamic.dsl.as9105.com
 88.108.164.6 # 88-108-164-6.dynamic.dsl.as9105.com
 88.108.169.122 # 88-108-169-122.dynamic.dsl.as9105.com
 88.108.169.149 # 88-108-169-149.dynamic.dsl.as9105.com
@@ -2520,6 +2518,7 @@
 84.9.38.207 # static-84-9-38-207.vodafonexdsl.co.uk
 84.9.41.146 # static-84-9-41-146.vodafonexdsl.co.uk
 84.9.45.3 # static-84-9-45-3.vodafonexdsl.co.uk
+84.9.50.228 # static-84-9-50-228.vodafonexdsl.co.uk
 84.9.51.163 # static-84-9-51-163.vodafonexdsl.co.uk
 84.9.98.56 # static-84-9-98-56.vodafonexdsl.co.uk
 87.74.150.79 # static-87-74-150-79.vodafonexdsl.co.uk
