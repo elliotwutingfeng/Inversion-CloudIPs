@@ -99,7 +99,6 @@
 69.46.25.141 # 69-46-25-141.static.hvvc.us
 69.46.3.151 # 69-46-3-151.static.hvvc.us
 69.46.4.100 # 69-46-4-100.static.hvvc.us
-70.88.227.189 # 70-88-227-189-st-margrets-elementary-school-md.hfc.comcastbusiness.net
 70.91.109.245 # 70-91-109-245-illinois-il.hfc.comcastbusiness.net
 74.50.125.11 # 74-50-125-11.static.hvvc.us
 74.93.128.254 # 74-93-128-254-memphis-tn.hfc.comcastbusiness.net
@@ -126,7 +125,6 @@
 78.0.122.1 # 78-0-122-1.adsl.net.t-com.hr
 78.0.123.189 # 78-0-123-189.adsl.net.t-com.hr
 78.0.125.201 # 78-0-125-201.adsl.net.t-com.hr
-78.0.127.6 # 78-0-127-6.adsl.net.t-com.hr
 78.0.128.14 # 78-0-128-14.adsl.net.t-com.hr
 78.0.129.105 # 78-0-129-105.adsl.net.t-com.hr
 78.0.129.132 # 78-0-129-132.adsl.net.t-com.hr
@@ -566,7 +564,6 @@
 80.44.36.212 # 80-44-36-212.dynamic.dsl.as9105.com
 80.44.48.24 # 80-44-48-24.dynamic.dsl.as9105.com
 80.44.5.149 # 80-44-5-149.dynamic.dsl.as9105.com
-80.44.54.155 # 80-44-54-155.dynamic.dsl.as9105.com
 80.44.54.189 # 80-44-54-189.dynamic.dsl.as9105.com
 80.44.58.227 # 80-44-58-227.dynamic.dsl.as9105.com
 80.44.62.191 # 80-44-62-191.dynamic.dsl.as9105.com
@@ -625,7 +622,6 @@
 87.97.85.191 # 87-97-85-191.pool.digikabel.hu
 88.104.224.192 # 88-104-224-192.dynamic.dsl.as9105.com
 88.105.131.219 # 88-105-131-219.dynamic.dsl.as9105.com
-88.105.183.15 # 88-105-183-15.dynamic.dsl.as9105.com
 88.105.217.223 # 88-105-217-223.dynamic.dsl.as9105.com
 88.106.0.12 # 88-106-0-12.dynamic.dsl.as9105.com
 88.106.1.153 # 88-106-1-153.dynamic.dsl.as9105.com
@@ -1045,7 +1041,6 @@
 89.172.82.63 # 89-172-82-63.adsl.net.t-com.hr
 89.172.86.212 # 89-172-86-212.adsl.net.t-com.hr
 89.172.87.79 # 89-172-87-79.adsl.net.t-com.hr
-89.172.97.174 # 89-172-97-174.adsl.net.t-com.hr
 91.83.192.102 # 91-83-192-102.pool.digikabel.hu
 92.249.179.47 # 92-249-179-47.pool.digikabel.hu
 93.136.112.179 # 93-136-112-179.adsl.net.t-com.hr
@@ -1072,7 +1067,6 @@
 93.136.168.89 # 93-136-168-89.adsl.net.t-com.hr
 93.136.179.110 # 93-136-179-110.adsl.net.t-com.hr
 93.136.179.185 # 93-136-179-185.adsl.net.t-com.hr
-93.136.179.192 # 93-136-179-192.adsl.net.t-com.hr
 93.136.183.111 # 93-136-183-111.adsl.net.t-com.hr
 93.136.184.201 # 93-136-184-201.adsl.net.t-com.hr
 93.136.186.50 # 93-136-186-50.adsl.net.t-com.hr
@@ -1121,7 +1115,6 @@
 93.137.221.212 # 93-137-221-212.adsl.net.t-com.hr
 93.137.221.72 # 93-137-221-72.adsl.net.t-com.hr
 93.137.222.234 # 93-137-222-234.adsl.net.t-com.hr
-93.137.223.2 # 93-137-223-2.adsl.net.t-com.hr
 93.137.225.137 # 93-137-225-137.adsl.net.t-com.hr
 93.137.228.174 # 93-137-228-174.adsl.net.t-com.hr
 93.137.228.207 # 93-137-228-207.adsl.net.t-com.hr
@@ -1184,7 +1177,6 @@
 93.138.134.33 # 93-138-134-33.adsl.net.t-com.hr
 93.138.14.34 # 93-138-14-34.adsl.net.t-com.hr
 93.138.149.20 # 93-138-149-20.adsl.net.t-com.hr
-93.138.149.86 # 93-138-149-86.adsl.net.t-com.hr
 93.138.15.161 # 93-138-15-161.adsl.net.t-com.hr
 93.138.16.188 # 93-138-16-188.adsl.net.t-com.hr
 93.138.161.94 # 93-138-161-94.adsl.net.t-com.hr
@@ -1211,7 +1203,6 @@
 93.138.227.18 # 93-138-227-18.adsl.net.t-com.hr
 93.138.229.86 # 93-138-229-86.adsl.net.t-com.hr
 93.138.231.225 # 93-138-231-225.adsl.net.t-com.hr
-93.138.232.167 # 93-138-232-167.adsl.net.t-com.hr
 93.138.233.26 # 93-138-233-26.adsl.net.t-com.hr
 93.138.234.230 # 93-138-234-230.adsl.net.t-com.hr
 93.138.235.32 # 93-138-235-32.adsl.net.t-com.hr
@@ -1327,7 +1318,6 @@
 93.139.93.97 # 93-139-93-97.adsl.net.t-com.hr
 93.139.99.185 # 93-139-99-185.adsl.net.t-com.hr
 93.140.129.81 # 93-140-129-81.adsl.net.t-com.hr
-93.140.130.252 # 93-140-130-252.adsl.net.t-com.hr
 93.140.133.194 # 93-140-133-194.adsl.net.t-com.hr
 93.140.136.143 # 93-140-136-143.adsl.net.t-com.hr
 93.140.137.160 # 93-140-137-160.adsl.net.t-com.hr
@@ -1421,7 +1411,6 @@
 93.141.143.49 # 93-141-143-49.adsl.net.t-com.hr
 93.141.146.116 # 93-141-146-116.adsl.net.t-com.hr
 93.141.148.221 # 93-141-148-221.adsl.net.t-com.hr
-93.141.152.241 # 93-141-152-241.adsl.net.t-com.hr
 93.141.153.66 # 93-141-153-66.adsl.net.t-com.hr
 93.141.153.75 # 93-141-153-75.adsl.net.t-com.hr
 93.141.154.204 # 93-141-154-204.adsl.net.t-com.hr
@@ -1482,7 +1471,6 @@
 93.142.192.72 # 93-142-192-72.adsl.net.t-com.hr
 93.142.198.22 # 93-142-198-22.adsl.net.t-com.hr
 93.142.20.133 # 93-142-20-133.adsl.net.t-com.hr
-93.142.21.170 # 93-142-21-170.adsl.net.t-com.hr
 93.142.212.221 # 93-142-212-221.adsl.net.t-com.hr
 93.142.212.249 # 93-142-212-249.adsl.net.t-com.hr
 93.142.215.175 # 93-142-215-175.adsl.net.t-com.hr
@@ -1519,7 +1507,6 @@
 93.143.0.57 # 93-143-0-57.adsl.net.t-com.hr
 93.143.0.91 # 93-143-0-91.adsl.net.t-com.hr
 93.143.103.166 # 93-143-103-166.adsl.net.t-com.hr
-93.143.110.72 # 93-143-110-72.adsl.net.t-com.hr
 93.143.111.107 # 93-143-111-107.adsl.net.t-com.hr
 93.143.111.238 # 93-143-111-238.adsl.net.t-com.hr
 93.143.113.52 # 93-143-113-52.adsl.net.t-com.hr
@@ -1547,12 +1534,10 @@
 93.143.17.8 # 93-143-17-8.adsl.net.t-com.hr
 93.143.171.210 # 93-143-171-210.adsl.net.t-com.hr
 93.143.174.179 # 93-143-174-179.adsl.net.t-com.hr
-93.143.175.224 # 93-143-175-224.adsl.net.t-com.hr
 93.143.178.8 # 93-143-178-8.adsl.net.t-com.hr
 93.143.179.196 # 93-143-179-196.adsl.net.t-com.hr
 93.143.18.212 # 93-143-18-212.adsl.net.t-com.hr
 93.143.192.114 # 93-143-192-114.adsl.net.t-com.hr
-93.143.194.230 # 93-143-194-230.adsl.net.t-com.hr
 93.143.2.195 # 93-143-2-195.adsl.net.t-com.hr
 93.143.2.69 # 93-143-2-69.adsl.net.t-com.hr
 93.143.200.133 # 93-143-200-133.adsl.net.t-com.hr
@@ -1629,6 +1614,7 @@
 45.88.108.231 # condescending-kilby.45-88-108-231.plesk.page
 100.26.200.250 # ec2-100-26-200-250.compute-1.amazonaws.com
 107.23.166.216 # ec2-107-23-166-216.compute-1.amazonaws.com
+108.136.60.1 # ec2-108-136-60-1.ap-southeast-3.compute.amazonaws.com
 13.115.48.236 # ec2-13-115-48-236.ap-northeast-1.compute.amazonaws.com
 13.127.143.230 # ec2-13-127-143-230.ap-south-1.compute.amazonaws.com
 13.127.44.255 # ec2-13-127-44-255.ap-south-1.compute.amazonaws.com
@@ -1649,6 +1635,7 @@
 13.215.214.112 # ec2-13-215-214-112.ap-southeast-1.compute.amazonaws.com
 13.215.22.148 # ec2-13-215-22-148.ap-southeast-1.compute.amazonaws.com
 13.232.52.68 # ec2-13-232-52-68.ap-south-1.compute.amazonaws.com
+13.244.73.8 # ec2-13-244-73-8.af-south-1.compute.amazonaws.com
 13.250.179.223 # ec2-13-250-179-223.ap-southeast-1.compute.amazonaws.com
 13.250.231.125 # ec2-13-250-231-125.ap-southeast-1.compute.amazonaws.com
 13.250.42.156 # ec2-13-250-42-156.ap-southeast-1.compute.amazonaws.com
@@ -1679,6 +1666,7 @@
 13.61.21.80 # ec2-13-61-21-80.eu-north-1.compute.amazonaws.com
 13.61.35.47 # ec2-13-61-35-47.eu-north-1.compute.amazonaws.com
 15.157.72.109 # ec2-15-157-72-109.ca-central-1.compute.amazonaws.com
+15.161.138.84 # ec2-15-161-138-84.eu-south-1.compute.amazonaws.com
 15.164.103.179 # ec2-15-164-103-179.ap-northeast-2.compute.amazonaws.com
 15.188.58.208 # ec2-15-188-58-208.eu-west-3.compute.amazonaws.com
 15.236.158.5 # ec2-15-236-158-5.eu-west-3.compute.amazonaws.com
@@ -2204,7 +2192,6 @@
 80.47.63.149 # host-80-47-63-149.as13285.net
 80.47.68.233 # host-80-47-68-233.as13285.net
 80.47.7.75 # host-80-47-7-75.as13285.net
-80.47.72.20 # host-80-47-72-20.as13285.net
 80.47.73.47 # host-80-47-73-47.as13285.net
 80.47.76.92 # host-80-47-76-92.as13285.net
 80.47.77.129 # host-80-47-77-129.as13285.net
@@ -2249,7 +2236,6 @@
 89.242.24.85 # host-89-242-24-85.as13285.net
 89.243.10.190 # host-89-243-10-190.as13285.net
 89.243.10.244 # host-89-243-10-244.as13285.net
-89.243.11.103 # host-89-243-11-103.as13285.net
 89.243.210.16 # host-89-243-210-16.as13285.net
 89.243.211.80 # host-89-243-211-80.as13285.net
 89.243.222.226 # host-89-243-222-226.as13285.net
@@ -2383,7 +2369,6 @@
 92.30.245.6 # host-92-30-245-6.as13285.net
 92.30.9.16 # host-92-30-9-16.as13285.net
 92.31.0.232 # host-92-31-0-232.as13285.net
-92.31.1.7 # host-92-31-1-7.as13285.net
 92.31.104.227 # host-92-31-104-227.as13285.net
 92.31.104.5 # host-92-31-104-5.as13285.net
 92.31.105.170 # host-92-31-105-170.as13285.net
@@ -2489,7 +2474,6 @@
 87.75.116.66 # static-87-75-116-66.vodafonexdsl.co.uk
 87.75.118.38 # static-87-75-118-38.vodafonexdsl.co.uk
 87.75.123.96 # static-87-75-123-96.vodafonexdsl.co.uk
-87.75.158.22 # static-87-75-158-22.vodafonexdsl.co.uk
 87.75.97.119 # static-87-75-97-119.vodafonexdsl.co.uk
 87.75.99.202 # static-87-75-99-202.vodafonexdsl.co.uk
 96.231.174.160 # static-96-231-174-160.washdc.fios.verizon.net
