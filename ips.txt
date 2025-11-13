@@ -55,7 +55,6 @@
 212.139.186.81 # 212-139-186-81.dynamic.dsl.as9105.com
 212.139.233.182 # 212-139-233-182.dynamic.dsl.as9105.com
 212.139.245.98 # 212-139-245-98.dynamic.dsl.as9105.com
-212.139.37.6 # 212-139-37-6.dynamic.dsl.as9105.com
 212.139.57.238 # 212-139-57-238.dynamic.dsl.as9105.com
 212.139.64.106 # 212-139-64-106.dynamic.dsl.as9105.com
 212.139.71.87 # 212-139-71-87.dynamic.dsl.as9105.com
@@ -99,7 +98,6 @@
 69.46.25.141 # 69-46-25-141.static.hvvc.us
 69.46.3.151 # 69-46-3-151.static.hvvc.us
 69.46.4.100 # 69-46-4-100.static.hvvc.us
-70.91.109.245 # 70-91-109-245-illinois-il.hfc.comcastbusiness.net
 74.50.125.11 # 74-50-125-11.static.hvvc.us
 74.95.82.70 # 74-95-82-70-washingtondc.hfc.comcastbusiness.net
 74.211.107.214 # 74.211.107.214.16clouds.com
@@ -178,7 +176,6 @@
 78.1.36.5 # 78-1-36-5.adsl.net.t-com.hr
 78.1.38.194 # 78-1-38-194.adsl.net.t-com.hr
 78.1.38.251 # 78-1-38-251.adsl.net.t-com.hr
-78.1.63.215 # 78-1-63-215.adsl.net.t-com.hr
 78.1.93.145 # 78-1-93-145.adsl.net.t-com.hr
 78.131.105.240 # 78-131-105-240.pool.digikabel.hu
 78.131.71.185 # 78-131-71-185.pool.digikabel.hu
@@ -191,8 +188,6 @@
 78.2.193.64 # 78-2-193-64.adsl.net.t-com.hr
 78.2.203.0 # 78-2-203-0.adsl.net.t-com.hr
 78.2.206.217 # 78-2-206-217.adsl.net.t-com.hr
-78.2.40.50 # 78-2-40-50.adsl.net.t-com.hr
-78.2.41.4 # 78-2-41-4.adsl.net.t-com.hr
 78.2.47.84 # 78-2-47-84.adsl.net.t-com.hr
 78.2.51.239 # 78-2-51-239.adsl.net.t-com.hr
 78.2.55.96 # 78-2-55-96.adsl.net.t-com.hr
@@ -226,12 +221,10 @@
 78.3.46.98 # 78-3-46-98.adsl.net.t-com.hr
 78.3.47.150 # 78-3-47-150.adsl.net.t-com.hr
 78.3.69.213 # 78-3-69-213.adsl.net.t-com.hr
-78.3.77.63 # 78-3-77-63.adsl.net.t-com.hr
 78.3.80.248 # 78-3-80-248.adsl.net.t-com.hr
 78.3.80.86 # 78-3-80-86.adsl.net.t-com.hr
 78.3.81.230 # 78-3-81-230.adsl.net.t-com.hr
 78.3.81.86 # 78-3-81-86.adsl.net.t-com.hr
-78.3.82.98 # 78-3-82-98.adsl.net.t-com.hr
 78.3.87.205 # 78-3-87-205.adsl.net.t-com.hr
 78.3.87.244 # 78-3-87-244.adsl.net.t-com.hr
 78.3.88.13 # 78-3-88-13.adsl.net.t-com.hr
@@ -312,7 +305,6 @@
 80.42.221.73 # 80-42-221-73.dynamic.dsl.as9105.com
 80.42.237.71 # 80-42-237-71.dynamic.dsl.as9105.com
 80.42.250.232 # 80-42-250-232.dynamic.dsl.as9105.com
-80.42.33.51 # 80-42-33-51.dynamic.dsl.as9105.com
 80.42.34.145 # 80-42-34-145.dynamic.dsl.as9105.com
 80.42.37.119 # 80-42-37-119.dynamic.dsl.as9105.com
 80.42.42.207 # 80-42-42-207.dynamic.dsl.as9105.com
@@ -327,7 +319,6 @@
 80.44.100.208 # 80-44-100-208.dynamic.dsl.as9105.com
 80.44.102.40 # 80-44-102-40.dynamic.dsl.as9105.com
 80.44.115.53 # 80-44-115-53.dynamic.dsl.as9105.com
-80.44.117.138 # 80-44-117-138.dynamic.dsl.as9105.com
 80.44.123.41 # 80-44-123-41.dynamic.dsl.as9105.com
 80.44.124.190 # 80-44-124-190.dynamic.dsl.as9105.com
 80.44.127.57 # 80-44-127-57.dynamic.dsl.as9105.com
@@ -443,11 +434,9 @@
 88.107.51.82 # 88-107-51-82.dynamic.dsl.as9105.com
 88.107.54.183 # 88-107-54-183.dynamic.dsl.as9105.com
 88.107.60.116 # 88-107-60-116.dynamic.dsl.as9105.com
-88.107.72.194 # 88-107-72-194.dynamic.dsl.as9105.com
 88.107.75.27 # 88-107-75-27.dynamic.dsl.as9105.com
 88.107.8.252 # 88-107-8-252.dynamic.dsl.as9105.com
 88.107.95.137 # 88-107-95-137.dynamic.dsl.as9105.com
-88.107.97.190 # 88-107-97-190.dynamic.dsl.as9105.com
 88.108.107.26 # 88-108-107-26.dynamic.dsl.as9105.com
 88.108.115.253 # 88-108-115-253.dynamic.dsl.as9105.com
 88.108.124.90 # 88-108-124-90.dynamic.dsl.as9105.com
@@ -459,7 +448,6 @@
 88.108.19.54 # 88-108-19-54.dynamic.dsl.as9105.com
 88.108.216.142 # 88-108-216-142.dynamic.dsl.as9105.com
 88.108.229.241 # 88-108-229-241.dynamic.dsl.as9105.com
-88.108.230.179 # 88-108-230-179.dynamic.dsl.as9105.com
 88.108.233.244 # 88-108-233-244.dynamic.dsl.as9105.com
 88.108.24.214 # 88-108-24-214.dynamic.dsl.as9105.com
 88.108.39.175 # 88-108-39-175.dynamic.dsl.as9105.com
@@ -467,7 +455,6 @@
 88.108.68.32 # 88-108-68-32.dynamic.dsl.as9105.com
 88.108.83.63 # 88-108-83-63.dynamic.dsl.as9105.com
 88.108.87.28 # 88-108-87-28.dynamic.dsl.as9105.com
-88.109.125.28 # 88-109-125-28.dynamic.dsl.as9105.com
 88.109.128.147 # 88-109-128-147.dynamic.dsl.as9105.com
 88.109.134.119 # 88-109-134-119.dynamic.dsl.as9105.com
 88.109.143.39 # 88-109-143-39.dynamic.dsl.as9105.com
@@ -503,8 +490,6 @@
 88.109.94.79 # 88-109-94-79.dynamic.dsl.as9105.com
 88.110.11.244 # 88-110-11-244.dynamic.dsl.as9105.com
 88.110.111.32 # 88-110-111-32.dynamic.dsl.as9105.com
-88.110.115.116 # 88-110-115-116.dynamic.dsl.as9105.com
-88.110.133.215 # 88-110-133-215.dynamic.dsl.as9105.com
 88.110.134.230 # 88-110-134-230.dynamic.dsl.as9105.com
 88.110.145.223 # 88-110-145-223.dynamic.dsl.as9105.com
 88.110.154.55 # 88-110-154-55.dynamic.dsl.as9105.com
@@ -544,7 +529,6 @@
 88.111.137.42 # 88-111-137-42.dynamic.dsl.as9105.com
 88.111.143.46 # 88-111-143-46.dynamic.dsl.as9105.com
 88.111.144.201 # 88-111-144-201.dynamic.dsl.as9105.com
-88.111.148.151 # 88-111-148-151.dynamic.dsl.as9105.com
 88.111.158.19 # 88-111-158-19.dynamic.dsl.as9105.com
 88.111.180.96 # 88-111-180-96.dynamic.dsl.as9105.com
 88.111.189.85 # 88-111-189-85.dynamic.dsl.as9105.com
@@ -558,7 +542,6 @@
 88.111.34.81 # 88-111-34-81.dynamic.dsl.as9105.com
 88.111.50.78 # 88-111-50-78.dynamic.dsl.as9105.com
 88.111.65.189 # 88-111-65-189.dynamic.dsl.as9105.com
-88.111.67.110 # 88-111-67-110.dynamic.dsl.as9105.com
 88.111.8.31 # 88-111-8-31.dynamic.dsl.as9105.com
 88.111.81.118 # 88-111-81-118.dynamic.dsl.as9105.com
 88.111.84.123 # 88-111-84-123.dynamic.dsl.as9105.com
@@ -587,11 +570,9 @@
 89.172.174.53 # 89-172-174-53.adsl.net.t-com.hr
 89.172.176.133 # 89-172-176-133.adsl.net.t-com.hr
 89.172.176.197 # 89-172-176-197.adsl.net.t-com.hr
-89.172.177.36 # 89-172-177-36.adsl.net.t-com.hr
 89.172.178.223 # 89-172-178-223.adsl.net.t-com.hr
 89.172.210.28 # 89-172-210-28.adsl.net.t-com.hr
 89.172.220.140 # 89-172-220-140.adsl.net.t-com.hr
-89.172.233.252 # 89-172-233-252.adsl.net.t-com.hr
 89.172.241.142 # 89-172-241-142.adsl.net.t-com.hr
 89.172.243.248 # 89-172-243-248.adsl.net.t-com.hr
 89.172.36.144 # 89-172-36-144.adsl.net.t-com.hr
@@ -620,7 +601,6 @@
 92.249.179.47 # 92-249-179-47.pool.digikabel.hu
 93.136.112.235 # 93-136-112-235.adsl.net.t-com.hr
 93.136.118.61 # 93-136-118-61.adsl.net.t-com.hr
-93.136.123.145 # 93-136-123-145.adsl.net.t-com.hr
 93.136.131.249 # 93-136-131-249.adsl.net.t-com.hr
 93.136.131.41 # 93-136-131-41.adsl.net.t-com.hr
 93.136.139.200 # 93-136-139-200.adsl.net.t-com.hr
@@ -632,12 +612,10 @@
 93.136.229.156 # 93-136-229-156.adsl.net.t-com.hr
 93.136.240.48 # 93-136-240-48.adsl.net.t-com.hr
 93.136.25.250 # 93-136-25-250.adsl.net.t-com.hr
-93.136.82.124 # 93-136-82-124.adsl.net.t-com.hr
 93.136.87.236 # 93-136-87-236.adsl.net.t-com.hr
 93.137.114.177 # 93-137-114-177.adsl.net.t-com.hr
 93.137.117.12 # 93-137-117-12.adsl.net.t-com.hr
 93.137.195.248 # 93-137-195-248.adsl.net.t-com.hr
-93.137.201.36 # 93-137-201-36.adsl.net.t-com.hr
 93.137.221.212 # 93-137-221-212.adsl.net.t-com.hr
 93.137.29.72 # 93-137-29-72.adsl.net.t-com.hr
 93.137.30.182 # 93-137-30-182.adsl.net.t-com.hr
@@ -663,7 +641,6 @@
 93.138.234.230 # 93-138-234-230.adsl.net.t-com.hr
 93.138.236.173 # 93-138-236-173.adsl.net.t-com.hr
 93.138.249.84 # 93-138-249-84.adsl.net.t-com.hr
-93.138.34.241 # 93-138-34-241.adsl.net.t-com.hr
 93.138.35.88 # 93-138-35-88.adsl.net.t-com.hr
 93.138.48.169 # 93-138-48-169.adsl.net.t-com.hr
 93.138.52.93 # 93-138-52-93.adsl.net.t-com.hr
@@ -695,19 +672,14 @@
 93.139.214.218 # 93-139-214-218.adsl.net.t-com.hr
 93.139.214.53 # 93-139-214-53.adsl.net.t-com.hr
 93.139.215.129 # 93-139-215-129.adsl.net.t-com.hr
-93.139.215.144 # 93-139-215-144.adsl.net.t-com.hr
 93.139.215.162 # 93-139-215-162.adsl.net.t-com.hr
 93.139.215.202 # 93-139-215-202.adsl.net.t-com.hr
 93.139.255.167 # 93-139-255-167.adsl.net.t-com.hr
 93.139.29.199 # 93-139-29-199.adsl.net.t-com.hr
-93.139.44.174 # 93-139-44-174.adsl.net.t-com.hr
 93.139.5.186 # 93-139-5-186.adsl.net.t-com.hr
 93.139.54.254 # 93-139-54-254.adsl.net.t-com.hr
 93.139.72.213 # 93-139-72-213.adsl.net.t-com.hr
 93.139.82.27 # 93-139-82-27.adsl.net.t-com.hr
-93.139.84.122 # 93-139-84-122.adsl.net.t-com.hr
-93.139.9.200 # 93-139-9-200.adsl.net.t-com.hr
-93.140.143.97 # 93-140-143-97.adsl.net.t-com.hr
 93.140.146.157 # 93-140-146-157.adsl.net.t-com.hr
 93.140.160.231 # 93-140-160-231.adsl.net.t-com.hr
 93.140.172.223 # 93-140-172-223.adsl.net.t-com.hr
@@ -730,7 +702,6 @@
 93.142.143.177 # 93-142-143-177.adsl.net.t-com.hr
 93.142.147.242 # 93-142-147-242.adsl.net.t-com.hr
 93.142.150.128 # 93-142-150-128.adsl.net.t-com.hr
-93.142.151.109 # 93-142-151-109.adsl.net.t-com.hr
 93.142.164.145 # 93-142-164-145.adsl.net.t-com.hr
 93.142.164.176 # 93-142-164-176.adsl.net.t-com.hr
 93.142.167.15 # 93-142-167-15.adsl.net.t-com.hr
@@ -883,6 +854,7 @@
 18.209.168.198 # ec2-18-209-168-198.compute-1.amazonaws.com
 18.209.45.163 # ec2-18-209-45-163.compute-1.amazonaws.com
 18.216.134.194 # ec2-18-216-134-194.us-east-2.compute.amazonaws.com
+18.216.82.121 # ec2-18-216-82-121.us-east-2.compute.amazonaws.com
 18.217.164.56 # ec2-18-217-164-56.us-east-2.compute.amazonaws.com
 18.217.248.124 # ec2-18-217-248-124.us-east-2.compute.amazonaws.com
 18.219.143.169 # ec2-18-219-143-169.us-east-2.compute.amazonaws.com
@@ -896,6 +868,7 @@
 18.232.83.165 # ec2-18-232-83-165.compute-1.amazonaws.com
 18.234.131.72 # ec2-18-234-131-72.compute-1.amazonaws.com
 18.234.79.114 # ec2-18-234-79-114.compute-1.amazonaws.com
+18.234.82.165 # ec2-18-234-82-165.compute-1.amazonaws.com
 184.72.69.201 # ec2-184-72-69-201.compute-1.amazonaws.com
 184.73.72.181 # ec2-184-73-72-181.compute-1.amazonaws.com
 23.22.223.57 # ec2-23-22-223-57.compute-1.amazonaws.com
@@ -968,6 +941,7 @@
 34.224.221.195 # ec2-34-224-221-195.compute-1.amazonaws.com
 34.224.30.3 # ec2-34-224-30-3.compute-1.amazonaws.com
 34.224.81.76 # ec2-34-224-81-76.compute-1.amazonaws.com
+34.225.16.8 # ec2-34-225-16-8.compute-1.amazonaws.com
 34.228.170.106 # ec2-34-228-170-106.compute-1.amazonaws.com
 34.229.140.176 # ec2-34-229-140-176.compute-1.amazonaws.com
 34.234.97.70 # ec2-34-234-97-70.compute-1.amazonaws.com
