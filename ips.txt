@@ -102,7 +102,6 @@
 74.95.82.70 # 74-95-82-70-washingtondc.hfc.comcastbusiness.net
 74.211.107.214 # 74.211.107.214.16clouds.com
 74.211.109.180 # 74.211.109.180.16clouds.com
-75.149.90.94 # 75-149-90-94-illinois.hfc.comcastbusiness.net
 77.234.65.115 # 77-234-65-115.pool.digikabel.hu
 77.234.65.126 # 77-234-65-126.pool.digikabel.hu
 78.0.116.147 # 78-0-116-147.adsl.net.t-com.hr
@@ -182,7 +181,6 @@
 78.2.85.12 # 78-2-85-12.adsl.net.t-com.hr
 78.2.87.108 # 78-2-87-108.adsl.net.t-com.hr
 78.23.196.244 # 78-23-196-244.access.telenet.be
-78.3.100.241 # 78-3-100-241.adsl.net.t-com.hr
 78.3.126.8 # 78-3-126-8.adsl.net.t-com.hr
 78.3.175.216 # 78-3-175-216.adsl.net.t-com.hr
 78.3.212.148 # 78-3-212-148.adsl.net.t-com.hr
@@ -436,7 +434,6 @@
 88.109.27.119 # 88-109-27-119.dynamic.dsl.as9105.com
 88.109.33.243 # 88-109-33-243.dynamic.dsl.as9105.com
 88.109.73.106 # 88-109-73-106.dynamic.dsl.as9105.com
-88.109.79.175 # 88-109-79-175.dynamic.dsl.as9105.com
 88.109.94.79 # 88-109-94-79.dynamic.dsl.as9105.com
 88.110.11.244 # 88-110-11-244.dynamic.dsl.as9105.com
 88.110.111.32 # 88-110-111-32.dynamic.dsl.as9105.com
@@ -800,6 +797,7 @@
 3.142.74.139 # ec2-3-142-74-139.us-east-2.compute.amazonaws.com
 3.144.8.209 # ec2-3-144-8-209.us-east-2.compute.amazonaws.com
 3.145.124.215 # ec2-3-145-124-215.us-east-2.compute.amazonaws.com
+3.145.20.151 # ec2-3-145-20-151.us-east-2.compute.amazonaws.com
 3.147.56.235 # ec2-3-147-56-235.us-east-2.compute.amazonaws.com
 3.148.106.12 # ec2-3-148-106-12.us-east-2.compute.amazonaws.com
 3.148.117.50 # ec2-3-148-117-50.us-east-2.compute.amazonaws.com
