@@ -191,7 +191,6 @@
 78.3.81.86 # 78-3-81-86.adsl.net.t-com.hr
 78.3.87.205 # 78-3-87-205.adsl.net.t-com.hr
 78.3.88.13 # 78-3-88-13.adsl.net.t-com.hr
-78.3.89.105 # 78-3-89-105.adsl.net.t-com.hr
 78.3.92.249 # 78-3-92-249.adsl.net.t-com.hr
 78.3.95.113 # 78-3-95-113.adsl.net.t-com.hr
 78.3.98.82 # 78-3-98-82.adsl.net.t-com.hr
@@ -436,12 +435,10 @@
 88.111.217.191 # 88-111-217-191.dynamic.dsl.as9105.com
 88.111.217.204 # 88-111-217-204.dynamic.dsl.as9105.com
 88.111.222.140 # 88-111-222-140.dynamic.dsl.as9105.com
-88.111.234.197 # 88-111-234-197.dynamic.dsl.as9105.com
 88.111.235.183 # 88-111-235-183.dynamic.dsl.as9105.com
 88.111.34.81 # 88-111-34-81.dynamic.dsl.as9105.com
 88.111.8.31 # 88-111-8-31.dynamic.dsl.as9105.com
 88.111.84.15 # 88-111-84-15.dynamic.dsl.as9105.com
-88.111.89.33 # 88-111-89-33.dynamic.dsl.as9105.com
 89.147.119.173 # 89-147-119-173.pool.digikabel.hu
 89.147.77.188 # 89-147-77-188.pool.digikabel.hu
 89.168.1.138 # 89-168-1-138.dynamic.dsl.as9105.com
@@ -473,7 +470,6 @@
 89.172.64.243 # 89-172-64-243.adsl.net.t-com.hr
 89.172.67.139 # 89-172-67-139.adsl.net.t-com.hr
 89.172.67.62 # 89-172-67-62.adsl.net.t-com.hr
-89.172.68.143 # 89-172-68-143.adsl.net.t-com.hr
 89.172.69.252 # 89-172-69-252.adsl.net.t-com.hr
 89.172.72.104 # 89-172-72-104.adsl.net.t-com.hr
 89.172.72.187 # 89-172-72-187.adsl.net.t-com.hr
@@ -489,7 +485,6 @@
 93.136.139.200 # 93-136-139-200.adsl.net.t-com.hr
 93.136.144.144 # 93-136-144-144.adsl.net.t-com.hr
 93.136.162.143 # 93-136-162-143.adsl.net.t-com.hr
-93.136.168.89 # 93-136-168-89.adsl.net.t-com.hr
 93.136.184.201 # 93-136-184-201.adsl.net.t-com.hr
 93.136.229.156 # 93-136-229-156.adsl.net.t-com.hr
 93.136.240.48 # 93-136-240-48.adsl.net.t-com.hr
@@ -697,6 +692,7 @@
 18.209.168.198 # ec2-18-209-168-198.compute-1.amazonaws.com
 18.209.45.163 # ec2-18-209-45-163.compute-1.amazonaws.com
 18.216.134.194 # ec2-18-216-134-194.us-east-2.compute.amazonaws.com
+18.216.227.124 # ec2-18-216-227-124.us-east-2.compute.amazonaws.com
 18.216.82.121 # ec2-18-216-82-121.us-east-2.compute.amazonaws.com
 18.217.164.56 # ec2-18-217-164-56.us-east-2.compute.amazonaws.com
 18.217.248.124 # ec2-18-217-248-124.us-east-2.compute.amazonaws.com
