@@ -305,7 +305,6 @@
 83.131.64.26 # 83-131-64-26.adsl.net.t-com.hr
 83.131.77.177 # 83-131-77-177.adsl.net.t-com.hr
 83.131.81.220 # 83-131-81-220.adsl.net.t-com.hr
-83.131.87.101 # 83-131-87-101.adsl.net.t-com.hr
 83.131.88.87 # 83-131-88-87.adsl.net.t-com.hr
 84.236.11.82 # 84-236-11-82.pool.digikabel.hu
 84.236.40.241 # 84-236-40-241.pool.digikabel.hu
@@ -379,7 +378,6 @@
 88.110.176.191 # 88-110-176-191.dynamic.dsl.as9105.com
 88.110.178.103 # 88-110-178-103.dynamic.dsl.as9105.com
 88.110.180.120 # 88-110-180-120.dynamic.dsl.as9105.com
-88.110.188.129 # 88-110-188-129.dynamic.dsl.as9105.com
 88.110.188.164 # 88-110-188-164.dynamic.dsl.as9105.com
 88.110.214.0 # 88-110-214-0.dynamic.dsl.as9105.com
 88.110.214.187 # 88-110-214-187.dynamic.dsl.as9105.com
@@ -405,7 +403,6 @@
 88.111.235.183 # 88-111-235-183.dynamic.dsl.as9105.com
 88.111.34.81 # 88-111-34-81.dynamic.dsl.as9105.com
 88.111.8.31 # 88-111-8-31.dynamic.dsl.as9105.com
-88.111.84.15 # 88-111-84-15.dynamic.dsl.as9105.com
 89.147.119.173 # 89-147-119-173.pool.digikabel.hu
 89.147.77.188 # 89-147-77-188.pool.digikabel.hu
 89.168.1.138 # 89-168-1-138.dynamic.dsl.as9105.com
@@ -433,20 +430,17 @@
 89.172.56.77 # 89-172-56-77.adsl.net.t-com.hr
 89.172.63.48 # 89-172-63-48.adsl.net.t-com.hr
 89.172.64.243 # 89-172-64-243.adsl.net.t-com.hr
-89.172.67.139 # 89-172-67-139.adsl.net.t-com.hr
 89.172.67.62 # 89-172-67-62.adsl.net.t-com.hr
 89.172.69.252 # 89-172-69-252.adsl.net.t-com.hr
 89.172.72.104 # 89-172-72-104.adsl.net.t-com.hr
 89.172.72.187 # 89-172-72-187.adsl.net.t-com.hr
 89.172.72.46 # 89-172-72-46.adsl.net.t-com.hr
 89.172.73.70 # 89-172-73-70.adsl.net.t-com.hr
-89.172.75.114 # 89-172-75-114.adsl.net.t-com.hr
 91.83.192.102 # 91-83-192-102.pool.digikabel.hu
 34.85.13.91 # 91.13.85.34.bc.googleusercontent.com
 92.249.179.47 # 92-249-179-47.pool.digikabel.hu
 93.136.112.235 # 93-136-112-235.adsl.net.t-com.hr
 93.136.131.41 # 93-136-131-41.adsl.net.t-com.hr
-93.136.139.200 # 93-136-139-200.adsl.net.t-com.hr
 93.136.144.144 # 93-136-144-144.adsl.net.t-com.hr
 93.136.184.201 # 93-136-184-201.adsl.net.t-com.hr
 93.136.87.236 # 93-136-87-236.adsl.net.t-com.hr
@@ -464,7 +458,6 @@
 93.138.162.114 # 93-138-162-114.adsl.net.t-com.hr
 93.138.22.149 # 93-138-22-149.adsl.net.t-com.hr
 93.138.227.18 # 93-138-227-18.adsl.net.t-com.hr
-93.138.234.230 # 93-138-234-230.adsl.net.t-com.hr
 93.138.249.84 # 93-138-249-84.adsl.net.t-com.hr
 93.138.35.88 # 93-138-35-88.adsl.net.t-com.hr
 93.138.48.169 # 93-138-48-169.adsl.net.t-com.hr
@@ -481,13 +474,11 @@
 93.139.205.11 # 93-139-205-11.adsl.net.t-com.hr
 93.139.213.145 # 93-139-213-145.adsl.net.t-com.hr
 93.139.214.53 # 93-139-214-53.adsl.net.t-com.hr
-93.139.215.162 # 93-139-215-162.adsl.net.t-com.hr
 93.139.215.202 # 93-139-215-202.adsl.net.t-com.hr
 93.139.29.199 # 93-139-29-199.adsl.net.t-com.hr
 93.139.5.186 # 93-139-5-186.adsl.net.t-com.hr
 93.139.82.27 # 93-139-82-27.adsl.net.t-com.hr
 93.140.146.157 # 93-140-146-157.adsl.net.t-com.hr
-93.140.222.87 # 93-140-222-87.adsl.net.t-com.hr
 93.140.225.115 # 93-140-225-115.adsl.net.t-com.hr
 93.141.131.238 # 93-141-131-238.adsl.net.t-com.hr
 93.141.155.200 # 93-141-155-200.adsl.net.t-com.hr
@@ -514,7 +505,6 @@
 93.143.205.140 # 93-143-205-140.adsl.net.t-com.hr
 93.143.230.143 # 93-143-230-143.adsl.net.t-com.hr
 93.143.50.35 # 93-143-50-35.adsl.net.t-com.hr
-93.143.70.79 # 93-143-70-79.adsl.net.t-com.hr
 93.143.85.20 # 93-143-85-20.adsl.net.t-com.hr
 94.100.16.2 # 94-100-16-2.static.hvvc.us
 94.100.26.188 # 94-100-26-188.static.hvvc.us
@@ -552,6 +542,7 @@
 13.215.214.112 # ec2-13-215-214-112.ap-southeast-1.compute.amazonaws.com
 13.229.72.184 # ec2-13-229-72-184.ap-southeast-1.compute.amazonaws.com
 13.232.52.68 # ec2-13-232-52-68.ap-south-1.compute.amazonaws.com
+13.235.154.238 # ec2-13-235-154-238.ap-south-1.compute.amazonaws.com
 13.250.179.223 # ec2-13-250-179-223.ap-southeast-1.compute.amazonaws.com
 13.250.231.125 # ec2-13-250-231-125.ap-southeast-1.compute.amazonaws.com
 13.250.42.156 # ec2-13-250-42-156.ap-southeast-1.compute.amazonaws.com
@@ -571,7 +562,9 @@
 13.53.134.100 # ec2-13-53-134-100.eu-north-1.compute.amazonaws.com
 13.53.193.158 # ec2-13-53-193-158.eu-north-1.compute.amazonaws.com
 13.53.212.206 # ec2-13-53-212-206.eu-north-1.compute.amazonaws.com
+13.58.74.185 # ec2-13-58-74-185.us-east-2.compute.amazonaws.com
 13.58.84.166 # ec2-13-58-84-166.us-east-2.compute.amazonaws.com
+13.59.206.250 # ec2-13-59-206-250.us-east-2.compute.amazonaws.com
 13.60.12.169 # ec2-13-60-12-169.eu-north-1.compute.amazonaws.com
 13.60.168.52 # ec2-13-60-168-52.eu-north-1.compute.amazonaws.com
 13.60.171.97 # ec2-13-60-171-97.eu-north-1.compute.amazonaws.com
@@ -617,7 +610,6 @@
 18.141.168.37 # ec2-18-141-168-37.ap-southeast-1.compute.amazonaws.com
 18.141.206.255 # ec2-18-141-206-255.ap-southeast-1.compute.amazonaws.com
 18.141.212.28 # ec2-18-141-212-28.ap-southeast-1.compute.amazonaws.com
-18.142.112.125 # ec2-18-142-112-125.ap-southeast-1.compute.amazonaws.com
 18.142.146.212 # ec2-18-142-146-212.ap-southeast-1.compute.amazonaws.com
 18.142.159.215 # ec2-18-142-159-215.ap-southeast-1.compute.amazonaws.com
 18.142.179.191 # ec2-18-142-179-191.ap-southeast-1.compute.amazonaws.com
@@ -632,6 +624,7 @@
 18.188.141.16 # ec2-18-188-141-16.us-east-2.compute.amazonaws.com
 18.191.101.30 # ec2-18-191-101-30.us-east-2.compute.amazonaws.com
 18.191.212.190 # ec2-18-191-212-190.us-east-2.compute.amazonaws.com
+18.191.238.112 # ec2-18-191-238-112.us-east-2.compute.amazonaws.com
 18.191.40.153 # ec2-18-191-40-153.us-east-2.compute.amazonaws.com
 18.196.105.68 # ec2-18-196-105-68.eu-central-1.compute.amazonaws.com
 18.196.229.47 # ec2-18-196-229-47.eu-central-1.compute.amazonaws.com
@@ -777,6 +770,7 @@
 44.248.99.84 # ec2-44-248-99-84.us-west-2.compute.amazonaws.com
 47.128.67.112 # ec2-47-128-67-112.ap-southeast-1.compute.amazonaws.com
 47.129.11.148 # ec2-47-129-11-148.ap-southeast-1.compute.amazonaws.com
+47.129.133.29 # ec2-47-129-133-29.ap-southeast-1.compute.amazonaws.com
 47.129.61.102 # ec2-47-129-61-102.ap-southeast-1.compute.amazonaws.com
 47.129.63.208 # ec2-47-129-63-208.ap-southeast-1.compute.amazonaws.com
 50.19.121.248 # ec2-50-19-121-248.compute-1.amazonaws.com
@@ -820,6 +814,7 @@
 54.164.220.227 # ec2-54-164-220-227.compute-1.amazonaws.com
 54.164.82.11 # ec2-54-164-82-11.compute-1.amazonaws.com
 54.166.224.196 # ec2-54-166-224-196.compute-1.amazonaws.com
+54.169.68.40 # ec2-54-169-68-40.ap-southeast-1.compute.amazonaws.com
 54.173.247.145 # ec2-54-173-247-145.compute-1.amazonaws.com
 54.174.89.94 # ec2-54-174-89-94.compute-1.amazonaws.com
 54.175.195.41 # ec2-54-175-195-41.compute-1.amazonaws.com
