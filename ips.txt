@@ -177,7 +177,6 @@
 78.3.44.28 # 78-3-44-28.adsl.net.t-com.hr
 78.3.46.98 # 78-3-46-98.adsl.net.t-com.hr
 78.3.47.150 # 78-3-47-150.adsl.net.t-com.hr
-78.3.80.86 # 78-3-80-86.adsl.net.t-com.hr
 78.3.81.230 # 78-3-81-230.adsl.net.t-com.hr
 78.3.81.86 # 78-3-81-86.adsl.net.t-com.hr
 78.3.88.13 # 78-3-88-13.adsl.net.t-com.hr
@@ -342,7 +341,6 @@
 88.108.115.253 # 88-108-115-253.dynamic.dsl.as9105.com
 88.108.19.54 # 88-108-19-54.dynamic.dsl.as9105.com
 88.108.233.244 # 88-108-233-244.dynamic.dsl.as9105.com
-88.108.24.214 # 88-108-24-214.dynamic.dsl.as9105.com
 88.108.39.175 # 88-108-39-175.dynamic.dsl.as9105.com
 88.108.65.201 # 88-108-65-201.dynamic.dsl.as9105.com
 88.108.83.63 # 88-108-83-63.dynamic.dsl.as9105.com
@@ -350,7 +348,6 @@
 88.109.128.147 # 88-109-128-147.dynamic.dsl.as9105.com
 88.109.134.119 # 88-109-134-119.dynamic.dsl.as9105.com
 88.109.144.159 # 88-109-144-159.dynamic.dsl.as9105.com
-88.109.152.159 # 88-109-152-159.dynamic.dsl.as9105.com
 88.109.158.66 # 88-109-158-66.dynamic.dsl.as9105.com
 88.109.174.131 # 88-109-174-131.dynamic.dsl.as9105.com
 88.109.184.127 # 88-109-184-127.dynamic.dsl.as9105.com
@@ -399,7 +396,6 @@
 88.111.8.31 # 88-111-8-31.dynamic.dsl.as9105.com
 89.147.119.173 # 89-147-119-173.pool.digikabel.hu
 89.147.77.188 # 89-147-77-188.pool.digikabel.hu
-89.168.1.138 # 89-168-1-138.dynamic.dsl.as9105.com
 89.168.105.9 # 89-168-105-9.dynamic.dsl.as9105.com
 89.168.106.79 # 89-168-106-79.dynamic.dsl.as9105.com
 89.168.124.89 # 89-168-124-89.dynamic.dsl.as9105.com
@@ -436,7 +432,6 @@
 93.136.131.41 # 93-136-131-41.adsl.net.t-com.hr
 93.136.144.144 # 93-136-144-144.adsl.net.t-com.hr
 93.136.184.201 # 93-136-184-201.adsl.net.t-com.hr
-93.136.87.236 # 93-136-87-236.adsl.net.t-com.hr
 93.137.117.12 # 93-137-117-12.adsl.net.t-com.hr
 93.137.29.72 # 93-137-29-72.adsl.net.t-com.hr
 93.137.30.182 # 93-137-30-182.adsl.net.t-com.hr
@@ -595,7 +590,6 @@
 18.140.231.34 # ec2-18-140-231-34.ap-southeast-1.compute.amazonaws.com
 18.140.235.19 # ec2-18-140-235-19.ap-southeast-1.compute.amazonaws.com
 18.140.237.238 # ec2-18-140-237-238.ap-southeast-1.compute.amazonaws.com
-18.141.156.100 # ec2-18-141-156-100.ap-southeast-1.compute.amazonaws.com
 18.141.166.170 # ec2-18-141-166-170.ap-southeast-1.compute.amazonaws.com
 18.141.168.37 # ec2-18-141-168-37.ap-southeast-1.compute.amazonaws.com
 18.141.206.255 # ec2-18-141-206-255.ap-southeast-1.compute.amazonaws.com
@@ -630,6 +624,7 @@
 18.219.143.169 # ec2-18-219-143-169.us-east-2.compute.amazonaws.com
 18.220.101.249 # ec2-18-220-101-249.us-east-2.compute.amazonaws.com
 18.220.211.199 # ec2-18-220-211-199.us-east-2.compute.amazonaws.com
+18.220.251.70 # ec2-18-220-251-70.us-east-2.compute.amazonaws.com
 18.222.252.243 # ec2-18-222-252-243.us-east-2.compute.amazonaws.com
 18.223.97.27 # ec2-18-223-97-27.us-east-2.compute.amazonaws.com
 18.224.226.230 # ec2-18-224-226-230.us-east-2.compute.amazonaws.com
@@ -901,7 +896,6 @@
 2.99.196.47 # host-2-99-196-47.as13285.net
 2.99.206.56 # host-2-99-206-56.as13285.net
 2.99.207.95 # host-2-99-207-95.as13285.net
-2.99.213.51 # host-2-99-213-51.as13285.net
 2.99.250.109 # host-2-99-250-109.as13285.net
 2.99.250.153 # host-2-99-250-153.as13285.net
 78.144.100.1 # host-78-144-100-1.as13285.net
