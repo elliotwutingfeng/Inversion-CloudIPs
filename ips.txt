@@ -55,7 +55,6 @@
 212.139.184.55 # 212-139-184-55.dynamic.dsl.as9105.com
 212.139.186.81 # 212-139-186-81.dynamic.dsl.as9105.com
 212.139.233.182 # 212-139-233-182.dynamic.dsl.as9105.com
-212.139.64.106 # 212-139-64-106.dynamic.dsl.as9105.com
 212.139.71.87 # 212-139-71-87.dynamic.dsl.as9105.com
 217.197.188.253 # 217-197-188-253.pool.digikabel.hu
 217.79.245.247 # 217-79-245-247.static.hvvc.us
@@ -105,7 +104,6 @@
 78.0.116.147 # 78-0-116-147.adsl.net.t-com.hr
 78.0.121.150 # 78-0-121-150.adsl.net.t-com.hr
 78.0.122.1 # 78-0-122-1.adsl.net.t-com.hr
-78.0.128.14 # 78-0-128-14.adsl.net.t-com.hr
 78.0.150.119 # 78-0-150-119.adsl.net.t-com.hr
 78.0.154.167 # 78-0-154-167.adsl.net.t-com.hr
 78.0.177.41 # 78-0-177-41.adsl.net.t-com.hr
@@ -313,7 +311,6 @@
 88.110.178.103 # 88-110-178-103.dynamic.dsl.as9105.com
 88.110.188.164 # 88-110-188-164.dynamic.dsl.as9105.com
 88.110.214.187 # 88-110-214-187.dynamic.dsl.as9105.com
-88.110.215.234 # 88-110-215-234.dynamic.dsl.as9105.com
 88.110.245.48 # 88-110-245-48.dynamic.dsl.as9105.com
 88.110.77.83 # 88-110-77-83.dynamic.dsl.as9105.com
 88.110.78.196 # 88-110-78-196.dynamic.dsl.as9105.com
@@ -348,7 +345,6 @@
 89.172.39.84 # 89-172-39-84.adsl.net.t-com.hr
 89.172.53.119 # 89-172-53-119.adsl.net.t-com.hr
 89.172.56.77 # 89-172-56-77.adsl.net.t-com.hr
-89.172.63.48 # 89-172-63-48.adsl.net.t-com.hr
 89.172.64.243 # 89-172-64-243.adsl.net.t-com.hr
 89.172.72.187 # 89-172-72-187.adsl.net.t-com.hr
 89.172.72.46 # 89-172-72-46.adsl.net.t-com.hr
@@ -359,7 +355,6 @@
 93.136.112.235 # 93-136-112-235.adsl.net.t-com.hr
 93.136.131.41 # 93-136-131-41.adsl.net.t-com.hr
 93.136.144.144 # 93-136-144-144.adsl.net.t-com.hr
-93.136.184.201 # 93-136-184-201.adsl.net.t-com.hr
 93.137.117.12 # 93-137-117-12.adsl.net.t-com.hr
 93.137.30.182 # 93-137-30-182.adsl.net.t-com.hr
 93.138.11.119 # 93-138-11-119.adsl.net.t-com.hr
@@ -371,7 +366,6 @@
 93.138.35.88 # 93-138-35-88.adsl.net.t-com.hr
 93.138.48.169 # 93-138-48-169.adsl.net.t-com.hr
 93.138.7.141 # 93-138-7-141.adsl.net.t-com.hr
-93.139.131.229 # 93-139-131-229.adsl.net.t-com.hr
 93.139.165.227 # 93-139-165-227.adsl.net.t-com.hr
 93.139.172.111 # 93-139-172-111.adsl.net.t-com.hr
 93.139.184.81 # 93-139-184-81.adsl.net.t-com.hr
@@ -564,7 +558,6 @@
 3.139.57.79 # ec2-3-139-57-79.us-east-2.compute.amazonaws.com
 3.14.10.28 # ec2-3-14-10-28.us-east-2.compute.amazonaws.com
 3.14.9.207 # ec2-3-14-9-207.us-east-2.compute.amazonaws.com
-3.140.209.56 # ec2-3-140-209-56.us-east-2.compute.amazonaws.com
 3.141.169.105 # ec2-3-141-169-105.us-east-2.compute.amazonaws.com
 3.142.52.35 # ec2-3-142-52-35.us-east-2.compute.amazonaws.com
 3.142.74.139 # ec2-3-142-74-139.us-east-2.compute.amazonaws.com
@@ -609,6 +602,7 @@
 3.96.179.99 # ec2-3-96-179-99.ca-central-1.compute.amazonaws.com
 3.96.186.201 # ec2-3-96-186-201.ca-central-1.compute.amazonaws.com
 3.96.212.139 # ec2-3-96-212-139.ca-central-1.compute.amazonaws.com
+3.99.114.148 # ec2-3-99-114-148.ca-central-1.compute.amazonaws.com
 34.199.141.183 # ec2-34-199-141-183.compute-1.amazonaws.com
 34.203.240.223 # ec2-34-203-240-223.compute-1.amazonaws.com
 34.203.31.253 # ec2-34-203-31-253.compute-1.amazonaws.com
@@ -648,6 +642,7 @@
 43.204.199.228 # ec2-43-204-199-228.ap-south-1.compute.amazonaws.com
 43.204.65.234 # ec2-43-204-65-234.ap-south-1.compute.amazonaws.com
 44.192.47.125 # ec2-44-192-47-125.compute-1.amazonaws.com
+44.195.84.93 # ec2-44-195-84-93.compute-1.amazonaws.com
 44.199.245.243 # ec2-44-199-245-243.compute-1.amazonaws.com
 44.200.250.219 # ec2-44-200-250-219.compute-1.amazonaws.com
 44.201.19.218 # ec2-44-201-19-218.compute-1.amazonaws.com
@@ -809,6 +804,7 @@
 2.99.207.95 # host-2-99-207-95.as13285.net
 2.99.250.109 # host-2-99-250-109.as13285.net
 2.99.250.153 # host-2-99-250-153.as13285.net
+24.138.44.7 # host-24-138-44-7.public.eastlink.ca
 78.144.100.1 # host-78-144-100-1.as13285.net
 78.144.120.1 # host-78-144-120-1.as13285.net
 78.144.149.113 # host-78-144-149-113.as13285.net
@@ -1175,7 +1171,6 @@
 92.9.128.115 # host-92-9-128-115.as13285.net
 92.9.18.250 # host-92-9-18-250.as13285.net
 92.9.4.26 # host-92-9-4-26.as13285.net
-92.9.66.184 # host-92-9-66-184.as13285.net
 81.134.44.37 # host81-134-44-37.in-addr.btopenworld.com
 81.136.231.6 # host81-136-231-6.in-addr.btopenworld.com
 103.244.244.219 # kol-103.244.244.219.pmpl-broadband.net
