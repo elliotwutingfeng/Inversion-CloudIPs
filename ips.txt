@@ -199,7 +199,6 @@
 80.44.172.225 # 80-44-172-225.dynamic.dsl.as9105.com
 80.44.173.161 # 80-44-173-161.dynamic.dsl.as9105.com
 80.44.175.182 # 80-44-175-182.dynamic.dsl.as9105.com
-80.44.179.60 # 80-44-179-60.dynamic.dsl.as9105.com
 80.44.180.217 # 80-44-180-217.dynamic.dsl.as9105.com
 80.44.185.175 # 80-44-185-175.dynamic.dsl.as9105.com
 80.44.19.208 # 80-44-19-208.dynamic.dsl.as9105.com
@@ -245,9 +244,6 @@
 88.106.192.88 # 88-106-192-88.dynamic.dsl.as9105.com
 88.106.99.31 # 88-106-99-31.dynamic.dsl.as9105.com
 88.107.172.66 # 88-107-172-66.dynamic.dsl.as9105.com
-88.107.195.197 # 88-107-195-197.dynamic.dsl.as9105.com
-88.107.54.183 # 88-107-54-183.dynamic.dsl.as9105.com
-88.107.8.252 # 88-107-8-252.dynamic.dsl.as9105.com
 88.108.107.26 # 88-108-107-26.dynamic.dsl.as9105.com
 88.108.115.253 # 88-108-115-253.dynamic.dsl.as9105.com
 88.108.233.244 # 88-108-233-244.dynamic.dsl.as9105.com
@@ -283,7 +279,6 @@
 89.147.77.188 # 89-147-77-188.pool.digikabel.hu
 89.168.105.9 # 89-168-105-9.dynamic.dsl.as9105.com
 89.168.81.20 # 89-168-81-20.dynamic.dsl.as9105.com
-89.172.15.25 # 89-172-15-25.adsl.net.t-com.hr
 89.172.173.101 # 89-172-173-101.adsl.net.t-com.hr
 89.172.176.133 # 89-172-176-133.adsl.net.t-com.hr
 89.172.178.223 # 89-172-178-223.adsl.net.t-com.hr
@@ -350,6 +345,7 @@
 13.214.179.166 # ec2-13-214-179-166.ap-southeast-1.compute.amazonaws.com
 13.214.23.70 # ec2-13-214-23-70.ap-southeast-1.compute.amazonaws.com
 13.215.214.112 # ec2-13-215-214-112.ap-southeast-1.compute.amazonaws.com
+13.229.155.60 # ec2-13-229-155-60.ap-southeast-1.compute.amazonaws.com
 13.229.72.184 # ec2-13-229-72-184.ap-southeast-1.compute.amazonaws.com
 13.232.52.68 # ec2-13-232-52-68.ap-south-1.compute.amazonaws.com
 13.235.154.238 # ec2-13-235-154-238.ap-south-1.compute.amazonaws.com
@@ -495,6 +491,7 @@
 3.148.106.12 # ec2-3-148-106-12.us-east-2.compute.amazonaws.com
 3.148.117.50 # ec2-3-148-117-50.us-east-2.compute.amazonaws.com
 3.15.4.72 # ec2-3-15-4-72.us-east-2.compute.amazonaws.com
+3.151.224.255 # ec2-3-151-224-255.us-east-2.compute.amazonaws.com
 3.151.33.144 # ec2-3-151-33-144.us-east-2.compute.amazonaws.com
 3.16.27.138 # ec2-3-16-27-138.us-east-2.compute.amazonaws.com
 3.16.8.8 # ec2-3-16-8-8.us-east-2.compute.amazonaws.com
@@ -586,6 +583,7 @@
 44.212.45.74 # ec2-44-212-45-74.compute-1.amazonaws.com
 44.218.44.122 # ec2-44-218-44-122.compute-1.amazonaws.com
 44.248.99.84 # ec2-44-248-99-84.us-west-2.compute.amazonaws.com
+47.128.146.219 # ec2-47-128-146-219.ap-southeast-1.compute.amazonaws.com
 47.128.67.112 # ec2-47-128-67-112.ap-southeast-1.compute.amazonaws.com
 47.129.11.148 # ec2-47-129-11-148.ap-southeast-1.compute.amazonaws.com
 47.129.113.233 # ec2-47-129-113-233.ap-southeast-1.compute.amazonaws.com
@@ -703,7 +701,6 @@
 2.102.4.150 # host-2-102-4-150.as13285.net
 2.102.7.202 # host-2-102-7-202.as13285.net
 2.102.74.46 # host-2-102-74-46.as13285.net
-2.102.75.218 # host-2-102-75-218.as13285.net
 2.102.8.118 # host-2-102-8-118.as13285.net
 2.102.81.205 # host-2-102-81-205.as13285.net
 2.102.88.115 # host-2-102-88-115.as13285.net
@@ -798,7 +795,6 @@
 80.41.223.226 # host-80-41-223-226.as13285.net
 80.41.231.34 # host-80-41-231-34.as13285.net
 80.41.24.229 # host-80-41-24-229.as13285.net
-80.41.253.145 # host-80-41-253-145.as13285.net
 80.41.254.27 # host-80-41-254-27.as13285.net
 80.41.255.9 # host-80-41-255-9.as13285.net
 80.41.31.16 # host-80-41-31-16.as13285.net
@@ -835,7 +831,6 @@
 80.43.128.95 # host-80-43-128-95.as13285.net
 80.43.129.118 # host-80-43-129-118.as13285.net
 80.43.129.20 # host-80-43-129-20.as13285.net
-80.43.138.237 # host-80-43-138-237.as13285.net
 80.43.139.184 # host-80-43-139-184.as13285.net
 80.43.143.117 # host-80-43-143-117.as13285.net
 80.43.153.34 # host-80-43-153-34.as13285.net
@@ -1025,12 +1020,10 @@
 92.29.67.30 # host-92-29-67-30.as13285.net
 92.29.71.247 # host-92-29-71-247.as13285.net
 92.3.59.204 # host-92-3-59-204.as13285.net
-92.3.59.72 # host-92-3-59-72.as13285.net
 92.30.10.254 # host-92-30-10-254.as13285.net
 92.30.14.225 # host-92-30-14-225.as13285.net
 92.30.240.68 # host-92-30-240-68.as13285.net
 92.30.242.147 # host-92-30-242-147.as13285.net
-92.30.242.78 # host-92-30-242-78.as13285.net
 92.30.244.94 # host-92-30-244-94.as13285.net
 92.30.245.6 # host-92-30-245-6.as13285.net
 92.30.9.16 # host-92-30-9-16.as13285.net
@@ -1065,7 +1058,6 @@
 92.8.128.146 # host-92-8-128-146.as13285.net
 92.8.132.156 # host-92-8-132-156.as13285.net
 92.8.138.153 # host-92-8-138-153.as13285.net
-92.8.148.154 # host-92-8-148-154.as13285.net
 92.8.158.56 # host-92-8-158-56.as13285.net
 92.8.195.29 # host-92-8-195-29.as13285.net
 92.8.209.251 # host-92-8-209-251.as13285.net
