@@ -99,26 +99,20 @@
 77.234.65.115 # 77-234-65-115.pool.digikabel.hu
 77.234.65.126 # 77-234-65-126.pool.digikabel.hu
 78.0.122.1 # 78-0-122-1.adsl.net.t-com.hr
-78.0.154.167 # 78-0-154-167.adsl.net.t-com.hr
 78.0.36.185 # 78-0-36-185.adsl.net.t-com.hr
-78.0.38.151 # 78-0-38-151.adsl.net.t-com.hr
 78.0.50.145 # 78-0-50-145.adsl.net.t-com.hr
 78.0.58.216 # 78-0-58-216.adsl.net.t-com.hr
 78.0.72.117 # 78-0-72-117.adsl.net.t-com.hr
 78.1.129.174 # 78-1-129-174.adsl.net.t-com.hr
 78.1.134.215 # 78-1-134-215.adsl.net.t-com.hr
-78.1.163.213 # 78-1-163-213.adsl.net.t-com.hr
 78.1.171.221 # 78-1-171-221.adsl.net.t-com.hr
 78.1.185.191 # 78-1-185-191.adsl.net.t-com.hr
-78.1.191.22 # 78-1-191-22.adsl.net.t-com.hr
 78.1.38.251 # 78-1-38-251.adsl.net.t-com.hr
 78.2.55.96 # 78-2-55-96.adsl.net.t-com.hr
 78.2.56.142 # 78-2-56-142.adsl.net.t-com.hr
 78.2.85.12 # 78-2-85-12.adsl.net.t-com.hr
 78.23.196.244 # 78-23-196-244.access.telenet.be
-78.3.212.148 # 78-3-212-148.adsl.net.t-com.hr
 78.3.223.230 # 78-3-223-230.adsl.net.t-com.hr
-78.3.46.98 # 78-3-46-98.adsl.net.t-com.hr
 78.3.81.230 # 78-3-81-230.adsl.net.t-com.hr
 78.56.94.66 # 78-56-94-66.static.zebra.lt
 79.66.119.123 # 79-66-119-123.dynamic.dsl.as9105.com
@@ -227,7 +221,6 @@
 87.97.16.125 # 87-97-16-125.pool.digikabel.hu
 87.97.85.191 # 87-97-85-191.pool.digikabel.hu
 88.106.192.88 # 88-106-192-88.dynamic.dsl.as9105.com
-88.106.99.31 # 88-106-99-31.dynamic.dsl.as9105.com
 88.107.172.66 # 88-107-172-66.dynamic.dsl.as9105.com
 88.108.107.26 # 88-108-107-26.dynamic.dsl.as9105.com
 88.108.115.253 # 88-108-115-253.dynamic.dsl.as9105.com
@@ -264,7 +257,6 @@
 89.172.220.140 # 89-172-220-140.adsl.net.t-com.hr
 89.172.36.22 # 89-172-36-22.adsl.net.t-com.hr
 89.172.39.84 # 89-172-39-84.adsl.net.t-com.hr
-89.172.53.119 # 89-172-53-119.adsl.net.t-com.hr
 89.172.64.243 # 89-172-64-243.adsl.net.t-com.hr
 89.172.72.187 # 89-172-72-187.adsl.net.t-com.hr
 89.172.73.70 # 89-172-73-70.adsl.net.t-com.hr
@@ -272,7 +264,6 @@
 34.85.13.91 # 91.13.85.34.bc.googleusercontent.com
 92.249.179.47 # 92-249-179-47.pool.digikabel.hu
 93.136.144.144 # 93-136-144-144.adsl.net.t-com.hr
-93.138.11.119 # 93-138-11-119.adsl.net.t-com.hr
 93.138.15.161 # 93-138-15-161.adsl.net.t-com.hr
 93.138.162.114 # 93-138-162-114.adsl.net.t-com.hr
 93.138.48.169 # 93-138-48-169.adsl.net.t-com.hr
@@ -397,6 +388,7 @@
 18.143.194.201 # ec2-18-143-194-201.ap-southeast-1.compute.amazonaws.com
 18.153.98.227 # ec2-18-153-98-227.eu-central-1.compute.amazonaws.com
 18.159.41.48 # ec2-18-159-41-48.eu-central-1.compute.amazonaws.com
+18.163.79.151 # ec2-18-163-79-151.ap-east-1.compute.amazonaws.com
 18.166.255.115 # ec2-18-166-255-115.ap-east-1.compute.amazonaws.com
 18.183.176.73 # ec2-18-183-176-73.ap-northeast-1.compute.amazonaws.com
 18.188.115.80 # ec2-18-188-115-80.us-east-2.compute.amazonaws.com
@@ -683,7 +675,6 @@
 2.103.1.145 # host-2-103-1-145.as13285.net
 2.103.112.198 # host-2-103-112-198.as13285.net
 2.103.117.184 # host-2-103-117-184.as13285.net
-2.103.117.212 # host-2-103-117-212.as13285.net
 2.103.118.138 # host-2-103-118-138.as13285.net
 2.103.133.229 # host-2-103-133-229.as13285.net
 2.103.139.201 # host-2-103-139-201.as13285.net
@@ -954,7 +945,6 @@
 92.28.116.36 # host-92-28-116-36.as13285.net
 92.28.116.47 # host-92-28-116-47.as13285.net
 92.28.118.178 # host-92-28-118-178.as13285.net
-92.28.235.130 # host-92-28-235-130.as13285.net
 92.28.237.118 # host-92-28-237-118.as13285.net
 92.28.237.169 # host-92-28-237-169.as13285.net
 92.28.239.92 # host-92-28-239-92.as13285.net
@@ -1054,7 +1044,6 @@
 162.214.103.94 # snltoken.nervous-cerf.162-214-103-94.plesk.page
 212.158.245.125 # static-212-158-245-125.vodafonexdsl.co.uk
 212.158.247.218 # static-212-158-247-218.vodafonexdsl.co.uk
-71.251.197.234 # static-71-251-197-234.nwrknj.fios.verizon.net
 83.146.10.206 # static-83-146-10-206.vodafonexdsl.co.uk
 83.146.9.49 # static-83-146-9-49.vodafonexdsl.co.uk
 84.9.112.123 # static-84-9-112-123.vodafonexdsl.co.uk
