@@ -106,7 +106,6 @@
 78.2.85.12 # 78-2-85-12.adsl.net.t-com.hr
 78.23.196.244 # 78-23-196-244.access.telenet.be
 78.3.223.230 # 78-3-223-230.adsl.net.t-com.hr
-78.3.81.230 # 78-3-81-230.adsl.net.t-com.hr
 78.56.94.66 # 78-56-94-66.static.zebra.lt
 79.66.119.123 # 79-66-119-123.dynamic.dsl.as9105.com
 79.68.255.35 # 79-68-255-35.dynamic.dsl.as9105.com
@@ -212,7 +211,6 @@
 88.109.187.177 # 88-109-187-177.dynamic.dsl.as9105.com
 88.109.202.226 # 88-109-202-226.dynamic.dsl.as9105.com
 88.109.207.96 # 88-109-207-96.dynamic.dsl.as9105.com
-88.109.240.100 # 88-109-240-100.dynamic.dsl.as9105.com
 88.109.243.86 # 88-109-243-86.dynamic.dsl.as9105.com
 88.110.134.230 # 88-110-134-230.dynamic.dsl.as9105.com
 88.110.17.132 # 88-110-17-132.dynamic.dsl.as9105.com
@@ -229,14 +227,11 @@
 89.168.105.9 # 89-168-105-9.dynamic.dsl.as9105.com
 89.168.81.20 # 89-168-81-20.dynamic.dsl.as9105.com
 89.172.178.223 # 89-172-178-223.adsl.net.t-com.hr
-89.172.39.84 # 89-172-39-84.adsl.net.t-com.hr
 91.83.192.102 # 91-83-192-102.pool.digikabel.hu
 34.85.13.91 # 91.13.85.34.bc.googleusercontent.com
 92.249.179.47 # 92-249-179-47.pool.digikabel.hu
 93.138.15.161 # 93-138-15-161.adsl.net.t-com.hr
-93.138.48.169 # 93-138-48-169.adsl.net.t-com.hr
 93.139.165.227 # 93-139-165-227.adsl.net.t-com.hr
-93.139.172.111 # 93-139-172-111.adsl.net.t-com.hr
 93.140.225.115 # 93-140-225-115.adsl.net.t-com.hr
 93.142.255.43 # 93-142-255-43.adsl.net.t-com.hr
 93.143.205.140 # 93-143-205-140.adsl.net.t-com.hr
@@ -276,6 +271,7 @@
 13.215.214.112 # ec2-13-215-214-112.ap-southeast-1.compute.amazonaws.com
 13.229.155.60 # ec2-13-229-155-60.ap-southeast-1.compute.amazonaws.com
 13.229.72.184 # ec2-13-229-72-184.ap-southeast-1.compute.amazonaws.com
+13.232.210.63 # ec2-13-232-210-63.ap-south-1.compute.amazonaws.com
 13.232.52.68 # ec2-13-232-52-68.ap-south-1.compute.amazonaws.com
 13.235.154.238 # ec2-13-235-154-238.ap-south-1.compute.amazonaws.com
 13.250.231.125 # ec2-13-250-231-125.ap-southeast-1.compute.amazonaws.com
@@ -754,7 +750,6 @@
 80.41.97.131 # host-80-41-97-131.as13285.net
 80.41.98.112 # host-80-41-98-112.as13285.net
 80.43.129.118 # host-80-43-129-118.as13285.net
-80.43.129.20 # host-80-43-129-20.as13285.net
 80.43.139.184 # host-80-43-139-184.as13285.net
 80.43.143.117 # host-80-43-143-117.as13285.net
 80.43.177.79 # host-80-43-177-79.as13285.net
@@ -1023,7 +1018,6 @@
 84.9.98.56 # static-84-9-98-56.vodafonexdsl.co.uk
 87.74.150.79 # static-87-74-150-79.vodafonexdsl.co.uk
 87.74.150.9 # static-87-74-150-9.vodafonexdsl.co.uk
-87.75.101.0 # static-87-75-101-0.vodafonexdsl.co.uk
 87.75.114.61 # static-87-75-114-61.vodafonexdsl.co.uk
 87.75.118.38 # static-87-75-118-38.vodafonexdsl.co.uk
 87.75.123.96 # static-87-75-123-96.vodafonexdsl.co.uk
