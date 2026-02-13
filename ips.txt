@@ -125,7 +125,6 @@
 80.42.149.161 # 80-42-149-161.dynamic.dsl.as9105.com
 80.42.152.46 # 80-42-152-46.dynamic.dsl.as9105.com
 80.42.155.156 # 80-42-155-156.dynamic.dsl.as9105.com
-80.42.157.99 # 80-42-157-99.dynamic.dsl.as9105.com
 80.42.167.26 # 80-42-167-26.dynamic.dsl.as9105.com
 80.42.188.125 # 80-42-188-125.dynamic.dsl.as9105.com
 80.42.189.145 # 80-42-189-145.dynamic.dsl.as9105.com
@@ -803,7 +802,6 @@
 92.24.184.208 # host-92-24-184-208.as13285.net
 92.25.130.160 # host-92-25-130-160.as13285.net
 92.25.137.248 # host-92-25-137-248.as13285.net
-92.26.163.215 # host-92-26-163-215.as13285.net
 92.27.248.84 # host-92-27-248-84.as13285.net
 92.27.252.68 # host-92-27-252-68.as13285.net
 92.28.115.202 # host-92-28-115-202.as13285.net
@@ -905,6 +903,7 @@
 2.36.9.149 # net-2-36-9-149.cust.vodafonedsl.it
 100.0.62.116 # pool-100-0-62-116.bstnma.fios.verizon.net
 108.20.212.166 # pool-108-20-212-166.bstnma.fios.verizon.net
+108.27.239.52 # pool-108-27-239-52.nycmny.fios.verizon.net
 72.74.52.71 # pool-72-74-52-71.bstnma.fios.verizon.net
 98.116.55.114 # pool-98-116-55-114.nycmny.fios.verizon.net
 213.171.204.72 # server213-171-204-72.live-servers.net
