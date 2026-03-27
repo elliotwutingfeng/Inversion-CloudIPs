@@ -570,6 +570,7 @@
 3.147.56.235 # ec2-3-147-56-235.us-east-2.compute.amazonaws.com
 3.148.106.12 # ec2-3-148-106-12.us-east-2.compute.amazonaws.com
 3.148.117.50 # ec2-3-148-117-50.us-east-2.compute.amazonaws.com
+3.15.180.166 # ec2-3-15-180-166.us-east-2.compute.amazonaws.com
 3.15.4.72 # ec2-3-15-4-72.us-east-2.compute.amazonaws.com
 3.15.93.54 # ec2-3-15-93-54.us-east-2.compute.amazonaws.com
 3.150.128.217 # ec2-3-150-128-217.us-east-2.compute.amazonaws.com
