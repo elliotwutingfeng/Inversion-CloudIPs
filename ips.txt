@@ -4,6 +4,7 @@
 104.254.129.3 # 104-254-129-3.static.hvvc.us
 109.170.138.65 # 109-170-138-65.xdsl.murphx.net
 109.170.159.19 # 109-170-159-19.xdsl.murphx.net
+109.36.211.103 # 109-36-211-103.bharatvoip.com
 35.200.70.153 # 153.70.200.35.bc.googleusercontent.com
 162.220.62.21 # 162-220-62-21.static.hvvc.us
 162.250.200.218 # 162-250-200-218.static.as40244.net
@@ -281,6 +282,7 @@
 34.63.12.44 # 44.12.63.34.bc.googleusercontent.com
 46.10.12.56 # 46-10-12-56.ip.btc-net.bg
 46.10.6.99 # 46-10-6-99.ip.btc-net.bg
+47.39.211.103 # 47-39-211-103.bharatvoip.com
 60.242.75.145 # 60-242-75-145.tpgi.com.au
 62.165.219.172 # 62-165-219-172.pool.digikabel.hu
 62.165.244.156 # 62-165-244-156.pool.digikabel.hu
@@ -407,7 +409,6 @@
 13.214.176.151 # ec2-13-214-176-151.ap-southeast-1.compute.amazonaws.com
 13.214.178.100 # ec2-13-214-178-100.ap-southeast-1.compute.amazonaws.com
 13.214.179.166 # ec2-13-214-179-166.ap-southeast-1.compute.amazonaws.com
-13.214.23.70 # ec2-13-214-23-70.ap-southeast-1.compute.amazonaws.com
 13.215.214.112 # ec2-13-215-214-112.ap-southeast-1.compute.amazonaws.com
 13.215.27.60 # ec2-13-215-27-60.ap-southeast-1.compute.amazonaws.com
 13.229.155.60 # ec2-13-229-155-60.ap-southeast-1.compute.amazonaws.com
@@ -817,7 +818,6 @@
 80.41.11.138 # host-80-41-11-138.as13285.net
 80.41.110.224 # host-80-41-110-224.as13285.net
 80.41.111.128 # host-80-41-111-128.as13285.net
-80.41.128.75 # host-80-41-128-75.as13285.net
 80.41.130.34 # host-80-41-130-34.as13285.net
 80.41.131.223 # host-80-41-131-223.as13285.net
 80.41.134.238 # host-80-41-134-238.as13285.net
@@ -944,7 +944,6 @@
 92.6.232.135 # host-92-6-232-135.as13285.net
 92.8.209.251 # host-92-8-209-251.as13285.net
 92.8.212.193 # host-92-8-212-193.as13285.net
-92.8.52.59 # host-92-8-52-59.as13285.net
 92.9.18.250 # host-92-9-18-250.as13285.net
 92.9.4.26 # host-92-9-4-26.as13285.net
 81.134.44.37 # host81-134-44-37.in-addr.btopenworld.com
