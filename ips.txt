@@ -612,6 +612,7 @@
 3.96.186.201 # ec2-3-96-186-201.ca-central-1.compute.amazonaws.com
 3.96.212.139 # ec2-3-96-212-139.ca-central-1.compute.amazonaws.com
 3.99.114.148 # ec2-3-99-114-148.ca-central-1.compute.amazonaws.com
+3.99.214.40 # ec2-3-99-214-40.ca-central-1.compute.amazonaws.com
 34.199.141.183 # ec2-34-199-141-183.compute-1.amazonaws.com
 34.203.240.223 # ec2-34-203-240-223.compute-1.amazonaws.com
 34.203.31.253 # ec2-34-203-31-253.compute-1.amazonaws.com
@@ -778,7 +779,6 @@
 98.89.70.178 # ec2-98-89-70-178.compute-1.amazonaws.com
 187.190.109.235 # fixed-187-190-109-235.totalplay.net
 2.101.154.5 # host-2-101-154-5.as13285.net
-2.101.197.65 # host-2-101-197-65.as13285.net
 2.101.215.34 # host-2-101-215-34.as13285.net
 2.101.40.28 # host-2-101-40-28.as13285.net
 2.101.72.97 # host-2-101-72-97.as13285.net
@@ -855,7 +855,6 @@
 80.47.167.139 # host-80-47-167-139.as13285.net
 80.47.181.28 # host-80-47-181-28.as13285.net
 80.47.182.233 # host-80-47-182-233.as13285.net
-80.47.185.164 # host-80-47-185-164.as13285.net
 80.47.202.243 # host-80-47-202-243.as13285.net
 80.47.207.166 # host-80-47-207-166.as13285.net
 80.47.208.75 # host-80-47-208-75.as13285.net
@@ -969,7 +968,6 @@
 130.25.212.245 # net-130-25-212-245.cust.vodafonedsl.it
 2.32.63.95 # net-2-32-63-95.cust.vodafonedsl.it
 2.36.9.149 # net-2-36-9-149.cust.vodafonedsl.it
-100.0.62.116 # pool-100-0-62-116.bstnma.fios.verizon.net
 108.20.212.166 # pool-108-20-212-166.bstnma.fios.verizon.net
 108.27.239.52 # pool-108-27-239-52.nycmny.fios.verizon.net
 72.74.52.71 # pool-72-74-52-71.bstnma.fios.verizon.net
