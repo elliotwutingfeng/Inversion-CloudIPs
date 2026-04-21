@@ -1,4 +1,3 @@
-104.156.49.185 # 104-156-49-185.static.hvvc.us
 104.156.53.22 # 104-156-53-22.static.hvvc.us
 104.156.63.78 # 104-156-63-78.static.hvvc.us
 104.254.129.3 # 104-254-129-3.static.hvvc.us
@@ -10,12 +9,10 @@
 162.250.200.218 # 162-250-200-218.static.as40244.net
 162.252.86.89 # 162-252-86-89.static.hvvc.us
 162.252.87.182 # 162-252-87-182.static.hvvc.us
-162.254.147.216 # 162-254-147-216.static.hvvc.us
 163.172.24.195 # 163-172-24-195.rev.poneytelecom.eu
 163.182.168.146 # 163-182-168-146.static.as40244.net
 173.198.221.13 # 173-198-221-13.static.as40244.net
 173.198.247.116 # 173-198-247-116.static.as40244.net
-173.213.84.108 # 173-213-84-108.static.hvvc.us
 34.146.186.175 # 175.186.146.34.bc.googleusercontent.com
 176.241.34.97 # 176-241-34-97.pool.digikabel.hu
 176.241.35.221 # 176-241-35-221.pool.digikabel.hu
@@ -239,7 +236,6 @@
 197.254.99.42 # 197.254.99.42.acesskenya.net
 198.178.124.50 # 198-178-124-50.static.hvvc.us
 198.178.126.25 # 198-178-126-25.static.hvvc.us
-198.178.127.39 # 198-178-127-39.static.hvvc.us
 34.97.159.198 # 198.159.97.34.bc.googleusercontent.com
 199.231.163.76 # 199-231-163-76.static.hvvc.us
 199.231.163.77 # 199-231-163-77.static.hvvc.us
@@ -247,7 +243,6 @@
 200.98.137.109 # 200-98-137-109.clouduol.com.br
 200.98.144.179 # 200-98-144-179.clouduol.com.br
 34.173.178.202 # 202.178.173.34.bc.googleusercontent.com
-209.133.221.114 # 209-133-221-114.static.hvvc.us
 212.139.184.55 # 212-139-184-55.dynamic.dsl.as9105.com
 212.139.186.81 # 212-139-186-81.dynamic.dsl.as9105.com
 212.139.233.182 # 212-139-233-182.dynamic.dsl.as9105.com
@@ -275,20 +270,12 @@
 62.165.244.156 # 62-165-244-156.pool.digikabel.hu
 62.165.245.113 # 62-165-245-113.pool.digikabel.hu
 66.165.233.186 # 66-165-233-186.static.hvvc.us
-66.165.234.57 # 66-165-234-57.static.hvvc.us
 66.165.251.145 # 66-165-251-145.static.hvvc.us
 66.165.255.42 # 66-165-255-42.static.hvvc.us
 66.206.18.177 # 66-206-18-177.static.hvvc.us
 66.206.23.186 # 66-206-23-186.static.hvvc.us
 66.206.27.174 # 66-206-27-174.static.hvvc.us
-66.206.3.26 # 66-206-3-26.static.hvvc.us
-66.232.105.93 # 66-232-105-93.static.hvvc.us
-69.46.0.70 # 69-46-0-70.static.hvvc.us
 69.46.1.37 # 69-46-1-37.static.hvvc.us
-69.46.1.39 # 69-46-1-39.static.hvvc.us
-69.46.25.141 # 69-46-25-141.static.hvvc.us
-69.46.3.151 # 69-46-3-151.static.hvvc.us
-69.46.4.100 # 69-46-4-100.static.hvvc.us
 74.50.125.11 # 74-50-125-11.static.hvvc.us
 74.211.109.180 # 74.211.109.180.16clouds.com
 77.234.65.115 # 77-234-65-115.pool.digikabel.hu
@@ -364,8 +351,6 @@
 34.85.13.91 # 91.13.85.34.bc.googleusercontent.com
 92.249.179.47 # 92-249-179-47.pool.digikabel.hu
 94.100.16.2 # 94-100-16-2.static.hvvc.us
-94.100.26.188 # 94-100-26-188.static.hvvc.us
-94.100.26.202 # 94-100-26-202.static.hvvc.us
 94.21.114.201 # 94-21-114-201.pool.digikabel.hu
 94.21.135.28 # 94-21-135-28.pool.digikabel.hu
 94.21.223.85 # 94-21-223-85.pool.digikabel.hu
@@ -539,6 +524,7 @@
 3.10.225.70 # ec2-3-10-225-70.eu-west-2.compute.amazonaws.com
 3.106.236.188 # ec2-3-106-236-188.ap-southeast-2.compute.amazonaws.com
 3.108.227.33 # ec2-3-108-227-33.ap-south-1.compute.amazonaws.com
+3.109.23.191 # ec2-3-109-23-191.ap-south-1.compute.amazonaws.com
 3.111.188.177 # ec2-3-111-188-177.ap-south-1.compute.amazonaws.com
 3.113.155.68 # ec2-3-113-155-68.ap-northeast-1.compute.amazonaws.com
 3.128.179.1 # ec2-3-128-179-1.us-east-2.compute.amazonaws.com
