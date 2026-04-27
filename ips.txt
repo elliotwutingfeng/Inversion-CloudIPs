@@ -3,7 +3,6 @@
 109.36.211.103 # 109-36-211-103.bharatvoip.com
 35.200.70.153 # 153.70.200.35.bc.googleusercontent.com
 162.250.200.218 # 162-250-200-218.static.as40244.net
-162.252.87.182 # 162-252-87-182.static.hvvc.us
 163.172.24.195 # 163-172-24-195.rev.poneytelecom.eu
 163.182.168.146 # 163-182-168-146.static.as40244.net
 173.198.221.13 # 173-198-221-13.static.as40244.net
@@ -83,7 +82,6 @@
 197.254.125.33 # 197.254.125.33.acesskenya.net
 197.254.125.61 # 197.254.125.61.acesskenya.net
 197.254.125.84 # 197.254.125.84.acesskenya.net
-197.254.125.86 # 197.254.125.86.acesskenya.net
 197.254.125.88 # 197.254.125.88.acesskenya.net
 197.254.125.99 # 197.254.125.99.acesskenya.net
 197.254.126.191 # 197.254.126.191.acesskenya.net
@@ -129,7 +127,6 @@
 197.254.35.38 # 197.254.35.38.acesskenya.net
 197.254.36.228 # 197.254.36.228.acesskenya.net
 197.254.37.66 # 197.254.37.66.acesskenya.net
-197.254.37.78 # 197.254.37.78.acesskenya.net
 197.254.38.123 # 197.254.38.123.acesskenya.net
 197.254.38.185 # 197.254.38.185.acesskenya.net
 197.254.38.56 # 197.254.38.56.acesskenya.net
@@ -198,7 +195,7 @@
 197.254.84.179 # 197.254.84.179.acesskenya.net
 197.254.85.110 # 197.254.85.110.acesskenya.net
 197.254.85.186 # 197.254.85.186.acesskenya.net
-197.254.86.154 # 197.254.86.154.acesskenya.net
+197.254.86.162 # 197.254.86.162.acesskenya.net
 197.254.86.178 # 197.254.86.178.acesskenya.net
 197.254.87.159 # 197.254.87.159.acesskenya.net
 197.254.88.255 # 197.254.88.255.acesskenya.net
@@ -243,12 +240,9 @@
 46.10.6.99 # 46-10-6-99.ip.btc-net.bg
 47.39.211.103 # 47-39-211-103.bharatvoip.com
 60.242.75.145 # 60-242-75-145.tpgi.com.au
-62.165.219.172 # 62-165-219-172.pool.digikabel.hu
 62.165.244.156 # 62-165-244-156.pool.digikabel.hu
 62.165.245.113 # 62-165-245-113.pool.digikabel.hu
 66.165.251.145 # 66-165-251-145.static.hvvc.us
-66.165.255.42 # 66-165-255-42.static.hvvc.us
-69.46.1.37 # 69-46-1-37.static.hvvc.us
 74.211.109.180 # 74.211.109.180.16clouds.com
 77.234.65.115 # 77-234-65-115.pool.digikabel.hu
 78.23.196.244 # 78-23-196-244.access.telenet.be
@@ -330,7 +324,6 @@
 94.21.55.200 # 94-21-55-200.pool.digikabel.hu
 94.21.80.248 # 94-21-80-248.pool.digikabel.hu
 94.21.83.74 # 94-21-83-74.pool.digikabel.hu
-96.31.74.178 # 96-31-74-178.static.hvvc.us
 84.227.29.70 # adsl-84-227-29-70.adslplus.ch
 134.228.20.43 # cm-134-228-20-43.buckeyecom.net
 45.88.108.231 # condescending-kilby.45-88-108-231.plesk.page
@@ -919,7 +912,6 @@
 84.9.114.141 # static-84-9-114-141.vodafonexdsl.co.uk
 84.9.167.146 # static-84-9-167-146.vodafonexdsl.co.uk
 84.9.191.157 # static-84-9-191-157.vodafonexdsl.co.uk
-84.9.209.123 # static-84-9-209-123.vodafonexdsl.co.uk
 84.9.211.146 # static-84-9-211-146.vodafonexdsl.co.uk
 84.9.213.142 # static-84-9-213-142.vodafonexdsl.co.uk
 84.9.222.2 # static-84-9-222-2.vodafonexdsl.co.uk
