@@ -1,6 +1,7 @@
 109.170.138.65 # 109-170-138-65.xdsl.murphx.net
 109.170.159.19 # 109-170-159-19.xdsl.murphx.net
 109.36.211.103 # 109-36-211-103.bharatvoip.com
+34.133.26.122 # 122.26.133.34.bc.googleusercontent.com
 35.200.70.153 # 153.70.200.35.bc.googleusercontent.com
 162.250.200.218 # 162-250-200-218.static.as40244.net
 163.172.24.195 # 163-172-24-195.rev.poneytelecom.eu
@@ -325,6 +326,7 @@
 13.115.48.236 # ec2-13-115-48-236.ap-northeast-1.compute.amazonaws.com
 13.127.143.230 # ec2-13-127-143-230.ap-south-1.compute.amazonaws.com
 13.127.44.255 # ec2-13-127-44-255.ap-south-1.compute.amazonaws.com
+13.134.146.112 # ec2-13-134-146-112.eu-west-2.compute.amazonaws.com
 13.159.178.138 # ec2-13-159-178-138.ap-northeast-1.compute.amazonaws.com
 13.193.151.85 # ec2-13-193-151-85.ap-northeast-1.compute.amazonaws.com
 13.201.18.130 # ec2-13-201-18-130.ap-south-1.compute.amazonaws.com
@@ -626,6 +628,7 @@
 51.20.56.179 # ec2-51-20-56-179.eu-north-1.compute.amazonaws.com
 51.20.85.230 # ec2-51-20-85-230.eu-north-1.compute.amazonaws.com
 51.20.9.167 # ec2-51-20-9-167.eu-north-1.compute.amazonaws.com
+51.21.247.64 # ec2-51-21-247-64.eu-north-1.compute.amazonaws.com
 51.21.85.129 # ec2-51-21-85-129.eu-north-1.compute.amazonaws.com
 51.44.155.31 # ec2-51-44-155-31.eu-west-3.compute.amazonaws.com
 52.13.84.15 # ec2-52-13-84-15.us-west-2.compute.amazonaws.com
@@ -841,7 +844,6 @@
 92.28.116.36 # host-92-28-116-36.as13285.net
 92.28.118.178 # host-92-28-118-178.as13285.net
 92.28.42.160 # host-92-28-42-160.as13285.net
-92.28.82.39 # host-92-28-82-39.as13285.net
 92.28.84.180 # host-92-28-84-180.as13285.net
 92.28.86.223 # host-92-28-86-223.as13285.net
 92.28.86.229 # host-92-28-86-229.as13285.net
