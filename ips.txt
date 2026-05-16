@@ -217,13 +217,16 @@
 200.98.137.109 # 200-98-137-109.clouduol.com.br
 200.98.144.179 # 200-98-144-179.clouduol.com.br
 34.173.178.202 # 202.178.173.34.bc.googleusercontent.com
+35.186.146.205 # 205.146.186.35.bc.googleusercontent.com
 212.139.184.55 # 212-139-184-55.dynamic.dsl.as9105.com
 212.139.186.81 # 212-139-186-81.dynamic.dsl.as9105.com
 212.139.233.182 # 212-139-233-182.dynamic.dsl.as9105.com
 212.139.71.87 # 212-139-71-87.dynamic.dsl.as9105.com
 217.197.188.253 # 217-197-188-253.pool.digikabel.hu
+34.162.85.220 # 220.85.162.34.bc.googleusercontent.com
 24.123.74.84 # 24.123.74.84.vernaylabs.com
 35.188.127.240 # 240.127.188.35.bc.googleusercontent.com
+35.245.188.31 # 31.188.245.35.bc.googleusercontent.com
 34.63.12.44 # 44.12.63.34.bc.googleusercontent.com
 46.10.12.56 # 46-10-12-56.ip.btc-net.bg
 46.10.6.99 # 46-10-6-99.ip.btc-net.bg
@@ -231,6 +234,7 @@
 60.242.75.145 # 60-242-75-145.tpgi.com.au
 62.165.244.156 # 62-165-244-156.pool.digikabel.hu
 62.165.245.113 # 62-165-245-113.pool.digikabel.hu
+104.155.29.73 # 73.29.155.104.bc.googleusercontent.com
 74.211.109.180 # 74.211.109.180.16clouds.com
 77.234.65.115 # 77-234-65-115.pool.digikabel.hu
 78.23.196.244 # 78-23-196-244.access.telenet.be
@@ -485,6 +489,7 @@
 3.109.23.191 # ec2-3-109-23-191.ap-south-1.compute.amazonaws.com
 3.111.188.177 # ec2-3-111-188-177.ap-south-1.compute.amazonaws.com
 3.113.155.68 # ec2-3-113-155-68.ap-northeast-1.compute.amazonaws.com
+3.114.57.167 # ec2-3-114-57-167.ap-northeast-1.compute.amazonaws.com
 3.128.179.1 # ec2-3-128-179-1.us-east-2.compute.amazonaws.com
 3.128.180.220 # ec2-3-128-180-220.us-east-2.compute.amazonaws.com
 3.131.141.57 # ec2-3-131-141-57.us-east-2.compute.amazonaws.com
@@ -818,7 +823,6 @@
 92.15.213.220 # host-92-15-213-220.as13285.net
 92.15.218.146 # host-92-15-218-146.as13285.net
 92.15.230.1 # host-92-15-230-1.as13285.net
-92.16.219.69 # host-92-16-219-69.as13285.net
 92.18.14.234 # host-92-18-14-234.as13285.net
 92.19.85.231 # host-92-19-85-231.as13285.net
 92.21.129.146 # host-92-21-129-146.as13285.net
@@ -840,7 +844,6 @@
 92.31.138.76 # host-92-31-138-76.as13285.net
 92.31.14.9 # host-92-31-14-9.as13285.net
 92.31.243.135 # host-92-31-243-135.as13285.net
-92.31.244.153 # host-92-31-244-153.as13285.net
 92.31.246.107 # host-92-31-246-107.as13285.net
 92.6.232.135 # host-92-6-232-135.as13285.net
 92.8.212.193 # host-92-8-212-193.as13285.net
