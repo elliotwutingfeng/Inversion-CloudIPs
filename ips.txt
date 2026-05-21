@@ -97,6 +97,7 @@
 197.254.2.182 # 197.254.2.182.acesskenya.net
 197.254.21.217 # 197.254.21.217.acesskenya.net
 197.254.21.89 # 197.254.21.89.acesskenya.net
+197.254.22.12 # 197.254.22.12.acesskenya.net
 197.254.22.26 # 197.254.22.26.acesskenya.net
 197.254.24.122 # 197.254.24.122.acesskenya.net
 197.254.24.15 # 197.254.24.15.acesskenya.net
@@ -230,6 +231,7 @@
 46.10.12.56 # 46-10-12-56.ip.btc-net.bg
 46.10.6.99 # 46-10-6-99.ip.btc-net.bg
 47.39.211.103 # 47-39-211-103.bharatvoip.com
+136.110.38.51 # 51.38.110.136.bc.googleusercontent.com
 60.242.75.145 # 60-242-75-145.tpgi.com.au
 62.165.244.156 # 62-165-244-156.pool.digikabel.hu
 62.165.245.113 # 62-165-245-113.pool.digikabel.hu
@@ -494,6 +496,7 @@
 3.111.188.177 # ec2-3-111-188-177.ap-south-1.compute.amazonaws.com
 3.113.155.68 # ec2-3-113-155-68.ap-northeast-1.compute.amazonaws.com
 3.114.57.167 # ec2-3-114-57-167.ap-northeast-1.compute.amazonaws.com
+3.128.142.167 # ec2-3-128-142-167.us-east-2.compute.amazonaws.com
 3.128.179.1 # ec2-3-128-179-1.us-east-2.compute.amazonaws.com
 3.128.180.220 # ec2-3-128-180-220.us-east-2.compute.amazonaws.com
 3.131.141.57 # ec2-3-131-141-57.us-east-2.compute.amazonaws.com
@@ -518,6 +521,7 @@
 3.148.106.12 # ec2-3-148-106-12.us-east-2.compute.amazonaws.com
 3.148.117.50 # ec2-3-148-117-50.us-east-2.compute.amazonaws.com
 3.15.180.166 # ec2-3-15-180-166.us-east-2.compute.amazonaws.com
+3.15.226.31 # ec2-3-15-226-31.us-east-2.compute.amazonaws.com
 3.15.4.72 # ec2-3-15-4-72.us-east-2.compute.amazonaws.com
 3.15.93.54 # ec2-3-15-93-54.us-east-2.compute.amazonaws.com
 3.150.128.217 # ec2-3-150-128-217.us-east-2.compute.amazonaws.com
