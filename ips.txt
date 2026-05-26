@@ -1,6 +1,5 @@
 109.170.138.65 # 109-170-138-65.xdsl.murphx.net
 109.170.159.19 # 109-170-159-19.xdsl.murphx.net
-109.36.211.103 # 109-36-211-103.bharatvoip.com
 34.133.26.122 # 122.26.133.34.bc.googleusercontent.com
 35.200.70.153 # 153.70.200.35.bc.googleusercontent.com
 162.250.200.218 # 162-250-200-218.static.as40244.net
@@ -150,7 +149,6 @@
 197.254.58.10 # 197.254.58.10.acesskenya.net
 197.254.59.206 # 197.254.59.206.acesskenya.net
 197.254.59.254 # 197.254.59.254.acesskenya.net
-197.254.6.234 # 197.254.6.234.acesskenya.net
 197.254.6.29 # 197.254.6.29.acesskenya.net
 197.254.60.78 # 197.254.60.78.acesskenya.net
 197.254.60.96 # 197.254.60.96.acesskenya.net
@@ -394,6 +392,7 @@
 15.164.103.179 # ec2-15-164-103-179.ap-northeast-2.compute.amazonaws.com
 15.168.60.69 # ec2-15-168-60-69.ap-northeast-3.compute.amazonaws.com
 15.188.58.208 # ec2-15-188-58-208.eu-west-3.compute.amazonaws.com
+15.224.33.187 # ec2-15-224-33-187.eu-west-3.compute.amazonaws.com
 15.236.158.5 # ec2-15-236-158-5.eu-west-3.compute.amazonaws.com
 15.236.2.215 # ec2-15-236-2-215.eu-west-3.compute.amazonaws.com
 16.16.104.244 # ec2-16-16-104-244.eu-north-1.compute.amazonaws.com
@@ -453,6 +452,7 @@
 18.191.40.153 # ec2-18-191-40-153.us-east-2.compute.amazonaws.com
 18.196.105.68 # ec2-18-196-105-68.eu-central-1.compute.amazonaws.com
 18.196.229.47 # ec2-18-196-229-47.eu-central-1.compute.amazonaws.com
+18.201.241.131 # ec2-18-201-241-131.eu-west-1.compute.amazonaws.com
 18.207.173.155 # ec2-18-207-173-155.compute-1.amazonaws.com
 18.208.215.164 # ec2-18-208-215-164.compute-1.amazonaws.com
 18.209.168.198 # ec2-18-209-168-198.compute-1.amazonaws.com
@@ -512,6 +512,7 @@
 3.141.169.105 # ec2-3-141-169-105.us-east-2.compute.amazonaws.com
 3.142.52.35 # ec2-3-142-52-35.us-east-2.compute.amazonaws.com
 3.142.74.139 # ec2-3-142-74-139.us-east-2.compute.amazonaws.com
+3.144.100.176 # ec2-3-144-100-176.us-east-2.compute.amazonaws.com
 3.144.147.234 # ec2-3-144-147-234.us-east-2.compute.amazonaws.com
 3.144.8.209 # ec2-3-144-8-209.us-east-2.compute.amazonaws.com
 3.145.20.151 # ec2-3-145-20-151.us-east-2.compute.amazonaws.com
@@ -534,6 +535,7 @@
 3.211.89.250 # ec2-3-211-89-250.compute-1.amazonaws.com
 3.227.126.6 # ec2-3-227-126-6.compute-1.amazonaws.com
 3.23.153.27 # ec2-3-23-153-27.us-east-2.compute.amazonaws.com
+3.23.95.206 # ec2-3-23-95-206.us-east-2.compute.amazonaws.com
 3.235.154.124 # ec2-3-235-154-124.compute-1.amazonaws.com
 3.236.127.96 # ec2-3-236-127-96.compute-1.amazonaws.com
 3.237.57.223 # ec2-3-237-57-223.compute-1.amazonaws.com
@@ -829,7 +831,6 @@
 92.12.77.17 # host-92-12-77-17.as13285.net
 92.15.213.220 # host-92-15-213-220.as13285.net
 92.15.218.146 # host-92-15-218-146.as13285.net
-92.15.230.1 # host-92-15-230-1.as13285.net
 92.18.14.234 # host-92-18-14-234.as13285.net
 92.19.85.231 # host-92-19-85-231.as13285.net
 92.21.129.146 # host-92-21-129-146.as13285.net
