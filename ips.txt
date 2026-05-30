@@ -4,6 +4,7 @@
 35.200.70.153 # 153.70.200.35.bc.googleusercontent.com
 162.250.200.218 # 162-250-200-218.static.as40244.net
 163.172.24.195 # 163-172-24-195.rev.poneytelecom.eu
+104.154.232.168 # 168.232.154.104.bc.googleusercontent.com
 173.198.221.13 # 173-198-221-13.static.as40244.net
 173.198.247.116 # 173-198-247-116.static.as40244.net
 34.146.186.175 # 175.186.146.34.bc.googleusercontent.com
@@ -218,7 +219,6 @@
 212.139.186.81 # 212-139-186-81.dynamic.dsl.as9105.com
 212.139.233.182 # 212-139-233-182.dynamic.dsl.as9105.com
 212.139.71.87 # 212-139-71-87.dynamic.dsl.as9105.com
-217.197.188.253 # 217-197-188-253.pool.digikabel.hu
 34.162.85.220 # 220.85.162.34.bc.googleusercontent.com
 24.123.74.84 # 24.123.74.84.vernaylabs.com
 35.188.127.240 # 240.127.188.35.bc.googleusercontent.com
@@ -889,7 +889,6 @@
 130.25.212.245 # net-130-25-212-245.cust.vodafonedsl.it
 2.32.63.95 # net-2-32-63-95.cust.vodafonedsl.it
 2.36.9.149 # net-2-36-9-149.cust.vodafonedsl.it
-108.20.212.166 # pool-108-20-212-166.bstnma.fios.verizon.net
 108.27.239.52 # pool-108-27-239-52.nycmny.fios.verizon.net
 72.74.52.71 # pool-72-74-52-71.bstnma.fios.verizon.net
 213.171.204.72 # server213-171-204-72.live-servers.net
@@ -903,7 +902,6 @@
 84.9.191.157 # static-84-9-191-157.vodafonexdsl.co.uk
 84.9.211.146 # static-84-9-211-146.vodafonexdsl.co.uk
 84.9.28.215 # static-84-9-28-215.vodafonexdsl.co.uk
-84.9.33.203 # static-84-9-33-203.vodafonexdsl.co.uk
 84.9.35.200 # static-84-9-35-200.vodafonexdsl.co.uk
 84.9.38.207 # static-84-9-38-207.vodafonexdsl.co.uk
 84.9.50.228 # static-84-9-50-228.vodafonexdsl.co.uk
