@@ -325,6 +325,7 @@
 13.201.18.130 # ec2-13-201-18-130.ap-south-1.compute.amazonaws.com
 13.203.188.70 # ec2-13-203-188-70.ap-south-1.compute.amazonaws.com
 13.204.250.194 # ec2-13-204-250-194.ap-south-1.compute.amazonaws.com
+13.206.162.125 # ec2-13-206-162-125.ap-south-1.compute.amazonaws.com
 13.206.184.84 # ec2-13-206-184-84.ap-south-1.compute.amazonaws.com
 13.208.141.78 # ec2-13-208-141-78.ap-northeast-3.compute.amazonaws.com
 13.208.166.144 # ec2-13-208-166-144.ap-northeast-3.compute.amazonaws.com
@@ -716,6 +717,7 @@
 54.242.173.151 # ec2-54-242-173-151.compute-1.amazonaws.com
 54.242.94.223 # ec2-54-242-94-223.compute-1.amazonaws.com
 54.243.18.161 # ec2-54-243-18-161.compute-1.amazonaws.com
+54.249.104.26 # ec2-54-249-104-26.ap-northeast-1.compute.amazonaws.com
 54.250.242.244 # ec2-54-250-242-244.ap-northeast-1.compute.amazonaws.com
 54.250.27.248 # ec2-54-250-27-248.ap-northeast-1.compute.amazonaws.com
 54.251.190.189 # ec2-54-251-190-189.ap-southeast-1.compute.amazonaws.com
@@ -749,7 +751,6 @@
 187.190.109.235 # fixed-187-190-109-235.totalplay.net
 2.101.154.5 # host-2-101-154-5.as13285.net
 2.101.215.34 # host-2-101-215-34.as13285.net
-2.102.4.150 # host-2-102-4-150.as13285.net
 2.103.112.198 # host-2-103-112-198.as13285.net
 2.103.117.184 # host-2-103-117-184.as13285.net
 2.103.118.138 # host-2-103-118-138.as13285.net
@@ -809,8 +810,6 @@
 80.47.208.75 # host-80-47-208-75.as13285.net
 80.47.214.66 # host-80-47-214-66.as13285.net
 80.47.219.215 # host-80-47-219-215.as13285.net
-80.47.50.196 # host-80-47-50-196.as13285.net
-80.47.50.224 # host-80-47-50-224.as13285.net
 80.47.6.163 # host-80-47-6-163.as13285.net
 80.47.78.152 # host-80-47-78-152.as13285.net
 80.47.81.232 # host-80-47-81-232.as13285.net
