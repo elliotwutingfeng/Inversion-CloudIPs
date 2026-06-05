@@ -440,6 +440,7 @@
 18.153.98.227 # ec2-18-153-98-227.eu-central-1.compute.amazonaws.com
 18.159.41.48 # ec2-18-159-41-48.eu-central-1.compute.amazonaws.com
 18.163.79.151 # ec2-18-163-79-151.ap-east-1.compute.amazonaws.com
+18.166.154.161 # ec2-18-166-154-161.ap-east-1.compute.amazonaws.com
 18.166.255.115 # ec2-18-166-255-115.ap-east-1.compute.amazonaws.com
 18.183.176.73 # ec2-18-183-176-73.ap-northeast-1.compute.amazonaws.com
 18.183.28.157 # ec2-18-183-28-157.ap-northeast-1.compute.amazonaws.com
@@ -593,7 +594,6 @@
 34.238.246.197 # ec2-34-238-246-197.compute-1.amazonaws.com
 34.239.113.190 # ec2-34-239-113-190.compute-1.amazonaws.com
 34.239.121.128 # ec2-34-239-121-128.compute-1.amazonaws.com
-34.249.157.241 # ec2-34-249-157-241.eu-west-1.compute.amazonaws.com
 35.154.74.221 # ec2-35-154-74-221.ap-south-1.compute.amazonaws.com
 35.154.81.57 # ec2-35-154-81-57.ap-south-1.compute.amazonaws.com
 35.161.122.239 # ec2-35-161-122-239.us-west-2.compute.amazonaws.com
@@ -886,7 +886,6 @@
 108.27.239.52 # pool-108-27-239-52.nycmny.fios.verizon.net
 72.74.52.71 # pool-72-74-52-71.bstnma.fios.verizon.net
 213.171.204.72 # server213-171-204-72.live-servers.net
-162.214.103.94 # snltoken.nervous-cerf.162-214-103-94.plesk.page
 212.158.247.218 # static-212-158-247-218.vodafonexdsl.co.uk
 83.146.10.206 # static-83-146-10-206.vodafonexdsl.co.uk
 83.146.9.49 # static-83-146-9-49.vodafonexdsl.co.uk
@@ -903,7 +902,6 @@
 84.9.98.56 # static-84-9-98-56.vodafonexdsl.co.uk
 87.74.150.79 # static-87-74-150-79.vodafonexdsl.co.uk
 87.74.150.9 # static-87-74-150-9.vodafonexdsl.co.uk
-87.75.114.61 # static-87-75-114-61.vodafonexdsl.co.uk
 87.75.123.96 # static-87-75-123-96.vodafonexdsl.co.uk
 87.75.97.119 # static-87-75-97-119.vodafonexdsl.co.uk
 87.75.99.202 # static-87-75-99-202.vodafonexdsl.co.uk
