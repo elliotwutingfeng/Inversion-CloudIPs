@@ -230,6 +230,7 @@
 60.242.75.145 # 60-242-75-145.tpgi.com.au
 62.165.244.156 # 62-165-244-156.pool.digikabel.hu
 62.165.245.113 # 62-165-245-113.pool.digikabel.hu
+34.106.74.68 # 68.74.106.34.bc.googleusercontent.com
 104.155.29.73 # 73.29.155.104.bc.googleusercontent.com
 77.234.65.115 # 77-234-65-115.pool.digikabel.hu
 78.23.196.244 # 78-23-196-244.access.telenet.be
@@ -316,6 +317,7 @@
 100.25.141.27 # ec2-100-25-141-27.compute-1.amazonaws.com
 100.26.200.250 # ec2-100-26-200-250.compute-1.amazonaws.com
 107.23.166.216 # ec2-107-23-166-216.compute-1.amazonaws.com
+13.113.142.71 # ec2-13-113-142-71.ap-northeast-1.compute.amazonaws.com
 13.115.48.236 # ec2-13-115-48-236.ap-northeast-1.compute.amazonaws.com
 13.127.143.230 # ec2-13-127-143-230.ap-south-1.compute.amazonaws.com
 13.127.44.255 # ec2-13-127-44-255.ap-south-1.compute.amazonaws.com
@@ -837,7 +839,6 @@
 92.28.118.178 # host-92-28-118-178.as13285.net
 92.28.42.160 # host-92-28-42-160.as13285.net
 92.28.84.180 # host-92-28-84-180.as13285.net
-92.28.86.223 # host-92-28-86-223.as13285.net
 92.28.86.229 # host-92-28-86-229.as13285.net
 92.29.15.243 # host-92-29-15-243.as13285.net
 92.29.59.225 # host-92-29-59-225.as13285.net
