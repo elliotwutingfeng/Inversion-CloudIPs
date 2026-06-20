@@ -1,3 +1,4 @@
+107.175.148.253 # 107-175-148-253-s5.servikus.net
 109.170.138.65 # 109-170-138-65.xdsl.murphx.net
 109.170.159.19 # 109-170-159-19.xdsl.murphx.net
 34.133.26.122 # 122.26.133.34.bc.googleusercontent.com
@@ -107,7 +108,6 @@
 197.254.3.199 # 197.254.3.199.acesskenya.net
 197.254.30.176 # 197.254.30.176.acesskenya.net
 197.254.31.180 # 197.254.31.180.acesskenya.net
-197.254.31.58 # 197.254.31.58.acesskenya.net
 197.254.32.230 # 197.254.32.230.acesskenya.net
 197.254.32.54 # 197.254.32.54.acesskenya.net
 197.254.33.212 # 197.254.33.212.acesskenya.net
@@ -118,7 +118,6 @@
 197.254.35.178 # 197.254.35.178.acesskenya.net
 197.254.35.185 # 197.254.35.185.acesskenya.net
 197.254.35.194 # 197.254.35.194.acesskenya.net
-197.254.35.38 # 197.254.35.38.acesskenya.net
 197.254.36.228 # 197.254.36.228.acesskenya.net
 197.254.37.66 # 197.254.37.66.acesskenya.net
 197.254.38.123 # 197.254.38.123.acesskenya.net
@@ -160,7 +159,6 @@
 197.254.67.125 # 197.254.67.125.acesskenya.net
 197.254.68.60 # 197.254.68.60.acesskenya.net
 197.254.69.67 # 197.254.69.67.acesskenya.net
-197.254.7.154 # 197.254.7.154.acesskenya.net
 197.254.7.217 # 197.254.7.217.acesskenya.net
 197.254.7.252 # 197.254.7.252.acesskenya.net
 197.254.7.33 # 197.254.7.33.acesskenya.net
@@ -168,11 +166,9 @@
 197.254.70.19 # 197.254.70.19.acesskenya.net
 197.254.70.27 # 197.254.70.27.acesskenya.net
 197.254.72.150 # 197.254.72.150.acesskenya.net
-197.254.73.222 # 197.254.73.222.acesskenya.net
 197.254.73.8 # 197.254.73.8.acesskenya.net
 197.254.73.90 # 197.254.73.90.acesskenya.net
 197.254.74.233 # 197.254.74.233.acesskenya.net
-197.254.74.61 # 197.254.74.61.acesskenya.net
 197.254.75.8 # 197.254.75.8.acesskenya.net
 197.254.76.153 # 197.254.76.153.acesskenya.net
 197.254.76.244 # 197.254.76.244.acesskenya.net
@@ -186,13 +182,11 @@
 197.254.85.110 # 197.254.85.110.acesskenya.net
 197.254.85.186 # 197.254.85.186.acesskenya.net
 197.254.86.162 # 197.254.86.162.acesskenya.net
-197.254.86.178 # 197.254.86.178.acesskenya.net
 197.254.87.159 # 197.254.87.159.acesskenya.net
 197.254.88.255 # 197.254.88.255.acesskenya.net
 197.254.9.146 # 197.254.9.146.acesskenya.net
 197.254.9.173 # 197.254.9.173.acesskenya.net
 197.254.93.156 # 197.254.93.156.acesskenya.net
-197.254.93.167 # 197.254.93.167.acesskenya.net
 197.254.93.21 # 197.254.93.21.acesskenya.net
 197.254.94.145 # 197.254.94.145.acesskenya.net
 197.254.94.51 # 197.254.94.51.acesskenya.net
@@ -216,7 +210,6 @@
 212.139.233.182 # 212-139-233-182.dynamic.dsl.as9105.com
 212.139.71.87 # 212-139-71-87.dynamic.dsl.as9105.com
 34.162.85.220 # 220.85.162.34.bc.googleusercontent.com
-24.123.74.84 # 24.123.74.84.vernaylabs.com
 35.188.127.240 # 240.127.188.35.bc.googleusercontent.com
 35.245.188.31 # 31.188.245.35.bc.googleusercontent.com
 34.63.12.44 # 44.12.63.34.bc.googleusercontent.com
@@ -243,7 +236,6 @@
 79.77.65.163 # 79-77-65-163.dynamic.dsl.as9105.com
 79.77.99.106 # 79-77-99-106.dynamic.dsl.as9105.com
 79.141.165.201 # 79.141.165.201.nip.io
-34.97.76.79 # 79.76.97.34.bc.googleusercontent.com
 80.42.1.122 # 80-42-1-122.dynamic.dsl.as9105.com
 80.42.106.220 # 80-42-106-220.dynamic.dsl.as9105.com
 80.42.122.16 # 80-42-122-16.dynamic.dsl.as9105.com
@@ -300,12 +292,10 @@
 89.168.105.9 # 89-168-105-9.dynamic.dsl.as9105.com
 89.168.81.20 # 89-168-81-20.dynamic.dsl.as9105.com
 91.83.192.102 # 91-83-192-102.pool.digikabel.hu
-34.85.13.91 # 91.13.85.34.bc.googleusercontent.com
 92.249.179.47 # 92-249-179-47.pool.digikabel.hu
 94.21.114.201 # 94-21-114-201.pool.digikabel.hu
 94.21.135.28 # 94-21-135-28.pool.digikabel.hu
 94.21.223.85 # 94-21-223-85.pool.digikabel.hu
-94.21.226.215 # 94-21-226-215.pool.digikabel.hu
 94.21.80.248 # 94-21-80-248.pool.digikabel.hu
 94.21.83.74 # 94-21-83-74.pool.digikabel.hu
 84.227.29.70 # adsl-84-227-29-70.adslplus.ch
@@ -421,7 +411,6 @@
 18.130.190.69 # ec2-18-130-190-69.eu-west-2.compute.amazonaws.com
 18.130.59.43 # ec2-18-130-59-43.eu-west-2.compute.amazonaws.com
 18.132.108.106 # ec2-18-132-108-106.eu-west-2.compute.amazonaws.com
-18.134.151.132 # ec2-18-134-151-132.eu-west-2.compute.amazonaws.com
 18.140.231.34 # ec2-18-140-231-34.ap-southeast-1.compute.amazonaws.com
 18.140.235.19 # ec2-18-140-235-19.ap-southeast-1.compute.amazonaws.com
 18.140.237.238 # ec2-18-140-237-238.ap-southeast-1.compute.amazonaws.com
@@ -429,6 +418,7 @@
 18.141.168.37 # ec2-18-141-168-37.ap-southeast-1.compute.amazonaws.com
 18.141.206.255 # ec2-18-141-206-255.ap-southeast-1.compute.amazonaws.com
 18.141.212.28 # ec2-18-141-212-28.ap-southeast-1.compute.amazonaws.com
+18.141.229.175 # ec2-18-141-229-175.ap-southeast-1.compute.amazonaws.com
 18.142.146.212 # ec2-18-142-146-212.ap-southeast-1.compute.amazonaws.com
 18.142.159.215 # ec2-18-142-159-215.ap-southeast-1.compute.amazonaws.com
 18.142.179.191 # ec2-18-142-179-191.ap-southeast-1.compute.amazonaws.com
@@ -462,7 +452,6 @@
 18.212.142.53 # ec2-18-212-142-53.compute-1.amazonaws.com
 18.216.227.124 # ec2-18-216-227-124.us-east-2.compute.amazonaws.com
 18.216.82.121 # ec2-18-216-82-121.us-east-2.compute.amazonaws.com
-18.217.164.56 # ec2-18-217-164-56.us-east-2.compute.amazonaws.com
 18.217.248.124 # ec2-18-217-248-124.us-east-2.compute.amazonaws.com
 18.218.33.49 # ec2-18-218-33-49.us-east-2.compute.amazonaws.com
 18.219.143.169 # ec2-18-219-143-169.us-east-2.compute.amazonaws.com
@@ -542,7 +531,6 @@
 3.23.95.206 # ec2-3-23-95-206.us-east-2.compute.amazonaws.com
 3.231.175.249 # ec2-3-231-175-249.compute-1.amazonaws.com
 3.235.154.124 # ec2-3-235-154-124.compute-1.amazonaws.com
-3.236.127.96 # ec2-3-236-127-96.compute-1.amazonaws.com
 3.237.57.223 # ec2-3-237-57-223.compute-1.amazonaws.com
 3.26.114.115 # ec2-3-26-114-115.ap-southeast-2.compute.amazonaws.com
 3.34.197.82 # ec2-3-34-197-82.ap-northeast-2.compute.amazonaws.com
@@ -579,7 +567,6 @@
 34.203.31.253 # ec2-34-203-31-253.compute-1.amazonaws.com
 34.205.225.154 # ec2-34-205-225-154.compute-1.amazonaws.com
 34.206.148.100 # ec2-34-206-148-100.compute-1.amazonaws.com
-34.207.116.203 # ec2-34-207-116-203.compute-1.amazonaws.com
 34.207.135.225 # ec2-34-207-135-225.compute-1.amazonaws.com
 34.207.235.127 # ec2-34-207-235-127.compute-1.amazonaws.com
 34.211.9.224 # ec2-34-211-9-224.us-west-2.compute.amazonaws.com
@@ -634,7 +621,6 @@
 44.211.231.199 # ec2-44-211-231-199.compute-1.amazonaws.com
 44.212.20.74 # ec2-44-212-20-74.compute-1.amazonaws.com
 44.212.45.74 # ec2-44-212-45-74.compute-1.amazonaws.com
-44.215.108.158 # ec2-44-215-108-158.compute-1.amazonaws.com
 44.218.44.122 # ec2-44-218-44-122.compute-1.amazonaws.com
 44.248.99.84 # ec2-44-248-99-84.us-west-2.compute.amazonaws.com
 47.128.146.219 # ec2-47-128-146-219.ap-southeast-1.compute.amazonaws.com
@@ -725,12 +711,10 @@
 54.249.147.235 # ec2-54-249-147-235.ap-northeast-1.compute.amazonaws.com
 54.250.242.244 # ec2-54-250-242-244.ap-northeast-1.compute.amazonaws.com
 54.250.27.248 # ec2-54-250-27-248.ap-northeast-1.compute.amazonaws.com
-54.251.190.189 # ec2-54-251-190-189.ap-southeast-1.compute.amazonaws.com
 54.254.190.252 # ec2-54-254-190-252.ap-southeast-1.compute.amazonaws.com
 54.67.5.226 # ec2-54-67-5-226.us-west-1.compute.amazonaws.com
 54.68.213.124 # ec2-54-68-213-124.us-west-2.compute.amazonaws.com
 54.80.22.244 # ec2-54-80-22-244.compute-1.amazonaws.com
-54.82.155.141 # ec2-54-82-155-141.compute-1.amazonaws.com
 54.83.127.87 # ec2-54-83-127-87.compute-1.amazonaws.com
 54.83.246.91 # ec2-54-83-246-91.compute-1.amazonaws.com
 54.84.132.74 # ec2-54-84-132-74.compute-1.amazonaws.com
@@ -782,7 +766,6 @@
 80.41.164.197 # host-80-41-164-197.as13285.net
 80.41.175.170 # host-80-41-175-170.as13285.net
 80.41.178.224 # host-80-41-178-224.as13285.net
-80.41.18.143 # host-80-41-18-143.as13285.net
 80.41.180.43 # host-80-41-180-43.as13285.net
 80.41.206.14 # host-80-41-206-14.as13285.net
 80.41.220.121 # host-80-41-220-121.as13285.net
@@ -794,7 +777,6 @@
 80.41.32.101 # host-80-41-32-101.as13285.net
 80.41.35.137 # host-80-41-35-137.as13285.net
 80.41.48.176 # host-80-41-48-176.as13285.net
-80.41.54.199 # host-80-41-54-199.as13285.net
 80.41.8.139 # host-80-41-8-139.as13285.net
 80.41.86.113 # host-80-41-86-113.as13285.net
 80.41.9.204 # host-80-41-9-204.as13285.net
@@ -845,7 +827,6 @@
 92.31.246.107 # host-92-31-246-107.as13285.net
 92.6.232.135 # host-92-6-232-135.as13285.net
 92.8.212.193 # host-92-8-212-193.as13285.net
-92.9.4.26 # host-92-9-4-26.as13285.net
 81.134.44.37 # host81-134-44-37.in-addr.btopenworld.com
 81.136.231.6 # host81-136-231-6.in-addr.btopenworld.com
 86.177.0.210 # host86-177-0-210.range86-177.btcentralplus.com
@@ -867,13 +848,11 @@
 86.177.236.150 # host86-177-236-150.range86-177.btcentralplus.com
 86.177.237.18 # host86-177-237-18.range86-177.btcentralplus.com
 86.177.48.66 # host86-177-48-66.range86-177.btcentralplus.com
-86.177.71.248 # host86-177-71-248.range86-177.btcentralplus.com
 86.177.8.64 # host86-177-8-64.range86-177.btcentralplus.com
 86.177.9.189 # host86-177-9-189.range86-177.btcentralplus.com
 86.177.94.225 # host86-177-94-225.range86-177.btcentralplus.com
 103.244.244.219 # kol-103.244.244.219.pmpl-broadband.net
 103.155.93.158 # naughty-newton.103-155-93-158.plesk.page
-130.25.212.245 # net-130-25-212-245.cust.vodafonedsl.it
 2.32.63.95 # net-2-32-63-95.cust.vodafonedsl.it
 2.36.9.149 # net-2-36-9-149.cust.vodafonedsl.it
 108.27.239.52 # pool-108-27-239-52.nycmny.fios.verizon.net
