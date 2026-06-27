@@ -389,6 +389,7 @@
 15.152.49.10 # ec2-15-152-49-10.ap-northeast-3.compute.amazonaws.com
 15.157.72.109 # ec2-15-157-72-109.ca-central-1.compute.amazonaws.com
 15.164.103.179 # ec2-15-164-103-179.ap-northeast-2.compute.amazonaws.com
+15.168.15.75 # ec2-15-168-15-75.ap-northeast-3.compute.amazonaws.com
 15.168.60.69 # ec2-15-168-60-69.ap-northeast-3.compute.amazonaws.com
 15.188.58.208 # ec2-15-188-58-208.eu-west-3.compute.amazonaws.com
 15.224.33.187 # ec2-15-224-33-187.eu-west-3.compute.amazonaws.com
