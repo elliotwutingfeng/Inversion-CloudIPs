@@ -16,7 +16,6 @@
 176.241.49.17 # 176-241-49-17.pool.digikabel.hu
 176.35.164.230 # 176-35-164-230.xdsl.murphx.net
 176.35.217.162 # 176-35-217-162.xdsl.murphx.net
-178.164.143.35 # 178-164-143-35.pool.digikabel.hu
 178.164.201.224 # 178-164-201-224.pool.digikabel.hu
 178.164.204.41 # 178-164-204-41.pool.digikabel.hu
 178.164.233.33 # 178-164-233-33.pool.digikabel.hu
@@ -329,7 +328,6 @@
 13.208.141.78 # ec2-13-208-141-78.ap-northeast-3.compute.amazonaws.com
 13.208.166.144 # ec2-13-208-166-144.ap-northeast-3.compute.amazonaws.com
 13.212.107.13 # ec2-13-212-107-13.ap-southeast-1.compute.amazonaws.com
-13.212.115.67 # ec2-13-212-115-67.ap-southeast-1.compute.amazonaws.com
 13.212.168.32 # ec2-13-212-168-32.ap-southeast-1.compute.amazonaws.com
 13.213.114.107 # ec2-13-213-114-107.ap-southeast-1.compute.amazonaws.com
 13.214.154.89 # ec2-13-214-154-89.ap-southeast-1.compute.amazonaws.com
@@ -472,7 +470,6 @@
 18.222.252.243 # ec2-18-222-252-243.us-east-2.compute.amazonaws.com
 18.223.160.158 # ec2-18-223-160-158.us-east-2.compute.amazonaws.com
 18.223.97.27 # ec2-18-223-97-27.us-east-2.compute.amazonaws.com
-18.224.143.239 # ec2-18-224-143-239.us-east-2.compute.amazonaws.com
 18.224.226.230 # ec2-18-224-226-230.us-east-2.compute.amazonaws.com
 18.230.226.253 # ec2-18-230-226-253.sa-east-1.compute.amazonaws.com
 18.231.109.183 # ec2-18-231-109-183.sa-east-1.compute.amazonaws.com
