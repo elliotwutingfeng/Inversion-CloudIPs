@@ -715,6 +715,7 @@
 54.233.34.115 # ec2-54-233-34-115.sa-east-1.compute.amazonaws.com
 54.234.212.143 # ec2-54-234-212-143.compute-1.amazonaws.com
 54.234.44.233 # ec2-54-234-44-233.compute-1.amazonaws.com
+54.234.67.238 # ec2-54-234-67-238.compute-1.amazonaws.com
 54.236.210.25 # ec2-54-236-210-25.compute-1.amazonaws.com
 54.236.5.248 # ec2-54-236-5-248.compute-1.amazonaws.com
 54.242.173.151 # ec2-54-242-173-151.compute-1.amazonaws.com
