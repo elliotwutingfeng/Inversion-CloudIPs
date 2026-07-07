@@ -754,7 +754,6 @@
 98.81.97.27 # ec2-98-81-97-27.compute-1.amazonaws.com
 98.83.154.35 # ec2-98-83-154-35.compute-1.amazonaws.com
 98.89.70.178 # ec2-98-89-70-178.compute-1.amazonaws.com
-187.190.109.235 # fixed-187-190-109-235.totalplay.net
 2.101.154.5 # host-2-101-154-5.as13285.net
 2.101.215.34 # host-2-101-215-34.as13285.net
 2.103.112.198 # host-2-103-112-198.as13285.net
