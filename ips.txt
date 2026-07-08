@@ -148,7 +148,6 @@
 197.254.57.232 # 197.254.57.232.acesskenya.net
 197.254.58.10 # 197.254.58.10.acesskenya.net
 197.254.59.206 # 197.254.59.206.acesskenya.net
-197.254.59.254 # 197.254.59.254.acesskenya.net
 197.254.6.29 # 197.254.6.29.acesskenya.net
 197.254.60.78 # 197.254.60.78.acesskenya.net
 197.254.60.96 # 197.254.60.96.acesskenya.net
@@ -740,7 +739,6 @@
 54.89.159.163 # ec2-54-89-159-163.compute-1.amazonaws.com
 54.89.182.190 # ec2-54-89-182-190.compute-1.amazonaws.com
 54.91.20.65 # ec2-54-91-20-65.compute-1.amazonaws.com
-54.91.203.45 # ec2-54-91-203-45.compute-1.amazonaws.com
 54.92.173.125 # ec2-54-92-173-125.compute-1.amazonaws.com
 56.125.134.9 # ec2-56-125-134-9.sa-east-1.compute.amazonaws.com
 56.125.232.95 # ec2-56-125-232-95.sa-east-1.compute.amazonaws.com
