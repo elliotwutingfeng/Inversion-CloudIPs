@@ -404,6 +404,7 @@
 16.171.226.118 # ec2-16-171-226-118.eu-north-1.compute.amazonaws.com
 16.171.24.125 # ec2-16-171-24-125.eu-north-1.compute.amazonaws.com
 16.171.7.122 # ec2-16-171-7-122.eu-north-1.compute.amazonaws.com
+16.208.82.62 # ec2-16-208-82-62.ap-northeast-3.compute.amazonaws.com
 18.117.148.249 # ec2-18-117-148-249.us-east-2.compute.amazonaws.com
 18.117.173.7 # ec2-18-117-173-7.us-east-2.compute.amazonaws.com
 18.117.43.119 # ec2-18-117-43-119.us-east-2.compute.amazonaws.com
