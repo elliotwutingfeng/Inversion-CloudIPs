@@ -5,7 +5,6 @@
 34.55.78.134 # 134.78.55.34.bc.googleusercontent.com
 149.248.32.162 # 149-248-32-162.ipv4.nknlabs.io
 35.200.70.153 # 153.70.200.35.bc.googleusercontent.com
-162.250.200.218 # 162-250-200-218.static.as40244.net
 163.172.24.195 # 163-172-24-195.rev.poneytelecom.eu
 104.154.232.168 # 168.232.154.104.bc.googleusercontent.com
 173.198.247.116 # 173-198-247-116.static.as40244.net
@@ -13,7 +12,6 @@
 176.241.34.97 # 176-241-34-97.pool.digikabel.hu
 176.241.35.221 # 176-241-35-221.pool.digikabel.hu
 176.241.45.14 # 176-241-45-14.pool.digikabel.hu
-176.241.49.134 # 176-241-49-134.pool.digikabel.hu
 176.241.49.17 # 176-241-49-17.pool.digikabel.hu
 176.35.164.230 # 176-35-164-230.xdsl.murphx.net
 176.35.217.162 # 176-35-217-162.xdsl.murphx.net
@@ -24,7 +22,6 @@
 188.143.3.220 # 188-143-3-220.pool.digikabel.hu
 193.226.232.68 # 193-226-232-68.pool.digikabel.hu
 193.226.245.144 # 193-226-245-144.pool.digikabel.hu
-193.226.249.232 # 193-226-249-232.pool.digikabel.hu
 195.38.102.97 # 195-38-102-97.pool.digikabel.hu
 195.38.116.12 # 195-38-116-12.pool.digikabel.hu
 197.254.0.246 # 197.254.0.246.acesskenya.net
@@ -223,7 +220,6 @@
 62.165.245.113 # 62-165-245-113.pool.digikabel.hu
 34.106.74.68 # 68.74.106.34.bc.googleusercontent.com
 104.155.29.73 # 73.29.155.104.bc.googleusercontent.com
-77.234.65.115 # 77-234-65-115.pool.digikabel.hu
 78.23.196.244 # 78-23-196-244.access.telenet.be
 79.66.119.123 # 79-66-119-123.dynamic.dsl.as9105.com
 79.68.255.35 # 79-68-255-35.dynamic.dsl.as9105.com
@@ -292,11 +288,9 @@
 89.168.81.20 # 89-168-81-20.dynamic.dsl.as9105.com
 91.83.192.102 # 91-83-192-102.pool.digikabel.hu
 34.85.13.91 # 91.13.85.34.bc.googleusercontent.com
-92.249.179.47 # 92-249-179-47.pool.digikabel.hu
 94.21.114.201 # 94-21-114-201.pool.digikabel.hu
 94.21.135.28 # 94-21-135-28.pool.digikabel.hu
 94.21.223.85 # 94-21-223-85.pool.digikabel.hu
-94.21.226.215 # 94-21-226-215.pool.digikabel.hu
 94.21.83.74 # 94-21-83-74.pool.digikabel.hu
 84.227.29.70 # adsl-84-227-29-70.adslplus.ch
 134.228.20.43 # cm-134-228-20-43.buckeyecom.net
@@ -383,7 +377,6 @@
 15.236.158.5 # ec2-15-236-158-5.eu-west-3.compute.amazonaws.com
 15.236.2.215 # ec2-15-236-2-215.eu-west-3.compute.amazonaws.com
 16.16.104.244 # ec2-16-16-104-244.eu-north-1.compute.amazonaws.com
-16.16.150.164 # ec2-16-16-150-164.eu-north-1.compute.amazonaws.com
 16.16.252.53 # ec2-16-16-252-53.eu-north-1.compute.amazonaws.com
 16.170.204.24 # ec2-16-170-204-24.eu-north-1.compute.amazonaws.com
 16.170.248.139 # ec2-16-170-248-139.eu-north-1.compute.amazonaws.com
@@ -556,7 +549,6 @@
 3.99.214.40 # ec2-3-99-214-40.ca-central-1.compute.amazonaws.com
 34.203.240.223 # ec2-34-203-240-223.compute-1.amazonaws.com
 34.205.225.154 # ec2-34-205-225-154.compute-1.amazonaws.com
-34.206.148.100 # ec2-34-206-148-100.compute-1.amazonaws.com
 34.207.135.225 # ec2-34-207-135-225.compute-1.amazonaws.com
 34.212.107.215 # ec2-34-212-107-215.us-west-2.compute.amazonaws.com
 34.224.221.195 # ec2-34-224-221-195.compute-1.amazonaws.com
@@ -776,7 +768,6 @@
 92.12.77.17 # host-92-12-77-17.as13285.net
 92.15.213.220 # host-92-15-213-220.as13285.net
 92.23.103.49 # host-92-23-103-49.as13285.net
-92.27.252.68 # host-92-27-252-68.as13285.net
 92.28.118.178 # host-92-28-118-178.as13285.net
 92.28.42.160 # host-92-28-42-160.as13285.net
 92.28.84.180 # host-92-28-84-180.as13285.net
