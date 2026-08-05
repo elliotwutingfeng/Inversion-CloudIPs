@@ -290,10 +290,8 @@
 94.21.114.201 # 94-21-114-201.pool.digikabel.hu
 94.21.135.28 # 94-21-135-28.pool.digikabel.hu
 94.21.223.85 # 94-21-223-85.pool.digikabel.hu
-94.21.83.74 # 94-21-83-74.pool.digikabel.hu
 84.227.29.70 # adsl-84-227-29-70.adslplus.ch
 134.228.20.43 # cm-134-228-20-43.buckeyecom.net
-45.88.108.231 # condescending-kilby.45-88-108-231.plesk.page
 100.25.141.27 # ec2-100-25-141-27.compute-1.amazonaws.com
 100.26.200.250 # ec2-100-26-200-250.compute-1.amazonaws.com
 107.23.166.216 # ec2-107-23-166-216.compute-1.amazonaws.com
@@ -661,7 +659,6 @@
 54.188.171.170 # ec2-54-188-171-170.us-west-2.compute.amazonaws.com
 54.196.131.148 # ec2-54-196-131-148.compute-1.amazonaws.com
 54.196.137.180 # ec2-54-196-137-180.compute-1.amazonaws.com
-54.197.33.227 # ec2-54-197-33-227.compute-1.amazonaws.com
 54.219.33.51 # ec2-54-219-33-51.us-west-1.compute.amazonaws.com
 54.221.187.40 # ec2-54-221-187-40.compute-1.amazonaws.com
 54.233.1.165 # ec2-54-233-1-165.sa-east-1.compute.amazonaws.com
@@ -768,7 +765,6 @@
 92.28.42.160 # host-92-28-42-160.as13285.net
 92.28.84.180 # host-92-28-84-180.as13285.net
 92.28.86.229 # host-92-28-86-229.as13285.net
-92.29.15.243 # host-92-29-15-243.as13285.net
 92.29.59.225 # host-92-29-59-225.as13285.net
 92.31.14.9 # host-92-31-14-9.as13285.net
 92.31.243.135 # host-92-31-243-135.as13285.net
