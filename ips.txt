@@ -10,9 +10,7 @@
 173.198.247.116 # 173-198-247-116.static.as40244.net
 34.146.186.175 # 175.186.146.34.bc.googleusercontent.com
 176.241.34.97 # 176-241-34-97.pool.digikabel.hu
-176.241.35.221 # 176-241-35-221.pool.digikabel.hu
 176.241.45.14 # 176-241-45-14.pool.digikabel.hu
-176.241.49.17 # 176-241-49-17.pool.digikabel.hu
 176.35.164.230 # 176-35-164-230.xdsl.murphx.net
 176.35.217.162 # 176-35-217-162.xdsl.murphx.net
 178.164.233.33 # 178-164-233-33.pool.digikabel.hu
@@ -22,7 +20,6 @@
 193.226.232.68 # 193-226-232-68.pool.digikabel.hu
 193.226.245.144 # 193-226-245-144.pool.digikabel.hu
 195.38.102.97 # 195-38-102-97.pool.digikabel.hu
-195.38.116.12 # 195-38-116-12.pool.digikabel.hu
 197.254.0.246 # 197.254.0.246.acesskenya.net
 197.254.1.207 # 197.254.1.207.acesskenya.net
 197.254.100.189 # 197.254.100.189.acesskenya.net
@@ -215,7 +212,6 @@
 136.110.38.51 # 51.38.110.136.bc.googleusercontent.com
 54.219.33.51 # 54-219-33-51.cprapid.com
 60.242.75.145 # 60-242-75-145.tpgi.com.au
-62.165.244.156 # 62-165-244-156.pool.digikabel.hu
 62.165.245.113 # 62-165-245-113.pool.digikabel.hu
 34.106.74.68 # 68.74.106.34.bc.googleusercontent.com
 104.155.29.73 # 73.29.155.104.bc.googleusercontent.com
@@ -274,21 +270,17 @@
 84.236.11.82 # 84-236-11-82.pool.digikabel.hu
 84.236.40.241 # 84-236-40-241.pool.digikabel.hu
 84.236.49.214 # 84-236-49-214.pool.digikabel.hu
-85.238.74.28 # 85-238-74-28.pool.digikabel.hu
 85.238.95.225 # 85-238-95-225.pool.digikabel.hu
 87.97.16.125 # 87-97-16-125.pool.digikabel.hu
 88.108.233.244 # 88-108-233-244.dynamic.dsl.as9105.com
 88.108.39.175 # 88-108-39-175.dynamic.dsl.as9105.com
 88.110.245.48 # 88-110-245-48.dynamic.dsl.as9105.com
 88.111.235.183 # 88-111-235-183.dynamic.dsl.as9105.com
-89.147.119.173 # 89-147-119-173.pool.digikabel.hu
 89.147.77.188 # 89-147-77-188.pool.digikabel.hu
 89.168.105.9 # 89-168-105-9.dynamic.dsl.as9105.com
 89.168.81.20 # 89-168-81-20.dynamic.dsl.as9105.com
 91.83.192.102 # 91-83-192-102.pool.digikabel.hu
 34.85.13.91 # 91.13.85.34.bc.googleusercontent.com
-94.21.114.201 # 94-21-114-201.pool.digikabel.hu
-94.21.135.28 # 94-21-135-28.pool.digikabel.hu
 94.21.223.85 # 94-21-223-85.pool.digikabel.hu
 84.227.29.70 # adsl-84-227-29-70.adslplus.ch
 134.228.20.43 # cm-134-228-20-43.buckeyecom.net
@@ -305,6 +297,7 @@
 13.201.18.130 # ec2-13-201-18-130.ap-south-1.compute.amazonaws.com
 13.203.188.70 # ec2-13-203-188-70.ap-south-1.compute.amazonaws.com
 13.204.250.194 # ec2-13-204-250-194.ap-south-1.compute.amazonaws.com
+13.204.81.230 # ec2-13-204-81-230.ap-south-1.compute.amazonaws.com
 13.206.162.125 # ec2-13-206-162-125.ap-south-1.compute.amazonaws.com
 13.206.184.84 # ec2-13-206-184-84.ap-south-1.compute.amazonaws.com
 13.208.141.78 # ec2-13-208-141-78.ap-northeast-3.compute.amazonaws.com
@@ -373,6 +366,7 @@
 15.224.33.187 # ec2-15-224-33-187.eu-west-3.compute.amazonaws.com
 15.236.158.5 # ec2-15-236-158-5.eu-west-3.compute.amazonaws.com
 15.236.2.215 # ec2-15-236-2-215.eu-west-3.compute.amazonaws.com
+15.240.51.203 # ec2-15-240-51-203.af-south-1.compute.amazonaws.com
 16.16.104.244 # ec2-16-16-104-244.eu-north-1.compute.amazonaws.com
 16.16.252.53 # ec2-16-16-252-53.eu-north-1.compute.amazonaws.com
 16.170.204.24 # ec2-16-170-204-24.eu-north-1.compute.amazonaws.com
@@ -462,6 +456,7 @@
 18.234.131.72 # ec2-18-234-131-72.compute-1.amazonaws.com
 18.234.79.114 # ec2-18-234-79-114.compute-1.amazonaws.com
 18.234.82.165 # ec2-18-234-82-165.compute-1.amazonaws.com
+184.169.152.19 # ec2-184-169-152-19.us-west-1.compute.amazonaws.com
 184.73.72.181 # ec2-184-73-72-181.compute-1.amazonaws.com
 23.22.223.57 # ec2-23-22-223-57.compute-1.amazonaws.com
 23.23.218.102 # ec2-23-23-218-102.compute-1.amazonaws.com
