@@ -16,7 +16,6 @@
 178.164.233.33 # 178-164-233-33.pool.digikabel.hu
 180.177.76.148 # 180-177-76-148.dynamic.kbronet.com.tw
 185.62.129.150 # 185-62-129-150.pool.digikabel.hu
-188.143.3.220 # 188-143-3-220.pool.digikabel.hu
 193.226.232.68 # 193-226-232-68.pool.digikabel.hu
 193.226.245.144 # 193-226-245-144.pool.digikabel.hu
 195.38.102.97 # 195-38-102-97.pool.digikabel.hu
@@ -279,7 +278,6 @@
 89.147.77.188 # 89-147-77-188.pool.digikabel.hu
 89.168.105.9 # 89-168-105-9.dynamic.dsl.as9105.com
 89.168.81.20 # 89-168-81-20.dynamic.dsl.as9105.com
-91.83.192.102 # 91-83-192-102.pool.digikabel.hu
 34.85.13.91 # 91.13.85.34.bc.googleusercontent.com
 94.21.223.85 # 94-21-223-85.pool.digikabel.hu
 84.227.29.70 # adsl-84-227-29-70.adslplus.ch
@@ -538,6 +536,7 @@
 3.96.186.201 # ec2-3-96-186-201.ca-central-1.compute.amazonaws.com
 3.99.114.148 # ec2-3-99-114-148.ca-central-1.compute.amazonaws.com
 3.99.214.40 # ec2-3-99-214-40.ca-central-1.compute.amazonaws.com
+34.201.199.37 # ec2-34-201-199-37.compute-1.amazonaws.com
 34.203.240.223 # ec2-34-203-240-223.compute-1.amazonaws.com
 34.205.225.154 # ec2-34-205-225-154.compute-1.amazonaws.com
 34.207.135.225 # ec2-34-207-135-225.compute-1.amazonaws.com
