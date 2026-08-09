@@ -3,6 +3,7 @@
 109.170.159.19 # 109-170-159-19.xdsl.murphx.net
 34.133.26.122 # 122.26.133.34.bc.googleusercontent.com
 34.55.78.134 # 134.78.55.34.bc.googleusercontent.com
+34.46.128.142 # 142.128.46.34.bc.googleusercontent.com
 149.248.32.162 # 149-248-32-162.ipv4.nknlabs.io
 35.200.70.153 # 153.70.200.35.bc.googleusercontent.com
 163.172.24.195 # 163-172-24-195.rev.poneytelecom.eu
@@ -15,7 +16,6 @@
 176.35.217.162 # 176-35-217-162.xdsl.murphx.net
 178.164.233.33 # 178-164-233-33.pool.digikabel.hu
 180.177.76.148 # 180-177-76-148.dynamic.kbronet.com.tw
-185.62.129.150 # 185-62-129-150.pool.digikabel.hu
 193.226.232.68 # 193-226-232-68.pool.digikabel.hu
 193.226.245.144 # 193-226-245-144.pool.digikabel.hu
 195.38.102.97 # 195-38-102-97.pool.digikabel.hu
@@ -396,7 +396,6 @@
 18.134.151.132 # ec2-18-134-151-132.eu-west-2.compute.amazonaws.com
 18.140.231.34 # ec2-18-140-231-34.ap-southeast-1.compute.amazonaws.com
 18.140.235.19 # ec2-18-140-235-19.ap-southeast-1.compute.amazonaws.com
-18.140.237.238 # ec2-18-140-237-238.ap-southeast-1.compute.amazonaws.com
 18.141.166.170 # ec2-18-141-166-170.ap-southeast-1.compute.amazonaws.com
 18.141.168.37 # ec2-18-141-168-37.ap-southeast-1.compute.amazonaws.com
 18.141.206.255 # ec2-18-141-206-255.ap-southeast-1.compute.amazonaws.com
@@ -725,7 +724,6 @@
 80.41.31.16 # host-80-41-31-16.as13285.net
 80.41.32.101 # host-80-41-32-101.as13285.net
 80.41.35.137 # host-80-41-35-137.as13285.net
-80.41.48.176 # host-80-41-48-176.as13285.net
 80.41.54.199 # host-80-41-54-199.as13285.net
 80.41.8.139 # host-80-41-8-139.as13285.net
 80.41.9.204 # host-80-41-9-204.as13285.net
@@ -749,7 +747,6 @@
 89.240.252.35 # host-89-240-252-35.as13285.net
 89.241.117.181 # host-89-241-117-181.as13285.net
 89.241.24.12 # host-89-241-24-12.as13285.net
-89.241.86.102 # host-89-241-86-102.as13285.net
 89.243.10.190 # host-89-243-10-190.as13285.net
 89.243.97.221 # host-89-243-97-221.as13285.net
 92.12.77.17 # host-92-12-77-17.as13285.net
