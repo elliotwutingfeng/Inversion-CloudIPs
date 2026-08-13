@@ -683,6 +683,7 @@
 63.35.95.189 # ec2-63-35-95-189.eu-west-1.compute.amazonaws.com
 65.0.241.134 # ec2-65-0-241-134.ap-south-1.compute.amazonaws.com
 65.0.65.10 # ec2-65-0-65-10.ap-south-1.compute.amazonaws.com
+65.1.134.1 # ec2-65-1-134-1.ap-south-1.compute.amazonaws.com
 65.2.141.224 # ec2-65-2-141-224.ap-south-1.compute.amazonaws.com
 98.81.97.27 # ec2-98-81-97-27.compute-1.amazonaws.com
 98.83.154.35 # ec2-98-83-154-35.compute-1.amazonaws.com
