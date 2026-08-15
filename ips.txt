@@ -10,13 +10,9 @@
 104.154.232.168 # 168.232.154.104.bc.googleusercontent.com
 173.198.247.116 # 173-198-247-116.static.as40244.net
 34.146.186.175 # 175.186.146.34.bc.googleusercontent.com
-176.241.34.97 # 176-241-34-97.pool.digikabel.hu
 176.35.164.230 # 176-35-164-230.xdsl.murphx.net
 176.35.217.162 # 176-35-217-162.xdsl.murphx.net
-178.164.233.33 # 178-164-233-33.pool.digikabel.hu
 180.177.76.148 # 180-177-76-148.dynamic.kbronet.com.tw
-193.226.232.68 # 193-226-232-68.pool.digikabel.hu
-193.226.245.144 # 193-226-245-144.pool.digikabel.hu
 197.254.0.246 # 197.254.0.246.acesskenya.net
 197.254.1.207 # 197.254.1.207.acesskenya.net
 197.254.100.189 # 197.254.100.189.acesskenya.net
@@ -209,7 +205,6 @@
 136.110.38.51 # 51.38.110.136.bc.googleusercontent.com
 54.219.33.51 # 54-219-33-51.cprapid.com
 60.242.75.145 # 60-242-75-145.tpgi.com.au
-62.165.245.113 # 62-165-245-113.pool.digikabel.hu
 34.106.74.68 # 68.74.106.34.bc.googleusercontent.com
 104.155.29.73 # 73.29.155.104.bc.googleusercontent.com
 78.23.196.244 # 78-23-196-244.access.telenet.be
@@ -264,9 +259,6 @@
 80.44.84.121 # 80-44-84-121.dynamic.dsl.as9105.com
 80.44.92.43 # 80-44-92-43.dynamic.dsl.as9105.com
 34.63.146.82 # 82.146.63.34.bc.googleusercontent.com
-84.236.40.241 # 84-236-40-241.pool.digikabel.hu
-84.236.49.214 # 84-236-49-214.pool.digikabel.hu
-85.238.95.225 # 85-238-95-225.pool.digikabel.hu
 88.108.233.244 # 88-108-233-244.dynamic.dsl.as9105.com
 88.108.39.175 # 88-108-39-175.dynamic.dsl.as9105.com
 88.110.245.48 # 88-110-245-48.dynamic.dsl.as9105.com
@@ -458,7 +450,6 @@
 3.108.227.33 # ec2-3-108-227-33.ap-south-1.compute.amazonaws.com
 3.109.23.191 # ec2-3-109-23-191.ap-south-1.compute.amazonaws.com
 3.111.188.177 # ec2-3-111-188-177.ap-south-1.compute.amazonaws.com
-3.113.155.68 # ec2-3-113-155-68.ap-northeast-1.compute.amazonaws.com
 3.114.57.167 # ec2-3-114-57-167.ap-northeast-1.compute.amazonaws.com
 3.128.142.167 # ec2-3-128-142-167.us-east-2.compute.amazonaws.com
 3.128.179.1 # ec2-3-128-179-1.us-east-2.compute.amazonaws.com
@@ -545,7 +536,6 @@
 34.239.121.128 # ec2-34-239-121-128.compute-1.amazonaws.com
 35.154.74.221 # ec2-35-154-74-221.ap-south-1.compute.amazonaws.com
 35.154.81.57 # ec2-35-154-81-57.ap-south-1.compute.amazonaws.com
-35.165.106.137 # ec2-35-165-106-137.us-west-2.compute.amazonaws.com
 35.169.116.165 # ec2-35-169-116-165.compute-1.amazonaws.com
 35.174.185.16 # ec2-35-174-185-16.compute-1.amazonaws.com
 35.175.150.12 # ec2-35-175-150-12.compute-1.amazonaws.com
