@@ -271,6 +271,7 @@
 134.228.20.43 # cm-134-228-20-43.buckeyecom.net
 100.25.141.27 # ec2-100-25-141-27.compute-1.amazonaws.com
 100.26.200.250 # ec2-100-26-200-250.compute-1.amazonaws.com
+100.50.155.44 # ec2-100-50-155-44.compute-1.amazonaws.com
 107.23.166.216 # ec2-107-23-166-216.compute-1.amazonaws.com
 13.113.142.71 # ec2-13-113-142-71.ap-northeast-1.compute.amazonaws.com
 13.115.48.236 # ec2-13-115-48-236.ap-northeast-1.compute.amazonaws.com
@@ -307,6 +308,7 @@
 13.250.42.156 # ec2-13-250-42-156.ap-southeast-1.compute.amazonaws.com
 13.250.44.205 # ec2-13-250-44-205.ap-southeast-1.compute.amazonaws.com
 13.251.16.211 # ec2-13-251-16-211.ap-southeast-1.compute.amazonaws.com
+13.41.175.5 # ec2-13-41-175-5.eu-west-2.compute.amazonaws.com
 13.42.154.237 # ec2-13-42-154-237.eu-west-2.compute.amazonaws.com
 13.42.41.67 # ec2-13-42-41-67.eu-west-2.compute.amazonaws.com
 13.48.57.106 # ec2-13-48-57-106.eu-north-1.compute.amazonaws.com
