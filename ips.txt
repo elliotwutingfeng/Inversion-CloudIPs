@@ -695,7 +695,6 @@
 80.41.111.128 # host-80-41-111-128.as13285.net
 80.41.134.238 # host-80-41-134-238.as13285.net
 80.41.175.170 # host-80-41-175-170.as13285.net
-80.41.180.43 # host-80-41-180-43.as13285.net
 80.41.206.14 # host-80-41-206-14.as13285.net
 80.41.220.121 # host-80-41-220-121.as13285.net
 80.41.223.226 # host-80-41-223-226.as13285.net
@@ -768,6 +767,7 @@
 108.27.239.52 # pool-108-27-239-52.nycmny.fios.verizon.net
 72.74.52.71 # pool-72-74-52-71.bstnma.fios.verizon.net
 213.171.204.72 # server213-171-204-72.live-servers.net
+162.214.103.94 # snltoken.nervous-cerf.162-214-103-94.plesk.page
 212.158.247.218 # static-212-158-247-218.vodafonexdsl.co.uk
 83.146.10.206 # static-83-146-10-206.vodafonexdsl.co.uk
 83.146.9.49 # static-83-146-9-49.vodafonexdsl.co.uk
