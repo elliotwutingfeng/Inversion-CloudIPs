@@ -318,6 +318,7 @@
 13.49.228.97 # ec2-13-49-228-97.eu-north-1.compute.amazonaws.com
 13.49.244.197 # ec2-13-49-244-197.eu-north-1.compute.amazonaws.com
 13.50.109.179 # ec2-13-50-109-179.eu-north-1.compute.amazonaws.com
+13.50.226.79 # ec2-13-50-226-79.eu-north-1.compute.amazonaws.com
 13.50.236.169 # ec2-13-50-236-169.eu-north-1.compute.amazonaws.com
 13.51.158.84 # ec2-13-51-158-84.eu-north-1.compute.amazonaws.com
 13.51.205.0 # ec2-13-51-205-0.eu-north-1.compute.amazonaws.com
@@ -493,6 +494,7 @@
 3.208.128.32 # ec2-3-208-128-32.compute-1.amazonaws.com
 3.21.28.197 # ec2-3-21-28-197.us-east-2.compute.amazonaws.com
 3.211.89.250 # ec2-3-211-89-250.compute-1.amazonaws.com
+3.223.65.57 # ec2-3-223-65-57.compute-1.amazonaws.com
 3.227.126.6 # ec2-3-227-126-6.compute-1.amazonaws.com
 3.23.153.27 # ec2-3-23-153-27.us-east-2.compute.amazonaws.com
 3.23.95.206 # ec2-3-23-95-206.us-east-2.compute.amazonaws.com
@@ -576,7 +578,6 @@
 44.223.95.228 # ec2-44-223-95-228.compute-1.amazonaws.com
 44.248.99.84 # ec2-44-248-99-84.us-west-2.compute.amazonaws.com
 47.128.67.112 # ec2-47-128-67-112.ap-southeast-1.compute.amazonaws.com
-47.129.11.148 # ec2-47-129-11-148.ap-southeast-1.compute.amazonaws.com
 47.129.113.233 # ec2-47-129-113-233.ap-southeast-1.compute.amazonaws.com
 47.129.133.29 # ec2-47-129-133-29.ap-southeast-1.compute.amazonaws.com
 47.129.61.102 # ec2-47-129-61-102.ap-southeast-1.compute.amazonaws.com
@@ -624,6 +625,7 @@
 54.162.221.203 # ec2-54-162-221-203.compute-1.amazonaws.com
 54.164.82.11 # ec2-54-164-82-11.compute-1.amazonaws.com
 54.166.224.196 # ec2-54-166-224-196.compute-1.amazonaws.com
+54.172.139.14 # ec2-54-172-139-14.compute-1.amazonaws.com
 54.173.247.145 # ec2-54-173-247-145.compute-1.amazonaws.com
 54.174.89.94 # ec2-54-174-89-94.compute-1.amazonaws.com
 54.175.195.41 # ec2-54-175-195-41.compute-1.amazonaws.com
@@ -636,6 +638,7 @@
 54.180.13.230 # ec2-54-180-13-230.ap-northeast-2.compute.amazonaws.com
 54.188.171.170 # ec2-54-188-171-170.us-west-2.compute.amazonaws.com
 54.196.137.180 # ec2-54-196-137-180.compute-1.amazonaws.com
+54.208.2.73 # ec2-54-208-2-73.compute-1.amazonaws.com
 54.219.33.51 # ec2-54-219-33-51.us-west-1.compute.amazonaws.com
 54.221.187.40 # ec2-54-221-187-40.compute-1.amazonaws.com
 54.233.1.165 # ec2-54-233-1-165.sa-east-1.compute.amazonaws.com
@@ -712,7 +715,6 @@
 80.47.182.233 # host-80-47-182-233.as13285.net
 80.47.202.243 # host-80-47-202-243.as13285.net
 80.47.207.166 # host-80-47-207-166.as13285.net
-80.47.208.75 # host-80-47-208-75.as13285.net
 80.47.214.66 # host-80-47-214-66.as13285.net
 80.47.219.215 # host-80-47-219-215.as13285.net
 80.47.81.232 # host-80-47-81-232.as13285.net
@@ -781,3 +783,4 @@
 87.74.150.9 # static-87-74-150-9.vodafonexdsl.co.uk
 87.75.123.96 # static-87-75-123-96.vodafonexdsl.co.uk
 157.7.137.239 # v157-7-137-239.myvps.jp
+109.71.253.24 # www.distracted-grothendieck.109-71-253-24.plesk.page
