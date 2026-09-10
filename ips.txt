@@ -269,6 +269,7 @@
 34.85.13.91 # 91.13.85.34.bc.googleusercontent.com
 84.227.29.70 # adsl-84-227-29-70.adslplus.ch
 134.228.20.43 # cm-134-228-20-43.buckeyecom.net
+109.71.253.24 # condescending-murdock.109-71-253-24.plesk.page
 100.25.141.27 # ec2-100-25-141-27.compute-1.amazonaws.com
 100.26.200.250 # ec2-100-26-200-250.compute-1.amazonaws.com
 100.50.155.44 # ec2-100-50-155-44.compute-1.amazonaws.com
@@ -638,6 +639,7 @@
 54.180.13.230 # ec2-54-180-13-230.ap-northeast-2.compute.amazonaws.com
 54.188.171.170 # ec2-54-188-171-170.us-west-2.compute.amazonaws.com
 54.196.137.180 # ec2-54-196-137-180.compute-1.amazonaws.com
+54.199.74.226 # ec2-54-199-74-226.ap-northeast-1.compute.amazonaws.com
 54.208.2.73 # ec2-54-208-2-73.compute-1.amazonaws.com
 54.219.33.51 # ec2-54-219-33-51.us-west-1.compute.amazonaws.com
 54.221.187.40 # ec2-54-221-187-40.compute-1.amazonaws.com
